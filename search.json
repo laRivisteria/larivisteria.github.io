@@ -1,11 +1,75 @@
 [
   
     {
-      "title"    : "la Rivisteria incontra Nadja",
-      "category" : "",
-      "tags"     : "Nadja, intervista, and la-rivisteria",
-      "url"      : "/2020/12/28/intervista-nadja/",
-      "date"     : "2020-12-28 10:25:00 +0100"
+      "title"    : "TBE Remix 2020: il meglio dell’anno!",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2020/12/29/tbe_remix_2020_il_meglio_dellanno/",
+      "date"     : "2020-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Romano Luperini in dialogo con Riccardo Castellana",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2020/12/29/romano_luperini_in_dialogo_con_riccardo_castellana/",
+      "date"     : "2020-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Orwell e la magia tribale delle convinzioni",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2020/12/29/orwell_e_la_magia_tribale_delle_convinzioni/",
+      "date"     : "2020-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La torre",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2020/12/29/la_torre/",
+      "date"     : "2020-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Inno a Lagioia ( seconda parte )",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2020/12/29/inno_a_lagioia_seconda_parte/",
+      "date"     : "2020-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elisa",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2020/12/29/elisa/",
+      "date"     : "2020-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dai ‘Lighting Flowers’ alle pareti di Castel dell’Ovo, in dialogo con Franz Cerami",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2020/12/29/dai_lighting_flowers_alle_pareti_di_castel_dellovo_in_dialogo_con_franz_cerami/",
+      "date"     : "2020-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cercando Beethoven: il primo romanzo con protagonista Ludwig van Beethoven. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2020/12/29/cercando_beethoven_il_primo_romanzo_con_protagonista_ludwig_van_beethoven_recensione/",
+      "date"     : "2020-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Anteprima: AMERIXAN MUSIC – BAD.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2020/12/29/anteprima_amerixan_music_bad/",
+      "date"     : "2020-12-29 00:00:00 +0100"
     } ,
   
     {
@@ -13,6 +77,22 @@
       "category" : "opera-viva",
       "tags"     : "opera-viva",
       "url"      : "/2020/12/28/una_nuova_urbanistica_politica/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Man in the High Castle | La questione del “Santo Natale” nella prospettiva del socialismo realista italico. Riflessioni e raccomandazioni proletarie del 75° comitato centrale della Repubblica Sovietica Italiana",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2020/12/28/the_man_in_the_high_castle_la_questione_del_santo_natale_nella_prospettiva_del_socialismo_realista_italico_riflessioni_e_raccomandazioni_proletarie_del_75_comitato_centrale_della_repubblica_sovietica_italiana/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "T.E. White: lo scrittore della “Spada nella roccia” che si scoprì falconiere",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2020/12/28/te_white_lo_scrittore_della_spada_nella_roccia_che_si_scopr_falconiere/",
       "date"     : "2020-12-28 00:00:00 +0100"
     } ,
   
@@ -25,10 +105,26 @@
     } ,
   
     {
+      "title"    : "SELENA MOOR ovvero diario di viaggio di un gruppo rock romano in Unione Sovietica nel 1989 ovvero la quasi caduta del comunismo vista dal retro di una batteria",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2020/12/28/selena_moor_ovvero_diario_di_viaggio_di_un_gruppo_rock_romano_in_unione_sovietica_nel_1989_ovvero_la_quasi_caduta_del_comunismo_vista_dal_retro_di_una_batteria/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Pensare per scritto",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2020/12/28/pensare_per_scritto/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Osservatorio Outsider Art. Dialogo con Eva di Stefano",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2020/12/28/osservatorio_outsider_art_dialogo_con_eva_di_stefano/",
       "date"     : "2020-12-28 00:00:00 +0100"
     } ,
   
@@ -57,6 +153,14 @@
     } ,
   
     {
+      "title"    : "Io odio Giordano Tedoldi",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2020/12/28/io_odio_giordano_tedoldi/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il desiderio irrealizzato",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -73,6 +177,14 @@
     } ,
   
     {
+      "title"    : "Giulio",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2020/12/28/giulio/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Gauguin fu un mostro”. L’arte come fuga",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -85,6 +197,14 @@
       "category" : "opera-viva",
       "tags"     : "opera-viva",
       "url"      : "/2020/12/28/fratellanza_e_differenza/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fiabe Suonore: il beat pontino degli Arcadi.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2020/12/28/fiabe_suonore_il_beat_pontino_degli_arcadi/",
       "date"     : "2020-12-28 00:00:00 +0100"
     } ,
   
@@ -109,6 +229,14 @@
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2020/12/28/body_check/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Bisogna non smettere l’amore”. Su una lettera di Marina Cvetaeva",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2020/12/28/bisogna_non_smettere_lamore_su_una_lettera_di_marina_cvetaeva/",
       "date"     : "2020-12-28 00:00:00 +0100"
     } ,
   
@@ -454,6 +582,14 @@
       "tags"     : "morel",
       "url"      : "/2020/12/25/calling_birds_by_name/",
       "date"     : "2020-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "la Rivisteria incontra Nadja",
+      "category" : "",
+      "tags"     : "Nadja, intervista, and la-rivisteria",
+      "url"      : "/2020/12/24/intervista-nadja/",
+      "date"     : "2020-12-24 09:00:00 +0100"
     } ,
   
     {
