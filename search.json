@@ -1,11 +1,59 @@
 [
   
     {
+      "title"    : "Ragazza, donna, altro",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/02/ragazza_donna_altro/",
+      "date"     : "2021-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ultima notte del 2020",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/01/02/lultima_notte_del_2020/",
+      "date"     : "2021-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La nudità e la morte. La storia di Susanna e del ricatto ordito dai “vecchioni”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/02/la_nudit_e_la_morte_la_storia_di_susanna_e_del_ricatto_ordito_dai_vecchioni/",
+      "date"     : "2021-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La carne",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/01/02/la_carne/",
+      "date"     : "2021-01-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Francesca Marica – Concordanze e approssimazioni -con una nota di Bruno di Pietro",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/01/02/francesca_marica_concordanze_e_approssimazioni_-con_una_nota_di_bruno_di_pietro/",
       "date"     : "2021-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elegia sulla neve, “un cadere bianco, ipnotico, in fondo, una malattia”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/02/elegia_sulla_neve_un_cadere_bianco_ipnotico_in_fondo_una_malattia/",
+      "date"     : "2021-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Viaggio nella città abitata solo da donne, fondata nel 1404 e tuttora in piedi.",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/01/01/viaggio_nella_citt_abitata_solo_da_donne_fondata_nel_1404_e_tuttora_in_piedi/",
+      "date"     : "2021-01-01 00:00:00 +0100"
     } ,
   
     {
@@ -37,6 +85,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/01/01/sindrome_e_paura_dellabbandono/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nessuno vince",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/01/01/nessuno_vince/",
       "date"     : "2021-01-01 00:00:00 +0100"
     } ,
   
