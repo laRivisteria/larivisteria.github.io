@@ -25,6 +25,14 @@
     } ,
   
     {
+      "title"    : "L’incanto del pesce luna",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/03/lincanto_del_pesce_luna/",
+      "date"     : "2021-01-03 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“La consapevolezza che tutti siamo destinati all’ombra”. Ora vi spiego perché “La città dei vivi” è un romanzo magnetico (e merita lo Strega)",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -129,6 +137,14 @@
     } ,
   
     {
+      "title"    : "Werner Herzog: la natura e il furore di Dio",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/werner_herzog_la_natura_e_il_furore_di_dio/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Viaggio nella città abitata solo da donne, fondata nel 1404 e tuttora in piedi.",
       "category" : "coye",
       "tags"     : "coye",
@@ -169,10 +185,34 @@
     } ,
   
     {
+      "title"    : "Sforzinda: la città ideale milanese del Rinascimento",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/sforzinda_la_citt_ideale_milanese_del_rinascimento/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quasi amici: un mondo nuovo al di là dei pregiudizi",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/quasi_amici_un_mondo_nuovo_al_di_l_dei_pregiudizi/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Nessuno vince",
       "category" : "narrandom",
       "tags"     : "narrandom",
       "url"      : "/2021/01/01/nessuno_vince/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nessun superstite nel mondo nuovo",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/nessun_superstite_nel_mondo_nuovo/",
       "date"     : "2021-01-01 00:00:00 +0100"
     } ,
   
@@ -209,6 +249,14 @@
     } ,
   
     {
+      "title"    : "Le confessioni italoamericane di Claudia Durastanti",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/le_confessioni_italoamericane_di_claudia_durastanti/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Lady Macbeth",
       "category" : "morel",
       "tags"     : "morel",
@@ -225,10 +273,50 @@
     } ,
   
     {
+      "title"    : "La ciociara e il suo nuovo mondo postbellico",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/la_ciociara_e_il_suo_nuovo_mondo_postbellico/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Il mondo nuovo”: Giandomenico Tiepolo e la crisi della società veneziana",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/il_mondo_nuovo_giandomenico_tiepolo_e_la_crisi_della_societ_veneziana/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Mondo frammentato, le arche e le illusioni: alla ricerca dell’equilibrio nella saga dell’Attraversaspecchi",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/il_mondo_frammentato_le_arche_e_le_illusioni_alla_ricerca_dellequilibrio_nella_saga_dellattraversaspecchi/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Feeling good: l’alba di un nuovo inizio",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/feeling_good_lalba_di_un_nuovo_inizio/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Editori da 1000 copie",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/01/01/editori_da_1000_copie/",
+      "date"     : "2021-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Concerti in streaming: un’altra sfida per Dave Grohl",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/01/concerti_in_streaming_unaltra_sfida_per_dave_grohl/",
       "date"     : "2021-01-01 00:00:00 +0100"
     } ,
   
