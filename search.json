@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "The clutch – canestri e razzismo sotto pressione (2/4)",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/06/the_clutch_canestri_e_razzismo_sotto_pressione_24/",
+      "date"     : "2021-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Privazione",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/01/06/privazione/",
+      "date"     : "2021-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Perché (ri)leggere un classico della critica letteraria /7: Giacomo Debenedetti, Poesia italiana del Novecento",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/06/perch_rileggere_un_classico_della_critica_letteraria_7_giacomo_debenedetti_poesia_italiana_del_novecento/",
+      "date"     : "2021-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La democrazia deve affinarsi nella natura, tra le bestie”. Un testo di Walt Whitman",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/06/la_democrazia_deve_affinarsi_nella_natura_tra_le_bestie_un_testo_di_walt_whitman/",
+      "date"     : "2021-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Ventesimuno di Winstonhelbert",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/06/il_racconto_del_mercoled_ventesimuno_di_winstonhelbert/",
+      "date"     : "2021-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una beffarda metafora di sé. L’uomo visibile di Chuck Klosterman",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/05/una_beffarda_metafora_di_s_luomo_visibile_di_chuck_klosterman/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Un pensiero finito",
       "category" : "suite-italiana",
       "tags"     : "suite-italiana",
@@ -17,10 +65,82 @@
     } ,
   
     {
+      "title"    : "Tè caldo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/05/t_caldo/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sottoterra",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/01/05/sottoterra/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Scrivere è mettere ordine nel mondo, un manicomio”. Benvenuti nell’anno degli anniversari: Dante, Dostoevskij, Dürrenmatt, Sciascia…",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/05/scrivere_mettere_ordine_nel_mondo_un_manicomio_benvenuti_nellanno_degli_anniversari_dante_dostoevskij_drrenmatt_sciascia/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rudy Toffanetti – La luce della luna",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/01/05/rudy_toffanetti_la_luce_della_luna/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quando Mia è fiorita: questo è ciò che io ho udito",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/01/05/quando_mia_fiorita_questo_ci_che_io_ho_udito/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Missive selvatiche",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/05/missive_selvatiche/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Magari un giorno",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/01/05/magari_un_giorno/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’Irlanda in lotta. Vita e scritti di Bobby Sands",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/05/lirlanda_in_lotta_vita_e_scritti_di_bobby_sands/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’epifania che ogni festa porta via",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/05/lepifania_che_ogni_festa_porta_via/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "l’Elefante e la Colomba",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/01/05/lelefante_e_la_colomba/",
       "date"     : "2021-01-05 00:00:00 +0100"
     } ,
   
@@ -33,10 +153,50 @@
     } ,
   
     {
+      "title"    : "Filologia for Dummies – Errori e Varianti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/05/filologia_for_dummies_errori_e_varianti/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Conservare un amore al Museo delle Relazioni Interrotte: istruzioni per l’uso",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/05/conservare_un_amore_al_museo_delle_relazioni_interrotte_istruzioni_per_luso/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Buon 2021. L’indice degli articoli usciti su LN nel 2019-2020",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/01/05/buon_2021_lindice_degli_articoli_usciti_su_ln_nel_2019-2020/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "B-Side – L’altro lato delle canzoni: “Inverno”",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/05/b-side_laltro_lato_delle_canzoni_inverno/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Audioletture alla ricerca del tempo perduto – Il Progetto Proust di Andrea Russo",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/01/05/audioletture_alla_ricerca_del_tempo_perduto_il_progetto_proust_di_andrea_russo/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Andrea Caristo – El Viaje",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/01/05/andrea_caristo_el_viaje/",
       "date"     : "2021-01-05 00:00:00 +0100"
     } ,
   
