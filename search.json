@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Utopia – Sono grasso e nessuno mi chiama “ciccione”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/07/utopia_sono_grasso_e_nessuno_mi_chiama_ciccione/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un aumentare di buio, – Purgatorio Canto VIII",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/01/07/un_aumentare_di_buio_purgatorio_canto_viii/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tutti ballano sul cadavere di Cesare Pavese. Discorso intorno al “Taccuino segreto” (che segreto non è)",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +41,42 @@
     } ,
   
     {
+      "title"    : "Se vuoi migliorarti, devi sapere che avrai dei nemici",
+      "category" : "purpletude",
+      "tags"     : "purpletude",
+      "url"      : "/2021/01/07/se_vuoi_migliorarti_devi_sapere_che_avrai_dei_nemici/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ripescaggi: 10 libri italiani da leggere nel 2021",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/01/07/ripescaggi_10_libri_italiani_da_leggere_nel_2021/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "PER.SEO",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/07/perseo/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Perché Pavese?",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2021/01/07/perch_pavese/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Passerò per Piazza di Spagna",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/01/07/passer_per_piazza_di_spagna/",
       "date"     : "2021-01-07 00:00:00 +0100"
     } ,
   
@@ -45,6 +93,46 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/01/07/overbooking_federico_nobili/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nico Cavaniglia – Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/01/07/nico_cavaniglia_poesie/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“È nel fuoco che ci si perde, ci si consuma ‒ sempre ‒ per qualcuno o per qualcosa… e nel farlo, brillano gli occhi”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/07/nel_fuoco_che_ci_si_perde_ci_si_consuma_sempre_per_qualcuno_o_per_qualcosa_e_nel_farlo_brillano_gli_occhi/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Le malizie del calendario”, di Ezio Sinigaglia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/01/07/le_malizie_del_calendario_di_ezio_sinigaglia/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’arte si può iscrivere all’Università?",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/01/07/larte_si_pu_iscrivere_alluniversit/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lady Macbeth",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/07/lady_macbeth/",
       "date"     : "2021-01-07 00:00:00 +0100"
     } ,
   
@@ -73,6 +161,14 @@
     } ,
   
     {
+      "title"    : "Il lavoro, una moderna storia d’amore",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/01/07/il_lavoro_una_moderna_storia_damore/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Guerra e guerra: dentro il labirinto di Lászlo Krasznahorkai",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -81,10 +177,42 @@
     } ,
   
     {
+      "title"    : "Gli USA sempre progrediscono",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/07/gli_usa_sempre_progrediscono/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Femminili singolari” al premio Divulgazione Scientifica",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/07/femminili_singolari_al_premio_divulgazione_scientifica/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Che non sono pronto | Il Collettivo della Solitudine",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/01/07/che_non_sono_pronto_il_collettivo_della_solitudine/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Banda larga e misteri ancestrali",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/01/07/banda_larga_e_misteri_ancestrali/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Antropologia del turchese. Il pantheon di colori di Ellen Meloy",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/07/antropologia_del_turchese_il_pantheon_di_colori_di_ellen_meloy/",
       "date"     : "2021-01-07 00:00:00 +0100"
     } ,
   
