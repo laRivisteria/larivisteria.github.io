@@ -1,6 +1,102 @@
 [
   
     {
+      "title"    : "Storia di Mur, il figlio di Marina Cvetaeva",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/08/storia_di_mur_il_figlio_di_marina_cvetaeva/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Oltre l’illusione dell’unico mondo”. Saggio sulla poesia di Francesca Ricchi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/08/oltre_lillusione_dellunico_mondo_saggio_sulla_poesia_di_francesca_ricchi/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Ubertini: l’uomo che visse 33 volte. Intervista all’autore del libro “33”",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/08/marco_ubertini_luomo_che_visse_33_volte_intervista_allautore_del_libro_33/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’oscuro magnetismo delle cose",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/08/loscuro_magnetismo_delle_cose/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letture Femministe Metropolitane, terzo incontro del gruppo di lettura",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/01/08/letture_femministe_metropolitane_terzo_incontro_del_gruppo_di_lettura/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La soluzione è il desiderio",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/01/08/la_soluzione_il_desiderio/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I lettori e le lettrici di Droga sono la crema della crema.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/08/i_lettori_e_le_lettrici_di_droga_sono_la_crema_della_crema/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fat Shame. Lo stigma del corpo grasso di Amy Erdman Farrell",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/01/08/fat_shame_lo_stigma_del_corpo_grasso_di_amy_erdman_farrell/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Estetica del Covid tra Carnevale e Capitale",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/01/08/estetica_del_covid_tra_carnevale_e_capitale/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dire “persone di colore” alimenta discriminazioni di cui non ci accorgiamo neanche",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/01/08/dire_persone_di_colore_alimenta_discriminazioni_di_cui_non_ci_accorgiamo_neanche/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dialogo con Sebastiano su Vita, morte e miracoli di Bonfiglio Liborio",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/08/dialogo_con_sebastiano_su_vita_morte_e_miracoli_di_bonfiglio_liborio/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Anima",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/01/08/anima/",
+      "date"     : "2021-01-08 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Utopia – Sono grasso e nessuno mi chiama “ciccione”",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -97,6 +193,14 @@
     } ,
   
     {
+      "title"    : "Nicola De Zorzi",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/01/07/nicola_de_zorzi/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Nico Cavaniglia – Poesie",
       "category" : "inverso",
       "tags"     : "inverso",
@@ -105,10 +209,26 @@
     } ,
   
     {
+      "title"    : "Nessuno ti capisce quando parli? Forse perché non sai parlare",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/07/nessuno_ti_capisce_quando_parli_forse_perch_non_sai_parlare/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“È nel fuoco che ci si perde, ci si consuma ‒ sempre ‒ per qualcuno o per qualcosa… e nel farlo, brillano gli occhi”",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/01/07/nel_fuoco_che_ci_si_perde_ci_si_consuma_sempre_per_qualcuno_o_per_qualcosa_e_nel_farlo_brillano_gli_occhi/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lo sapete qual è il vertebrato più longevo del mondo?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/07/lo_sapete_qual_il_vertebrato_pi_longevo_del_mondo/",
       "date"     : "2021-01-07 00:00:00 +0100"
     } ,
   
@@ -169,6 +289,14 @@
     } ,
   
     {
+      "title"    : "Il finto specchio",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/01/07/il_finto_specchio/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Guerra e guerra: dentro il labirinto di Lászlo Krasznahorkai",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -189,6 +317,14 @@
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/01/07/femminili_singolari_al_premio_divulgazione_scientifica/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "DaDizioni – Ripetizioni ai tempi della DaD: Italo Svevo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/07/dadizioni_ripetizioni_ai_tempi_della_dad_italo_svevo/",
       "date"     : "2021-01-07 00:00:00 +0100"
     } ,
   
