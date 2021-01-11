@@ -1,10 +1,354 @@
 [
   
     {
+      "title"    : "Where You end, I begin",
+      "category" : "il-fuco",
+      "tags"     : "il-fuco",
+      "url"      : "/2021/01/11/where_you_end_i_begin/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Voglio solo un caffè",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/01/11/voglio_solo_un_caff/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un verosimile caso di dimenticanza",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/01/11/un_verosimile_caso_di_dimenticanza/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tempi eccitanti, il poliamore secondo Naoise Dolan",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/01/11/tempi_eccitanti_il_poliamore_secondo_naoise_dolan/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sposarsi un giorno in World of Warcraft",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/01/11/sposarsi_un_giorno_in_world_of_warcraft/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Saluti e baci dal laboratorio di Wuhan",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/11/saluti_e_baci_dal_laboratorio_di_wuhan/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Raccontare Dante a chi non conosce Dante",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/11/raccontare_dante_a_chi_non_conosce_dante/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quando Beltramelli si finse Maksim Gor’kij. Ovvero: perché i lettori italiani preferiscono libri stranieri",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/11/quando_beltramelli_si_finse_maksim_gorkij_ovvero_perch_i_lettori_italiani_preferiscono_libri_stranieri/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pia Pera: il Giardino dell’Anima",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/11/pia_pera_il_giardino_dellanima/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Oggi ti sono passato vicino",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/11/oggi_ti_sono_passato_vicino/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nuovi paradisi",
+      "category" : "specularia",
+      "tags"     : "specularia",
+      "url"      : "/2021/01/11/nuovi_paradisi/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nordmende color",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/01/11/nordmende_color/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Non capirete comunque” di Massimiliano Calloni",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/01/11/non_capirete_comunque_di_massimiliano_calloni/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Narrare il cambiamento climatico: “Il tempo e l’acqua” di Andri Snær Magnason",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/01/11/narrare_il_cambiamento_climatico_il_tempo_e_lacqua_di_andri_snr_magnason/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Narcisistagram",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/01/11/narcisistagram/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mosaico romano: “Le Mappe della disuguaglianza”",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/01/11/mosaico_romano_le_mappe_della_disuguaglianza/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mettere radici",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/01/11/mettere_radici/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La stanza di carta: Palermo",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/11/la_stanza_di_carta_palermo/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La favola del castello senza tempo di Gesualdo Bufalino",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/11/la_favola_del_castello_senza_tempo_di_gesualdo_bufalino/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Herman Jacob Mankiewicz, o il moderno capitano Achab del cinema",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/01/11/herman_jacob_mankiewicz_o_il_moderno_capitano_achab_del_cinema/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Essere l’altra faccia di Dino Campana. Perché lo Stato dice che li aiuta, i poverini. Lo Stato mente. Fa retorica e demagogia”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/11/essere_laltra_faccia_di_dino_campana_perch_lo_stato_dice_che_li_aiuta_i_poverini_lo_stato_mente_fa_retorica_e_demagogia/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cosa hanno da dirci, ancora, i labirinti?",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/01/11/cosa_hanno_da_dirci_ancora_i_labirinti/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "BUONA GIORNATA AMO.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/11/buona_giornata_amo/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Borgo Sud di Donatella Di Pietrantonio: l’Arminuta è cresciuta. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/11/borgo_sud_di_donatella_di_pietrantonio_larminuta_cresciuta_recensione/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Berenice",
+      "category" : "il-fuco",
+      "tags"     : "il-fuco",
+      "url"      : "/2021/01/11/berenice/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Accadimento ignoto”. Viaggio nell’opera di Giancarlo Sangregorio",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/11/accadimento_ignoto_viaggio_nellopera_di_giancarlo_sangregorio/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Wendy Carlos – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/10/wendy_carlos_personaggio_della_settimana/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Soul”: anima e musica nel nuovo film della Pixar",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/10/soul_anima_e_musica_nel_nuovo_film_della_pixar/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sanpa: l’educazione è crudeltà?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/10/sanpa_leducazione_crudelt/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "People – corso sui personaggi",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/01/10/people_corso_sui_personaggi/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Nella storia del romanzo Henry James è da solo come lo è Shakespeare nella storia della poesia”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/10/nella_storia_del_romanzo_henry_james_da_solo_come_lo_shakespeare_nella_storia_della_poesia/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marino",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/01/10/marino/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L&#39;età della terra",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/01/10/let_della_terra/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Storia e le storie  Riflessioni sulla docuserie “SANPA”",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/10/la_storia_e_le_storie_riflessioni_sulla_docuserie_sanpa/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La mia presunta trasparenza ⥀ Schizoprose di Luke Ballordo",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/01/10/la_mia_presunta_trasparenza_schizoprose_di_luke_ballordo/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Il naso di Alice di Marezia Ori",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/10/il_racconto_della_domenica_il_naso_di_alice_di_marezia_ori/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giorgia Romagnoli: Reflex",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/10/giorgia_romagnoli_reflex/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Favola contadina",
+      "category" : "voce-del-verbo",
+      "tags"     : "voce-del-verbo",
+      "url"      : "/2021/01/10/favola_contadina/",
+      "date"     : "2021-01-10 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Sono povero, ma sono me stesso! Assolutamente me stesso! L’uomo senza concessioni!”. Storia di Peter Altenberg, il dandy che scrisse un’opera su fogli volanti",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/01/09/sono_povero_ma_sono_me_stesso_assolutamente_me_stesso_luomo_senza_concessioni_storia_di_peter_altenberg_il_dandy_che_scrisse_unopera_su_fogli_volanti/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per l’ultima volta",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/09/per_lultima_volta/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Linea2021: “L’attesa” di Davide Franchetto",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/01/09/linea2021_lattesa_di_davide_franchetto/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ascensore",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/09/lascensore/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La sfida creativa delle città. Intervista a Maurizio Carta",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/09/la_sfida_creativa_delle_citt_intervista_a_maurizio_carta/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La rivelazione Netflix: vi presento La Belva di Ludovico Di Martino",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/09/la_rivelazione_netflix_vi_presento_la_belva_di_ludovico_di_martino/",
       "date"     : "2021-01-09 00:00:00 +0100"
     } ,
   
@@ -25,10 +369,82 @@
     } ,
   
     {
+      "title"    : "La clavicola di San Francesco, di Daniele Nadir",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/09/la_clavicola_di_san_francesco_di_daniele_nadir/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ieri sera verso le sette e mezza",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/01/09/ieri_sera_verso_le_sette_e_mezza/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "I fatti americani: verifica e crisi della Democrazia liberale",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/01/09/i_fatti_americani_verifica_e_crisi_della_democrazia_liberale/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I 700 anni di Dante – Diventare grandi con la Divina Commedia",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/01/09/i_700_anni_di_dante_diventare_grandi_con_la_divina_commedia/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #84",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/01/09/fantastico_84/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "E fu così che il mondo",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/01/09/e_fu_cos_che_il_mondo/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Donne all’arrembaggio: le piratesse più famose della storia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/09/donne_allarrembaggio_le_piratesse_pi_famose_della_storia/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Discorsi da bar",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/01/09/discorsi_da_bar/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dadizioni – Ripetizioni ai tempi della DaD: la poesia comico-realistica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/09/dadizioni_ripetizioni_ai_tempi_della_dad_la_poesia_comico-realistica/",
+      "date"     : "2021-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bello e impossibile: cinque animali carini che potrebbero ucciderti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/09/bello_e_impossibile_cinque_animali_carini_che_potrebbero_ucciderti/",
       "date"     : "2021-01-09 00:00:00 +0100"
     } ,
   
