@@ -1,6 +1,246 @@
 [
   
     {
+      "title"    : "Voce, dimmi di più",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/01/12/voce_dimmi_di_pi/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vite di Giada: fiorisce il centro anti-violenza gestito da Proodos",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/12/vite_di_giada_fiorisce_il_centro_anti-violenza_gestito_da_proodos/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Uscire dal dolore",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/01/12/uscire_dal_dolore/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Uno scambio di idee (interno) su Sanpa",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/12/uno_scambio_di_idee_interno_su_sanpa/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Uccelli",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/01/12/uccelli/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Boys in the Band | Scatti di crescita",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/01/12/the_boys_in_the_band_scatti_di_crescita/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Sul duro crepitio del corpo”. Flavio Santi, poeta",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/12/sul_duro_crepitio_del_corpo_flavio_santi_poeta/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Su “La scienza dello storytelling” di Will Storr",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/12/su_la_scienza_dello_storytelling_di_will_storr/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sonia Caporossi – Poesie da “Taccuino dell’urlo”",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/01/12/sonia_caporossi_poesie_da_taccuino_dellurlo/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“SanPa”: un’analisi testuale del documentario",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/01/12/sanpa_unanalisi_testuale_del_documentario/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Qualcosa di brutto",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/01/12/qualcosa_di_brutto/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Phenomena #3 Shirley Jackson",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/01/12/phenomena_3_shirley_jackson/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per comprendere il whistleblowing",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/01/12/per_comprendere_il_whistleblowing/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Paura del Brujo – Diario di un cacciatore di fate",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/01/12/paura_del_brujo_diario_di_un_cacciatore_di_fate/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Parole come crocifissi",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/01/12/parole_come_crocifissi/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nel Paese dei ghiacci e dei thriller: intervista a Ruth Lillegraven, autrice di “Fiordo profondo”",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/12/nel_paese_dei_ghiacci_e_dei_thriller_intervista_a_ruth_lillegraven_autrice_di_fiordo_profondo/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“L’OMBRA DEL BIANCO” di Saverio Beccaccioli",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/01/12/lombra_del_bianco_di_saverio_beccaccioli/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le menti malate di “Panopticon”.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/12/le_menti_malate_di_panopticon/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“L’arte non si crea, ma si trova”",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/12/larte_non_si_crea_ma_si_trova/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "IVANO FERRARI – MACELLO",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/12/ivano_ferrari_macello/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il ritorno della psichedelia",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/12/il_ritorno_della_psichedelia/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli ossimori mortali di Russian Doll",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/01/12/gli_ossimori_mortali_di_russian_doll/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Franco Fortini – Memorie per dopodomani. Intervista a Lorenzo Pallini",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/01/12/franco_fortini_memorie_per_dopodomani_intervista_a_lorenzo_pallini/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Fino ad agosto” di Josephine Rowe",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/01/12/fino_ad_agosto_di_josephine_rowe/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Di una volta",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/01/12/di_una_volta/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dal fuoco col fuoco",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/01/12/dal_fuoco_col_fuoco/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Carola Maselli",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/01/12/carola_maselli/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Capitol Hill: cosa ci insegna la storia",
+      "category" : "purpletude",
+      "tags"     : "purpletude",
+      "url"      : "/2021/01/12/capitol_hill_cosa_ci_insegna_la_storia/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Beata Beatrix: il Dante di Dante Gabriel Rossetti",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/12/beata_beatrix_il_dante_di_dante_gabriel_rossetti/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ammoniaca",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/12/ammoniaca/",
+      "date"     : "2021-01-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Where You end, I begin",
       "category" : "il-fuco",
       "tags"     : "il-fuco",
@@ -13,6 +253,14 @@
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/01/11/voglio_solo_un_caff/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Utopia di Thomas More",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/11/utopia_di_thomas_more/",
       "date"     : "2021-01-11 00:00:00 +0100"
     } ,
   
@@ -41,10 +289,34 @@
     } ,
   
     {
+      "title"    : "Scrittori e scrittoi: chi scriveva in piedi?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/11/scrittori_e_scrittoi_chi_scriveva_in_piedi/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Saluti e baci dal laboratorio di Wuhan",
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/01/11/saluti_e_baci_dal_laboratorio_di_wuhan/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rosario Dipasquale – Poesie da “Condense”",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/01/11/rosario_dipasquale_poesie_da_condense/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Dino Buzzati, chi era? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/11/ritratti_di_scrittori_dino_buzzati_chi_era_scoprilo_in_5_parole/",
       "date"     : "2021-01-11 00:00:00 +0100"
     } ,
   
@@ -169,6 +441,22 @@
     } ,
   
     {
+      "title"    : "Dream of Californication. La Silicon Valley vista da Michele Masneri",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/11/dream_of_californication_la_silicon_valley_vista_da_michele_masneri/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Daniele Coppola racconta: come ho iniziato a comporre musiche per videogiochi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/11/daniele_coppola_racconta_come_ho_iniziato_a_comporre_musiche_per_videogiochi/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Cosa hanno da dirci, ancora, i labirinti?",
       "category" : "singola",
       "tags"     : "singola",
@@ -177,10 +465,26 @@
     } ,
   
     {
+      "title"    : "Capitan Psicotico",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/01/11/capitan_psicotico/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "BUONA GIORNATA AMO.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/01/11/buona_giornata_amo/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bridgerton: “Anche mia nonna ha apprezzato”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/11/bridgerton_anche_mia_nonna_ha_apprezzato/",
       "date"     : "2021-01-11 00:00:00 +0100"
     } ,
   
@@ -201,10 +505,34 @@
     } ,
   
     {
+      "title"    : "Attimi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/11/attimi/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ailton Krenak: come rimandare la fine del mondo",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/01/11/ailton_krenak_come_rimandare_la_fine_del_mondo/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Accadimento ignoto”. Viaggio nell’opera di Giancarlo Sangregorio",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/01/11/accadimento_ignoto_viaggio_nellopera_di_giancarlo_sangregorio/",
+      "date"     : "2021-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "2021: il nuovo anno secondo Three Faces",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/01/11/2021_il_nuovo_anno_secondo_three_faces/",
       "date"     : "2021-01-11 00:00:00 +0100"
     } ,
   
@@ -8077,6 +8405,14 @@
       "category" : "milena",
       "tags"     : "milena",
       "url"      : "/2020/12/03/la_condizione_degli_artisti_di_strada_a_napoli_durante_la_pandemia_le_persone_hanno_paura_di_comprare_o_di_avvicinarsi/",
+      "date"     : "2020-12-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Kotodama Fanzine",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/12/03/kotodama_fanzine/",
       "date"     : "2020-12-03 00:00:00 +0100"
     } ,
   
@@ -21121,6 +21457,14 @@
     } ,
   
     {
+      "title"    : "É successo stasera – Lucia Abbatiello",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/04/18/successo_stasera_lucia_abbatiello/",
+      "date"     : "2020-04-18 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Li mortacci sua",
       "category" : "smezziamo",
       "tags"     : "smezziamo",
@@ -21233,6 +21577,14 @@
     } ,
   
     {
+      "title"    : "La ragazza che si pettina – Damiana De Gennaro",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/04/08/la_ragazza_che_si_pettina_damiana_de_gennaro/",
+      "date"     : "2020-04-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Nei giorni dell&#39;assenza",
       "category" : "singola",
       "tags"     : "singola",
@@ -21265,6 +21617,14 @@
     } ,
   
     {
+      "title"    : "Concilio – Sergio Sciambra",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/04/03/concilio_sergio_sciambra/",
+      "date"     : "2020-04-03 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La volpe",
       "category" : "inutile",
       "tags"     : "inutile",
@@ -21286,6 +21646,14 @@
       "tags"     : "singola",
       "url"      : "/2020/03/31/spazio_e_realt_virtuale_un_cambio_di_coscienza/",
       "date"     : "2020-03-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Specchio d’acqua – Axel Perugino",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/03/30/specchio_dacqua_axel_perugino/",
+      "date"     : "2020-03-30 00:00:00 +0200"
     } ,
   
     {
@@ -21313,6 +21681,14 @@
     } ,
   
     {
+      "title"    : "Due corpi – Francesco Paolo Colucci",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/03/28/due_corpi_francesco_paolo_colucci/",
+      "date"     : "2020-03-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Melinda",
       "category" : "inutile",
       "tags"     : "inutile",
@@ -21326,6 +21702,14 @@
       "tags"     : "singola",
       "url"      : "/2020/03/25/la_crescita_irresistibile_dellarte_africana/",
       "date"     : "2020-03-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Se lo comprendi svanisce – Alessandro Di Porzio",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/03/24/se_lo_comprendi_svanisce_alessandro_di_porzio/",
+      "date"     : "2020-03-24 00:00:00 +0100"
     } ,
   
     {
@@ -21369,6 +21753,22 @@
     } ,
   
     {
+      "title"    : "Senza titolo – Chiara Tortora",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/03/22/senza_titolo_chiara_tortora/",
+      "date"     : "2020-03-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I fiori di dentro – Marzia Imparato",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/03/20/i_fiori_di_dentro_marzia_imparato/",
+      "date"     : "2020-03-20 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Restare separati",
       "category" : "singola",
       "tags"     : "singola",
@@ -21382,6 +21782,14 @@
       "tags"     : "singola",
       "url"      : "/2020/03/19/cera_una_volta_un_animale_chiamato_elefante/",
       "date"     : "2020-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La schiusa delle rose – Yasmin Tailkah",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2020/03/18/la_schiusa_delle_rose_yasmin_tailkah/",
+      "date"     : "2020-03-18 00:00:00 +0100"
     } ,
   
     {
