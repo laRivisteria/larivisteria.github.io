@@ -1,10 +1,234 @@
 [
   
     {
+      "title"    : "Utopia, la nuova casa editrice fondata da under 30, fra Premi Nobel e grandi scrittori da rivalutare. Intervista",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/15/utopia_la_nuova_casa_editrice_fondata_da_under_30_fra_premi_nobel_e_grandi_scrittori_da_rivalutare_intervista/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tra la Malesia e il West: Sergio Leone, il vero erede di Emilio Salgari",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/15/tra_la_malesia_e_il_west_sergio_leone_il_vero_erede_di_emilio_salgari/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Streaming Addicted",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/01/15/streaming_addicted/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "PROSPETTIVE DI EQUILIBRIO",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/01/15/prospettive_di_equilibrio/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pordenonelegge 2021: preview delle iniziative in arrivo, bilancio di un anno “speciale”",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/15/pordenonelegge_2021_preview_delle_iniziative_in_arrivo_bilancio_di_un_anno_speciale/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LO STUPIDO DI TURNO",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/01/15/lo_stupido_di_turno/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La ricerca del parcheggio",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/01/15/la_ricerca_del_parcheggio/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La leggenda della spiaggia delle Ghiaie",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/01/15/la_leggenda_della_spiaggia_delle_ghiaie/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Insegnare parole nuove per mondi nuovi",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/01/15/insegnare_parole_nuove_per_mondi_nuovi/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In dialogo con Pasquale Sbarra, direttore della fotografia di un cinema che resiste anche in pandemia",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/01/15/in_dialogo_con_pasquale_sbarra_direttore_della_fotografia_di_un_cinema_che_resiste_anche_in_pandemia/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il marketing umano. Intervista a Carlo Sestini, influencer",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/15/il_marketing_umano_intervista_a_carlo_sestini_influencer/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I racconti del racconto: Obabakoak di Bernardo Atxaga",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/01/15/i_racconti_del_racconto_obabakoak_di_bernardo_atxaga/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Hi guys! Le opere e i giorni di Chiara Ferragni",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/01/15/hi_guys_le_opere_e_i_giorni_di_chiara_ferragni/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Da Parigi a Damasco, alla ricerca della Siria promessa",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/15/da_parigi_a_damasco_alla_ricerca_della_siria_promessa/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cinque poesie di Chad Norman",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/01/15/cinque_poesie_di_chad_norman/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Burton, Anatomia della Malinconia, appunti di lettura",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/15/burton_anatomia_della_malinconia_appunti_di_lettura/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Balbettare e balbettare”. Giorgio Agamben su Hölderlin",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/15/balbettare_e_balbettare_giorgio_agamben_su_hlderlin/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ MORGAN RICORDA BOWIE: NON HO ANCORA ELABORATO IL LUTTO.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/15/attenzione_morgan_ricorda_bowie_non_ho_ancora_elaborato_il_lutto/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ LA MAMMA CAMBIA LA SERRATURA. ZEQUILA RESTA FUORI DI CASA.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/15/attenzione_la_mamma_cambia_la_serratura_zequila_resta_fuori_di_casa/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ GIULIA DE LELLIS SHOCKATA: “UN UOMO MI HA RUTTATO IN FACCIA PER STRADA”.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/15/attenzione_giulia_de_lellis_shockata_un_uomo_mi_ha_ruttato_in_faccia_per_strada/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ GAFFE SOCIAL PER BELEN: SPACCIA PER SUE LE FOTO DI UN’ALTRA.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/15/attenzione_gaffe_social_per_belen_spaccia_per_sue_le_foto_di_unaltra/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ada brucia",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/01/15/ada_brucia/",
+      "date"     : "2021-01-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vivere al Sud per lavorare al Nord, il confuso ritorno",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/01/14/vivere_al_sud_per_lavorare_al_nord_il_confuso_ritorno/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Utopia di Thomas More",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/14/utopia_di_thomas_more/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Trieste. Storia di una metamorfosi",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/01/14/trieste_storia_di_una_metamorfosi/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Teatro e televisione al tempo della pandemia",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/14/teatro_e_televisione_al_tempo_della_pandemia/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Soul | Villa Giulia",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/01/14/soul_villa_giulia/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scomodo &amp; arcano. Yukio Mishima, una lancinante lacerazione",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/14/scomodo_arcano_yukio_mishima_una_lancinante_lacerazione/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Roteazioni della notte ⥀  Tommaso Ottonieri su Rita Florit",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/01/14/roteazioni_della_notte_tommaso_ottonieri_su_rita_florit/",
       "date"     : "2021-01-14 00:00:00 +0100"
     } ,
   
@@ -25,10 +249,66 @@
     } ,
   
     {
+      "title"    : "L’avvento della stampa a Bologna",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/01/14/lavvento_della_stampa_a_bologna/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’abisso",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/01/14/labisso/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "​La traduttrice",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/01/14/la_traduttrice/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La memoria dell’uguale, fede in somma di assurdi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/14/la_memoria_delluguale_fede_in_somma_di_assurdi/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Is there an alternative? Just say yes. Luci e tenebre di SanPa",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/01/14/is_there_an_alternative_just_say_yes_luci_e_tenebre_di_sanpa/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Michele Crescenzo",
+      "category" : "a4",
+      "tags"     : "a4",
+      "url"      : "/2021/01/14/intervista_a_michele_crescenzo/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I cigni: esempio di eterna fedeltà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/14/i_cigni_esempio_di_eterna_fedelt/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Hey ufficiale, lEVAmi il perizoma!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/14/hey_ufficiale_levami_il_perizoma/",
       "date"     : "2021-01-14 00:00:00 +0100"
     } ,
   
@@ -49,10 +329,58 @@
     } ,
   
     {
+      "title"    : "Essere umani #allostessomodo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/14/essere_umani_allostessomodo/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Deus ex machina”, una locuzione a spasso nel tempo e che cambia con la società",
       "category" : "light-magazine",
       "tags"     : "light-magazine",
       "url"      : "/2021/01/14/deus_ex_machina_una_locuzione_a_spasso_nel_tempo_e_che_cambia_con_la_societ/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "DaDizioni- ripetizione ai tempi della dad: Giuseppe Ungaretti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/14/dadizioni-_ripetizione_ai_tempi_della_dad_giuseppe_ungaretti/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Clarice Lispector: il fascino di Marlene Dietrich, la penna di Virginia Woolf",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/14/clarice_lispector_il_fascino_di_marlene_dietrich_la_penna_di_virginia_woolf/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chi e cosa si trasforma… – Purgatorio Canto IX",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/01/14/chi_e_cosa_si_trasforma_purgatorio_canto_ix/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "C’è vita nell’universo?",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/01/14/c_vita_nelluniverso/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Arte a fior di pelle: Clara Gargano",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/01/14/arte_a_fior_di_pelle_clara_gargano/",
       "date"     : "2021-01-14 00:00:00 +0100"
     } ,
   
