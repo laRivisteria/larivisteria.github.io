@@ -1,10 +1,90 @@
 [
   
     {
+      "title"    : "Un’altra via per la Cambogia",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/01/17/unaltra_via_per_la_cambogia/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Un poeta in esilio è un vulcano, giacché si è immensi quando si splende e cade”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/17/un_poeta_in_esilio_un_vulcano_giacch_si_immensi_quando_si_splende_e_cade/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Tempi eccitanti”: il romanzo d’esordio di Naoise Dolan, una delle voci più interessanti dell’attuale panorama irlandese",
+      "category" : "purpletude",
+      "tags"     : "purpletude",
+      "url"      : "/2021/01/17/tempi_eccitanti_il_romanzo_desordio_di_naoise_dolan_una_delle_voci_pi_interessanti_dellattuale_panorama_irlandese/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "NOTTE IN BIANCO",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/17/notte_in_bianco/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Magda Szabó: la porta del passato",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/17/magda_szab_la_porta_del_passato/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Io sono cordite",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/01/17/io_sono_cordite/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: La lista di Mimma Rapicano",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/17/il_racconto_della_domenica_la_lista_di_mimma_rapicano/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "costruttori – corso di scrittura",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/01/17/costruttori_corso_di_scrittura/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Appropriazione indebita",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/17/appropriazione_indebita/",
+      "date"     : "2021-01-17 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Melville conservatore? Lasciate stare la Balena Bianca della letteratura (e leggetevi “Il venditore di parafulmini”)",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/01/16/melville_conservatore_lasciate_stare_la_balena_bianca_della_letteratura_e_leggetevi_il_venditore_di_parafulmini/",
+      "date"     : "2021-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’accesso all’acqua potabile è un diritto fondamentale. I passi avanti dell’Unione europea",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/16/laccesso_allacqua_potabile_un_diritto_fondamentale_i_passi_avanti_dellunione_europea/",
       "date"     : "2021-01-16 00:00:00 +0100"
     } ,
   
@@ -73,10 +153,34 @@
     } ,
   
     {
+      "title"    : "DaDizioni – Ripetizioni ai tempi della DaD: Petrarchismo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/16/dadizioni_ripetizioni_ai_tempi_della_dad_petrarchismo/",
+      "date"     : "2021-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Charlotte York di Sex and the City è davvero un esempio di anti-femminismo?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/16/charlotte_york_di_sex_and_the_city_davvero_un_esempio_di_anti-femminismo/",
+      "date"     : "2021-01-16 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Agabawerf! Una conversazione tra Émilie Gleason e Aniss El Hamouri",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/01/16/agabawerf_una_conversazione_tra_milie_gleason_e_aniss_el_hamouri/",
+      "date"     : "2021-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "A cosa stai pensando?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/16/a_cosa_stai_pensando/",
       "date"     : "2021-01-16 00:00:00 +0100"
     } ,
   
