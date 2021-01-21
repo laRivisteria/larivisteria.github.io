@@ -1,6 +1,78 @@
 [
   
     {
+      "title"    : "Una crisi di sistema ⥀ Contropiano di Roberto Ciccarelli",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/01/21/una_crisi_di_sistema_contropiano_di_roberto_ciccarelli/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Saudade degli Oremeta | Il mondo da un tinello",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/01/21/saudade_degli_oremeta_il_mondo_da_un_tinello/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Questa è una storia vera",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/01/21/questa_una_storia_vera/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Prima lettera.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/21/prima_lettera/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Vichi risponde a Fante",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/01/21/marco_vichi_risponde_a_fante/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli eroi, tra sconfitte e lacrime",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/21/gli_eroi_tra_sconfitte_e_lacrime/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gianni Venturi – 21 Grammi di solitudine",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/01/21/gianni_venturi_21_grammi_di_solitudine/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fughe di Velio Abati",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/21/fughe_di_velio_abati/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Carlo Michelstaedter, artista. La persuasione e la pittura di un ragazzo geniale",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/21/carlo_michelstaedter_artista_la_persuasione_e_la_pittura_di_un_ragazzo_geniale/",
+      "date"     : "2021-01-21 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "The clutch – canestri e razzismo sotto pressione (4/4)",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -89,6 +161,14 @@
     } ,
   
     {
+      "title"    : "La Resistenza attraverso l’occhio della cinepresa di Rossellini",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/20/la_resistenza_attraverso_locchio_della_cinepresa_di_rossellini/",
+      "date"     : "2021-01-20 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La memoria dell’uguale",
       "category" : "il-mondo-o-niente",
       "tags"     : "il-mondo-o-niente",
@@ -97,10 +177,26 @@
     } ,
   
     {
+      "title"    : "La mandrakata, una quasi fiction. Seconda parte: volemose bene",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/20/la_mandrakata_una_quasi_fiction_seconda_parte_volemose_bene/",
+      "date"     : "2021-01-20 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“La Lupa è medioevale… e la cultura spesso è solo potere”. Manuela Diliberto dialoga con Anna Maria Carruba",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/01/20/la_lupa_medioevale_e_la_cultura_spesso_solo_potere_manuela_diliberto_dialoga_con_anna_maria_carruba/",
+      "date"     : "2021-01-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Cannabis salverà il mondo: intervista a Matteo Gracis",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/20/la_cannabis_salver_il_mondo_intervista_a_matteo_gracis/",
       "date"     : "2021-01-20 00:00:00 +0100"
     } ,
   
@@ -141,6 +237,14 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/01/20/il_racconto_del_mercoled_la_buonanotte_di_dio_di_marco_simeoni/",
+      "date"     : "2021-01-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Georges Méliès, l’ostinato sognatore che inventò il cinema",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/20/georges_mlis_lostinato_sognatore_che_invent_il_cinema/",
       "date"     : "2021-01-20 00:00:00 +0100"
     } ,
   
@@ -2837,6 +2941,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/01/07/lo_sapete_qual_il_vertebrato_pi_longevo_del_mondo/",
+      "date"     : "2021-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Le malizie del calendario” – Ezio Sinigaglia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/01/07/le_malizie_del_calendario_ezio_sinigaglia/",
       "date"     : "2021-01-07 00:00:00 +0100"
     } ,
   
@@ -7585,6 +7697,14 @@
     } ,
   
     {
+      "title"    : "L’Inferno qui e ora – “La città dei vivi” di Lagioia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2020/12/14/linferno_qui_e_ora_la_citt_dei_vivi_di_lagioia/",
+      "date"     : "2020-12-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Le tombe dei bambini",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -11497,6 +11617,14 @@
     } ,
   
     {
+      "title"    : "Come gli animali condannarono la razza umana",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2020/11/27/come_gli_animali_condannarono_la_razza_umana/",
+      "date"     : "2020-11-27 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "CineByte: Così parlò Bellavista",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -12461,6 +12589,14 @@
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
       "url"      : "/2020/11/23/occam_non_funziona_a_copenaghen_tre_testi_di_teatro_non_solo_sulla_fisica/",
+      "date"     : "2020-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Occam non funziona a Copenaghen – La fisica a teatro",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2020/11/23/occam_non_funziona_a_copenaghen_la_fisica_a_teatro/",
       "date"     : "2020-11-23 00:00:00 +0100"
     } ,
   
