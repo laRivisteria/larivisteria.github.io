@@ -1,6 +1,382 @@
 [
   
     {
+      "title"    : "Voi siete la storia. “Madre delle ossa” di David Demchuk",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/01/25/voi_siete_la_storia_madre_delle_ossa_di_david_demchuk/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un’educazione sentimentale: Latitudine palermitana di Aldo Sarullo",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/25/uneducazione_sentimentale_latitudine_palermitana_di_aldo_sarullo/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Una materia terribile e magnifica che mi fa un po’ paura”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/25/una_materia_terribile_e_magnifica_che_mi_fa_un_po_paura/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tutto per amore: il coraggio di essere madre",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/25/tutto_per_amore_il_coraggio_di_essere_madre/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tra filosofia e letteratura, parte V: l’outsider Colin Wilson",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/25/tra_filosofia_e_letteratura_parte_v_loutsider_colin_wilson/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The fact finder: intervista a Alex Bodea",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/01/25/the_fact_finder_intervista_a_alex_bodea/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sulla poesia di Louise Glück: L’iris selvatico e Averno",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/01/25/sulla_poesia_di_louise_glck_liris_selvatico_e_averno/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sulla natura permeabile della maternità. La figlia unica di Guadalupe Nettel",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/25/sulla_natura_permeabile_della_maternit_la_figlia_unica_di_guadalupe_nettel/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sette pentole di latte",
+      "category" : "salmuria",
+      "tags"     : "salmuria",
+      "url"      : "/2021/01/25/sette_pentole_di_latte/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rubare a Josephine Rowe. Scrivere meglio leggendo i racconti dell’antologia “Fino ad agosto”",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/25/rubare_a_josephine_rowe_scrivere_meglio_leggendo_i_racconti_dellantologia_fino_ad_agosto/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pillole di poesia #3 – Massimo Ferretti",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/01/25/pillole_di_poesia_3_massimo_ferretti/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Misteri d’Elx ⥀ Poemetto di Yin Xiaoyuan (Seconda parte)",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/01/25/misteri_delx_poemetto_di_yin_xiaoyuan_seconda_parte/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Memorie di un boia che amava i fiori: storia del tagliagole più famoso del mondo. Recensione libro",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/25/memorie_di_un_boia_che_amava_i_fiori_storia_del_tagliagole_pi_famoso_del_mondo_recensione_libro/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’impatto di uno scatto | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/01/25/limpatto_di_uno_scatto_in_translation/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’Anno del Fuoco Segreto: Foresta d’Ali",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/25/lanno_del_fuoco_segreto_foresta_dali/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La tribute band dei PEARL JAM si chiamerà LEGAL JAM: il caso è chiuso?",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/25/la_tribute_band_dei_pearl_jam_si_chiamer_legal_jam_il_caso_chiuso/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La testa gli giaceva aperta come una bara dalla quale strisciavano animaletti primordiali”. Alfred Kolleritsch, un outsider",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/25/la_testa_gli_giaceva_aperta_come_una_bara_dalla_quale_strisciavano_animaletti_primordiali_alfred_kolleritsch_un_outsider/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La pillola chiara",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/01/25/la_pillola_chiara/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Kolchoz",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/01/25/kolchoz/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ItaliansBookitBetter incontra Luca Giommoni",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/01/25/italiansbookitbetter_incontra_luca_giommoni/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il ristorante",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/01/25/il_ristorante/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Giorno della Memoria oggi",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/25/il_giorno_della_memoria_oggi/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giradischi",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/01/25/giradischi/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "E se ti dicessimo che la barba a forma di coda di scimmia è una tendenza che va proprio forte?",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/25/e_se_ti_dicessimo_che_la_barba_a_forma_di_coda_di_scimmia_una_tendenza_che_va_proprio_forte/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Doré, chi era costui?",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/01/25/dor_chi_era_costui/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Diario di un viaggio sulle coste della Patagonia (seconda parte)",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/01/25/diario_di_un_viaggio_sulle_coste_della_patagonia_seconda_parte/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Diario di un editore di fumetti #6",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/25/diario_di_un_editore_di_fumetti_6/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cover #10: Bevatrone sulfureo-scatologico",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/01/25/cover_10_bevatrone_sulfureo-scatologico/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CORONAVIRUS: il Giosuè di ‘LA VITA è BELLA’ ora TRACCIA i CONTAGI dei POSITIVI al COVID-19. La STORIA",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/25/coronavirus_il_giosu_di_la_vita_bella_ora_traccia_i_contagi_dei_positivi_al_covid-19_la_storia/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come l’algebra ha rovinato la società secondo Simone Weil",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/01/25/come_lalgebra_ha_rovinato_la_societ_secondo_simone_weil/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amanda, 34 anni, si fidanza con il suo lampadario e se lo tatua sul braccio: «Ci sposeremo presto»",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/25/amanda_34_anni_si_fidanza_con_il_suo_lampadario_e_se_lo_tatua_sul_braccio_ci_sposeremo_presto/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "9 Righe",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/01/25/9_righe/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "40 anni di Lamù: l’extraterrestre che ha incantato una generazione",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/25/40_anni_di_lam_lextraterrestre_che_ha_incantato_una_generazione/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Wangari Maathai – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/24/wangari_maathai_personaggio_della_settimana/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vite in espansione",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/01/24/vite_in_espansione/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Primo Levi: guida a Se questo è un uomo. Conversazione con Alberto Cavaglion",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/24/primo_levi_guida_a_se_questo_un_uomo_conversazione_con_alberto_cavaglion/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Perché gli animali?",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/24/perch_gli_animali/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Manicomio! Manicomio!”. A 100 anni dai “Sei personaggi”: la rivoluzione a teatro",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/24/manicomio_manicomio_a_100_anni_dai_sei_personaggi_la_rivoluzione_a_teatro/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La voce senza nome, né volto, né dimora. Anon, di Virginia Woolf",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/24/la_voce_senza_nome_n_volto_n_dimora_anon_di_virginia_woolf/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La maestria del solletico",
+      "category" : "spaghetti-writers",
+      "tags"     : "spaghetti-writers",
+      "url"      : "/2021/01/24/la_maestria_del_solletico/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La libertà è partecipazione: lettera d’amore a Giorgio Gaber",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/24/la_libert_partecipazione_lettera_damore_a_giorgio_gaber/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La Dina e Fernando” di Isabella Bignozzi",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/01/24/la_dina_e_fernando_di_isabella_bignozzi/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: I feel pretty di Marta Cristofanini",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/24/il_racconto_della_domenica_i_feel_pretty_di_marta_cristofanini/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Il poeta ha la pelle della pantera addosso, o il ruggito della tigre dentro, e sa che ogni parola lasciata al caso, persa, riguarderà la sua caduta”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/24/il_poeta_ha_la_pelle_della_pantera_addosso_o_il_ruggito_della_tigre_dentro_e_sa_che_ogni_parola_lasciata_al_caso_persa_riguarder_la_sua_caduta/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fretta",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/24/fretta/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Eroine delle serie TV: possono aiutarci nel nostro viaggio?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/24/eroine_delle_serie_tv_possono_aiutarci_nel_nostro_viaggio/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dad: dalla parte degli studenti",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/24/dad_dalla_parte_degli_studenti/",
+      "date"     : "2021-01-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Visibile parlare” – Purgatorio Canto X",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
@@ -17,6 +393,22 @@
     } ,
   
     {
+      "title"    : "South learning, l’urbanizzazione che sa di buono",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/23/south_learning_lurbanizzazione_che_sa_di_buono/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Partire dal noto per affrontare l’ignoto: “I doni della vita” di Irène Némirovsky",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/23/partire_dal_noto_per_affrontare_lignoto_i_doni_della_vita_di_irne_nmirovsky/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Le leggi ingiuste esistono: saremo felici di obbedirvi?”. Thoreau in Parlamento",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +417,34 @@
     } ,
   
     {
+      "title"    : "L’Allenamento di Plaza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/23/lallenamento_di_plaza/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La fine delle sabbie",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/01/23/la_fine_delle_sabbie/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "IL RAMO E LA FOGLIA EDIZIONI",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/01/23/il_ramo_e_la_foglia_edizioni/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il principe sul pisello",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/01/23/il_principe_sul_pisello/",
       "date"     : "2021-01-23 00:00:00 +0100"
     } ,
   
@@ -49,6 +465,14 @@
     } ,
   
     {
+      "title"    : "Fantastico! #86",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/01/23/fantastico_86/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Due",
       "category" : "voce-del-verbo",
       "tags"     : "voce-del-verbo",
@@ -65,10 +489,34 @@
     } ,
   
     {
+      "title"    : "Dadizioni – Ripetizioni ai tempi della didattica a distanza: Il Dolce Stil Novo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/23/dadizioni_ripetizioni_ai_tempi_della_didattica_a_distanza_il_dolce_stil_novo/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Cos’è un corpo nello spazio? Cosa sono i corpi fotografati da Guen Fiore?",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/01/23/cos_un_corpo_nello_spazio_cosa_sono_i_corpi_fotografati_da_guen_fiore/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cecilia, suona ancora…",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/01/23/cecilia_suona_ancora/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Candida Eleganza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/23/candida_eleganza/",
       "date"     : "2021-01-23 00:00:00 +0100"
     } ,
   
@@ -153,6 +601,14 @@
     } ,
   
     {
+      "title"    : "Mondo parlato. Su “Un semplicissimo universo inespanso” di Michele Fianco",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/01/22/mondo_parlato_su_un_semplicissimo_universo_inespanso_di_michele_fianco/",
+      "date"     : "2021-01-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "«Menti parallele. Scoprire l’intelligenza dei materiali», di Laura Tripaldi",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -233,6 +689,14 @@
     } ,
   
     {
+      "title"    : "I peccati del Salvatore | Visioni",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/01/22/i_peccati_del_salvatore_visioni/",
+      "date"     : "2021-01-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "I cervelli artificiali hanno iniziato a pensarsi?",
       "category" : "singola",
       "tags"     : "singola",
@@ -289,6 +753,14 @@
     } ,
   
     {
+      "title"    : "CORSO DI SCRITTURA - LA SCUOLA DEL RACCONTO",
+      "category" : "cooperativa-letteraria",
+      "tags"     : "cooperativa-letteraria",
+      "url"      : "/2021/01/22/corso_di_scrittura_-_la_scuola_del_racconto/",
+      "date"     : "2021-01-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Cinque poesie di Alexandra Bastari",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -309,6 +781,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/01/22/benedetta_violenza_riflessioni_intorno_a_un_romanzo_di_manuel_de_pedrolo/",
+      "date"     : "2021-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Attraversare il tempo",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/01/22/attraversare_il_tempo/",
       "date"     : "2021-01-22 00:00:00 +0100"
     } ,
   
