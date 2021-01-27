@@ -1,6 +1,118 @@
 [
   
     {
+      "title"    : "Una cosa per volta",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/01/27/una_cosa_per_volta/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Umano, postumano",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/01/27/umano_postumano/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scrivere l’Olocausto, oggi",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/01/27/scrivere_lolocausto_oggi/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Romanzo di Londra",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/01/27/romanzo_di_londra/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ricordiamo?",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/01/27/ricordiamo/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’opinione.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/01/27/lopinione/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“L’individuo non esiste, è un’astrazione, noi siamo società… Quanto a me: non scelgo, mi lascio sedurre”. Manuela Diliberto dialoga con Stefano Bonaga",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/27/lindividuo_non_esiste_unastrazione_noi_siamo_societ_quanto_a_me_non_scelgo_mi_lascio_sedurre_manuela_diliberto_dialoga_con_stefano_bonaga/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Donna Che Divenne l’Orso",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/01/27/la_donna_che_divenne_lorso/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Presto Tardi di Carlo Maria Vadim",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/01/27/il_racconto_del_mercoled_presto_tardi_di_carlo_maria_vadim/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il 27 gennaio. Giorno della Memoria",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/01/27/il_27_gennaio_giorno_della_memoria/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I racconti di Akinari Ueda: di pioggia, di luna e di primavera",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/01/27/i_racconti_di_akinari_ueda_di_pioggia_di_luna_e_di_primavera/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Due descrizioni di quadri",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/01/27/due_descrizioni_di_quadri/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cos’è l’ecologia sociale?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/01/27/cos_lecologia_sociale/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Continuo a guardare. Guardare. E non mi stanco mai”. Cortázar in Italia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/01/27/continuo_a_guardare_guardare_e_non_mi_stanco_mai_cortzar_in_italia/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Un’archeologia dell’intermedialità in “Opera” di Adriano Spatola",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -13,6 +125,14 @@
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/01/26/troppa_memoria_poca_verit_storica_su_i_guardiani_della_memoria_e_il_ritorno_delle_destre_xenofobe_di_valentina_pisanty/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Trascendere attraverso Marilynne Robinson",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/01/26/trascendere_attraverso_marilynne_robinson/",
       "date"     : "2021-01-26 00:00:00 +0100"
     } ,
   
@@ -69,6 +189,14 @@
       "category" : "malgrado-le-mosche",
       "tags"     : "malgrado-le-mosche",
       "url"      : "/2021/01/26/otello_alle_cinque/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Omaggio a Peppino De Filippo in memoria della sua scomparsa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/26/omaggio_a_peppino_de_filippo_in_memoria_della_sua_scomparsa/",
       "date"     : "2021-01-26 00:00:00 +0100"
     } ,
   
@@ -153,10 +281,26 @@
     } ,
   
     {
+      "title"    : "Hunters: a caccia di nazisti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/26/hunters_a_caccia_di_nazisti/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Hollywood scandals | Sogni cannibali, sucker punch e gatti morti",
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
       "url"      : "/2021/01/26/hollywood_scandals_sogni_cannibali_sucker_punch_e_gatti_morti/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giornata della memoria: note oscure di una tragedia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/26/giornata_della_memoria_note_oscure_di_una_tragedia/",
       "date"     : "2021-01-26 00:00:00 +0100"
     } ,
   
@@ -185,10 +329,42 @@
     } ,
   
     {
+      "title"    : "Dispari",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/01/26/dispari/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Di necessità virtù",
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2021/01/26/di_necessit_virt/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cover over me Adulti – Foto di Valeria Gentile",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/01/26/cover_over_me_adulti_foto_di_valeria_gentile/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cosa succede all’Esquilino",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/01/26/cosa_succede_allesquilino/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Connessione (intermezzo teorico)",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/01/26/connessione_intermezzo_teorico/",
       "date"     : "2021-01-26 00:00:00 +0100"
     } ,
   
@@ -213,6 +389,22 @@
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/01/26/cenerentola_pop/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Campo di battaglia",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/01/26/campo_di_battaglia/",
+      "date"     : "2021-01-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Anne Sexton – Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/01/26/anne_sexton_poesie/",
       "date"     : "2021-01-26 00:00:00 +0100"
     } ,
   
