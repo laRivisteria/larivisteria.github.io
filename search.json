@@ -1,6 +1,206 @@
 [
   
     {
+      "title"    : "Voices of Italian Poets: intervista a Valentina Colonna e Mikka Petris",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/02/03/voices_of_italian_poets_intervista_a_valentina_colonna_e_mikka_petris/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una specie di casa",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/02/03/una_specie_di_casa/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un passerotto",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/02/03/un_passerotto/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tornano in libreria John Connolly e David Baldacci",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/02/03/tornano_in_libreria_john_connolly_e_david_baldacci/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sulla crisi politica. Meglio un maggiordomo o un cameriere?",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/02/03/sulla_crisi_politica_meglio_un_maggiordomo_o_un_cameriere/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mick Jagger &amp; il culto per Jorge Luis Borges",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/03/mick_jagger_il_culto_per_jorge_luis_borges/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Luce d’estate ed è subito notte",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/02/03/luce_destate_ed_subito_notte/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libri (Quasi) Non Letti #8",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/02/03/libri_quasi_non_letti_8/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 3 Febbraio 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/02/03/le_news_letterarie_3_febbraio_2021/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La nuova casa",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/02/03/la_nuova_casa/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La fisica quantistica e la teoria del romanzo: gita nei regni dell’impossibile (in ogni caso, meglio leggere altro)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/03/la_fisica_quantistica_e_la_teoria_del_romanzo_gita_nei_regni_dellimpossibile_in_ogni_caso_meglio_leggere_altro/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La crisi politica in Italia",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/02/03/la_crisi_politica_in_italia/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La cattedrale",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/02/03/la_cattedrale/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Jugoslavia ovvero la morte del sogno (Pt. 1), un articolo di Cartavelina || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/02/03/jugoslavia_ovvero_la_morte_del_sogno_pt_1_un_articolo_di_cartavelina_threevial_pursuit/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il titolo di giornale che cambiò l’Italia, e l’arte contemporanea",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/02/03/il_titolo_di_giornale_che_cambi_litalia_e_larte_contemporanea/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Stop di Giacomo Proia",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/02/03/il_racconto_del_mercoled_stop_di_giacomo_proia/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ferruccio Benzoni – Diario di un’amicizia",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/02/03/ferruccio_benzoni_diario_di_unamicizia/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! Extra #7",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/02/03/fantastico_extra_7/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dinamica",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/02/03/dinamica/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Diario di scrittura di “Tre madri”",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/03/diario_di_scrittura_di_tre_madri/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Consigli di lettura: 5 Adelphi",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/02/03/consigli_di_lettura_5_adelphi/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Carlo Coccioli e la fuga da sé stessi. Il Grande Karma di Raveggi",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/02/03/carlo_coccioli_e_la_fuga_da_s_stessi_il_grande_karma_di_raveggi/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Altre consumazioni",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/02/03/altre_consumazioni/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alla fine della scala il Nulla. Alcune riflessioni su “Luisa e il silenzio” di Claudio Piersanti",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/02/03/alla_fine_della_scala_il_nulla_alcune_riflessioni_su_luisa_e_il_silenzio_di_claudio_piersanti/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Videointervista a Marco Zurzolo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/02/videointervista_a_marco_zurzolo/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Una nuova edizione di “Arianna” di Cechov  da Intrecci Edizioni",
       "category" : "downtobaker",
       "tags"     : "downtobaker",
@@ -13,6 +213,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/02/02/un_occhio_strabico_sul_mondo_dialogo_tra_lina_agostini_e_ilaria_gaspari/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Trame: Bologna",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/02/02/trame_bologna/",
       "date"     : "2021-02-02 00:00:00 +0100"
     } ,
   
@@ -81,6 +289,70 @@
     } ,
   
     {
+      "title"    : "Marie Duplessis, la signora delle Camelie",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/02/marie_duplessis_la_signora_delle_camelie/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Zurzolo a Sant’Anna dei Lombardi, una magica fusione di passioni",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/02/marco_zurzolo_a_santanna_dei_lombardi_una_magica_fusione_di_passioni/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lw’nafh ng yar, ovvero: tutto quello che avreste sempre voluto sapere su H.P. Lovecraft / Seconda Parte",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/02/lwnafh_ng_yar_ovvero_tutto_quello_che_avreste_sempre_voluto_sapere_su_hp_lovecraft_seconda_parte/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’uomo che odiava i cani",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/02/02/luomo_che_odiava_i_cani/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’uomo artificiale",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/02/02/luomo_artificiale/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lumache | Antonio Koch",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/02/02/lumache_antonio_koch/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’arte di legare le persone",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/02/larte_di_legare_le_persone/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Largo ai giovani",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/02/02/largo_ai_giovani/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La valigetta di Rebecca Makkai",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
@@ -105,10 +377,26 @@
     } ,
   
     {
+      "title"    : "I nuovi pionieri americani",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/02/02/i_nuovi_pionieri_americani/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Gli uomini cercano l’occasione, le donne affrontano l’imprevisto”: Manuela Diliberto dialoga con Margherita Dogliani",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/02/02/gli_uomini_cercano_loccasione_le_donne_affrontano_limprevisto_manuela_diliberto_dialoga_con_margherita_dogliani/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giulio Iovine",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/02/02/giulio_iovine/",
       "date"     : "2021-02-02 00:00:00 +0100"
     } ,
   
@@ -141,6 +429,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/02/02/come_fili_di_acciaio_che_salgono_dalle_narici_al_cervello_joyce_carol_oates_poesie/",
+      "date"     : "2021-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Colui che rubò il fuoco per noi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/02/colui_che_rub_il_fuoco_per_noi/",
       "date"     : "2021-02-02 00:00:00 +0100"
     } ,
   
@@ -517,6 +813,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/01/31/non_c_una_sola_riga_seria_l_dentro_james_joyce_ulisse_il_libro_impossibile/",
+      "date"     : "2021-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nel giorno dell’addio",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/01/31/nel_giorno_delladdio/",
       "date"     : "2021-01-31 00:00:00 +0100"
     } ,
   
@@ -909,6 +1213,14 @@
       "category" : "grado-zero",
       "tags"     : "grado-zero",
       "url"      : "/2021/01/29/il_conflitto_che_c_in_noi_guerre_interne_di_joseph_zarate/",
+      "date"     : "2021-01-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "dieci",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/01/29/dieci/",
       "date"     : "2021-01-29 00:00:00 +0100"
     } ,
   
@@ -7237,6 +7549,14 @@
       "category" : "sguardindiretti",
       "tags"     : "sguardindiretti",
       "url"      : "/2020/12/30/codici_di_francesco_barilli/",
+      "date"     : "2020-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ciao Ciao!",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2020/12/30/ciao_ciao/",
       "date"     : "2020-12-30 00:00:00 +0100"
     } ,
   
