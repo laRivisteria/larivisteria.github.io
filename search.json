@@ -1,10 +1,74 @@
 [
   
     {
+      "title"    : "Uova sode",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/02/12/uova_sode/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una volta vivevo a Milano",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/02/12/una_volta_vivevo_a_milano/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una metafora della visione ⥀ Sulla cinematografia poetica di Brakhage",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/02/12/una_metafora_della_visione_sulla_cinematografia_poetica_di_brakhage/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tre poesie di Gianluigi Pagliaro",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/02/12/tre_poesie_di_gianluigi_pagliaro/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "TRADIZIONE ILLUSORIA",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/02/12/tradizione_illusoria/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Thiffany Mcdaniels e la sua “estate che sciolse ogni cosa”",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/02/12/thiffany_mcdaniels_e_la_sua_estate_che_sciolse_ogni_cosa/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Storia della realtà virtuale",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/02/12/storia_della_realt_virtuale/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sale e sangue",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/02/12/sale_e_sangue/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Quando viene meno un cuore, la casa si fa più buia, caravaggesche le vene”. In ricordo di mio padre",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/12/quando_viene_meno_un_cuore_la_casa_si_fa_pi_buia_caravaggesche_le_vene_in_ricordo_di_mio_padre/",
       "date"     : "2021-02-12 00:00:00 +0100"
     } ,
   
@@ -41,6 +105,14 @@
     } ,
   
     {
+      "title"    : "Noi, l’Altro: sviluppo di un’identità dai “Persiani” di Eschilo",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/02/12/noi_laltro_sviluppo_di_unidentit_dai_persiani_di_eschilo/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Noi, l’Altro: l’invenzione di un paradigma identitario dai “Persiani” di Eschilo",
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
@@ -49,10 +121,106 @@
     } ,
   
     {
+      "title"    : "“Mi prendo il mondo ovunque sia” | Dialogo con Letizia Battaglia, Sabrina Pisu e Piera Degli Esposti",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/02/12/mi_prendo_il_mondo_ovunque_sia_dialogo_con_letizia_battaglia_sabrina_pisu_e_piera_degli_esposti/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Esposito",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/02/12/marco_esposito/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Let&#39;s miserables",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/02/12/lets_miserables/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La maschera che prima copriva la parte superiore del volto ora è scivolata sulla bocca a divenire freno alla parola, al bacio e alle lingue che si cercano”. Siamo sempre in quaresima",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/12/la_maschera_che_prima_copriva_la_parte_superiore_del_volto_ora_scivolata_sulla_bocca_a_divenire_freno_alla_parola_al_bacio_e_alle_lingue_che_si_cercano_siamo_sempre_in_quaresima/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La fine della natura",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/12/la_fine_della_natura/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Indifferenziata #1: Evanescence (Grazia Palmisano)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/02/12/indifferenziata_1_evanescence_grazia_palmisano/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Tartaruga",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/02/12/il_tartaruga/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il perturbante nella Varsavia di inizio Novecento: “Buio” di Anna Kańtoch",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/02/12/il_perturbante_nella_varsavia_di_inizio_novecento_buio_di_anna_katoch/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il freno di emergenza",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/02/12/il_freno_di_emergenza/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il cordoglio degli sciacalli",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/02/12/il_cordoglio_degli_sciacalli/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I libri e le case: una recensione per frammenti al nuovo romanzo di Andrea Bajani",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/02/12/i_libri_e_le_case_una_recensione_per_frammenti_al_nuovo_romanzo_di_andrea_bajani/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cultura visuale. Una genealogia",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/02/12/cultura_visuale_una_genealogia/",
+      "date"     : "2021-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Breve storia della follia",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/02/12/breve_storia_della_follia/",
       "date"     : "2021-02-12 00:00:00 +0100"
     } ,
   
@@ -233,6 +401,14 @@
     } ,
   
     {
+      "title"    : "Compagni di letto | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/02/11/compagni_di_letto_in_translation/",
+      "date"     : "2021-02-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Capodanno cinese: la spaventosa leggenda alle sue spalle",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -377,6 +553,14 @@
     } ,
   
     {
+      "title"    : "In via delle Caldaie 28",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/02/10/in_via_delle_caldaie_28/",
+      "date"     : "2021-02-10 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il viaggio dell’antieroe",
       "category" : "marvin",
       "tags"     : "marvin",
@@ -389,6 +573,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/02/10/il_rione_dei_sogni_completo_grazie_jorit/",
+      "date"     : "2021-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il reciproco delle piccole cose – Parte 1",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/02/10/il_reciproco_delle_piccole_cose_parte_1/",
       "date"     : "2021-02-10 00:00:00 +0100"
     } ,
   
@@ -790,6 +982,14 @@
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/02/09/aborto_e_societ_lesempio_dellumbria_ci_mette_di_fronte_a_noi_stessi/",
       "date"     : "2021-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Universitalia",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/02/08/universitalia/",
+      "date"     : "2021-02-08 00:00:00 +0100"
     } ,
   
     {
@@ -1377,6 +1577,14 @@
     } ,
   
     {
+      "title"    : "Nella bottega di uno scrittore: Dialogo con Pino Imperatore",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/02/05/nella_bottega_di_uno_scrittore_dialogo_con_pino_imperatore/",
+      "date"     : "2021-02-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Le ripetizioni: redenzione, battimenti e soluzioni infinite",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -1517,6 +1725,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/02/05/5_centimeters_per_second_lo_splendore_del_quotidiano/",
+      "date"     : "2021-02-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "27 serie e film DA VEDERE nel 2021",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/02/05/27_serie_e_film_da_vedere_nel_2021/",
       "date"     : "2021-02-05 00:00:00 +0100"
     } ,
   
@@ -1813,6 +2029,14 @@
       "category" : "il-mondo-o-niente",
       "tags"     : "il-mondo-o-niente",
       "url"      : "/2021/02/03/luce_destate_ed_subito_notte/",
+      "date"     : "2021-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lo stato delle cose",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/02/03/lo_stato_delle_cose/",
       "date"     : "2021-02-03 00:00:00 +0100"
     } ,
   
@@ -2481,6 +2705,14 @@
     } ,
   
     {
+      "title"    : "IO INCENDIO: IO, LA CURA DEL TEMPO, TE",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/02/01/io_incendio_io_la_cura_del_tempo_te/",
+      "date"     : "2021-02-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Iniziativa laica: la libertà di scegliere non è peccato",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -3045,6 +3277,14 @@
       "category" : "clean",
       "tags"     : "clean",
       "url"      : "/2021/01/29/how_far/",
+      "date"     : "2021-01-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Eichmann in Jerusalem: A Report on the Banality of Evil",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/01/29/eichmann_in_jerusalem_a_report_on_the_banality_of_evil/",
       "date"     : "2021-01-29 00:00:00 +0100"
     } ,
   
@@ -3649,6 +3889,14 @@
     } ,
   
     {
+      "title"    : "Hurbinek:  La tregua e la memoria nella memoria",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/01/27/hurbinek_la_tregua_e_la_memoria_nella_memoria/",
+      "date"     : "2021-01-27 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Giorno della memoria 2021, i libri Bompiani",
       "category" : "downtobaker",
       "tags"     : "downtobaker",
@@ -4129,6 +4377,14 @@
     } ,
   
     {
+      "title"    : "Pro memoria",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/01/25/pro_memoria/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Pillole di poesia #3 – Massimo Ferretti",
       "category" : "inverso",
       "tags"     : "inverso",
@@ -4477,6 +4733,14 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/01/23/una_teoria_femminista_della_violenza_intervista_a_franoise_vergs/",
+      "date"     : "2021-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "TO THE MOON AND BOOK: LE REGOLE DEGLI AMANTI",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/01/23/to_the_moon_and_book_le_regole_degli_amanti/",
       "date"     : "2021-01-23 00:00:00 +0100"
     } ,
   
