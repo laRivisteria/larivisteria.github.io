@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Una vita nel mezzo: confessioni di una donna del nuovo millennio",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/19/una_vita_nel_mezzo_confessioni_di_una_donna_del_nuovo_millennio/",
+      "date"     : "2021-02-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tutti con Draghi | Blog",
       "category" : "l-eco-del-nulla",
       "tags"     : "l-eco-del-nulla",
@@ -93,6 +101,14 @@
       "category" : "narrandom",
       "tags"     : "narrandom",
       "url"      : "/2021/02/19/mi_grattavo_sempre_la_testa/",
+      "date"     : "2021-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Metropolitan Museum of Art di New York: buon compleanno The Met",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/19/metropolitan_museum_of_art_di_new_york_buon_compleanno_the_met/",
       "date"     : "2021-02-19 00:00:00 +0100"
     } ,
   
@@ -201,6 +217,14 @@
     } ,
   
     {
+      "title"    : "E tu il caffè lo bevi o ti ci fai lo scrub?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/19/e_tu_il_caff_lo_bevi_o_ti_ci_fai_lo_scrub/",
+      "date"     : "2021-02-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Cosa sognano le auto elettriche?",
       "category" : "singola",
       "tags"     : "singola",
@@ -221,6 +245,14 @@
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2021/02/19/avalovara_o_unallegoria_dellarte_del_romanzo/",
+      "date"     : "2021-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amore e pizza fritta",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/19/amore_e_pizza_fritta/",
       "date"     : "2021-02-19 00:00:00 +0100"
     } ,
   
