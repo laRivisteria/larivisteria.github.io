@@ -1,6 +1,78 @@
 [
   
     {
+      "title"    : "Vennero in sella due gendarmi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/02/20/vennero_in_sella_due_gendarmi/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tornare in sé con lo yoga e riscoprire le risorse della propria mente",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/02/20/tornare_in_s_con_lo_yoga_e_riscoprire_le_risorse_della_propria_mente/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Storia veridica di Pavel Florenskij, monaco della prospettiva e dell’escatologia che “chiusa l’Accademia dai Bolscevichi, rimase a Mosca a guadagnarsi la vita come ingegnere e elettrotecnico”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/20/storia_veridica_di_pavel_florenskij_monaco_della_prospettiva_e_dellescatologia_che_chiusa_laccademia_dai_bolscevichi_rimase_a_mosca_a_guadagnarsi_la_vita_come_ingegnere_e_elettrotecnico/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nessuno mi può giudicare?  Sulla formazione e la valutazione dei docenti",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/02/20/nessuno_mi_pu_giudicare_sulla_formazione_e_la_valutazione_dei_docenti/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Muschio bianco etero cis",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/02/20/muschio_bianco_etero_cis/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Meduse: i miti allo specchio. Un progetto di riscritture",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/02/20/meduse_i_miti_allo_specchio_un_progetto_di_riscritture/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Io sono nera perché provengo dall’interno della terra”. A conoscere Audre Lorde: outsider poetessa americana",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/20/io_sono_nera_perch_provengo_dallinterno_della_terra_a_conoscere_audre_lorde_outsider_poetessa_americana/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Caffèorchidea",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/02/20/cafforchidea/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alice Munro, Robin e l’accettazione degli scherzi del destino",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/02/20/alice_munro_robin_e_laccettazione_degli_scherzi_del_destino/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Una vita nel mezzo: confessioni di una donna del nuovo millennio",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -221,6 +293,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/02/19/e_tu_il_caff_lo_bevi_o_ti_ci_fai_lo_scrub/",
+      "date"     : "2021-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "E tu il caffè lo bevi o ci fai lo scrub?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/19/e_tu_il_caff_lo_bevi_o_ci_fai_lo_scrub/",
       "date"     : "2021-02-19 00:00:00 +0100"
     } ,
   
@@ -1269,6 +1349,14 @@
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2021/02/15/dialogo_di_due_cani_bastardi_ii_parte/",
+      "date"     : "2021-02-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Deriva — Charles Rafferty",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/02/15/deriva_charles_rafferty/",
       "date"     : "2021-02-15 00:00:00 +0100"
     } ,
   
@@ -2653,6 +2741,14 @@
       "category" : "specularia",
       "tags"     : "specularia",
       "url"      : "/2021/02/08/pareidolia/",
+      "date"     : "2021-02-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ossigeno — Davide Ceraso",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/02/08/ossigeno_davide_ceraso/",
       "date"     : "2021-02-08 00:00:00 +0100"
     } ,
   
@@ -4393,6 +4489,14 @@
     } ,
   
     {
+      "title"    : "Gli improvvisati — Francesco Mari",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/02/01/gli_improvvisati_francesco_mari/",
+      "date"     : "2021-02-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Giulietta e Arturo: filtri d’amore e di morte",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
@@ -5985,6 +6089,14 @@
     } ,
   
     {
+      "title"    : "Saccheggiatore seriale — Mimma Rapicano",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/01/25/saccheggiatore_seriale_mimma_rapicano/",
+      "date"     : "2021-01-25 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Rubare a Josephine Rowe. Scrivere meglio leggendo i racconti dell’antologia “Fino ad agosto”",
       "category" : "downtobaker",
       "tags"     : "downtobaker",
@@ -7297,6 +7409,14 @@
     } ,
   
     {
+      "title"    : "Prendiamo un caffè americano — Andrea Astolfi",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/01/19/prendiamo_un_caff_americano_andrea_astolfi/",
+      "date"     : "2021-01-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Pillole di poesia #2 – Giovanna Marmo",
       "category" : "inverso",
       "tags"     : "inverso",
@@ -8357,6 +8477,14 @@
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/01/14/is_there_an_alternative_just_say_yes_luci_e_tenebre_di_sanpa/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Io sono stato una bomba — Angelo Colella",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/01/14/io_sono_stato_una_bomba_angelo_colella/",
       "date"     : "2021-01-14 00:00:00 +0100"
     } ,
   
@@ -10249,6 +10377,14 @@
     } ,
   
     {
+      "title"    : "La mano invisibile bussa due volte — Benjamin Gucciardi",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/01/05/la_mano_invisibile_bussa_due_volte_benjamin_gucciardi/",
+      "date"     : "2021-01-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La caverna non è una muta",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -11233,6 +11369,14 @@
     } ,
   
     {
+      "title"    : "Il Daruma di Caserta — Daniele Israelachvili",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2020/12/30/il_daruma_di_caserta_daniele_israelachvili/",
+      "date"     : "2020-12-30 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "IL CUORE SANGUINANTE di Monica Capomonte",
       "category" : "sguardindiretti",
       "tags"     : "sguardindiretti",
@@ -11805,6 +11949,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2020/12/28/dov_il_bene_qual_la_sua_origine_che_cos_simone_ptrement_lamica_di_simone_weil/",
+      "date"     : "2020-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Curiosità — Gianluca Garrapa",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2020/12/28/curiosit_gianluca_garrapa/",
       "date"     : "2020-12-28 00:00:00 +0100"
     } ,
   
@@ -13893,6 +14045,14 @@
       "category" : "not",
       "tags"     : "not",
       "url"      : "/2020/12/17/la_grande_depressione/",
+      "date"     : "2020-12-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il celerino — Andrea Zucca",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2020/12/17/il_celerino_andrea_zucca/",
       "date"     : "2020-12-17 00:00:00 +0100"
     } ,
   
