@@ -1,6 +1,662 @@
 [
   
     {
+      "title"    : "TURI FARFALLINA",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/02/25/turi_farfallina/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ti racconto Grado Zero",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/02/25/ti_racconto_grado_zero/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sia lode ad Aldo Busi (e, vi imploro, traducete Benito Pérez Galdós)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/25/sia_lode_ad_aldo_busi_e_vi_imploro_traducete_benito_prez_galds/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Short story al femminile – Le migliori autrici di racconti",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/02/25/short_story_al_femminile_le_migliori_autrici_di_racconti/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pensare come Ulisse",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/02/25/pensare_come_ulisse/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mascaró, ovvero l’arte della rivoluzione",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/02/25/mascar_ovvero_larte_della_rivoluzione/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mario Draghi immaginato bene grazie a Eros Pagni",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/25/mario_draghi_immaginato_bene_grazie_a_eros_pagni/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maradona, la Caritas e bastoncini di pesce",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/02/25/maradona_la_caritas_e_bastoncini_di_pesce/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Spoon River dei vivi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/02/25/la_spoon_river_dei_vivi/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La notte della Repubblica ⥀ L’impero colpisce ancora? Dialoghi con Giovanni Brizzi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/02/25/la_notte_della_repubblica_limpero_colpisce_ancora_dialoghi_con_giovanni_brizzi/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Invidiosi, B-side track: Purgatorio XIV",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/02/25/invidiosi_b-side_track_purgatorio_xiv/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gatti, rane e criptoartisti",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/02/25/gatti_rane_e_criptoartisti/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ferlinghetti: la miglior vendetta è vivere bene",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/02/25/ferlinghetti_la_miglior_vendetta_vivere_bene/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Discorso sul digiuno e sull’“artista della fame”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/25/discorso_sul_digiuno_e_sullartista_della_fame/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Devi sapere che le mie donne io le chiamo tutte Bambola (veramente sono io la bambola, il fantoccio)”. Le lettere di Pavese a vent’anni",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/25/devi_sapere_che_le_mie_donne_io_le_chiamo_tutte_bambola_veramente_sono_io_la_bambola_il_fantoccio_le_lettere_di_pavese_a_ventanni/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Contro i luoghi comuni della pedagogia piacevole, fresca, emozionale. I nostri ragazzi meritano lucidità e conoscenza.",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/25/contro_i_luoghi_comuni_della_pedagogia_piacevole_fresca_emozionale_i_nostri_ragazzi_meritano_lucidit_e_conoscenza/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Che relazione c’è tra le proteste antiabortiste e i ricatti emozionali?",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/02/25/che_relazione_c_tra_le_proteste_antiabortiste_e_i_ricatti_emozionali/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Uno straordinario viaggio nel nulla",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/02/24/uno_straordinario_viaggio_nel_nulla/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una teodicea per universi artificiali",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/02/24/una_teodicea_per_universi_artificiali/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una sola moltitudine",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/02/24/una_sola_moltitudine/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Tutto è silenzioso per sempre». Su Linea intera, linea spezzata di Milo De Angelis",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/02/24/tutto_silenzioso_per_sempre_su_linea_intera_linea_spezzata_di_milo_de_angelis/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tutte le parole di Alice Ceresa",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/02/24/tutte_le_parole_di_alice_ceresa/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Sono sfortunatamente un viaggiatore eccessivo, viviamo tutti vite frammentate e complesse ma l’editoria alleva polli da semplicità”. Paolo Ferrucci dialoga con Marco Ciriello",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/24/sono_sfortunatamente_un_viaggiatore_eccessivo_viviamo_tutti_vite_frammentate_e_complesse_ma_leditoria_alleva_polli_da_semplicit_paolo_ferrucci_dialoga_con_marco_ciriello/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per Franco Loi",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/02/24/per_franco_loi/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Non puoi immaginare quanto mi terrorizzi vedere le donne che ho conosciuto una volta. Sulle loro facce leggo la mia condanna”. Indagine sulle donne e gli amici di Cioran da giovane",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/24/non_puoi_immaginare_quanto_mi_terrorizzi_vedere_le_donne_che_ho_conosciuto_una_volta_sulle_loro_facce_leggo_la_mia_condanna_indagine_sulle_donne_e_gli_amici_di_cioran_da_giovane/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Noi non abbiamo colpa”: il coraggio di raccontare la vecchiaia nel secondo romanzo di Marta Zura-Puntaroni",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/24/noi_non_abbiamo_colpa_il_coraggio_di_raccontare_la_vecchiaia_nel_secondo_romanzo_di_marta_zura-puntaroni/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Myanmar: colpo alla libertà ma non alla resistenza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/24/myanmar_colpo_alla_libert_ma_non_alla_resistenza/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Multiverso ⥀ Mediateca della poesia contemporanea",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/02/24/multiverso_mediateca_della_poesia_contemporanea/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Mi chiamo Giulia ma potrei essere Giovanna D’Arco, una donna che combatte”. Manuela Diliberto dialoga con Giulia Innocenzi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/24/mi_chiamo_giulia_ma_potrei_essere_giovanna_darco_una_donna_che_combatte_manuela_diliberto_dialoga_con_giulia_innocenzi/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Memorie di Lawrence Ferlinghetti",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/24/memorie_di_lawrence_ferlinghetti/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 24 Febbraio 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/02/24/le_news_letterarie_24_febbraio_2021/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le cose chiare",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/24/le_cose_chiare/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La seconda tiratura di Waltzing Matilda, romanzo d’esordio di G. Bindi || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/02/24/la_seconda_tiratura_di_waltzing_matilda_romanzo_desordio_di_g_bindi_threevial_pursuit/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La regina degli scacchi",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/02/24/la_regina_degli_scacchi/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La matematica è politica",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/02/24/la_matematica_politica/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La cura e la devozione, ovvero dieci domande a Antonella Lattanzi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/24/la_cura_e_la_devozione_ovvero_dieci_domande_a_antonella_lattanzi/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Jack lo Squartatore: catch me when you can",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/24/jack_lo_squartatore_catch_me_when_you_can/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Cinzia Sciuto: tra informazione culturale e blasfemia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/24/intervista_a_cinzia_sciuto_tra_informazione_culturale_e_blasfemia/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Gli ipocondriaci dormono nudi di Alice Cervia",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/02/24/il_racconto_del_mercoled_gli_ipocondriaci_dormono_nudi_di_alice_cervia/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il prigioniero libero",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/02/24/il_prigioniero_libero/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I Segreti di Twin Peaks (trent’anni dopo)",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/24/i_segreti_di_twin_peaks_trentanni_dopo/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli dei notturni di Danilo Soscia",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/02/24/gli_dei_notturni_di_danilo_soscia/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Distanza d&#39;inverno",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/02/24/distanza_dinverno/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Contaminazioni #3",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/02/24/contaminazioni_3/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buchi neri",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/02/24/buchi_neri/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Blue Monday",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/02/24/blue_monday/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bestiario Incerto: Lettere impossibili",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/02/24/bestiario_incerto_lettere_impossibili/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amore dispari",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/02/24/amore_dispari/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alessandro Gazoia, le sue tredici lune e le microdemie dell’inazione",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/02/24/alessandro_gazoia_le_sue_tredici_lune_e_le_microdemie_dellinazione/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Al di là del dogma: Oriana Fallaci e la ricerca della verità",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/02/24/al_di_l_del_dogma_oriana_fallaci_e_la_ricerca_della_verit/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Your Honor: etica e genitorialità in guerra su Sky",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/23/your_honor_etica_e_genitorialit_in_guerra_su_sky/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vikings: anche un vichingo può piangere per amore",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/23/vikings_anche_un_vichingo_pu_piangere_per_amore/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Video – Morte: tra scienza e religione",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/23/video_morte_tra_scienza_e_religione/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una vetrina scintillante che è proibito guardare. Il decadante Ovest nel ritratto di Sophie Van Llewyn",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/02/23/una_vetrina_scintillante_che_proibito_guardare_il_decadante_ovest_nel_ritratto_di_sophie_van_llewyn/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una teoria della storia come macchina del tempo",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/02/23/una_teoria_della_storia_come_macchina_del_tempo/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tra ironia e disincanto: Mio zio Napoleone svela vizi e virtù degli iraniani",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/02/23/tra_ironia_e_disincanto_mio_zio_napoleone_svela_vizi_e_virt_degli_iraniani/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Torna a vivere senza alcun merito",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/02/23/torna_a_vivere_senza_alcun_merito/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Toni Chira – Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/02/23/toni_chira_poesie/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Si sciolgono i Daft Punk: l’epilogo della notte in cui ballammo fino all’alba",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/23/si_sciolgono_i_daft_punk_lepilogo_della_notte_in_cui_ballammo_fino_allalba/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Ottessa Moshfegh, chi è? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/02/23/ritratti_di_scrittori_ottessa_moshfegh_chi_scoprilo_in_5_parole/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Qui giace uno il cui nome fu scritto sull’acqua”. Un fiore per John Keats",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/23/qui_giace_uno_il_cui_nome_fu_scritto_sullacqua_un_fiore_per_john_keats/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Profumo",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/02/23/profumo/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Premio Massimo Troisi, XX Edizione",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/02/23/premio_massimo_troisi_xx_edizione/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Piperita: l’esordio di Francesco Mila",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/02/23/piperita_lesordio_di_francesco_mila/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Phalaenopsis” di Antonella Scampoli",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/02/23/phalaenopsis_di_antonella_scampoli/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nella sera d’inverno",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/02/23/nella_sera_dinverno/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mustafa Malimbo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/02/23/mustafa_malimbo/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letture Femministe Metropolitane, quinto incontro del gruppo di lettura",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/02/23/letture_femministe_metropolitane_quinto_incontro_del_gruppo_di_lettura/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La spinta",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/02/23/la_spinta/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La scandalosa diversità",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/02/23/la_scandalosa_diversit/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La mia immaginazione è un monastero”. Documenti su John Keats",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/23/la_mia_immaginazione_un_monastero_documenti_su_john_keats/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "John Niven – A volte ritorno",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/02/23/john_niven_a_volte_ritorno/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Jean Rhys e il mondo che cambia",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/02/23/jean_rhys_e_il_mondo_che_cambia/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In dialogo con Vincenzo Canzanella, patrimonio a rischio di una Napoli in oblio",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/02/23/in_dialogo_con_vincenzo_canzanella_patrimonio_a_rischio_di_una_napoli_in_oblio/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Frantumati e cuneiformi: “I popoli scomparsi” di G. M. Gallerani",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/02/23/frantumati_e_cuneiformi_i_popoli_scomparsi_di_g_m_gallerani/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elena Nemerov",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/02/23/elena_nemerov/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Editori da Asporto: NNeditore e Edizioni Del Foglio Clandestino",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/02/23/editori_da_asporto_nneditore_e_edizioni_del_foglio_clandestino/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come trovare soluzioni senza dialogo? Di Marco Crepaldi, cancel culture e omologazioni",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/02/23/come_trovare_soluzioni_senza_dialogo_di_marco_crepaldi_cancel_culture_e_omologazioni/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bettino Craxi: dall’altare alla polvere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/23/bettino_craxi_dallaltare_alla_polvere/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Basilico",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/02/23/basilico/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Albicocca",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/02/23/albicocca/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«A4» numero 23: un racconto di Lorenza Maffei",
+      "category" : "a4",
+      "tags"     : "a4",
+      "url"      : "/2021/02/23/a4_numero_23_un_racconto_di_lorenza_maffei/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vivere e pensare nell’attuale pandemia",
       "category" : "opera-viva",
       "tags"     : "opera-viva",
@@ -21,6 +677,14 @@
       "category" : "italiansbookitbetter",
       "tags"     : "italiansbookitbetter",
       "url"      : "/2021/02/22/una_settimana_di_racconti_153/",
+      "date"     : "2021-02-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Ordinary: come, dove e perché",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/22/the_ordinary_come_dove_e_perch/",
       "date"     : "2021-02-22 00:00:00 +0100"
     } ,
   
@@ -173,6 +837,14 @@
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2021/02/22/e_ora_lancia_il_dado/",
+      "date"     : "2021-02-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "DROGA",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/02/22/droga/",
       "date"     : "2021-02-22 00:00:00 +0100"
     } ,
   
@@ -5205,6 +5877,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/01/30/the_blair_witch_project_ovvero_come_ti_scombino_il_genere_horror_con_un_film_low_cost/",
+      "date"     : "2021-01-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sottosopra",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/01/30/sottosopra/",
       "date"     : "2021-01-30 00:00:00 +0100"
     } ,
   
