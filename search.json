@@ -1,6 +1,86 @@
 [
   
     {
+      "title"    : "Y.",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/02/28/y/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Persi nel labirinto, siamo diventati il Minotauro”. Enzo Fontana parla del libro di Giuseppe Culicchia su Walter Alasia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/28/persi_nel_labirinto_siamo_diventati_il_minotauro_enzo_fontana_parla_del_libro_di_giuseppe_culicchia_su_walter_alasia/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Per me gli amici son sempre creature che mi appaiono davanti come sbocciate da un incantesimo, e che restano libere da me come ne resto sempre libero io”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/28/per_me_gli_amici_son_sempre_creature_che_mi_appaiono_davanti_come_sbocciate_da_un_incantesimo_e_che_restano_libere_da_me_come_ne_resto_sempre_libero_io/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: La pomata per il cuore di Marianna Vitale",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/02/28/il_racconto_della_domenica_la_pomata_per_il_cuore_di_marianna_vitale/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“I matti non mentono/ i matti ci vedono/ i matti dicono sempre una verità” sui beati della “casa delle farfalle”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/28/i_matti_non_mentono_i_matti_ci_vedono_i_matti_dicono_sempre_una_verit_sui_beati_della_casa_delle_farfalle/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I cattivi maestri: Aldo Braibanti",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/02/28/i_cattivi_maestri_aldo_braibanti/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gianfranco Contini: gli “scartafacci” dei poeti del Duecento ⥀ La critica delle varianti",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/02/28/gianfranco_contini_gli_scartafacci_dei_poeti_del_duecento_la_critica_delle_varianti/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una lunga via",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/27/una_lunga_via/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stasera esce con Biagio",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/02/27/stasera_esce_con_biagio/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sacajawea: la donna guida",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/27/sacajawea_la_donna_guida/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Rappresentare l’irrappresentabile. L’Astrazione tra fascismo e comunismo. Quella volta che Gropius incontrò Marinetti per portare il Bauhaus in Italia…",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -17,6 +97,38 @@
     } ,
   
     {
+      "title"    : "Perfect Blue: il disturbo dissociativo dell’irrealtà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/27/perfect_blue_il_disturbo_dissociativo_dellirrealt/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Panico in autostrada",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/02/27/panico_in_autostrada/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Michele Paoletti – Foglie altrove",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/02/27/michele_paoletti_foglie_altrove/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Madre di trentanove anni per l’eternità”. Némirovsky, la scrittrice che non fu perdonata dalle figlie per non essersi salvata dai nazisti",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/27/madre_di_trentanove_anni_per_leternit_nmirovsky_la_scrittrice_che_non_fu_perdonata_dalle_figlie_per_non_essersi_salvata_dai_nazisti/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Libri in uscita a marzo 2021: le novità da non pedere",
       "category" : "blam",
       "tags"     : "blam",
@@ -25,10 +137,50 @@
     } ,
   
     {
+      "title"    : "“Il mare di Lombardia non è solo una suggestione letteraria ma un’insinuazione antropologica. In Lombardia c’è il mare, e l’involontaria poesia di questo popolo altro non è che vita”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/02/27/il_mare_di_lombardia_non_solo_una_suggestione_letteraria_ma_uninsinuazione_antropologica_in_lombardia_c_il_mare_e_linvolontaria_poesia_di_questo_popolo_altro_non_che_vita/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I viaggi teatrali della compagnia delle seggiole",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/02/27/i_viaggi_teatrali_della_compagnia_delle_seggiole/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "I nuovi occhi del cinema di genere | Visioni",
       "category" : "l-eco-del-nulla",
       "tags"     : "l-eco-del-nulla",
       "url"      : "/2021/02/27/i_nuovi_occhi_del_cinema_di_genere_visioni/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Guinnes World Record: il libro più rubato di sempre",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/27/guinnes_world_record_il_libro_pi_rubato_di_sempre/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fernand Deligny: tra Rhizome e Lignes d’erre",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/02/27/fernand_deligny_tra_rhizome_e_lignes_derre/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #91, un po&#39; extra",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/02/27/fantastico_91_un_po_extra/",
       "date"     : "2021-02-27 00:00:00 +0100"
     } ,
   
