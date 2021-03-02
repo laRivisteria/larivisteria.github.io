@@ -1,10 +1,618 @@
 [
   
     {
+      "title"    : "Zoščenko: fare satira ai tempi di Stalin",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/02/zoenko_fare_satira_ai_tempi_di_stalin/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "When the Rain Clouds Gather — l’apartheid e l’altro raccontati da Bessie Head",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/03/02/when_the_rain_clouds_gather_lapartheid_e_laltro_raccontati_da_bessie_head/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Venghino signori venghino",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/03/02/venghino_signori_venghino/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una croce di carta",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/03/02/una_croce_di_carta/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quarant’anni di “Possession”. Un’eresia senza tempo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/02/quarantanni_di_possession_uneresia_senza_tempo/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Piuttosto nel fumo e nelle bettole / dove Cristo è più onorato / lì fermarmi / per avere pietà” grazie a David Maria Turoldo e ai “sensi suoi”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/02/piuttosto_nel_fumo_e_nelle_bettole_dove_cristo_pi_onorato_l_fermarmi_per_avere_piet_grazie_a_david_maria_turoldo_e_ai_sensi_suoi/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Paolo Cognetti – Sofia si veste sempre di nero",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/03/02/paolo_cognetti_sofia_si_veste_sempre_di_nero/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nello specchio (deformato) della scuola: economia e governance. Sul libro del nuovo ministro all’istruzione /1",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/02/nello_specchio_deformato_della_scuola_economia_e_governance_sul_libro_del_nuovo_ministro_allistruzione_1/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Morte per acqua",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/03/02/morte_per_acqua/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lou Reed, poeta maledetto o alchimista interiore",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/02/lou_reed_poeta_maledetto_o_alchimista_interiore/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’odore di Marte",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/03/02/lodore_di_marte/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La solitudine della Chimera",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/02/la_solitudine_della_chimera/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La sigaretta invisibile",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/03/02/la_sigaretta_invisibile/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La propria lingua",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/02/la_propria_lingua/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La memoria dell’uguale, Alfredo Zucchi. La nebbia nella costruzione narrativa",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/03/02/la_memoria_delluguale_alfredo_zucchi_la_nebbia_nella_costruzione_narrativa/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La casa sconosciuta",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/03/02/la_casa_sconosciuta/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Francesco Bolognesi",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/03/02/francesco_bolognesi/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Eros&amp;Thanatos – 11.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/02/erosthanatos_11/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Emergere da un abisso e rientrarvi – non è forse questo, la Vita?”. Gli aforismi di Emily Dickinson",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/02/emergere_da_un_abisso_e_rientrarvi_non_forse_questo_la_vita_gli_aforismi_di_emily_dickinson/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#ecosistemipoetici: Iovino – D’Amico",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/02/ecosistemipoetici_iovino_damico/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Donna fotocopia, il romanzo d’esordio di Leandro Capasso",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/03/02/donna_fotocopia_il_romanzo_desordio_di_leandro_capasso/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Comunanza impropria",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/03/02/comunanza_impropria/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Cenere” di Raffaele Auteri",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/02/cenere_di_raffaele_auteri/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Campo Scout",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/03/02/campo_scout/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Almanacco illustrato degli animali di Scozia",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/03/02/almanacco_illustrato_degli_animali_di_scozia/",
+      "date"     : "2021-03-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Trentaremi (non) è solo un sogno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/01/trentaremi_non_solo_un_sogno/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The midnight sky | Un’adolescenza difficile",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/03/01/the_midnight_sky_unadolescenza_difficile/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Sono uno scrittore di quart’ordine”. Beppe Fenoglio, la Balena Bianca della letteratura italiana",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/01/sono_uno_scrittore_di_quartordine_beppe_fenoglio_la_balena_bianca_della_letteratura_italiana/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sacro e profano",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/01/sacro_e_profano/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Radiografie: interviste radio in roulotte – Terza puntata",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/03/01/radiografie_interviste_radio_in_roulotte_terza_puntata/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Radiografie: interviste radio in roulotte – Seconda puntata",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/03/01/radiografie_interviste_radio_in_roulotte_seconda_puntata/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Radiografie: interviste radio in roulotte – Quarta puntata",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/03/01/radiografie_interviste_radio_in_roulotte_quarta_puntata/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quando si sveglia",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/03/01/quando_si_sveglia/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Plastic Hearts: rock liberatorio by Miley Cyrus",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/plastic_hearts_rock_liberatorio_by_miley_cyrus/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Oblomov e la sua prigione: l’«oblomovismo»",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/oblomov_e_la_sua_prigione_loblomovismo/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#Nofilter e questa volta per davvero!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/01/nofilter_e_questa_volta_per_davvero/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’uomo che volle l’ereditiera e finì malissimo. Barry Lyndon &amp; Kubrick",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/01/luomo_che_volle_lereditiera_e_fin_malissimo_barry_lyndon_kubrick/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L&#39;umano alla deriva",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/03/01/lumano_alla_deriva/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ultima primavera del secolo di Domenico Ippolito: un romanzo di formazione moderno. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/01/lultima_primavera_del_secolo_di_domenico_ippolito_un_romanzo_di_formazione_moderno_recensione/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lei vuole vendetta – Elisa Lam, la Contessa &amp; il Cecil Hotel",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/03/01/lei_vuole_vendetta_elisa_lam_la_contessa_il_cecil_hotel/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le vite degli altri",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/03/01/le_vite_degli_altri/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Le ragazze sono le peggiori»",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/01/le_ragazze_sono_le_peggiori/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le parole di febbraio",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/03/01/le_parole_di_febbraio/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le insidie dell’acqua dolce",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/01/le_insidie_dellacqua_dolce/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La sirena Partenope",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/01/la_sirena_partenope/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La liberazione di San Pietro come liberazione dalle catene terrene",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/la_liberazione_di_san_pietro_come_liberazione_dalle_catene_terrene/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Forma. Intervista a Valentina Maini.",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/03/01/la_forma_intervista_a_valentina_maini/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La fame è femmina",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/03/01/la_fame_femmina/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intrappolata nella fantasia",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/intrappolata_nella_fantasia/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "INDIFFERENZIATA #2: Una luce al secondo piano (Gianni Somigli)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/03/01/indifferenziata_2_una_luce_al_secondo_piano_gianni_somigli/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il tatuaggio: l’espressione di una cultura",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/il_tatuaggio_lespressione_di_una_cultura/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il progresso scientifico: tra verificazioni, falsificazioni e rivoluzioni (parte I)",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/03/01/il_progresso_scientifico_tra_verificazioni_falsificazioni_e_rivoluzioni_parte_i/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il nido del cuculo che è una prigione",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/il_nido_del_cuculo_che_una_prigione/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il delitto degli Übermensch: nei meandri di Compulsion",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/il_delitto_degli_bermensch_nei_meandri_di_compulsion/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I Golden Globe 2021: le nuove serie da vedere in un campionato che ha escluso la serie vincente.",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/03/01/i_golden_globe_2021_le_nuove_serie_da_vedere_in_un_campionato_che_ha_escluso_la_serie_vincente/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fuori dagli schemi 7 – Giorgio Falco",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/01/fuori_dagli_schemi_7_giorgio_falco/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Esistenzialismo politico: i Canti di Prigionia di Luigi Dallapiccola",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/esistenzialismo_politico_i_canti_di_prigionia_di_luigi_dallapiccola/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elizabeth, May, Lizzy… Chi è davvero Lana Del Rey?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/01/elizabeth_may_lizzy_chi_davvero_lana_del_rey/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Diario di un editore di fumetti #8",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/01/diario_di_un_editore_di_fumetti_8/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dante&amp;Me/ 7. Cinque domande a Natascia Tonelli",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/01/danteme_7_cinque_domande_a_natascia_tonelli/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come coltelli",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/03/01/come_coltelli/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cenere",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/01/cenere/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Brazil: la prigione di carte e timbri di Terry Gillam",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/01/brazil_la_prigione_di_carte_e_timbri_di_terry_gillam/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bo-Taoshi.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/bo-taoshi/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Berlinale 2021, giorno 1. Esistenze sradicate",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/03/01/berlinale_2021_giorno_1_esistenze_sradicate/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Vedono la luce accesa in una casa estiva e pensano ad un’occupazione abusiva. Entrano polizia e pompieri ma scoprono che i proprietari avevano dimenticato di spegnerla",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/attenzione_vedono_la_luce_accesa_in_una_casa_estiva_e_pensano_ad_unoccupazione_abusiva_entrano_polizia_e_pompieri_ma_scoprono_che_i_proprietari_avevano_dimenticato_di_spegnerla/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Grande Fratello Vip, un topo semina il terrore: Alfonso Signorini lancia un urlo e poi scappa dallo studio",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/attenzione_grande_fratello_vip_un_topo_semina_il_terrore_alfonso_signorini_lancia_un_urlo_e_poi_scappa_dallo_studio/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Francesco Sarcina: «Ho rischiato l’overdose. Mi ha salvato J-Ax»",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/attenzione_francesco_sarcina_ho_rischiato_loverdose_mi_ha_salvato_j-ax/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Degrado a Livorno in piazza Cavallotti: uomo urina su saracinesca",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/attenzione_degrado_a_livorno_in_piazza_cavallotti_uomo_urina_su_saracinesca/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Cristiano Ronaldo e Georgina Rodriguez in ansia per il gatto investito da un’auto: ora sta meglio",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/attenzione_cristiano_ronaldo_e_georgina_rodriguez_in_ansia_per_il_gatto_investito_da_unauto_ora_sta_meglio/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ CHIARA FERRAGNI, DOPO AVER ABOLITO IL PATRIARCATO, FA LA CERETTA AL NASO. FINISCE MALISSIMO",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/attenzione_chiara_ferragni_dopo_aver_abolito_il_patriarcato_fa_la_ceretta_al_naso_finisce_malissimo/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Chiama i carabinieri: “Incendio dai vicini!”. Ma era il salvaschermo della tv",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/attenzione_chiama_i_carabinieri_incendio_dai_vicini_ma_era_il_salvaschermo_della_tv/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Bimbo di 2 anni salta sul letto e si rompe il femore, la mamma: «Ho sentito il rumore dell’osso»",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/01/attenzione_bimbo_di_2_anni_salta_sul_letto_e_si_rompe_il_femore_la_mamma_ho_sentito_il_rumore_dellosso/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Arte e utopia. La lungimiranza di una Liala",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/01/arte_e_utopia_la_lungimiranza_di_una_liala/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Accuratissimo nulla e dismisura del volo: su “La domanda della sete” di Chandra Livia Candiani",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/01/accuratissimo_nulla_e_dismisura_del_volo_su_la_domanda_della_sete_di_chandra_livia_candiani/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Y.",
       "category" : "inutile",
       "tags"     : "inutile",
       "url"      : "/2021/02/28/y/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una settimana di racconti #154",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/02/28/una_settimana_di_racconti_154/",
       "date"     : "2021-02-28 00:00:00 +0100"
     } ,
   
@@ -49,10 +657,50 @@
     } ,
   
     {
+      "title"    : "Gremlins, poltergeist e OOO (Ontologia orientata agli oggetti)",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/02/28/gremlins_poltergeist_e_ooo_ontologia_orientata_agli_oggetti/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Gianfranco Contini: gli “scartafacci” dei poeti del Duecento ⥀ La critica delle varianti",
       "category" : "argo",
       "tags"     : "argo",
       "url"      : "/2021/02/28/gianfranco_contini_gli_scartafacci_dei_poeti_del_duecento_la_critica_delle_varianti/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dal 750 a.C. al 2012: il contagio su carta",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/28/dal_750_ac_al_2012_il_contagio_su_carta/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Campioni del mondo: and we’ll keep on fighting ‘till the end",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/28/campioni_del_mondo_and_well_keep_on_fighting_till_the_end/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Birra, bevanda degli dei",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/28/birra_bevanda_degli_dei/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Baldassarre Castiglione – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/02/28/baldassarre_castiglione_personaggio_della_settimana/",
       "date"     : "2021-02-28 00:00:00 +0100"
     } ,
   
@@ -125,6 +773,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/02/27/madre_di_trentanove_anni_per_leternit_nmirovsky_la_scrittrice_che_non_fu_perdonata_dalle_figlie_per_non_essersi_salvata_dai_nazisti/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libri in uscita a marzo 2021: le novità da non perdere",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/02/27/libri_in_uscita_a_marzo_2021_le_novit_da_non_perdere/",
       "date"     : "2021-02-27 00:00:00 +0100"
     } ,
   
@@ -4201,6 +4857,14 @@
     } ,
   
     {
+      "title"    : "Radiografie: interviste radio in roulotte – Prima puntata",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/02/09/radiografie_interviste_radio_in_roulotte_prima_puntata/",
+      "date"     : "2021-02-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Radiografie: interviste radio in roulotte",
       "category" : "la-tigre-di-carta",
       "tags"     : "la-tigre-di-carta",
@@ -6445,6 +7109,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/01/30/tregua_un_racconto_di_luca_tosi/",
+      "date"     : "2021-01-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tre massime di Lao-Tzu e la leggerissima arte dello sradicamento",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/01/30/tre_massime_di_lao-tzu_e_la_leggerissima_arte_dello_sradicamento/",
       "date"     : "2021-01-30 00:00:00 +0100"
     } ,
   
