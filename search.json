@@ -1,6 +1,118 @@
 [
   
     {
+      "title"    : "Tre poesie di Michela Zanarella",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/05/tre_poesie_di_michela_zanarella/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sovvertire l’algebra: “Tommaso e l’algebra del destino” di Enrico Macioci",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/05/sovvertire_lalgebra_tommaso_e_lalgebra_del_destino_di_enrico_macioci/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sia festa! Dante Arfelli compie 100 anni e ripubblicano “I superflui”. Storia del Camus italiano",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/05/sia_festa_dante_arfelli_compie_100_anni_e_ripubblicano_i_superflui_storia_del_camus_italiano/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Sarò banalità, compagnia, sessualmente azzerato e genericamente tutto”. Corso di Storia dell’arte a partire dai “quadri” di Achille Lauro.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/05/sar_banalit_compagnia_sessualmente_azzerato_e_genericamente_tutto_corso_di_storia_dellarte_a_partire_dai_quadri_di_achille_lauro/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Perché la Spagna ha un problema con la libertà d’espressione",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/03/05/perch_la_spagna_ha_un_problema_con_la_libert_despressione/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Perché abbiamo bisogno di consolazione?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/03/05/perch_abbiamo_bisogno_di_consolazione/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’America di Walmart e l’America di Trump | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/03/05/lamerica_di_walmart_e_lamerica_di_trump_in_translation/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La riva",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/05/la_riva/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La pandemia sta funzionando benissimo",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/03/05/la_pandemia_sta_funzionando_benissimo/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Inchiesta sul lavoro di editor /2: Laura Bosio (Guanda)",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/05/inchiesta_sul_lavoro_di_editor_2_laura_bosio_guanda/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dittatori e biblioteche: intervista a Paolo Zardi",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/05/dittatori_e_biblioteche_intervista_a_paolo_zardi/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dialogo di Giulio Mozzi e di un lettore qualunque. A proposito del romanzo “Le ripetizioni”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/05/dialogo_di_giulio_mozzi_e_di_un_lettore_qualunque_a_proposito_del_romanzo_le_ripetizioni/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Appunti su L’iris selvatico e Averno di Louise Glück",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/05/appunti_su_liris_selvatico_e_averno_di_louise_glck/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Yun Dong Ju – Vento blu",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/03/04/yun_dong_ju_vento_blu/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vigdis: onore e vendetta nella Norvegia medievale",
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
@@ -129,6 +241,30 @@
     } ,
   
     {
+      "title"    : "La pittura del Novecento, parte X: la mimesis impossibile del surrealismo",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/03/04/la_pittura_del_novecento_parte_x_la_mimesis_impossibile_del_surrealismo/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La pareidolia: quando c’è una tartaruga nel cielo ma non hai bevuto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/04/la_pareidolia_quando_c_una_tartaruga_nel_cielo_ma_non_hai_bevuto/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Palermo male: dialogo con Vincenzo Profeta",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/04/la_palermo_male_dialogo_con_vincenzo_profeta/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La descrizione di un attimo",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -153,6 +289,22 @@
     } ,
   
     {
+      "title"    : "Il palazzo della memoria: conosci questa tecnica mnemonica?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/04/il_palazzo_della_memoria_conosci_questa_tecnica_mnemonica/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Famolo strano: le abitudini eccentriche degli scrittori famosi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/04/famolo_strano_le_abitudini_eccentriche_degli_scrittori_famosi/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Dorso Mondo di Gabriele Stera | Sovrapporre i punti della mappa",
       "category" : "neutopia",
       "tags"     : "neutopia",
@@ -165,6 +317,30 @@
       "category" : "not",
       "tags"     : "not",
       "url"      : "/2021/03/04/cosmotica/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Circe: maga o dea?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/04/circe_maga_o_dea/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Casa sua. Madame a Sanremo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/04/casa_sua_madame_a_sanremo/",
+      "date"     : "2021-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Berlinale 2021, giorno 4. In Concorso arriva il bellissimo iraniano ‘Ballad of a White cow’",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/03/04/berlinale_2021_giorno_4_in_concorso_arriva_il_bellissimo_iraniano_ballad_of_a_white_cow/",
       "date"     : "2021-03-04 00:00:00 +0100"
     } ,
   
