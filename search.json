@@ -1,10 +1,26 @@
 [
   
     {
+      "title"    : "Variazioni sul tema “Dio”",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/03/05/variazioni_sul_tema_dio/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tre poesie di Michela Zanarella",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/03/05/tre_poesie_di_michela_zanarella/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "È tempo di diventare spietati ⥀ Invito alla Rivoluzione",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/03/05/tempo_di_diventare_spietati_invito_alla_rivoluzione/",
       "date"     : "2021-03-05 00:00:00 +0100"
     } ,
   
@@ -25,10 +41,26 @@
     } ,
   
     {
+      "title"    : "Shiloh, di Philip Fracassi",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/03/05/shiloh_di_philip_fracassi/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Sarò banalità, compagnia, sessualmente azzerato e genericamente tutto”. Corso di Storia dell’arte a partire dai “quadri” di Achille Lauro.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/03/05/sar_banalit_compagnia_sessualmente_azzerato_e_genericamente_tutto_corso_di_storia_dellarte_a_partire_dai_quadri_di_achille_lauro/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Raccontare la fragilità. “Il grande me” di Anna Giurickovic Dato",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/05/raccontare_la_fragilit_il_grande_me_di_anna_giurickovic_dato/",
       "date"     : "2021-03-05 00:00:00 +0100"
     } ,
   
@@ -45,6 +77,14 @@
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/03/05/perch_abbiamo_bisogno_di_consolazione/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“O d’amarti o morire” di Francesca Guercio: la morte “ironica” in una cantafavola tra prosa e teatro. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/05/o_damarti_o_morire_di_francesca_guercio_la_morte_ironica_in_una_cantafavola_tra_prosa_e_teatro_recensione/",
       "date"     : "2021-03-05 00:00:00 +0100"
     } ,
   
@@ -73,10 +113,42 @@
     } ,
   
     {
+      "title"    : "La Palermo male: dialogo con Vincenzo Profeta",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/05/la_palermo_male_dialogo_con_vincenzo_profeta/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La notte termica",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/03/05/la_notte_termica/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La bambina d’argento",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/03/05/la_bambina_dargento/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Inchiesta sul lavoro di editor /2: Laura Bosio (Guanda)",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/03/05/inchiesta_sul_lavoro_di_editor_2_laura_bosio_guanda/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il deputato, un racconto di P. Ranicchi || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/03/05/il_deputato_un_racconto_di_p_ranicchi_street_stories/",
       "date"     : "2021-03-05 00:00:00 +0100"
     } ,
   
@@ -97,10 +169,50 @@
     } ,
   
     {
+      "title"    : "Caccia",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/03/05/caccia/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Berlinale 2021: storie di madri e figlie",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/05/berlinale_2021_storie_di_madri_e_figlie/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Berlinale 2021, giorno 5. Trionfo meritato per Radu Jude che vince l’Orso d’oro",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/03/05/berlinale_2021_giorno_5_trionfo_meritato_per_radu_jude_che_vince_lorso_doro/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ballo Ballo con Raffaella",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/03/05/ballo_ballo_con_raffaella/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Appunti su L’iris selvatico e Averno di Louise Glück",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/03/05/appunti_su_liris_selvatico_e_averno_di_louise_glck/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amelia Rosselli: Tutti gli appuntamenti mancati",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/05/amelia_rosselli_tutti_gli_appuntamenti_mancati/",
       "date"     : "2021-03-05 00:00:00 +0100"
     } ,
   
@@ -405,6 +517,14 @@
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/03/03/proust_e_labitudine_al_tempo_della_pandemia/",
+      "date"     : "2021-03-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Promising Young Woman”, empowerment e pessimismo nel rape&amp;revenge",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2021/03/03/promising_young_woman_empowerment_e_pessimismo_nel_raperevenge/",
       "date"     : "2021-03-03 00:00:00 +0100"
     } ,
   
@@ -1321,6 +1441,14 @@
     } ,
   
     {
+      "title"    : "Appunti sparsi per lo studio della Geografia",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2021/03/01/appunti_sparsi_per_lo_studio_della_geografia/",
+      "date"     : "2021-03-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Accuratissimo nulla e dismisura del volo: su “La domanda della sete” di Chandra Livia Candiani",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -1657,6 +1785,14 @@
     } ,
   
     {
+      "title"    : "«L’infinito è grandioso» — Intervista con Sue Tompkins",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2021/02/26/linfinito_grandioso_intervista_con_sue_tompkins/",
+      "date"     : "2021-02-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Letture Elettriche per Libri D’Asporto: Libreria Piccolo Grande Bubo e Libreria Iobook",
       "category" : "letture-metropolitane",
       "tags"     : "letture-metropolitane",
@@ -1877,6 +2013,14 @@
       "category" : "italiansbookitbetter",
       "tags"     : "italiansbookitbetter",
       "url"      : "/2021/02/25/ti_racconto_grado_zero/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“The infinite is great” — Interview with Sue Tompkins",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2021/02/25/the_infinite_is_great_interview_with_sue_tompkins/",
       "date"     : "2021-02-25 00:00:00 +0100"
     } ,
   
@@ -2157,6 +2301,14 @@
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/02/24/per_franco_loi/",
+      "date"     : "2021-02-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Parliamone",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2021/02/24/parliamone/",
       "date"     : "2021-02-24 00:00:00 +0100"
     } ,
   
@@ -2741,6 +2893,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/02/22/la_letteratura_assoluta_di_roberto_calasso/",
+      "date"     : "2021-02-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La difficile eredità di Syd Barrett",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2021/02/22/la_difficile_eredit_di_syd_barrett/",
       "date"     : "2021-02-22 00:00:00 +0100"
     } ,
   
@@ -3549,6 +3709,14 @@
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
       "url"      : "/2021/02/18/manhunt_unabomber_manifesto/",
+      "date"     : "2021-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Ma come ballavano alle feste duecento anni fa?» — Intervista con Marco Castello",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2021/02/18/ma_come_ballavano_alle_feste_duecento_anni_fa_intervista_con_marco_castello/",
       "date"     : "2021-02-18 00:00:00 +0100"
     } ,
   
