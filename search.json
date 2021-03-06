@@ -1,6 +1,46 @@
 [
   
     {
+      "title"    : "Sulla Giustizia: dialogo con Platone. Un testo di Ezio Savino",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/06/sulla_giustizia_dialogo_con_platone_un_testo_di_ezio_savino/",
+      "date"     : "2021-03-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Se la follia salva la vita – Conversando con Alda Merini di Renato Minore",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/06/se_la_follia_salva_la_vita_conversando_con_alda_merini_di_renato_minore/",
+      "date"     : "2021-03-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Restaurazione",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/03/06/restaurazione/",
+      "date"     : "2021-03-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Duri i banchi!",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/06/duri_i_banchi/",
+      "date"     : "2021-03-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amelia Rosselli: Tutti gli appuntamenti mancati",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/06/amelia_rosselli_tutti_gli_appuntamenti_mancati/",
+      "date"     : "2021-03-06 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Variazioni sul tema “Dio”",
       "category" : "marvin",
       "tags"     : "marvin",
@@ -29,6 +69,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/03/05/sovvertire_lalgebra_tommaso_e_lalgebra_del_destino_di_enrico_macioci/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Solitudine",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/05/solitudine/",
       "date"     : "2021-03-05 00:00:00 +0100"
     } ,
   
@@ -81,10 +129,34 @@
     } ,
   
     {
+      "title"    : "Pasolini cosa direbbe adesso?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/05/pasolini_cosa_direbbe_adesso/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“O d’amarti o morire” di Francesca Guercio: la morte “ironica” in una cantafavola tra prosa e teatro. Recensione",
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/03/05/o_damarti_o_morire_di_francesca_guercio_la_morte_ironica_in_una_cantafavola_tra_prosa_e_teatro_recensione/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "No Men For A Day? Ecco cosa farebbero le donne",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/05/no_men_for_a_day_ecco_cosa_farebbero_le_donne/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lorenzo De Rose",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/05/lorenzo_de_rose/",
       "date"     : "2021-03-05 00:00:00 +0100"
     } ,
   
@@ -145,6 +217,14 @@
     } ,
   
     {
+      "title"    : "Il sistema linfoide",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/05/il_sistema_linfoide/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il deputato, un racconto di P. Ranicchi || Street Stories",
       "category" : "three-faces",
       "tags"     : "three-faces",
@@ -197,6 +277,14 @@
       "category" : "grado-zero",
       "tags"     : "grado-zero",
       "url"      : "/2021/03/05/ballo_ballo_con_raffaella/",
+      "date"     : "2021-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Assorbenti e tamponi: storia di un prodotto che aiuta le donne",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/05/assorbenti_e_tamponi_storia_di_un_prodotto_che_aiuta_le_donne/",
       "date"     : "2021-03-05 00:00:00 +0100"
     } ,
   
