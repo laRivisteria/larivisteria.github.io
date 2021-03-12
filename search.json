@@ -1,10 +1,138 @@
 [
   
     {
+      "title"    : "Una cosa bella",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/12/una_cosa_bella/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tradurre nell’emergenza. Cinque poesie di Frank O’Hara (1926–1966)",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/12/tradurre_nellemergenza_cinque_poesie_di_frank_ohara_19261966/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Romanzo-poema e autoproduzione: su Vodka Siberiana di Veronica Tomassini",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/03/12/romanzo-poema_e_autoproduzione_su_vodka_siberiana_di_veronica_tomassini/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nuovissimo testamento di Giulio Cavalli: Focolai di empatia. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/12/nuovissimo_testamento_di_giulio_cavalli_focolai_di_empatia_recensione/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Le ripetizioni” di Giulio Mozzi: la possibilità di una storia",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/12/le_ripetizioni_di_giulio_mozzi_la_possibilit_di_una_storia/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’Anno del Fuoco Segreto: Il Ciclo della Carne",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/12/lanno_del_fuoco_segreto_il_ciclo_della_carne/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La fede e la fiducia nella medicina. Un testo di Sergio Quinzio",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/12/la_fede_e_la_fiducia_nella_medicina_un_testo_di_sergio_quinzio/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La faglia delle identità – su La morte di Murat Idrissi di Tommy Wieringa",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/12/la_faglia_delle_identit_su_la_morte_di_murat_idrissi_di_tommy_wieringa/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Joker: perché i supereroi non possono esistere, sono “l’epicizzazione e la razionalizzazione dell’immagine di noi che vorremmo dare al mondo”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/12/joker_perch_i_supereroi_non_possono_esistere_sono_lepicizzazione_e_la_razionalizzazione_dellimmagine_di_noi_che_vorremmo_dare_al_mondo/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fiabe Suonore: i GS ROCK.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/12/fiabe_suonore_i_gs_rock/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Due poesie di Riccardo Mazzamuto",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/12/due_poesie_di_riccardo_mazzamuto/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Watchmen, ovvero. la potenza di un “invece” – parte prima",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/03/11/watchmen_ovvero_la_potenza_di_un_invece_parte_prima/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Versi per l’invisibile – Filomena Ciavarella",
       "category" : "the-bookish-explorer",
       "tags"     : "the-bookish-explorer",
       "url"      : "/2021/03/11/versi_per_linvisibile_filomena_ciavarella/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una lettera di Cesare Pavese",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/11/una_lettera_di_cesare_pavese/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "TUTTO E NIENTE",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/03/11/tutto_e_niente/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ti racconto Sulla quarta corda",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/03/11/ti_racconto_sulla_quarta_corda/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Reminiscences of a Journey to Lithuania | Voci",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/03/11/reminiscences_of_a_journey_to_lithuania_voci/",
       "date"     : "2021-03-11 00:00:00 +0100"
     } ,
   
@@ -17,10 +145,90 @@
     } ,
   
     {
+      "title"    : "Quella foto con Ferlinghetti",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/03/11/quella_foto_con_ferlinghetti/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nella ruota",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/03/11/nella_ruota/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nel giardino letterario di Pia Pera",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/03/11/nel_giardino_letterario_di_pia_pera/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Mio nonno e la farina.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/03/11/mio_nonno_e_la_farina/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Meghan vs. Elizabeth. Ovvero quando “la cerbiatta” perde la sfida con “Elisabetta che è letteratura, occhi stanchi che si sono persi negli interstizi bianchi che separano le parole”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/11/meghan_vs_elizabeth_ovvero_quando_la_cerbiatta_perde_la_sfida_con_elisabetta_che_letteratura_occhi_stanchi_che_si_sono_persi_negli_interstizi_bianchi_che_separano_le_parole/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Mai stati così uniti” – Intervista a Simona Siri",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/03/11/mai_stati_cos_uniti_intervista_a_simona_siri/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lockdown, narrato ma non troppo",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/03/11/lockdown_narrato_ma_non_troppo/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libertà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/11/libert/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le case delle ragazze",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/03/11/le_case_delle_ragazze/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La merca — Giulio Vellar",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/03/11/la_merca_giulio_vellar/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La follia del vedere",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/03/11/la_follia_del_vedere/",
       "date"     : "2021-03-11 00:00:00 +0100"
     } ,
   
@@ -33,6 +241,38 @@
     } ,
   
     {
+      "title"    : "“Il tango è stato un simbolo di felicità”. Quando Borges incontrò Astor Piazzolla",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/11/il_tango_stato_un_simbolo_di_felicit_quando_borges_incontr_astor_piazzolla/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Final Destination: la predestinazione della Morte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/11/final_destination_la_predestinazione_della_morte/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fiammetta Cirilli – [assemblatz]",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/03/11/fiammetta_cirilli_assemblatz/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#ecosistemipoetici: Fiorentino – Cornelio",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/11/ecosistemipoetici_fiorentino_cornelio/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Devi sapere che sarai sola…”. Manuela Diliberto dialoga con Patrizia Barbera",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -41,10 +281,42 @@
     } ,
   
     {
+      "title"    : "Dentro un vuoto mentale garbato. La dolorosa levità di Roberto Venturini",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/11/dentro_un_vuoto_mentale_garbato_la_dolorosa_levit_di_roberto_venturini/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dal tenue allo straziante: Purgatorio XV",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/03/11/dal_tenue_allo_straziante_purgatorio_xv/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "da “Somiglianze di famiglia”",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/03/11/da_somiglianze_di_famiglia/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Collateral Beauty: l’importanza di notare la bellezza collaterale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/11/collateral_beauty_limportanza_di_notare_la_bellezza_collaterale/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alba de Céspedes e lo scandalo della scrittura",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/11/alba_de_cspedes_e_lo_scandalo_della_scrittura/",
       "date"     : "2021-03-11 00:00:00 +0100"
     } ,
   
@@ -653,6 +925,14 @@
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/03/08/letteratura_per_ragazzi_e_un_tesoro_dimenticato/",
+      "date"     : "2021-03-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letteratura in soggettiva – “Azzorre”, di Cecilia M. Giampaoli",
+      "category" : "salmuria",
+      "tags"     : "salmuria",
+      "url"      : "/2021/03/08/letteratura_in_soggettiva_azzorre_di_cecilia_m_giampaoli/",
       "date"     : "2021-03-08 00:00:00 +0100"
     } ,
   
@@ -2621,6 +2901,14 @@
       "category" : "italiansbookitbetter",
       "tags"     : "italiansbookitbetter",
       "url"      : "/2021/02/28/una_settimana_di_racconti_154/",
+      "date"     : "2021-02-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rassegna al femminile | Donna nel domani del mondo",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/02/28/rassegna_al_femminile_donna_nel_domani_del_mondo/",
       "date"     : "2021-02-28 00:00:00 +0100"
     } ,
   
