@@ -1,6 +1,654 @@
 [
   
     {
+      "title"    : "Schermi, sogni e spettri: Mark Fisher e la cultura popolare",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/03/17/schermi_sogni_e_spettri_mark_fisher_e_la_cultura_popolare/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Passi Paesi Parole",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/17/passi_paesi_parole/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La politica della salute. Un saggio di Michel Foucault",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/17/la_politica_della_salute_un_saggio_di_michel_foucault/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Filippo Tuena: i territori non giurisdizionali del romanzo",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/17/filippo_tuena_i_territori_non_giurisdizionali_del_romanzo/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Droga première: La mano di Giacomo Laser.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/17/droga_premire_la_mano_di_giacomo_laser/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Do you remember Ferlinghetti?",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/17/do_you_remember_ferlinghetti/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cos’è una ricetta: storia e filosofia di un genere",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/03/17/cos_una_ricetta_storia_e_filosofia_di_un_genere/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Adriana Cavarero: raccontare e pensare",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/17/adriana_cavarero_raccontare_e_pensare/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "37 secondi",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/03/17/37_secondi/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Walther Ruttmann | Opus I, II, III e IV",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/03/16/walther_ruttmann_opus_i_ii_iii_e_iv/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Versione in forma di favola di un innamoramento e del suo disincanto",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/16/versione_in_forma_di_favola_di_un_innamoramento_e_del_suo_disincanto/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un’oscura intimità",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/16/unoscura_intimit/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Trilogia degli Illuminati",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/03/16/trilogia_degli_illuminati/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sei ciò che scegli. Critica a “Cosa pensavi di fare?” di Carlo Mazza Galanti",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/03/16/sei_ci_che_scegli_critica_a_cosa_pensavi_di_fare_di_carlo_mazza_galanti/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rebecca Solnit – Gli uomini mi spiegano le cose",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/03/16/rebecca_solnit_gli_uomini_mi_spiegano_le_cose/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Premio Letterario L’Avvelenata: Rivista Blam è media partner. Come partecipare",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/16/premio_letterario_lavvelenata_rivista_blam_media_partner_come_partecipare/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Non sapete quanto sia bello svegliarsi con la voce di Cortázar…”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/16/non_sapete_quanto_sia_bello_svegliarsi_con_la_voce_di_cortzar/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Miraggi",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/16/miraggi/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mangime",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/03/16/mangime/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Ma tutto, fin dal principio, è afflitto da un’invincibile stanchezza” Andrej Platonov in una Russia desolata, il racconto di un socialismo dai piedi d’argilla",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/16/ma_tutto_fin_dal_principio_afflitto_da_uninvincibile_stanchezza_andrej_platonov_in_una_russia_desolata_il_racconto_di_un_socialismo_dai_piedi_dargilla/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lungo le rotaie del co-ire e del per-ire. Binari di Monica Pezzella",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/03/16/lungo_le_rotaie_del_co-ire_e_del_per-ire_binari_di_monica_pezzella/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’étoile di Degas e il traffico di minorenni",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/16/ltoile_di_degas_e_il_traffico_di_minorenni/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Loreta Minutilli e i lati oscuri del male gaze con “Quello che chiamiamo amore”",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/03/16/loreta_minutilli_e_i_lati_oscuri_del_male_gaze_con_quello_che_chiamiamo_amore/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’intraducibile Amanda Gorman: il caso della poetessa diventata culto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/16/lintraducibile_amanda_gorman_il_caso_della_poetessa_diventata_culto/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le cose della mia età",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/16/le_cose_della_mia_et/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La ragazza del tram B",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/03/16/la_ragazza_del_tram_b/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Impluvium” di Beatrice Masi",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/16/impluvium_di_beatrice_masi/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Ho trovato amore per la madre e gelosia per il padre anche nel mio caso, e ora credo che questo sia un fenomeno generale della prima infanzia”. Freud a 40 anni",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/16/ho_trovato_amore_per_la_madre_e_gelosia_per_il_padre_anche_nel_mio_caso_e_ora_credo_che_questo_sia_un_fenomeno_generale_della_prima_infanzia_freud_a_40_anni/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giorgio Caproni e la speranza di un fiore",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/16/giorgio_caproni_e_la_speranza_di_un_fiore/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Franco Loi. Per l’aria e la memoria",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/16/franco_loi_per_laria_e_la_memoria/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantasia nella stiva",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/03/16/fantasia_nella_stiva/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Empaticamente",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/16/empaticamente/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cicliche familiari",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/03/16/cicliche_familiari/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Caterina Nicolis Lundgren",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/16/caterina_nicolis_lundgren/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Camogli",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/03/16/camogli/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Arianna",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/03/16/arianna/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "André Breton: Nadja e la sirena",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/16/andr_breton_nadja_e_la_sirena/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Abito verde e trifoglio in tasca. Siamo Pronti per Saint Patrick’s Day!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/16/abito_verde_e_trifoglio_in_tasca_siamo_pronti_per_saint_patricks_day/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "50 sfumature di nude e nessuna pelle si senta esclusa!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/16/50_sfumature_di_nude_e_nessuna_pelle_si_senta_esclusa/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Zona rossa.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/15/zona_rossa/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tribes of Europa, peccato",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/03/15/tribes_of_europa_peccato/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tredici lune: il contro-romanzo sulla pandemia di Alessandro Gazoia. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/15/tredici_lune_il_contro-romanzo_sulla_pandemia_di_alessandro_gazoia_recensione/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Midnight Sky: la sci-fi di George Clooney tra terra e stelle",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/15/the_midnight_sky_la_sci-fi_di_george_clooney_tra_terra_e_stelle/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stand-by Exhibition",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/03/15/stand-by_exhibition/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Soglie/ Le gemelle della Valle dei Molini",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/15/soglie_le_gemelle_della_valle_dei_molini/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nguyen Chi Trung – Poema freddo",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/03/15/nguyen_chi_trung_poema_freddo/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Musa e getta",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/15/musa_e_getta/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "MOBY per “Se lo conosci: lo editi, se non lo screwi: ti incula”.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/15/moby_per_se_lo_conosci_lo_editi_se_non_lo_screwi_ti_incula/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Margherite per il corazziere Destouches",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/15/margherite_per_il_corazziere_destouches/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lo strappo: movimenti magmatici",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/03/15/lo_strappo_movimenti_magmatici/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“L’innocenza era il suo male, ma nello stesso tempo costituiva anche il bene più prezioso, da difendere a ogni costo”. Stig Dagerman visto da vicino",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/15/linnocenza_era_il_suo_male_ma_nello_stesso_tempo_costituiva_anche_il_bene_pi_prezioso_da_difendere_a_ogni_costo_stig_dagerman_visto_da_vicino/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le radici comandano: “Borgo Sud” di Donatella Di Pietrantonio",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/15/le_radici_comandano_borgo_sud_di_donatella_di_pietrantonio/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La seduta spiritica: un estratto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/15/la_seduta_spiritica_un_estratto/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "IO INCENDIO: SESSO, SESSO, SESSO",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/03/15/io_incendio_sesso_sesso_sesso/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In partibus infidelium ovvero delle lezioni di didattica apprese insegnando latino ai margini",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/15/in_partibus_infidelium_ovvero_delle_lezioni_di_didattica_apprese_insegnando_latino_ai_margini/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "IL VUOTO È PUNTUALE",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/15/il_vuoto_puntuale/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il volo della libertà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/15/il_volo_della_libert/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il ritratto dello scandalo: Isabella Borrelli",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/03/15/il_ritratto_dello_scandalo_isabella_borrelli/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il richiamo di Alma, ovvero il fascino dell’irraggiungibile",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/15/il_richiamo_di_alma_ovvero_il_fascino_dellirraggiungibile/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il poeta Male[de]tto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/15/il_poeta_maledetto/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il misticismo è una cosa seria?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/03/15/il_misticismo_una_cosa_seria/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“I robot universali di Rossum” di Karel Čapek",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/15/i_robot_universali_di_rossum_di_karel_apek/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I Måneskin sono fuori di testa o fuoriclasse?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/15/i_mneskin_sono_fuori_di_testa_o_fuoriclasse/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I demoni dei nostri tempi",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/03/15/i_demoni_dei_nostri_tempi/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Humus",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/03/15/humus/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fuga dalla rete – Intervista a Luca Pantarotto",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/03/15/fuga_dalla_rete_intervista_a_luca_pantarotto/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Familiarità",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/03/15/familiarit/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dialettica o spirale di Bernoulli? ⥀ Su L’indifferenziata di Viola Amarelli",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/03/15/dialettica_o_spirale_di_bernoulli_su_lindifferenziata_di_viola_amarelli/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – Tutto fa di Marco Lazzarotto",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_tutto_fa_di_marco_lazzarotto/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – Senza sigarette di Maurizio Minetto",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_senza_sigarette_di_maurizio_minetto/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – Rosmarino di Federica Rigliani",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_rosmarino_di_federica_rigliani/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – Il Sentiero dei funghi di Carlo Paolo Cattaneo",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_il_sentiero_dei_funghi_di_carlo_paolo_cattaneo/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – I margini sani di Isabella Bignozzi",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_i_margini_sani_di_isabella_bignozzi/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – Filosofi del CRACK di Andrea Serra",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_filosofi_del_crack_di_andrea_serra/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – Dal catalogo delle performance di Serena Kempt di Enrico Seimandi",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_dal_catalogo_delle_performance_di_serena_kempt_di_enrico_seimandi/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – Cuzco 1600 di Clorinda Matto de Turner",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_cuzco_1600_di_clorinda_matto_de_turner/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 – Brutti Caratteri Intervista a SEM",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_brutti_caratteri_intervista_a_sem/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 9 -Paranoid Hotel di Andrea Cavaletto",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/03/15/crack_numero_9_-paranoid_hotel_di_andrea_cavaletto/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Con te la poesia diventa coraggio, fierezza”. L’epopea poetica di René Char",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/15/con_te_la_poesia_diventa_coraggio_fierezza_lepopea_poetica_di_ren_char/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Caro amico ti ascolto – Intervista a Lino Musella",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/15/caro_amico_ti_ascolto_intervista_a_lino_musella/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bicchieri Rotti",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/03/15/bicchieri_rotti/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tommaso Di Dio: La poesia è questo annuncio ⥀ La radice dell’inchiostro",
       "category" : "argo",
       "tags"     : "argo",
@@ -41,6 +689,22 @@
     } ,
   
     {
+      "title"    : "Overlove",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/14/overlove/",
+      "date"     : "2021-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nabucodonosor II – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/14/nabucodonosor_ii_personaggio_della_settimana/",
+      "date"     : "2021-03-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Musa e getta",
       "category" : "morel",
       "tags"     : "morel",
@@ -61,6 +725,14 @@
       "category" : "doctor-tale-and-mister-shot",
       "tags"     : "doctor-tale-and-mister-shot",
       "url"      : "/2021/03/14/linea_rossa/",
+      "date"     : "2021-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La domenica Sportiva | Racconti Indigeribili",
+      "category" : "crunched",
+      "tags"     : "crunched",
+      "url"      : "/2021/03/14/la_domenica_sportiva_racconti_indigeribili/",
       "date"     : "2021-03-14 00:00:00 +0100"
     } ,
   
@@ -117,6 +789,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/03/13/poeta_o_divinitsono_la_stessa_cosa/",
+      "date"     : "2021-03-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Play, for H-Elio Germano",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/03/13/play_for_h-elio_germano/",
       "date"     : "2021-03-13 00:00:00 +0100"
     } ,
   
@@ -273,6 +953,14 @@
     } ,
   
     {
+      "title"    : "Nella tela di Aracne | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/03/12/nella_tela_di_aracne_lettere/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Mixis25# ⥀ Maculae lutae",
       "category" : "argo",
       "tags"     : "argo",
@@ -389,6 +1077,14 @@
       "category" : "la-nuova-carne",
       "tags"     : "la-nuova-carne",
       "url"      : "/2021/03/12/i_fratellini/",
+      "date"     : "2021-03-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I cordoni della poesia #2: Meccanismo a scomparsa",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/12/i_cordoni_della_poesia_2_meccanismo_a_scomparsa/",
       "date"     : "2021-03-12 00:00:00 +0100"
     } ,
   
