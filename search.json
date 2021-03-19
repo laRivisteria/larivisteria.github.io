@@ -1,10 +1,554 @@
 [
   
     {
+      "title"    : "“We hear a new world – Vol.2” – La compilation che celebra i due anni di Fango Radio.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/19/we_hear_a_new_world_vol2_la_compilation_che_celebra_i_due_anni_di_fango_radio/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un funerale di Luciano Bianciardi",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/19/un_funerale_di_luciano_bianciardi/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tre poesie di Stefano Ricchitelli",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/19/tre_poesie_di_stefano_ricchitelli/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sogni? Su “I poteri forti” di Giuseppe Zucco",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/19/sogni_su_i_poteri_forti_di_giuseppe_zucco/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scorrere",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/19/scorrere/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scenari demartiniani: riflessioni su Murene di Manuela Antonucci",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/03/19/scenari_demartiniani_riflessioni_su_murene_di_manuela_antonucci/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritornare ai classici per spiegare il futuro ai ragazzi – Intervista a Beatrice Masini",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/03/19/ritornare_ai_classici_per_spiegare_il_futuro_ai_ragazzi_intervista_a_beatrice_masini/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quel vecchio manoscritto di “Onuphrio Muralto” trovato a Otranto che aprì il genere al romanzo noir. Indagine su “Il castello di Otranto” e sul suo bizzarro autore &amp; collezionista, Sir Walpole",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/19/quel_vecchio_manoscritto_di_onuphrio_muralto_trovato_a_otranto_che_apr_il_genere_al_romanzo_noir_indagine_su_il_castello_di_otranto_e_sul_suo_bizzarro_autore_collezionista_sir_walpole/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per un’introduzione critica alla letteratura fantastica",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/03/19/per_unintroduzione_critica_alla_letteratura_fantastica/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ostaggi",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/03/19/ostaggi/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Noi siamo carne e geografia”: l’uomo e lo spazio secondo Franco La Cecla.",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/03/19/noi_siamo_carne_e_geografia_luomo_e_lo_spazio_secondo_franco_la_cecla/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Neoprene",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/03/19/neoprene/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nella mente dello scrittore: Giulio Mozzi",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/19/nella_mente_dello_scrittore_giulio_mozzi/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’estate calda",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/03/19/lestate_calda/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’epistolario di Truman Capote",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/19/lepistolario_di_truman_capote/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’anidride carbonica può guarire ansia e depressione?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/03/19/lanidride_carbonica_pu_guarire_ansia_e_depressione/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La solitudine della scrittura. Un testo di Marguerite Duras",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/19/la_solitudine_della_scrittura_un_testo_di_marguerite_duras/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La nuova Eleusi: Stanislav Grof intervista Albert Hofmann",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/19/la_nuova_eleusi_stanislav_grof_intervista_albert_hofmann/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Jacopo Milani",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/19/jacopo_milani/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Inchiesta sul lavoro di editor/3: Gerardo Masuccio (Utopia)",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/19/inchiesta_sul_lavoro_di_editor3_gerardo_masuccio_utopia/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il mondo a rovescio ⥀ Intervista al regista Silvano Agosti",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/03/19/il_mondo_a_rovescio_intervista_al_regista_silvano_agosti/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“I PELLICANI. CRONACA DI UN’EMANCIPAZIONE”. DIALOGO CON SERGIO LA CHIUSA",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/03/19/i_pellicani_cronaca_di_unemancipazione_dialogo_con_sergio_la_chiusa/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I film da riscoprire: Vogliamo anche le rose",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/03/19/i_film_da_riscoprire_vogliamo_anche_le_rose/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Guilty Pleasure, un racconto di R. Mantellini || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/03/19/guilty_pleasure_un_racconto_di_r_mantellini_street_stories/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giuseppe Rotunno | Lezioni di fotografia | Visioni",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/03/19/giuseppe_rotunno_lezioni_di_fotografia_visioni/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fratelli di silenzio, la storia di Antonio Magarotto in graphic novel",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/03/19/fratelli_di_silenzio_la_storia_di_antonio_magarotto_in_graphic_novel/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fat finger",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/03/19/fat_finger/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dare voce ai muri | Una mappatura della poesia di strada",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/03/19/dare_voce_ai_muri_una_mappatura_della_poesia_di_strada/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Da “Noi” di Alessandro Broggi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/19/da_noi_di_alessandro_broggi/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Contro gli anarchici. Una storia italiana lunga e attuale.",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/19/contro_gli_anarchici_una_storia_italiana_lunga_e_attuale/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Blackie Edizioni: dalla Spagna all’Italia con il Quaderno di compiti per le vacanze (e non solo). Storia della casa editrice",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/19/blackie_edizioni_dalla_spagna_allitalia_con_il_quaderno_di_compiti_per_le_vacanze_e_non_solo_storia_della_casa_editrice/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ascoltare il futuro",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/03/19/ascoltare_il_futuro/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alice non è in casa",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/19/alice_non_in_casa/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Video – Lingua originale o parla come mangi?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/18/video_lingua_originale_o_parla_come_mangi/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un fiore mai sbocciato: riflessioni sulla sconfitta della rivoluzione siriana",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/18/un_fiore_mai_sbocciato_riflessioni_sulla_sconfitta_della_rivoluzione_siriana/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quel che c’è oltre il quadro | Cornici di Sofia_",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/03/18/quel_che_c_oltre_il_quadro_cornici_di_sofia/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quando Dio era ancora vivo: commento junghiano a Purgatorio XVII",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/03/18/quando_dio_era_ancora_vivo_commento_junghiano_a_purgatorio_xvii/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Profeti dagli abissi. Sulla straordinaria scoperta di due frammenti biblici",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/18/profeti_dagli_abissi_sulla_straordinaria_scoperta_di_due_frammenti_biblici/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non chiamateli Rasta! Storia di religione e di (ri)appropriazione",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/18/non_chiamateli_rasta_storia_di_religione_e_di_riappropriazione/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Memorie dal sottobosco – Un coleottero dei funghi",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/03/18/memorie_dal_sottobosco_un_coleottero_dei_funghi/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lontano da te",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/18/lontano_da_te/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lo sguardo di Ōtsuka",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/03/18/lo_sguardo_di_tsuka/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lettera da un fronte coperto di polvere",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/18/lettera_da_un_fronte_coperto_di_polvere/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ABC della finanza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/18/labc_della_finanza/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La realtà oltre la realtà",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/18/la_realt_oltre_la_realt/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La carne di Cristò Chiapparino: l’apatia del mondo in un romanzo sperimentale. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/18/la_carne_di_crist_chiapparino_lapatia_del_mondo_in_un_romanzo_sperimentale_recensione/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La bambina che leggeva i libri.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/03/18/la_bambina_che_leggeva_i_libri/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il segnale è crollato",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/03/18/il_segnale_crollato/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il grembo del suono. Storia di un pianoforte",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/03/18/il_grembo_del_suono_storia_di_un_pianoforte/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il funzionamento — Marco Giovenale",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/03/18/il_funzionamento_marco_giovenale/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il cuore vero dell’America",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/03/18/il_cuore_vero_dellamerica/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Il codice dell’anima” è un libro che vi propone di guardare la vostra vita, smettendo di narrarla, lasciate che la storia venga dopo l’immagine",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/18/il_codice_dellanima_un_libro_che_vi_propone_di_guardare_la_vostra_vita_smettendo_di_narrarla_lasciate_che_la_storia_venga_dopo_limmagine/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gloria Riggio – Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/03/18/gloria_riggio_poesie/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli anni americani di Frida Kahlo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/18/gli_anni_americani_di_frida_kahlo/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Francesca Mattei – Il giorno in cui diedi fuoco alla mia casa",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/03/18/francesca_mattei_il_giorno_in_cui_diedi_fuoco_alla_mia_casa/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fly Mode: Gabbia azzurrina",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/18/fly_mode_gabbia_azzurrina/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Eva, la poesia delle rovine",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/03/18/eva_la_poesia_delle_rovine/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Estratto: Fatto e Finzione, Lavocat",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/03/18/estratto_fatto_e_finzione_lavocat/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dario Faggella",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/03/18/dario_faggella/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come si insegna la letteratura? La versione di Nabokov",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/18/come_si_insegna_la_letteratura_la_versione_di_nabokov/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come le Barbie si stanno adattando alle esigenze sociali, dall’inclusività all’empatia",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/03/18/come_le_barbie_si_stanno_adattando_alle_esigenze_sociali_dallinclusivit_allempatia/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cli-fi: Elbrus | narrare il tracollo degli ecosistemi",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/03/18/cli-fi_elbrus_narrare_il_tracollo_degli_ecosistemi/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alice Cappagli risponde a Fante",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/18/alice_cappagli_risponde_a_fante/",
+      "date"     : "2021-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Sull’arma si cade, ma non si cede”. Manuela Diliberto dialoga con Serena La Scola, la pittrice che dipinge “come un uomo”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/17/sullarma_si_cade_ma_non_si_cede_manuela_diliberto_dialoga_con_serena_la_scola_la_pittrice_che_dipinge_come_un_uomo/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sul malessere collettivo. Un discorso in tre parti su Mark Fisher",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/03/17/sul_malessere_collettivo_un_discorso_in_tre_parti_su_mark_fisher/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sospensioni",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/03/17/sospensioni/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Segnalazioni letterarie #2",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/03/17/segnalazioni_letterarie_2/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Schermi, sogni e spettri: Mark Fisher e la cultura popolare",
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2021/03/17/schermi_sogni_e_spettri_mark_fisher_e_la_cultura_popolare/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recollection in tranquillity ai tempi del covid19: 1800 O 2020?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/17/recollection_in_tranquillity_ai_tempi_del_covid19_1800_o_2020/",
       "date"     : "2021-03-17 00:00:00 +0100"
     } ,
   
@@ -17,6 +561,62 @@
     } ,
   
     {
+      "title"    : "Parti sconosciute",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/03/17/parti_sconosciute/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nei titoli di coda Remarque rivive sempre",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/03/17/nei_titoli_di_coda_remarque_rivive_sempre/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Max Porter e le creature d’altra specie",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/17/max_porter_e_le_creature_daltra_specie/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Los Angeles e l’epoca al neon del sabato sera",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/03/17/los_angeles_e_lepoca_al_neon_del_sabato_sera/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 17 Marzo 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/03/17/le_news_letterarie_17_marzo_2021/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Latifa e Shamsa: le figlie prigioniere dell’Emiro di Dubai",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/17/latifa_e_shamsa_le_figlie_prigioniere_dellemiro_di_dubai/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La scintilla che incendia i sogni: L’ombra del fuoco di Hervé Le Corre",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/17/la_scintilla_che_incendia_i_sogni_lombra_del_fuoco_di_herv_le_corre/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La politica della salute. Un saggio di Michel Foucault",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +625,82 @@
     } ,
   
     {
+      "title"    : "Il serpente di Dagerman: declinare l’angoscia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/17/il_serpente_di_dagerman_declinare_langoscia/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: La répétition di Winstonhelbert",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/17/il_racconto_del_mercoled_la_rptition_di_winstonhelbert/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Gioco dell’Oca (a grandezza naturale) || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/03/17/il_gioco_delloca_a_grandezza_naturale_threevial_pursuit/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I ricordi sono arti fantasma",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/03/17/i_ricordi_sono_arti_fantasma/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "High Life | J. H. Kellan, uomo di ingegno ed educazione",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/03/17/high_life_j_h_kellan_uomo_di_ingegno_ed_educazione/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gerusalemme è Ovunque. Una conversazione sull’invisibile",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/17/gerusalemme_ovunque_una_conversazione_sullinvisibile/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gatto Lindo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/17/gatto_lindo/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Filippo Tuena: i territori non giurisdizionali del romanzo",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/03/17/filippo_tuena_i_territori_non_giurisdizionali_del_romanzo/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantasie dall’orlo di un precipizio. “I poteri forti” di Giuseppe Zucco",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/03/17/fantasie_dallorlo_di_un_precipizio_i_poteri_forti_di_giuseppe_zucco/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Essere o non essere…super?: Visione. Un po’ peggio di un uomo, un po’ meglio di una bestia",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/03/17/essere_o_non_esseresuper_visione_un_po_peggio_di_un_uomo_un_po_meglio_di_una_bestia/",
       "date"     : "2021-03-17 00:00:00 +0100"
     } ,
   
@@ -49,6 +721,14 @@
     } ,
   
     {
+      "title"    : "Da Magritte a Wittgenstein: l’inesauribile mistero della realtà quotidiana",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/03/17/da_magritte_a_wittgenstein_linesauribile_mistero_della_realt_quotidiana/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Cos’è una ricetta: storia e filosofia di un genere",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
@@ -57,10 +737,42 @@
     } ,
   
     {
+      "title"    : "Commissari, preti e carabinieri in tv… e quell’Italia che non esiste",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/17/commissari_preti_e_carabinieri_in_tv_e_quellitalia_che_non_esiste/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Claudia Zironi – Not bad",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/03/17/claudia_zironi_not_bad/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Altri Tondelli",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/03/17/altri_tondelli/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Adriana Cavarero: raccontare e pensare",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/03/17/adriana_cavarero_raccontare_e_pensare/",
+      "date"     : "2021-03-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "5 curiosità su Fleabag, la serie capolavoro di Phoebe Waller-Bridge",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/17/5_curiosit_su_fleabag_la_serie_capolavoro_di_phoebe_waller-bridge/",
       "date"     : "2021-03-17 00:00:00 +0100"
     } ,
   
@@ -225,6 +937,14 @@
     } ,
   
     {
+      "title"    : "Grissini",
+      "category" : "salmuria",
+      "tags"     : "salmuria",
+      "url"      : "/2021/03/16/grissini/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Giorgio Caproni e la speranza di un fiore",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -309,6 +1029,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/03/16/50_sfumature_di_nude_e_nessuna_pelle_si_senta_esclusa/",
+      "date"     : "2021-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#11. RICOSTRUIRE E RACCONTARE: ULTIMO PARALLELO",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/03/16/11_ricostruire_e_raccontare_ultimo_parallelo/",
       "date"     : "2021-03-16 00:00:00 +0100"
     } ,
   
