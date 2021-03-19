@@ -257,6 +257,14 @@
     } ,
   
     {
+      "title"    : "‘Aqualung’ dei Jethro Tull, cinquant’anni di un capolavoro tra Dickens e la pandemia",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/03/19/aqualung_dei_jethro_tull_cinquantanni_di_un_capolavoro_tra_dickens_e_la_pandemia/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Alice non è in casa",
       "category" : "malgrado-le-mosche",
       "tags"     : "malgrado-le-mosche",
@@ -2085,6 +2093,14 @@
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2021/03/11/ecosistemipoetici_fiorentino_cornelio/",
+      "date"     : "2021-03-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dieci cose che potrebbero accadere nel prossimo decennio e che adesso sembrano impossibili",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/03/11/dieci_cose_che_potrebbero_accadere_nel_prossimo_decennio_e_che_adesso_sembrano_impossibili/",
       "date"     : "2021-03-11 00:00:00 +0100"
     } ,
   
@@ -6025,6 +6041,14 @@
     } ,
   
     {
+      "title"    : "Ci sono i fantasmi",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/02/23/ci_sono_i_fantasmi/",
+      "date"     : "2021-02-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Bettino Craxi: dall’altare alla polvere",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -6253,6 +6277,14 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/02/22/droga/",
+      "date"     : "2021-02-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chico",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/02/22/chico/",
       "date"     : "2021-02-22 00:00:00 +0100"
     } ,
   
@@ -9441,6 +9473,14 @@
     } ,
   
     {
+      "title"    : "In chat",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/02/08/in_chat/",
+      "date"     : "2021-02-08 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il più grande maleficio che io abbia mai visto",
       "category" : "malgrado-le-mosche",
       "tags"     : "malgrado-le-mosche",
@@ -11365,6 +11405,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/01/30/itinerario_di_un_sogno_lucido_viaggio_urban_attraverso_caduta_il_primo_ep_degli_hands/",
+      "date"     : "2021-01-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fenomenologia della tigre siberiana",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/01/30/fenomenologia_della_tigre_siberiana/",
       "date"     : "2021-01-30 00:00:00 +0100"
     } ,
   
@@ -13745,6 +13793,14 @@
     } ,
   
     {
+      "title"    : "Nostalgia del futuro nella musica elettronica da Moroder ai Migos. Dentro la nostra “Futuromania” con Simon Reynolds.",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/01/20/nostalgia_del_futuro_nella_musica_elettronica_da_moroder_ai_migos_dentro_la_nostra_futuromania_con_simon_reynolds/",
+      "date"     : "2021-01-20 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Non sono nessuno",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -14993,6 +15049,30 @@
     } ,
   
     {
+      "title"    : "The Qronicles #4: livelli alti",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/01/14/the_qronicles_4_livelli_alti/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Qronicles #3: oracoli e stregoneria presso i qanoniti",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/01/14/the_qronicles_3_oracoli_e_stregoneria_presso_i_qanoniti/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Qronicles #2: il laptop della Pelosa",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/01/14/the_qronicles_2_il_laptop_della_pelosa/",
+      "date"     : "2021-01-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Teatro e televisione al tempo della pandemia",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -15197,6 +15277,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/01/13/un_lucio_battisti_bucolico_contro_il_capitalismo/",
+      "date"     : "2021-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Qronicles #1: l’arresto di Mattarella",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/01/13/the_qronicles_1_larresto_di_mattarella/",
       "date"     : "2021-01-13 00:00:00 +0100"
     } ,
   
