@@ -1,10 +1,74 @@
 [
   
     {
+      "title"    : "Splinflex®",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/03/20/splinflex/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Papà era l’uomo nero»: Ammaniti e la crescita oltre le favole",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/03/20/pap_era_luomo_nero_ammaniti_e_la_crescita_oltre_le_favole/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LUMACHE NEL NOTTURNO",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/03/20/lumache_nel_notturno/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La suprema O” cinque poesie di Alessandro Chiappanuvoli",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/03/20/la_suprema_o_cinque_poesie_di_alessandro_chiappanuvoli/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La scuola di Alessandro Baricco è un giochetto pericoloso",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/03/20/la_scuola_di_alessandro_baricco_un_giochetto_pericoloso/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La famiglia degli altri di Elena Rui: l’autodeterminazione al di fuori delle convenzioni sociali. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/20/la_famiglia_degli_altri_di_elena_rui_lautodeterminazione_al_di_fuori_delle_convenzioni_sociali_recensione/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Luca Crescenzi, traduttore di Thomas Mann alle prese con la traduzione dei diari dello scrittore “nell’incapacità di affrontare il caos della vita e del mondo”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/03/20/intervista_a_luca_crescenzi_traduttore_di_thomas_mann_alle_prese_con_la_traduzione_dei_diari_dello_scrittore_nellincapacit_di_affrontare_il_caos_della_vita_e_del_mondo/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“We hear a new world – Vol.2” – La compilation che celebra i due anni di Fango Radio.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/03/19/we_hear_a_new_world_vol2_la_compilation_che_celebra_i_due_anni_di_fango_radio/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una notte al museo: la bellezza pudica dell’Afrodite Sosandra",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/19/una_notte_al_museo_la_bellezza_pudica_dellafrodite_sosandra/",
       "date"     : "2021-03-19 00:00:00 +0100"
     } ,
   
@@ -105,6 +169,14 @@
     } ,
   
     {
+      "title"    : "Music: Sia batte il suo primo Ciak",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/19/music_sia_batte_il_suo_primo_ciak/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "L’estate calda",
       "category" : "narrandom",
       "tags"     : "narrandom",
@@ -145,6 +217,14 @@
     } ,
   
     {
+      "title"    : "La dislessia: e se per la diagnosi servisse la linguistica?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/19/la_dislessia_e_se_per_la_diagnosi_servisse_la_linguistica/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Jacopo Milani",
       "category" : "malgrado-le-mosche",
       "tags"     : "malgrado-le-mosche",
@@ -165,6 +245,14 @@
       "category" : "argo",
       "tags"     : "argo",
       "url"      : "/2021/03/19/il_mondo_a_rovescio_intervista_al_regista_silvano_agosti/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il giro del mondo in 80 minuti (o giù di lì)",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/19/il_giro_del_mondo_in_80_minuti_o_gi_di_l/",
       "date"     : "2021-03-19 00:00:00 +0100"
     } ,
   
@@ -237,6 +325,22 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/03/19/contro_gli_anarchici_una_storia_italiana_lunga_e_attuale/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cerco sempre una chiave. Buon compleanno Gary Oldman",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/19/cerco_sempre_una_chiave_buon_compleanno_gary_oldman/",
+      "date"     : "2021-03-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Capi must-have – Spring edition",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/03/19/capi_must-have_spring_edition/",
       "date"     : "2021-03-19 00:00:00 +0100"
     } ,
   
