@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "VIVA #1",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/03/21/viva_1/",
+      "date"     : "2021-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Diversi di Paolo Leibanti",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/21/il_racconto_della_domenica_diversi_di_paolo_leibanti/",
+      "date"     : "2021-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bobby",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/03/21/bobby/",
+      "date"     : "2021-03-21 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Trent’anni di “Castelli di rabbia”: il libro che Baricco voleva leggere e non trovava da nessuna parte",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -69,6 +93,14 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/03/20/la_famiglia_degli_altri_di_elena_rui_lautodeterminazione_al_di_fuori_delle_convenzioni_sociali_recensione/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La bellezza è un metodo | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/03/20/la_bellezza_un_metodo_in_translation/",
       "date"     : "2021-03-20 00:00:00 +0100"
     } ,
   
