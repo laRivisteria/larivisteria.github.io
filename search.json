@@ -1,10 +1,146 @@
 [
   
     {
+      "title"    : "Vladimir D’Amora – Pornogrammia",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/03/23/vladimir_damora_pornogrammia/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una cosa semplice – Parte 1 di 3",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/23/una_cosa_semplice_parte_1_di_3/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stanza",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/03/23/stanza/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Grazia Deledda, chi era? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/23/ritratti_di_scrittori_grazia_deledda_chi_era_scoprilo_in_5_parole/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Racconto: Dove se ne vanno a morire i gatti – Lisa Malagoli",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/03/23/racconto_dove_se_ne_vanno_a_morire_i_gatti_lisa_malagoli/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Louisa May Alcott: figlia, sorella, scrittrice, attivista | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/03/23/louisa_may_alcott_figlia_sorella_scrittrice_attivista_lettere/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La febbre dell’oro | Mentre tu vieni io vedo oro",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/03/23/la_febbre_delloro_mentre_tu_vieni_io_vedo_oro/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gaming e meraviglia: “Walkthrough” di Micaletto",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/23/gaming_e_meraviglia_walkthrough_di_micaletto/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Eva dalle sue rovine”, o l’ultima donna",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/23/eva_dalle_sue_rovine_o_lultima_donna/",
+      "date"     : "2021-03-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una moltitudine di voci: “Squali al tempo dei salvatori”",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/03/22/una_moltitudine_di_voci_squali_al_tempo_dei_salvatori/",
+      "date"     : "2021-03-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Survivalismo di lusso pienamente automatizzato.  Mark O’Connell e l’apocalisse",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/03/22/survivalismo_di_lusso_pienamente_automatizzato_mark_oconnell_e_lapocalisse/",
+      "date"     : "2021-03-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Premio Strega 2021: i 12 candidati ufficiali. Lista dei libri",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/22/premio_strega_2021_i_12_candidati_ufficiali_lista_dei_libri/",
+      "date"     : "2021-03-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mario Meléndez – Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/03/22/mario_melndez_poesie/",
+      "date"     : "2021-03-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libri distopici e significato di distopia: i nostri consigli di lettura",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/03/22/libri_distopici_e_significato_di_distopia_i_nostri_consigli_di_lettura/",
+      "date"     : "2021-03-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fuori dagli schemi 8 – Helena Janeczek",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/03/22/fuori_dagli_schemi_8_helena_janeczek/",
+      "date"     : "2021-03-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bobby",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/03/22/bobby/",
+      "date"     : "2021-03-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "VIVA #1",
       "category" : "fantastico!",
       "tags"     : "fantastico!",
       "url"      : "/2021/03/21/viva_1/",
+      "date"     : "2021-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Siamo tutti assassini qui",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/03/21/siamo_tutti_assassini_qui/",
       "date"     : "2021-03-21 00:00:00 +0100"
     } ,
   
