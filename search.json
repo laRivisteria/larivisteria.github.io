@@ -1,6 +1,78 @@
 [
   
     {
+      "title"    : "Troverai più nei boschi",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/04/11/troverai_pi_nei_boschi/",
+      "date"     : "2021-04-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TerraRossa Edizioni",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/04/11/terrarossa_edizioni/",
+      "date"     : "2021-04-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non tutto il male",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/04/11/non_tutto_il_male/",
+      "date"     : "2021-04-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il sesso oltre la siepe. Perché gli over 60 lo fanno meglio di ‘noi’",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/11/il_sesso_oltre_la_siepe_perch_gli_over_60_lo_fanno_meglio_di_noi/",
+      "date"     : "2021-04-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Ioniodent di Antonio Potenza",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/04/11/il_racconto_della_domenica_ioniodent_di_antonio_potenza/",
+      "date"     : "2021-04-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Grande Karma o il luogo dove il destino del Testo ha da compiersi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/11/grande_karma_o_il_luogo_dove_il_destino_del_testo_ha_da_compiersi/",
+      "date"     : "2021-04-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Vedi nei canali dormire le navi il cui umore è vagabondo; è per soddisfare ogni tuo bramare”. Auguri Charles!",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/10/vedi_nei_canali_dormire_le_navi_il_cui_umore_vagabondo_per_soddisfare_ogni_tuo_bramare_auguri_charles/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una notte al museo: i tirannicidi. Non una convenzionale storia d’amore",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/10/una_notte_al_museo_i_tirannicidi_non_una_convenzionale_storia_damore/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un tour con una piega diversa",
+      "category" : "piegàmi",
+      "tags"     : "piegàmi",
+      "url"      : "/2021/04/10/un_tour_con_una_piega_diversa/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "un inverno freddissimo – fausta cialente (terza parte)",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -17,6 +89,30 @@
     } ,
   
     {
+      "title"    : "Smart Stressing, un anno dopo.",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/04/10/smart_stressing_un_anno_dopo/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Resilienza 21",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/10/resilienza_21/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Prevenire è Meglio!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/10/prevenire_meglio/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Poesia e perdita. Un’intervista di Gilda Policastro a Franco Buffoni",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -25,10 +121,98 @@
     } ,
   
     {
+      "title"    : "Luca Ravenna porta i dischi – Il ritorno",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/04/10/luca_ravenna_porta_i_dischi_il_ritorno/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture Elettriche per Libri D’Asporto: Librerie Zabarella e Tra le Righe",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/04/10/letture_elettriche_per_libri_dasporto_librerie_zabarella_e_tra_le_righe/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Sala del Tesoro di Palazzo Costabili",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/04/10/la_sala_del_tesoro_di_palazzo_costabili/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La detective di Mostrilandia",
+      "category" : "voce-del-verbo",
+      "tags"     : "voce-del-verbo",
+      "url"      : "/2021/04/10/la_detective_di_mostrilandia/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista totale a Bruno Dorella, musicista &amp; sound designer: dai libri che si porta in tour alle opinioni sui social. Quando l’artista è inattuale compone “vedendo il sepolcro”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/10/intervista_totale_a_bruno_dorella_musicista_sound_designer_dai_libri_che_si_porta_in_tour_alle_opinioni_sui_social_quando_lartista_inattuale_compone_vedendo_il_sepolcro/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Grosso – Intervista a Veronica Ciancarini e Daniele Daccò",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/04/10/il_grosso_intervista_a_veronica_ciancarini_e_daniele_dacc/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il cuore del fuoco",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/04/10/il_cuore_del_fuoco/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I bambini bilingui sono davvero confusi?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/10/i_bambini_bilingui_sono_davvero_confusi/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #96",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/04/10/fantastico_96/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Don Abbondio in Germania",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/10/don_abbondio_in_germania/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di pianeti, asteroidi e lune incredibili",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/04/10/di_pianeti_asteroidi_e_lune_incredibili/",
+      "date"     : "2021-04-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Aspetto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/10/aspetto/",
       "date"     : "2021-04-10 00:00:00 +0200"
     } ,
   
@@ -77,6 +261,14 @@
       "category" : "marvin",
       "tags"     : "marvin",
       "url"      : "/2021/04/09/storia_della_nostra_ossessione/",
+      "date"     : "2021-04-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spirito di adattamento | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/04/09/spirito_di_adattamento_in_translation/",
       "date"     : "2021-04-09 00:00:00 +0200"
     } ,
   
