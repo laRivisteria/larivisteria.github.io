@@ -1,10 +1,146 @@
 [
   
     {
+      "title"    : "Un&#39;innocua bugia",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/04/14/uninnocua_bugia/",
+      "date"     : "2021-04-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Schizofrenia e biscotti.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/04/14/schizofrenia_e_biscotti/",
+      "date"     : "2021-04-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nomenclatura degli assenti: Dizionario dei Chazari di Milorad Pavić",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/04/14/nomenclatura_degli_assenti_dizionario_dei_chazari_di_milorad_pavi/",
+      "date"     : "2021-04-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’inganno | Pietro Edoardo Mallegni",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/04/14/linganno_pietro_edoardo_mallegni/",
+      "date"     : "2021-04-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Il puntino rosso di Paolo Federico",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/04/14/il_racconto_del_mercoled_il_puntino_rosso_di_paolo_federico/",
+      "date"     : "2021-04-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Don DeLillo. Il silenzio e qualche altra riflessione",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/04/14/don_delillo_il_silenzio_e_qualche_altra_riflessione/",
+      "date"     : "2021-04-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "COPRIS UMBILICATUS",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/14/copris_umbilicatus/",
+      "date"     : "2021-04-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Comunità e territorio",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/04/14/comunit_e_territorio/",
+      "date"     : "2021-04-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Speciale Droga Sapere: Uldrilio Sforza Trescobaldi – “Della differenza tra libello e libercolo”.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/04/13/speciale_droga_sapere_uldrilio_sforza_trescobaldi_della_differenza_tra_libello_e_libercolo/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : ".sepolto.",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/04/13/sepolto/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Promemoria",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/04/13/promemoria/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Profezia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/13/profezia/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Per lei la poesia era il luogo in cui confluivano sul foglio memoria e profezia, adolescenza e sogno civile”. Un ricordo di Giovanna Sicari",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/13/per_lei_la_poesia_era_il_luogo_in_cui_confluivano_sul_foglio_memoria_e_profezia_adolescenza_e_sogno_civile_un_ricordo_di_giovanna_sicari/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Parassiti",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/13/parassiti/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nazione Indiana compie 18 anni e cambia… veste",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/13/nazione_indiana_compie_18_anni_e_cambia_veste/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Museo di coppia",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/04/13/museo_di_coppia/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "MANEGGIARE CON CURA",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/04/13/maneggiare_con_cura/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo specismo videoludico in Oddworld ⥀ Quando i profitti giustificano i mezzi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/04/13/lo_specismo_videoludico_in_oddworld_quando_i_profitti_giustificano_i_mezzi/",
       "date"     : "2021-04-13 00:00:00 +0200"
     } ,
   
@@ -17,10 +153,106 @@
     } ,
   
     {
+      "title"    : "Lo sguardo difettivo dell’io: Michele Sovente in “Cumae”",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/04/13/lo_sguardo_difettivo_dellio_michele_sovente_in_cumae/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’incantesimo",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/04/13/lincantesimo/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Libri ucronici e significato di ucronìa: i nostri consigli di lettura",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/04/13/libri_ucronici_e_significato_di_ucrona_i_nostri_consigli_di_lettura/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Liberaci dal padre: le famiglie religiose nei memoir",
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
       "url"      : "/2021/04/13/liberaci_dal_padre_le_famiglie_religiose_nei_memoir/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Landscape Silhouette",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/13/landscape_silhouette/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La collina dei sogni, di Arthur Machen",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/04/13/la_collina_dei_sogni_di_arthur_machen/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Italian Psycho: un estratto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/13/italian_psycho_un_estratto/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Io incendio: Antonello è morto",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/04/13/io_incendio_antonello_morto/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il segreto dell’iguana: su “L’isola che non c’era” di Leonardo Bonetti",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/13/il_segreto_delliguana_su_lisola_che_non_cera_di_leonardo_bonetti/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il male metafisico e globale è il miglior apripista per le canaglie della porta accanto pronte a vantarsi di poter uccidere il drago”. Il male del secolo è il “Qomplotto”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/13/il_male_metafisico_e_globale_il_miglior_apripista_per_le_canaglie_della_porta_accanto_pronte_a_vantarsi_di_poter_uccidere_il_drago_il_male_del_secolo_il_qomplotto/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il giorno in cui diedi fuoco alla mia casa. L’esordio narrativo di Francesca Mattei",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/04/13/il_giorno_in_cui_diedi_fuoco_alla_mia_casa_lesordio_narrativo_di_francesca_mattei/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il corpo pittorico tra natura, religione e Storia",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/04/13/il_corpo_pittorico_tra_natura_religione_e_storia/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il cestino da picnic è il Presente",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/04/13/il_cestino_da_picnic_il_presente/",
       "date"     : "2021-04-13 00:00:00 +0200"
     } ,
   
@@ -33,6 +265,22 @@
     } ,
   
     {
+      "title"    : "Federico Bastianelli",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/13/federico_bastianelli/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Favorire il libero amplesso!”. Storia del Partito Politico Futurista",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/13/favorire_il_libero_amplesso_storia_del_partito_politico_futurista/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Due facce” di Ilaria Salvatori",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -41,10 +289,58 @@
     } ,
   
     {
+      "title"    : "Dieci x Uno – Una poesia per dieci traduttori – Mucchi Editore",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/04/13/dieci_x_uno_una_poesia_per_dieci_traduttori_mucchi_editore/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DaDizioni – Ripetizioni ai tempi della Dad: Galileo Galilei",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/13/dadizioni_ripetizioni_ai_tempi_della_dad_galileo_galilei/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Considera il cinismo",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/04/13/considera_il_cinismo/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Con il sogno della trap contro il mostro dell’anoressia, storia di OncetheKllr",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/13/con_il_sogno_della_trap_contro_il_mostro_dellanoressia_storia_di_oncethekllr/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Brexit _ di James Noël",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/04/13/brexit_di_james_nol/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bisogna difendere Foucault",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/04/13/bisogna_difendere_foucault/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ANNA MARIA ORTESE: PICCOLE STATUE VIVENTI NE L’INFANTA SEPOLTA",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/04/13/anna_maria_ortese_piccole_statue_viventi_ne_linfanta_sepolta/",
       "date"     : "2021-04-13 00:00:00 +0200"
     } ,
   
@@ -85,6 +381,14 @@
       "category" : "spore",
       "tags"     : "spore",
       "url"      : "/2021/04/12/sul_da_farsi/",
+      "date"     : "2021-04-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sepolture peculiari al Complesso Monumentale Sant’Anna dei Lombardi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/12/sepolture_peculiari_al_complesso_monumentale_santanna_dei_lombardi/",
       "date"     : "2021-04-12 00:00:00 +0200"
     } ,
   
