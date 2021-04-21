@@ -1,6 +1,78 @@
 [
   
     {
+      "title"    : "Un pomeriggio di giardinaggio",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/04/21/un_pomeriggio_di_giardinaggio/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sul mestiere di scrivere ovvero su Virginia Woolf",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/04/21/sul_mestiere_di_scrivere_ovvero_su_virginia_woolf/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Primi amori",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/04/21/primi_amori/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non ha nome ciò che accadeva. Hélène Cixous per Michel Foucault",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/04/21/non_ha_nome_ci_che_accadeva_hlne_cixous_per_michel_foucault/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il romanzo del poeta:  Il figlio del farmacista di Mario Tobino",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/04/21/il_romanzo_del_poeta_il_figlio_del_farmacista_di_mario_tobino/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cosa leggeva Dostoevskij?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/04/21/cosa_leggeva_dostoevskij/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Che cosa è la Superlega Calcio – Ne parla Marco Palloncini.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/04/21/che_cosa_la_superlega_calcio_ne_parla_marco_palloncini/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Two Distant Strangers è il corto di Netflix candidato agli Oscar di cui avevamo bisogno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/20/two_distant_strangers_il_corto_di_netflix_candidato_agli_oscar_di_cui_avevamo_bisogno/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra universale e personale: Marchesini e la costruzione della mitologia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/04/20/tra_universale_e_personale_marchesini_e_la_costruzione_della_mitologia/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Terribilis est!” di Marco Daniele",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -17,10 +89,138 @@
     } ,
   
     {
+      "title"    : "Sinceramente",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/20/sinceramente/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rosa Riggio – Il peso della neve",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/04/20/rosa_riggio_il_peso_della_neve/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Margaret Mazzantini, chi è? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/04/20/ritratti_di_scrittori_margaret_mazzantini_chi_scoprilo_in_5_parole/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Riletture dell’American Dream tra “Nomadland”, “Furore” e “The Walking Dead”.",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/04/20/riletture_dellamerican_dream_tra_nomadland_furore_e_the_walking_dead/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Queen Elizabeth, il più triste dei suoi compleanni",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/20/queen_elizabeth_il_pi_triste_dei_suoi_compleanni/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pippo Baudo protettore degli sconfitti: “Sangue di Giuda” di Graziano Gala",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/20/pippo_baudo_protettore_degli_sconfitti_sangue_di_giuda_di_graziano_gala/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Phenomena #6 Jane Bowles",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/04/20/phenomena_6_jane_bowles/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Parallelismi tra vita e boxe",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/04/20/parallelismi_tra_vita_e_boxe/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paolo Parrini – Un uomo tra gli uomini",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/04/20/paolo_parrini_un_uomo_tra_gli_uomini/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Àncora nella temuta bellezza",
+      "category" : "voce-del-verbo",
+      "tags"     : "voce-del-verbo",
+      "url"      : "/2021/04/20/ncora_nella_temuta_bellezza/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nadine Marlon-Dolfe",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/20/nadine_marlon-dolfe/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Macchine ferme.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/04/20/macchine_ferme/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Ofelia contro il kraken",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/04/20/lofelia_contro_il_kraken/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo scorso inverno non sono uscito e ho guardato moltissimi film di Rhomer",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/04/20/lo_scorso_inverno_non_sono_uscito_e_ho_guardato_moltissimi_film_di_rhomer/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Superlega Europea e la valanga inarrestabile del calcio d’élite",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/04/20/la_superlega_europea_e_la_valanga_inarrestabile_del_calcio_dlite/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La letteratura americana fa un inchino agli uragani mentre in Inghilterra “se la natura s’infuria, il suo amante farebbe meglio ad armarsi in modo davvero anticavalleresco di un bulldozer o andare a ripararsi”. Auden, che stile!",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/20/la_letteratura_americana_fa_un_inchino_agli_uragani_mentre_in_inghilterra_se_la_natura_sinfuria_il_suo_amante_farebbe_meglio_ad_armarsi_in_modo_davvero_anticavalleresco_di_un_bulldozer_o_andare_a_ripararsi_auden_che_stile/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La casa",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/04/20/la_casa/",
       "date"     : "2021-04-20 00:00:00 +0200"
     } ,
   
@@ -33,10 +233,90 @@
     } ,
   
     {
+      "title"    : "Io sono vecchio",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/04/20/io_sono_vecchio/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Incubi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/20/incubi/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In nessun luogo",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/04/20/in_nessun_luogo/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il volto della giustizia",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/20/il_volto_della_giustizia/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il linguaggio del futuro",
       "category" : "suite-italiana",
       "tags"     : "suite-italiana",
       "url"      : "/2021/04/20/il_linguaggio_del_futuro/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il cantiere invisibile di Argo ⥀ Le autoproduzioni della Rivista di esplorazione e della Casa editrice indipendente",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/04/20/il_cantiere_invisibile_di_argo_le_autoproduzioni_della_rivista_di_esplorazione_e_della_casa_editrice_indipendente/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guarda che io a mi’ padre j’ho già sputato ‘n faccia, attento fascio che nun ce metto niente",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/20/guarda_che_io_a_mi_padre_jho_gi_sputato_n_faccia_attento_fascio_che_nun_ce_metto_niente/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Filologia for dummies – Breve storia della filologia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/20/filologia_for_dummies_breve_storia_della_filologia/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Edgar Allan Poe – Nel ruggito della spiaggia scossa dalle onde",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/04/20/edgar_allan_poe_nel_ruggito_della_spiaggia_scossa_dalle_onde/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Draghi, fanciulle e fiabe",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/04/20/draghi_fanciulle_e_fiabe/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di incerte territorialità",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/04/20/di_incerte_territorialit/",
       "date"     : "2021-04-20 00:00:00 +0200"
     } ,
   
@@ -49,10 +329,50 @@
     } ,
   
     {
+      "title"    : "Cloro",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/04/20/cloro/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ci siamo guadagnati una degna condanna morale”. Anthony Burgess &amp; Vladimir Nabokov (con poesia)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/20/ci_siamo_guadagnati_una_degna_condanna_morale_anthony_burgess_vladimir_nabokov_con_poesia/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Anticipazione dall’estero: Emily Dickinson’s Gardening Life | Marta McDowell",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/04/20/anticipazione_dallestero_emily_dickinsons_gardening_life_marta_mcdowell/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Andreea Simionel",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/20/andreea_simionel/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Aguirre, furore di Dio",
       "category" : "yanez",
       "tags"     : "yanez",
       "url"      : "/2021/04/20/aguirre_furore_di_dio/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "2 novembre – Finale",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/20/2_novembre_finale/",
       "date"     : "2021-04-20 00:00:00 +0200"
     } ,
   
@@ -77,6 +397,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/04/19/un_privato_smarrimento_tra_le_pallide_terre_dellinfanzia_il_rapido_lembo_del_ridicolo_di_francesco_permunian/",
+      "date"     : "2021-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TINA 2 – CALL –",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/04/19/tina_2_call/",
       "date"     : "2021-04-19 00:00:00 +0200"
     } ,
   
