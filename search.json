@@ -1,10 +1,50 @@
 [
   
     {
+      "title"    : "La posta in gioco.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/04/22/la_posta_in_gioco/",
+      "date"     : "2021-04-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il demone meridiano",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/22/il_demone_meridiano/",
+      "date"     : "2021-04-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«Una vita è incomprensibile»: Joseph Kosuth, Venezia, Fondazione Querini Stampalia",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/21/una_vita_incomprensibile_joseph_kosuth_venezia_fondazione_querini_stampalia/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un pomeriggio di giardinaggio",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/04/21/un_pomeriggio_di_giardinaggio/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "UFO – Una piccola ricognizione su ciò che un tempo chiamavamo non fiction novel",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/21/ufo_una_piccola_ricognizione_su_ci_che_un_tempo_chiamavamo_non_fiction_novel/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Tre orfani”, i fantasmi letterari di Giorgio Vasta",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/21/tre_orfani_i_fantasmi_letterari_di_giorgio_vasta/",
       "date"     : "2021-04-21 00:00:00 +0200"
     } ,
   
@@ -25,10 +65,50 @@
     } ,
   
     {
+      "title"    : "Piccoli atti di rivolta semantica",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/04/21/piccoli_atti_di_rivolta_semantica/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Non è un romanzo, non è un saggio. Non è un’inchiesta, anche se simula di esserlo. Ma allora cos’è?”. Francesco Consiglio dialoga con Manuela Mazzi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/21/non_un_romanzo_non_un_saggio_non_uninchiesta_anche_se_simula_di_esserlo_ma_allora_cos_francesco_consiglio_dialoga_con_manuela_mazzi/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Non ha nome ciò che accadeva. Hélène Cixous per Michel Foucault",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/04/21/non_ha_nome_ci_che_accadeva_hlne_cixous_per_michel_foucault/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Michela Zanarella – La filosofia del sole",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/04/21/michela_zanarella_la_filosofia_del_sole/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 21 Aprile 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/04/21/le_news_letterarie_21_aprile_2021/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La libertà e la caduta ⥀ Il volo onirico di Hayao Miyazaki",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/04/21/la_libert_e_la_caduta_il_volo_onirico_di_hayao_miyazaki/",
       "date"     : "2021-04-21 00:00:00 +0200"
     } ,
   
@@ -41,6 +121,102 @@
     } ,
   
     {
+      "title"    : "Il racconto del mercoledì: È nata una stella di Savina Tamborini",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/04/21/il_racconto_del_mercoled_nata_una_stella_di_savina_tamborini/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il quadro infinito",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/04/21/il_quadro_infinito/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il giorno in cui diedi fuoco alla mia casa",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/04/21/il_giorno_in_cui_diedi_fuoco_alla_mia_casa/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il coraggio di rifiorire",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/21/il_coraggio_di_rifiorire/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I Bagnanti, romanzo di formazione (e non solo) di Rocco Anelli",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/04/21/i_bagnanti_romanzo_di_formazione_e_non_solo_di_rocco_anelli/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ho già cagato e sudato la mia vita in scritti…”. Artaud vs. Picasso",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/21/ho_gi_cagato_e_sudato_la_mia_vita_in_scritti_artaud_vs_picasso/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guida allo studente fuorisede",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/21/guida_allo_studente_fuorisede/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giustizia è fatta! – La galera va abolita",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/21/giustizia_fatta_la_galera_va_abolita/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Desiderio digitale",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/04/21/desiderio_digitale/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dentro o fuori",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/21/dentro_o_fuori/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DaDizioni – Ripetizioni ai tempi della Dad: Il Fu Mattia Pascal",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/21/dadizioni_ripetizioni_ai_tempi_della_dad_il_fu_mattia_pascal/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Credo che alla fine del secolo l’opinione corrente si sarà talmente mutata che chiunque potrà parlare di macchine pensanti senza aspettarsi di essere contraddetto.” Quando gli esperimenti di Turing ci mostrarono che i PC dicono bugie",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/21/credo_che_alla_fine_del_secolo_lopinione_corrente_si_sar_talmente_mutata_che_chiunque_potr_parlare_di_macchine_pensanti_senza_aspettarsi_di_essere_contraddetto_quando_gli_esperimenti_di_turing_ci_mostrarono_che_i_pc_dicono_bugie/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Cosa leggeva Dostoevskij?",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
@@ -49,10 +225,34 @@
     } ,
   
     {
+      "title"    : "Colori fluo e comunità – Su Ted un tipo strano di Émilie Gleason",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/04/21/colori_fluo_e_comunit_su_ted_un_tipo_strano_di_milie_gleason/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Che cosa è la Superlega Calcio – Ne parla Marco Palloncini.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/04/21/che_cosa_la_superlega_calcio_ne_parla_marco_palloncini/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Aut aut” vol. 389: Riflessioni sulla pandemia",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/04/21/aut_aut_vol_389_riflessioni_sulla_pandemia/",
+      "date"     : "2021-04-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "22 aprile, la Giornata della Terra e la lotta contro il cambiamento climatico",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/21/22_aprile_la_giornata_della_terra_e_la_lotta_contro_il_cambiamento_climatico/",
       "date"     : "2021-04-21 00:00:00 +0200"
     } ,
   
@@ -173,6 +373,14 @@
       "category" : "malgrado-le-mosche",
       "tags"     : "malgrado-le-mosche",
       "url"      : "/2021/04/20/nadine_marlon-dolfe/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marchesini e la costruzione della mitologia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/04/20/marchesini_e_la_costruzione_della_mitologia/",
       "date"     : "2021-04-20 00:00:00 +0200"
     } ,
   
