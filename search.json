@@ -1,10 +1,58 @@
 [
   
     {
+      "title"    : "L’Ippocampo Edizioni, casa editrice: dai libri illustrati a quelli per ragazzi sino al manuale che ha rivoluzionato il modo di parlare di sesso. Intervista",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/04/24/lippocampo_edizioni_casa_editrice_dai_libri_illustrati_a_quelli_per_ragazzi_sino_al_manuale_che_ha_rivoluzionato_il_modo_di_parlare_di_sesso_intervista/",
+      "date"     : "2021-04-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Storia è un mattatoio: Lombroso, la Rivoluzione francese e l’incontro con Tolstoj",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/24/la_storia_un_mattatoio_lombroso_la_rivoluzione_francese_e_lincontro_con_tolstoj/",
+      "date"     : "2021-04-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dante: Amore e ‘l cor gentil",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/24/dante_amore_e_l_cor_gentil/",
+      "date"     : "2021-04-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cultura visiva e Transmedialità/ Captain America vs Martin Scorsese: ognuno (non) riconosce i suoi",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/04/24/cultura_visiva_e_transmedialit_captain_america_vs_martin_scorsese_ognuno_non_riconosce_i_suoi/",
+      "date"     : "2021-04-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Tutto quanto è una favola”. Maeve Brennan, la regina che preferì sparire",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/04/23/tutto_quanto_una_favola_maeve_brennan_la_regina_che_prefer_sparire/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Haunting of Hill House: casa dolce casa… o no?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/23/the_haunting_of_hill_house_casa_dolce_casa_o_no/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rami neri e nodosi, un racconto di M. Andreas || Street Stories – INEDITO",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/04/23/rami_neri_e_nodosi_un_racconto_di_m_andreas_street_stories_inedito/",
       "date"     : "2021-04-23 00:00:00 +0200"
     } ,
   
@@ -49,10 +97,50 @@
     } ,
   
     {
+      "title"    : "L’uomo nell’armadio",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/04/23/luomo_nellarmadio/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Lotte Moleste | Visioni",
       "category" : "l-eco-del-nulla",
       "tags"     : "l-eco-del-nulla",
       "url"      : "/2021/04/23/lotte_moleste_visioni/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture di redazione",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/04/23/letture_di_redazione/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“L’arte di legare le persone” di Paolo Milone, un libro necessario che scansa quei benpensanti che ancora inneggiano a Basaglia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/23/larte_di_legare_le_persone_di_paolo_milone_un_libro_necessario_che_scansa_quei_benpensanti_che_ancora_inneggiano_a_basaglia/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’allegria nei nostri naufragi",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/04/23/lallegria_nei_nostri_naufragi/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’abito nuovo, un passaggio di testimone?",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/04/23/labito_nuovo_un_passaggio_di_testimone/",
       "date"     : "2021-04-23 00:00:00 +0200"
     } ,
   
@@ -81,6 +169,54 @@
     } ,
   
     {
+      "title"    : "La felicità è un’idea assurda del Caligola di Albert Camus",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/23/la_felicit_unidea_assurda_del_caligola_di_albert_camus/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La coppia, la casa e l’uomo nero",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/04/23/la_coppia_la_casa_e_luomo_nero/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La bestia",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/04/23/la_bestia/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Johnny",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/23/johnny/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Jennifer Egan voleva rubare un portafoglio a New York e invece ha scritto un Pulitzer",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/23/jennifer_egan_voleva_rubare_un_portafoglio_a_new_york_e_invece_ha_scritto_un_pulitzer/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il tempo di un drink",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/23/il_tempo_di_un_drink/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il bisogno d&#39;amore ci tortura",
       "category" : "suite-italiana",
       "tags"     : "suite-italiana",
@@ -89,10 +225,50 @@
     } ,
   
     {
+      "title"    : "I bambini perduti di Valeria Luiselli",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/04/23/i_bambini_perduti_di_valeria_luiselli/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli italiani e gli Oscar: una lunga storia d’amore, tra alti e bassi",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/04/23/gli_italiani_e_gli_oscar_una_lunga_storia_damore_tra_alti_e_bassi/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Galleria borbonica: tour nei sottosuoli di Napoli",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/23/galleria_borbonica_tour_nei_sottosuoli_di_napoli/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Eros&amp;Thanatos – 12.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/04/23/erosthanatos_12/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Così, sono morto",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/04/23/cos_sono_morto/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Chiamate telefoniche” #1: Ippolita Luzzo",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/04/23/chiamate_telefoniche_1_ippolita_luzzo/",
       "date"     : "2021-04-23 00:00:00 +0200"
     } ,
   
@@ -1405,6 +1581,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/04/17/postiere/",
+      "date"     : "2021-04-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Penelope alla fine s’è rotta",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/04/17/penelope_alla_fine_s_rotta/",
       "date"     : "2021-04-17 00:00:00 +0200"
     } ,
   
