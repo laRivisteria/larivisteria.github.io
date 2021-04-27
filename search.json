@@ -1,10 +1,90 @@
 [
   
     {
+      "title"    : "Tre orfani. Dialogo con Giorgio Vasta",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/04/27/tre_orfani_dialogo_con_giorgio_vasta/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Niente mi eccita più della disapprovazione”. Jouhandeau, l’abietto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/27/niente_mi_eccita_pi_della_disapprovazione_jouhandeau_labietto/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Magdalo Mussio: il secondo mondo o luogo interdetto",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/27/magdalo_mussio_il_secondo_mondo_o_luogo_interdetto/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’incredibile Storia",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/04/27/lincredibile_storia/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli errori nella scienza e i vantaggi della serendipità",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/04/27/gli_errori_nella_scienza_e_i_vantaggi_della_serendipit/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "E se la facessimo finita con gli eventi?",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/04/27/e_se_la_facessimo_finita_con_gli_eventi/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Contro la speranza",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/04/27/contro_la_speranza/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Con la sola imposizione delle mani” di Marcello Manzoni",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/04/27/con_la_sola_imposizione_delle_mani_di_marcello_manzoni/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Voci da L’Infinito. Quale letteratura nella secondaria di primo grado?",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/04/26/voci_da_linfinito_quale_letteratura_nella_secondaria_di_primo_grado/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una settimana di racconti #162",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/04/26/una_settimana_di_racconti_162/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un treno chiamato Zeta",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/04/26/un_treno_chiamato_zeta/",
       "date"     : "2021-04-26 00:00:00 +0200"
     } ,
   
@@ -17,10 +97,42 @@
     } ,
   
     {
+      "title"    : "“Un po’ come noi” che amiamo Gazzelle e che ameremo la serie “Nudes”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/26/un_po_come_noi_che_amiamo_gazzelle_e_che_ameremo_la_serie_nudes/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tana libera tutti",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/04/26/tana_libera_tutti/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Storie Sterrate” di Marco Denti: sentieri di note e parole",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2021/04/26/storie_sterrate_di_marco_denti_sentieri_di_note_e_parole/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Psyco | Non asciugarsi i capelli",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/04/26/psyco_non_asciugarsi_i_capelli/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pizza e mafia, lo stereotipo del Made in Italy all’estero",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/26/pizza_e_mafia_lo_stereotipo_del_made_in_italy_allestero/",
       "date"     : "2021-04-26 00:00:00 +0200"
     } ,
   
@@ -41,10 +153,42 @@
     } ,
   
     {
+      "title"    : "Nella pineta",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/04/26/nella_pineta/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Moneta tra le stelle",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/04/26/moneta_tra_le_stelle/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Liberté épidémique ⥀ Les Mouches di Jean-Paul Sartre",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/04/26/libert_pidmique_les_mouches_di_jean-paul_sartre/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture Elettriche per Libri D’Asporto: Evolvo Libri e Libri Parlanti",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/04/26/letture_elettriche_per_libri_dasporto_evolvo_libri_e_libri_parlanti/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le origini del tartan: storia di un’identità nazionale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/26/le_origini_del_tartan_storia_di_unidentit_nazionale/",
       "date"     : "2021-04-26 00:00:00 +0200"
     } ,
   
@@ -65,10 +209,82 @@
     } ,
   
     {
+      "title"    : "INDIFFERENZIATA #4: Human after all (Andrea Cracco, 18/12/20)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/04/26/indifferenziata_4_human_after_all_andrea_cracco_181220/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il numero dei morti",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/26/il_numero_dei_morti/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il museo delle arachidi",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/04/26/il_museo_delle_arachidi/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il limite come luogo creativo",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/04/26/il_limite_come_luogo_creativo/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "George Birch il becchino distratto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/26/george_birch_il_becchino_distratto/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Generosity, un’agiografia di David Bowie",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/26/generosity_unagiografia_di_david_bowie/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Era la prima volta che vedevo un poeta somigliare alla sua poesia”. In un nuovo libro gli italiani che videro Pound faccia a faccia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/26/era_la_prima_volta_che_vedevo_un_poeta_somigliare_alla_sua_poesia_in_un_nuovo_libro_gli_italiani_che_videro_pound_faccia_a_faccia/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di carta e volontà",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/04/26/di_carta_e_volont/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Con il fiato sospeso – Il sale della terra di Jeanine Cummins",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/04/26/con_il_fiato_sospeso_il_sale_della_terra_di_jeanine_cummins/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cercare se stessi nel primo che passa",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/04/26/cercare_se_stessi_nel_primo_che_passa/",
       "date"     : "2021-04-26 00:00:00 +0200"
     } ,
   
@@ -109,6 +325,14 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/04/26/attenzione_fedez_lancia_la_sua_linea_di_smalti_il_sito_va_in_crash_in_2_minuti_troppi_accessi_ecco_quanto_costano_i_fan_non_possibile/",
+      "date"     : "2021-04-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "9 Righe",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/04/26/9_righe/",
       "date"     : "2021-04-26 00:00:00 +0200"
     } ,
   
@@ -429,6 +653,14 @@
       "category" : "three-faces",
       "tags"     : "three-faces",
       "url"      : "/2021/04/23/rami_neri_e_nodosi_un_racconto_di_m_andreas_street_stories_inedito/",
+      "date"     : "2021-04-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "È Piegàmi, non Piégami",
+      "category" : "piegàmi",
+      "tags"     : "piegàmi",
+      "url"      : "/2021/04/23/piegmi_non_pigami/",
       "date"     : "2021-04-23 00:00:00 +0200"
     } ,
   
