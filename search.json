@@ -1,10 +1,362 @@
 [
   
     {
+      "title"    : "Vaccino sì, vaccino no: due facce della stessa medaglia",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/04/29/vaccino_s_vaccino_no_due_facce_della_stessa_medaglia/",
+      "date"     : "2021-04-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Radio days: Mirco Salvadori &amp; Arlo Bigazzi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/29/radio_days_mirco_salvadori_arlo_bigazzi/",
+      "date"     : "2021-04-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "meditazione di luce- sulla poesia di michela zanarella",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/04/29/meditazione_di_luce-_sulla_poesia_di_michela_zanarella/",
+      "date"     : "2021-04-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il naso.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/04/29/il_naso/",
+      "date"     : "2021-04-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diotima e la suonatrice di flauto",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/04/29/diotima_e_la_suonatrice_di_flauto/",
+      "date"     : "2021-04-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Visioni di contrabbando: Jafar Panahi",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/04/28/visioni_di_contrabbando_jafar_panahi/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tradire fedelmente: Il mar delle blatte di Landolfi e Scòzzari",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/04/28/tradire_fedelmente_il_mar_delle_blatte_di_landolfi_e_sczzari/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Toya: al-Ashmawy batte gli stereotipi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/04/28/toya_al-ashmawy_batte_gli_stereotipi/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "THE STYLIST/NIGHT IN PARADISE/MARIONETTE/WE STILL SAY GRACE.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/04/28/the_stylistnight_in_paradisemarionettewe_still_say_grace/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Su Roberto Bolaño e sul lutto | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/04/28/su_roberto_bolao_e_sul_lutto_in_translation/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "SE MI AMASSE DAVVERO",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/04/28/se_mi_amasse_davvero/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Sabrina &amp; Corina”, la voce magica e realistica di Kali Fajardo-Anstine",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/28/sabrina_corina_la_voce_magica_e_realistica_di_kali_fajardo-anstine/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Radicalized di Cory Doctorow: quattro racconti dal futuro",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/04/28/radicalized_di_cory_doctorow_quattro_racconti_dal_futuro/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perdere l’amore",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/04/28/perdere_lamore/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Michele Bordoni – Gymnopedie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/04/28/michele_bordoni_gymnopedie/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Malta, la censura e il sequestro della villa di Burgess. Un articolo di Daphne Caruana Galizia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/28/malta_la_censura_e_il_sequestro_della_villa_di_burgess_un_articolo_di_daphne_caruana_galizia/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 28 Aprile 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/04/28/le_news_letterarie_28_aprile_2021/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le cose che restano",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/04/28/le_cose_che_restano/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lazzaro deve morire, nel racconto di Andreev, è uno strumento lasciato inerte sul tavolo della redenzione",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/28/lazzaro_deve_morire_nel_racconto_di_andreev_uno_strumento_lasciato_inerte_sul_tavolo_della_redenzione/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La lunga strada di sabbia (parte 1)",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/04/28/la_lunga_strada_di_sabbia_parte_1/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Jacopo Fo, “La Bibbia censurata” e altre storie di divinità immorali",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/04/28/jacopo_fo_la_bibbia_censurata_e_altre_storie_di_divinit_immorali/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Interno 5bis – Primo piano ⥀ L’appartamento di Roberta Iadevaia",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/04/28/interno_5bis_primo_piano_lappartamento_di_roberta_iadevaia/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Scossa di Giulia Zoratti",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/04/28/il_racconto_del_mercoled_scossa_di_giulia_zoratti/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il pioppo del Sempione, di Giuseppe Lupo",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/04/28/il_pioppo_del_sempione_di_giuseppe_lupo/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Carciofo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/28/il_carciofo/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "GLUKUPIKRON",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/04/28/glukupikron/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Geometrie tascabili e cosmiche. Su Somiglianze di famiglia di Matteo Pelliti",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/04/28/geometrie_tascabili_e_cosmiche_su_somiglianze_di_famiglia_di_matteo_pelliti/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Futuro remoto | Inediti di Francesco Ottonello",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/04/28/futuro_remoto_inediti_di_francesco_ottonello/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Endometriosi: no, soffrire non è normale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/28/endometriosi_no_soffrire_non_normale/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Di tu in noi”, la nuova raccolta di poesie di Cettina Caliò",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/28/di_tu_in_noi_la_nuova_raccolta_di_poesie_di_cettina_cali/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DaDizioni – ripetizioni ai tempi della DaD: Cesare Pavese",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/28/dadizioni_ripetizioni_ai_tempi_della_dad_cesare_pavese/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cos’è la «mente locale»?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/04/28/cos_la_mente_locale/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come una piccola luce",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/04/28/come_una_piccola_luce/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi ha stabilito i confini sessuali del make-up?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/28/chi_ha_stabilito_i_confini_sessuali_del_make-up/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CANTO XXV DELL’ODISSEA",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/04/28/canto_xxv_dellodissea/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Buongiorno, operatore",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/04/28/buongiorno_operatore/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bulgaria: tutto e niente, un articolo di G. Levantini || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/04/28/bulgaria_tutto_e_niente_un_articolo_di_g_levantini_threevial_pursuit/",
+      "date"     : "2021-04-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "William Stanley Merwin, il poeta americano che tradusse il “Cid”, visitò Pound in manicomio e andò alle Hawaii a scrivere sulla balena grigia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/27/william_stanley_merwin_il_poeta_americano_che_tradusse_il_cid_visit_pound_in_manicomio_e_and_alle_hawaii_a_scrivere_sulla_balena_grigia/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Una donna promettente” e la cultura dello stupro",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/27/una_donna_promettente_e_la_cultura_dello_stupro/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Tre orfani. Dialogo con Giorgio Vasta",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/04/27/tre_orfani_dialogo_con_giorgio_vasta/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Street Art &amp; Craft Beer || Talk su pittura urbana e birra artigianale",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/04/27/street_art_craft_beer_talk_su_pittura_urbana_e_birra_artigianale/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sirena",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/27/sirena/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rachele libera!",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/04/27/rachele_libera/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nuova canzone felice è la poesia che ci serve ora",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/27/nuova_canzone_felice_la_poesia_che_ci_serve_ora/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "‘Nostalgia della bellezza’ di Angelo Crespi, la pittura tra tradizione e mercato",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/04/27/nostalgia_della_bellezza_di_angelo_crespi_la_pittura_tra_tradizione_e_mercato/",
       "date"     : "2021-04-27 00:00:00 +0200"
     } ,
   
@@ -17,10 +369,50 @@
     } ,
   
     {
+      "title"    : "Nascita di un capolavoro.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/04/27/nascita_di_un_capolavoro/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Metamorfosi digitali ⥀ Dialogo sulla digitalizzazione delle arti",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/04/27/metamorfosi_digitali_dialogo_sulla_digitalizzazione_delle_arti/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "MERCURIO. Geografie umane – Dialogo con Andrea Donaera",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/04/27/mercurio_geografie_umane_dialogo_con_andrea_donaera/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Magdalo Mussio: il secondo mondo o luogo interdetto",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/04/27/magdalo_mussio_il_secondo_mondo_o_luogo_interdetto/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Luca Rastelli",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/04/27/luca_rastelli/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Long live poetry! Cinque poet3 contemporane3",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/04/27/long_live_poetry_cinque_poet3_contemporane3/",
       "date"     : "2021-04-27 00:00:00 +0200"
     } ,
   
@@ -33,6 +425,78 @@
     } ,
   
     {
+      "title"    : "Le cose di Benni: lo schizofrenico esordio di Gianmarco Perale",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/04/27/le_cose_di_benni_lo_schizofrenico_esordio_di_gianmarco_perale/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’amore dei lupi di Alessandro Brusa: la fine dell’amore nel corpo e nella mente. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/04/27/lamore_dei_lupi_di_alessandro_brusa_la_fine_dellamore_nel_corpo_e_nella_mente_recensione/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La prima cosa scritta #4",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/04/27/la_prima_cosa_scritta_4/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La mannara di San Cassiano – Parte I",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/04/27/la_mannara_di_san_cassiano_parte_i/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La fecondità simbolica della differenza sessuale rimane ancora una promessa",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/27/la_fecondit_simbolica_della_differenza_sessuale_rimane_ancora_una_promessa/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "K-assandra – Puntata #0",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/04/27/k-assandra_puntata_0/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista: Guido Carpi, vita di Vladimir Il’ič Ul’janov",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/04/27/intervista_guido_carpi_vita_di_vladimir_ili_uljanov/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In pigiama tutto è possibile!",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/04/27/in_pigiama_tutto_possibile/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I ragazzi dell’IPM",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/04/27/i_ragazzi_dellipm/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Gli errori nella scienza e i vantaggi della serendipità",
       "category" : "light-magazine",
       "tags"     : "light-magazine",
@@ -41,10 +505,66 @@
     } ,
   
     {
+      "title"    : "Gli editori oggi? Vanitas vanitatum, ossessione della visibilità, politica, vendette e spocchia. Per non dire degli scassapalle seriali, delle bande semiarmate e dei clan. In dialogo con Paolo Bianchi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/27/gli_editori_oggi_vanitas_vanitatum_ossessione_della_visibilit_politica_vendette_e_spocchia_per_non_dire_degli_scassapalle_seriali_delle_bande_semiarmate_e_dei_clan_in_dialogo_con_paolo_bianchi/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gabriella Grasso – Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/04/27/gabriella_grasso_poesie/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Freeman’s. Voci sull’amore e sull’oblio in ventuno incursioni poetico-narrative",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/04/27/freemans_voci_sullamore_e_sulloblio_in_ventuno_incursioni_poetico-narrative/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Forme metriche della poesia lirica: L’ode",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/27/forme_metriche_della_poesia_lirica_lode/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Esilio",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/04/27/esilio/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "E se la facessimo finita con gli eventi?",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/04/27/e_se_la_facessimo_finita_con_gli_eventi/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da domani tu sarai",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/04/27/da_domani_tu_sarai/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cosa è accaduto veramente la notte del Titanic?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/27/cosa_accaduto_veramente_la_notte_del_titanic/",
       "date"     : "2021-04-27 00:00:00 +0200"
     } ,
   
@@ -61,6 +581,46 @@
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/04/27/con_la_sola_imposizione_delle_mani_di_marcello_manzoni/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chinese Kitchen",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/27/chinese_kitchen/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Bellezza, la micidiale”. Cristina Campo, per un compleanno",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/04/27/bellezza_la_micidiale_cristina_campo_per_un_compleanno/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Aria Nera",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/04/27/aria_nera/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Antinoo il vecchissimo",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/04/27/antinoo_il_vecchissimo/",
+      "date"     : "2021-04-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "5 motivi per amare Timothée Chalamet",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/04/27/5_motivi_per_amare_timothe_chalamet/",
       "date"     : "2021-04-27 00:00:00 +0200"
     } ,
   
@@ -497,7 +1057,7 @@
     } ,
   
     {
-      "title"    : "Partigiani e memoria divisa (v.2), un articolo di G. Bindi || Threevial Pursuit",
+      "title"    : "Partigiani e memoria divisa (v.2), un articolo di G. Bindi || THREEvial Pursuit",
       "category" : "three-faces",
       "tags"     : "three-faces",
       "url"      : "/2021/04/24/partigiani_e_memoria_divisa_v2_un_articolo_di_g_bindi_threevial_pursuit/",
