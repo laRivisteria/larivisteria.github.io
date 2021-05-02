@@ -1,10 +1,66 @@
 [
   
     {
+      "title"    : "Mots-clés__Sabbia",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/02/mots-clssabbia/",
+      "date"     : "2021-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Miraggi edizioni",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/05/02/miraggi_edizioni/",
+      "date"     : "2021-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’esapsalmo di Pasqua delle Chiese ortodosse. Sei traduzioni in forma di sonetto à la Racine",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/02/lesapsalmo_di_pasqua_delle_chiese_ortodosse_sei_traduzioni_in_forma_di_sonetto_la_racine/",
+      "date"     : "2021-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Invictus maneo di Gianluigi Bodi",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/02/il_racconto_della_domenica_invictus_maneo_di_gianluigi_bodi/",
+      "date"     : "2021-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "il quaderno di Persefone di Marilena Renda",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/02/il_quaderno_di_persefone_di_marilena_renda/",
+      "date"     : "2021-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The marvelous Mrs. Maisel e La comicità al femminile",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/01/the_marvelous_mrs_maisel_e_la_comicit_al_femminile/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Se domani ti arrivano dei fiori di Alida Airaghi: il sottile confine tra prosa e poesia. Recensione",
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/05/01/se_domani_ti_arrivano_dei_fiori_di_alida_airaghi_il_sottile_confine_tra_prosa_e_poesia_recensione/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rosso di sera",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/05/01/rosso_di_sera/",
       "date"     : "2021-05-01 00:00:00 +0200"
     } ,
   
@@ -17,6 +73,22 @@
     } ,
   
     {
+      "title"    : "Meraviglioso: riportare la vita alla luce",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/meraviglioso_riportare_la_vita_alla_luce/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Maledetta fabbrica! Tommaso Di Ciaula e le alterne fortune della letteratura operaia",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/01/maledetta_fabbrica_tommaso_di_ciaula_e_le_alterne_fortune_della_letteratura_operaia/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Maledetta fabbrica!” Su Tommaso Di Ciaula e le alterne fortune della letteratura operaia",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -25,10 +97,130 @@
     } ,
   
     {
+      "title"    : "La Vergine velata di Giovanni Strazza e il valore simbolico della scultura come binomio apparenza e realtà",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/la_vergine_velata_di_giovanni_strazza_e_il_valore_simbolico_della_scultura_come_binomio_apparenza_e_realt/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La meditazione del Buddha: le posture del mudra",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/la_meditazione_del_buddha_le_posture_del_mudra/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Mario Calabresi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/01/intervista_a_mario_calabresi/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Incipit da Transagonistica – Gabriele Galligani",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/01/incipit_da_transagonistica_gabriele_galligani/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mondo attraverso uno specchio e il sonno di un amore eterno",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/il_mondo_attraverso_uno_specchio_e_il_sonno_di_un_amore_eterno/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #99",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/05/01/fantastico_99/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Eyes wide shut: il disvelarsi della duplicità",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/eyes_wide_shut_il_disvelarsi_della_duplicit/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diventare adulti con Ingeborg Bachmann",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/diventare_adulti_con_ingeborg_bachmann/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Canone ambiguo della letteratura queer italiana",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/01/canone_ambiguo_della_letteratura_queer_italiana/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bird box: una benda sugli occhi per sopravvivere",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/bird_box_una_benda_sugli_occhi_per_sopravvivere/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Berta Isla e una vita coniugale a occhi chiusi",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/berta_isla_e_una_vita_coniugale_a_occhi_chiusi/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Babbo Natale per i diritti dell3 lavorator3",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/05/01/babbo_natale_per_i_diritti_dell3_lavorator3/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ascoltare paesaggi: Repòns di Pierre Boulez",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/ascoltare_paesaggi_repns_di_pierre_boulez/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«And then he was a she»: Prinçesa on the Wild Side",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/01/and_then_he_was_a_she_prinesa_on_the_wild_side/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amori divini (non corrisposti)",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/01/amori_divini_non_corrisposti/",
+      "date"     : "2021-05-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Allegria che se ne va",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/01/allegria_che_se_ne_va/",
       "date"     : "2021-05-01 00:00:00 +0200"
     } ,
   
@@ -4181,6 +4373,14 @@
       "category" : "salmace",
       "tags"     : "salmace",
       "url"      : "/2021/04/13/sepolto/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Se vuoi, puoi tutto",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/04/13/se_vuoi_puoi_tutto/",
       "date"     : "2021-04-13 00:00:00 +0200"
     } ,
   
