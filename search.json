@@ -1,6 +1,430 @@
 [
   
     {
+      "title"    : "Vorrei essere Peter Fleming. Storia di un avventuriero",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/05/vorrei_essere_peter_fleming_storia_di_un_avventuriero/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un commento a caldo di Freaks sull’arrivo di Mourinho a Roma.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/05/un_commento_a_caldo_di_freaks_sullarrivo_di_mourinho_a_roma/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’uomo che scriveva nel futuro",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/05/05/luomo_che_scriveva_nel_futuro/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La donna gelata di Annie Ernaux",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/05/la_donna_gelata_di_annie_ernaux/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il ruolo dei padri nella “cultura dello stupro”",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/05/05/il_ruolo_dei_padri_nella_cultura_dello_stupro/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Teo, il neo di Anna Di Raimondo",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/05/il_racconto_del_mercoled_teo_il_neo_di_anna_di_raimondo/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DUE. Sancho Panza e la pecora Dolly - Parte 1",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/05/05/due_sancho_panza_e_la_pecora_dolly_-_parte_1/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Wellington si comportò da ballerino quando avrebbe dovuto comportarsi da soldato”. Festeggiamo il 5 maggio con un testo su Napoleone di John Polidori",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/04/wellington_si_comport_da_ballerino_quando_avrebbe_dovuto_comportarsi_da_soldato_festeggiamo_il_5_maggio_con_un_testo_su_napoleone_di_john_polidori/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vivere mille vite tra videogiochi, streaming e libri. Intervista a Lorenzo Fantoni",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/04/vivere_mille_vite_tra_videogiochi_streaming_e_libri_intervista_a_lorenzo_fantoni/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Traslochi",
+      "category" : "voce-del-verbo",
+      "tags"     : "voce-del-verbo",
+      "url"      : "/2021/05/04/traslochi/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Trasgressiva, sublime, fragile: Alejandra Pizarnik, il mito",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/04/trasgressiva_sublime_fragile_alejandra_pizarnik_il_mito/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tornate a trovarci, inshallà!",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/05/04/tornate_a_trovarci_inshall/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Thonis-Heracleion, la città sommersa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/04/thonis-heracleion_la_citt_sommersa/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Stagioni",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/04/stagioni/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Cesare Pavese, chi era? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/04/ritratti_di_scrittori_cesare_pavese_chi_era_scoprilo_in_5_parole/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Riscoprendo mia madre. Una figlia alla ricerca del passato, di Caterina Edwards",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/04/riscoprendo_mia_madre_una_figlia_alla_ricerca_del_passato_di_caterina_edwards/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quegli alieni dei millennials",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/05/04/quegli_alieni_dei_millennials/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Papaveri e Paper",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/04/papaveri_e_paper/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nomadismo digitale: ama il tuo lavoro e non lavorerai neanche un giorno della tua vita",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/04/nomadismo_digitale_ama_il_tuo_lavoro_e_non_lavorerai_neanche_un_giorno_della_tua_vita/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Manifesto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/04/manifesto/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’urgenza della ricerca",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/04/lurgenza_della_ricerca/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lui, lei",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/05/04/lui_lei/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ossessione amorosa nel romanzo esistenzialista italiano: tra “La Noia” e “Un Amore”, parte I",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/04/lossessione_amorosa_nel_romanzo_esistenzialista_italiano_tra_la_noia_e_un_amore_parte_i/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le parole di aprile",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/05/04/le_parole_di_aprile/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La ragazza nell’atrio",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/05/04/la_ragazza_nellatrio/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La mannara di San Cassiano – Parte II",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/05/04/la_mannara_di_san_cassiano_parte_ii/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Io credo nel Giorno del Giudizio”. Dialogo con Atidel, musulmana",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/04/io_credo_nel_giorno_del_giudizio_dialogo_con_atidel_musulmana/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Insonnia” di Rosalia Messina",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/05/04/insonnia_di_rosalia_messina/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Immaginare l’immaginabile",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/05/04/immaginare_limmaginabile/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il superorganismo: intervista a HOWPHELIA Borghesan",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/04/il_superorganismo_intervista_a_howphelia_borghesan/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mio posto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/04/il_mio_posto/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il faro",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/05/04/il_faro/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I versi inascoltati",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/05/04/i_versi_inascoltati/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Francesca Ghiribelli e la sua poesia gotica: i forti cromatismi di Gotica Chimera",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/04/francesca_ghiribelli_e_la_sua_poesia_gotica_i_forti_cromatismi_di_gotica_chimera/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DON’T FLAME ME BRO .",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/04/dont_flame_me_bro/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Della placida irrequietezza",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/05/04/della_placida_irrequietezza/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Debora Silvestri",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/04/debora_silvestri/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cinema, Arte e Natura: una (non nostalgica) conversazione con Jon Jost",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/04/cinema_arte_e_natura_una_non_nostalgica_conversazione_con_jon_jost/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bernardo Pacini – Fly mode",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/05/04/bernardo_pacini_fly_mode/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Aurora Boreale",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/05/04/aurora_boreale/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alessandro Angeli – Morrissey, the eternal boy",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/05/04/alessandro_angeli_morrissey_the_eternal_boy/",
+      "date"     : "2021-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“White trash”: un estratto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/03/white_trash_un_estratto/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una settimana di racconti #163",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/05/03/una_settimana_di_racconti_163/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una grande storia d’amore di Susanna Tamaro: un amore condizionato da silenzi, ricordi e altre presenze. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/03/una_grande_storia_damore_di_susanna_tamaro_un_amore_condizionato_da_silenzi_ricordi_e_altre_presenze_recensione/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un anno con Faulkner da giovane: 12 racconti piazzati su riviste e 82 rifiutati. Vogliamo un elenco dei libri proibiti dal sistema per leggere la vera letteratura!",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/03/un_anno_con_faulkner_da_giovane_12_racconti_piazzati_su_riviste_e_82_rifiutati_vogliamo_un_elenco_dei_libri_proibiti_dal_sistema_per_leggere_la_vera_letteratura/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra Lundini e De Sica, la comicità di oggi e di ieri",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/03/tra_lundini_e_de_sica_la_comicit_di_oggi_e_di_ieri/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra Fedez e Pio e Amedeo, la parola da lotta a condanna",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/03/tra_fedez_e_pio_e_amedeo_la_parola_da_lotta_a_condanna/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra amici, senza sbirri",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/05/03/tra_amici_senza_sbirri/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sirante e la sua protesta in forma d’arte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/03/sirante_e_la_sua_protesta_in_forma_darte/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sócrates",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/05/03/scrates/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Prima persona singolare”, la nuova magia di Murakami Haruki",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/03/prima_persona_singolare_la_nuova_magia_di_murakami_haruki/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paulus, il fumetto ⥀ L’immaginario cristiano come interpretazione continua",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/05/03/paulus_il_fumetto_limmaginario_cristiano_come_interpretazione_continua/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Papà",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/05/03/pap/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Non praticare il cannibalismo",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -17,6 +441,78 @@
     } ,
   
     {
+      "title"    : "Nomadland | È soltanto una favola | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/05/03/nomadland_soltanto_una_favola_in_translation/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Narrazione transgender – “Disclosure” e “Pose”",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/05/03/narrazione_transgender_disclosure_e_pose/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Minari | La meccanica dei fluidi",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/05/03/minari_la_meccanica_dei_fluidi/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Massimiliano Perrotta – Dopoguerra",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/05/03/massimiliano_perrotta_dopoguerra/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’intelligenza artificiale e l’esperimento della stanza cinese",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/05/03/lintelligenza_artificiale_e_lesperimento_della_stanza_cinese/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le impetuose rivolte d’Irlanda",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/03/le_impetuose_rivolte_dirlanda/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La terra brucia",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/05/03/la_terra_brucia/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La ragazza della casa sulla scogliera",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/05/03/la_ragazza_della_casa_sulla_scogliera/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La filosofia di William James",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/05/03/la_filosofia_di_william_james/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Io non sono più nulla”. Hesse racconta Hölderlin",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +521,50 @@
     } ,
   
     {
+      "title"    : "Io Incendio: Articolo 21",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/05/03/io_incendio_articolo_21/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "INDIFFERENZIATA #5: Una metamorfosi (Adriano Fischer, 19/12/20)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/05/03/indifferenziata_5_una_metamorfosi_adriano_fischer_191220/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il porro",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/03/il_porro/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Eroi al supermercato",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/05/03/eroi_al_supermercato/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Due reportage dalla Valle misteriosa",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/03/due_reportage_dalla_valle_misteriosa/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Donna nera, donna bianca – Them, il Doppelgänger e il riscatto nel cinema di Jordan Peele",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/05/03/donna_nera_donna_bianca_them_il_doppelgnger_e_il_riscatto_nel_cinema_di_jordan_peele/",
       "date"     : "2021-05-03 00:00:00 +0200"
     } ,
   
@@ -77,6 +613,14 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/05/03/attenzione_adriano_celentano_scrive_a_fabrizio_corona_lunica_via_ges_tu_ora_devi_risorgere_lui_risponde_la_tua_unottima_idea/",
+      "date"     : "2021-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Adorazione”: le emozioni violente dell’adolescenza",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/05/03/adorazione_le_emozioni_violente_delladolescenza/",
       "date"     : "2021-05-03 00:00:00 +0200"
     } ,
   
