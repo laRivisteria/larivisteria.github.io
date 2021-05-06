@@ -1,10 +1,74 @@
 [
   
     {
+      "title"    : "L’Imperatore",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/06/limperatore/",
+      "date"     : "2021-05-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le case sanno",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/05/06/le_case_sanno/",
+      "date"     : "2021-05-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La rivolta dei barboni.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/06/la_rivolta_dei_barboni/",
+      "date"     : "2021-05-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La festa",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/05/06/la_festa/",
+      "date"     : "2021-05-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di non sapere infine a memoria",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/06/di_non_sapere_infine_a_memoria/",
+      "date"     : "2021-05-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Beatrice Zerbini: tre poesie inedite",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/06/beatrice_zerbini_tre_poesie_inedite/",
+      "date"     : "2021-05-06 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vorrei essere Peter Fleming. Storia di un avventuriero",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/05/05/vorrei_essere_peter_fleming_storia_di_un_avventuriero/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Volevo andar via subito",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/05/05/volevo_andar_via_subito/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Věřící",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/05/05/vc/",
       "date"     : "2021-05-05 00:00:00 +0200"
     } ,
   
@@ -17,10 +81,98 @@
     } ,
   
     {
+      "title"    : "Squarciare il velo della perfezione: “Sembrava bellezza”",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/05/05/squarciare_il_velo_della_perfezione_sembrava_bellezza/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Soda caustica",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/05/05/soda_caustica/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rovigo, la città invisibile",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/05/05/rovigo_la_citt_invisibile/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Racconti sulla familiarità spaventosa ⥀ Le stelle vicine di Massimo Gezzi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/05/05/racconti_sulla_familiarit_spaventosa_le_stelle_vicine_di_massimo_gezzi/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#PremioBergamo21 – “Splendi come vita” di Maria Grazia Calandrone",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/05/premiobergamo21_splendi_come_vita_di_maria_grazia_calandrone/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché il Ramadan non è “solo” digiunare",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/05/perch_il_ramadan_non_solo_digiunare/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Morire come Bobby Sands | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/05/05/morire_come_bobby_sands_lettere/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’uomo che scriveva nel futuro",
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2021/05/05/luomo_che_scriveva_nel_futuro/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’insegnamento della scrittura creativa, tra alchimia, musica jazz e martellate.",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/05/05/linsegnamento_della_scrittura_creativa_tra_alchimia_musica_jazz_e_martellate/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Les poèmes d’un Maudit di Mario Scalesi. Una conversazione con Salvatore Mugno",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/05/05/les_pomes_dun_maudit_di_mario_scalesi_una_conversazione_con_salvatore_mugno/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 5 Maggio 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/05/05/le_news_letterarie_5_maggio_2021/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’attesa dell’esordio",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/05/lattesa_dellesordio/",
       "date"     : "2021-05-05 00:00:00 +0200"
     } ,
   
@@ -49,10 +201,74 @@
     } ,
   
     {
+      "title"    : "Il Global Warming frattura Moby Dick",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/05/il_global_warming_frattura_moby_dick/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il corvo Joe e la poetica illustrata dei Baustelle",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/05/il_corvo_joe_e_la_poetica_illustrata_dei_baustelle/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Esordire – Transagonistica di Gabriele Galligani",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/05/05/esordire_transagonistica_di_gabriele_galligani/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "E siccome lei, di Eleonora Marangoni: uno sguardo su Monica Vitti",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/05/05/e_siccome_lei_di_eleonora_marangoni_uno_sguardo_su_monica_vitti/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "DUE. Sancho Panza e la pecora Dolly - Parte 1",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/05/05/due_sancho_panza_e_la_pecora_dolly_-_parte_1/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DaDizioni-ripetizioni ai tempi della Dad: Dino Buzzati",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/05/dadizioni-ripetizioni_ai_tempi_della_dad_dino_buzzati/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Camihawke racconta l’amore a misura d’errore in “Per tutto il resto dei miei sbagli”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/05/camihawke_racconta_lamore_a_misura_derrore_in_per_tutto_il_resto_dei_miei_sbagli/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Andrea Astolfi: c’è un passaggio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/05/andrea_astolfi_ce_un_passaggio/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Adorazione",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/05/05/adorazione/",
       "date"     : "2021-05-05 00:00:00 +0200"
     } ,
   
