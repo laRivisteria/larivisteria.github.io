@@ -1,6 +1,38 @@
 [
   
     {
+      "title"    : "Totò Modo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/08/tot_modo/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "RITORNO",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/08/ritorno/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“La Francia, oggi, indistintamente, nella sua interezza è antisemita”. Dialogo con Norbert, ebreo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/08/la_francia_oggi_indistintamente_nella_sua_interezza_antisemita_dialogo_con_norbert_ebreo/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cultura visiva e Transmedialità/ Il cinema è il cinema",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/08/cultura_visiva_e_transmedialit_il_cinema_il_cinema/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Tratado sobre contraerotismo #1",
       "category" : "verde",
       "tags"     : "verde",
@@ -53,6 +85,14 @@
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/05/07/perch_leggere_giorni_luminosi_di_aharon_appelfeld/",
+      "date"     : "2021-05-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Oskar Kokoshka: l’insana follia di un uomo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/07/oskar_kokoshka_linsana_follia_di_un_uomo/",
       "date"     : "2021-05-07 00:00:00 +0200"
     } ,
   
@@ -113,6 +153,14 @@
     } ,
   
     {
+      "title"    : "La condizione femminile più diffusa che ci sia | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/05/07/la_condizione_femminile_pi_diffusa_che_ci_sia_lettere/",
+      "date"     : "2021-05-07 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La bambola",
       "category" : "waste",
       "tags"     : "waste",
@@ -137,10 +185,34 @@
     } ,
   
     {
+      "title"    : "Gli scavi di Ercolano come non sono mai stati criticati prima!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/07/gli_scavi_di_ercolano_come_non_sono_mai_stati_criticati_prima/",
+      "date"     : "2021-05-07 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Geopolitica del clima: gli interessi politici ed economici dietro la crisi climatica",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/05/07/geopolitica_del_clima_gli_interessi_politici_ed_economici_dietro_la_crisi_climatica/",
+      "date"     : "2021-05-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Genio e perversione: da Gauguin a Woody Allen, il lato oscuro dei maestri dell’arte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/07/genio_e_perversione_da_gauguin_a_woody_allen_il_lato_oscuro_dei_maestri_dellarte/",
+      "date"     : "2021-05-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Fuggendo l’orrore”. Il contro-eroe di Drieu",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/07/fuggendo_lorrore_il_contro-eroe_di_drieu/",
       "date"     : "2021-05-07 00:00:00 +0200"
     } ,
   
@@ -181,6 +253,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/05/07/contro_la_mentalit_armonica_satana_camus_e_le_mitologie_di_destra_e_sinistra/",
+      "date"     : "2021-05-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Combattere la censura con la beneficenza, l’iniziativa di Ceci n’est pas un blasphème",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/07/combattere_la_censura_con_la_beneficenza_liniziativa_di_ceci_nest_pas_un_blasphme/",
       "date"     : "2021-05-07 00:00:00 +0200"
     } ,
   
