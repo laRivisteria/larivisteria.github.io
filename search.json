@@ -1,10 +1,226 @@
 [
   
     {
+      "title"    : "Uiguri: uno scandalo. Dialogo con Rushan Abbas",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/10/uiguri_uno_scandalo_dialogo_con_rushan_abbas/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "tutta la vita dentro la morte – Cambiare l’acqua ai fiori di Valérie Perrin",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/05/10/tutta_la_vita_dentro_la_morte_cambiare_lacqua_ai_fiori_di_valrie_perrin/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il senso della filosofia “dopo la filosofia”. Quando Rorty si appoggiava a una poesia di Larkin",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/10/il_senso_della_filosofia_dopo_la_filosofia_quando_rorty_si_appoggiava_a_una_poesia_di_larkin/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il ratto delle galline. Capannone n.8 di Deb Olin Unferth",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/05/10/il_ratto_delle_galline_capannone_n8_di_deb_olin_unferth/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Mattarella scrive ai Jalisse: “Inviatemi il vostro nuovo disco”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/10/attenzione_mattarella_scrive_ai_jalisse_inviatemi_il_vostro_nuovo_disco/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ ATTENZIONE +++ Fedez, il figlio Leone non accetta che il papà si chiami Federico",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/10/attenzione_fedez_il_figlio_leone_non_accetta_che_il_pap_si_chiami_federico/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Al semaforo",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/05/10/al_semaforo/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "VIVA #4",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/05/09/viva_4/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ti presento Tourette. Intervista a Daniela Giannoni",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/09/ti_presento_tourette_intervista_a_daniela_giannoni/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Racconto: Test di realtà – Gioacchino Lonobile",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/05/09/racconto_test_di_realt_gioacchino_lonobile/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesie – Matteo Bogazzi",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/05/09/poesie_matteo_bogazzi/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché non riusciremo a fermare il disastro ecologico del pianeta | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/05/09/perch_non_riusciremo_a_fermare_il_disastro_ecologico_del_pianeta_in_translation/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Nulla è più nero dell’alba luminosa del ricordo”. Celan e i suoi frammenti che travolgono e pacificano",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/09/nulla_pi_nero_dellalba_luminosa_del_ricordo_celan_e_i_suoi_frammenti_che_travolgono_e_pacificano/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Moderata Fonte – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/09/moderata_fonte_personaggio_della_settimana/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le madri sono tornate al centro del mondo nel corso di questa pandemia che le esclude dalla società: tempo di leggere il romanzo della Calandrone",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/09/le_madri_sono_tornate_al_centro_del_mondo_nel_corso_di_questa_pandemia_che_le_esclude_dalla_societ_tempo_di_leggere_il_romanzo_della_calandrone/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La vita segreta dei fiori",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/09/la_vita_segreta_dei_fiori/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Io e Bafometto",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/05/09/io_e_bafometto/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il saluto di Isabella",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/05/09/il_saluto_di_isabella/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Maternità altre di Valentina Cottini",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/09/il_racconto_della_domenica_maternit_altre_di_valentina_cottini/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I poeti appartati: Davide Lucantoni",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/09/i_poeti_appartati_davide_lucantoni/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "E te veng’ a piglià solo se ascoltiamo Liberato a volume schifoso",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/09/e_te_veng_a_pigli_solo_se_ascoltiamo_liberato_a_volume_schifoso/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diserzione, hashish e Storia: dialogo con Marino Magliani su Il cannocchiale del tenente Dumont (L’Orma, 2021)",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/05/09/diserzione_hashish_e_storia_dialogo_con_marino_magliani_su_il_cannocchiale_del_tenente_dumont_lorma_2021/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Disarmonie di una nazione",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/09/disarmonie_di_una_nazione/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DarBazar: a Montesacro un emporio di scelta consapevole ",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/05/09/darbazar_a_montesacro_un_emporio_di_scelta_consapevole/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "360 gradi di moda aumentata",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/09/360_gradi_di_moda_aumentata/",
+      "date"     : "2021-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra Cairoli e il Duomo, Milano aveva un piccolo anfiteatro che ora non c’è più",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/05/08/tra_cairoli_e_il_duomo_milano_aveva_un_piccolo_anfiteatro_che_ora_non_c_pi/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Totò Modo",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/05/08/tot_modo/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Stefano De Martino oppure lo scugnizzo ballerino",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/08/stefano_de_martino_oppure_lo_scugnizzo_ballerino/",
       "date"     : "2021-05-08 00:00:00 +0200"
     } ,
   
@@ -17,6 +233,30 @@
     } ,
   
     {
+      "title"    : "L’insonnia e il suo circolo vizioso",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/08/linsonnia_e_il_suo_circolo_vizioso/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lasciatevi infestare | Danilo Zagaria (Prefazione a Hortus mirabilis)",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/05/08/lasciatevi_infestare_danilo_zagaria_prefazione_a_hortus_mirabilis/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La mamma",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/08/la_mamma/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“La Francia, oggi, indistintamente, nella sua interezza è antisemita”. Dialogo con Norbert, ebreo",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +265,66 @@
     } ,
   
     {
+      "title"    : "Il naufragio dell’Ermagòra",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/05/08/il_naufragio_dellermagra/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mondo sottosopra",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/08/il_mondo_sottosopra/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I mille linguaggi degli uccelli",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/05/08/i_mille_linguaggi_degli_uccelli/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I Cento Passi di Peppino Impastato",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/08/i_cento_passi_di_peppino_impastato/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #100",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/05/08/fantastico_100/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dinamiche sul finis vitae – Parte 1: Tre definizioni di vita",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/05/08/dinamiche_sul_finis_vitae_parte_1_tre_definizioni_di_vita/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Cultura visiva e Transmedialità/ Il cinema è il cinema",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/05/08/cultura_visiva_e_transmedialit_il_cinema_il_cinema/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Anna Wiener – La valle oscura",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/05/08/anna_wiener_la_valle_oscura/",
       "date"     : "2021-05-08 00:00:00 +0200"
     } ,
   
@@ -5909,6 +6205,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/04/13/landscape_silhouette/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La stanza verde",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/04/13/la_stanza_verde/",
       "date"     : "2021-04-13 00:00:00 +0200"
     } ,
   
