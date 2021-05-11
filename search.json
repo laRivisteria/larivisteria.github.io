@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "Mutazioni e altre noie",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/05/11/mutazioni_e_altre_noie/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“l’estate del ’79” di davide ceraso",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/05/11/lestate_del_79_di_davide_ceraso/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il matrimonio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/11/il_matrimonio/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Eureka! Sono diventato pazzo”. Edgar Allan Poe, la biografia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/11/eureka_sono_diventato_pazzo_edgar_allan_poe_la_biografia/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi ha paura di Biancaneve?",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/05/11/chi_ha_paura_di_biancaneve/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Visti e svisti – “In the mood for love”",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/05/10/visti_e_svisti_in_the_mood_for_love/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Uiguri: uno scandalo. Dialogo con Rushan Abbas",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -13,6 +61,126 @@
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/05/10/tutta_la_vita_dentro_la_morte_cambiare_lacqua_ai_fiori_di_valrie_perrin/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Si possa noi vivere a lungo",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/05/10/si_possa_noi_vivere_a_lungo/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Sai”: assaporare la vita al gusto di uno stravagante blues!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/10/sai_assaporare_la_vita_al_gusto_di_uno_stravagante_blues/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Prima o poi tutti affronteremo la morte. Può aiutarci darle un senso?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/05/10/prima_o_poi_tutti_affronteremo_la_morte_pu_aiutarci_darle_un_senso/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nomadland, i dinosauri e l’arte del kintsugi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/10/nomadland_i_dinosauri_e_larte_del_kintsugi/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Musa e getta: sedici scrittrici per sedici grandi donne (ma a volte dimenticate)",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/05/10/musa_e_getta_sedici_scrittrici_per_sedici_grandi_donne_ma_a_volte_dimenticate/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Maradona: non sarò mai un uomo comune",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/05/10/maradona_non_sar_mai_un_uomo_comune/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’intelligenza artificiale e l’esperimento della stanza cinese – pt.2",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/05/10/lintelligenza_artificiale_e_lesperimento_della_stanza_cinese_pt2/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’insostenibile superficialità dell’essere fantasmi.",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/05/10/linsostenibile_superficialit_dellessere_fantasmi/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ex voto tra devozione popolare e cultura underground",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/10/lex_voto_tra_devozione_popolare_e_cultura_underground/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’eleganza di Coco Chanel: tutte le sue mode nel tempo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/10/leleganza_di_coco_chanel_tutte_le_sue_mode_nel_tempo/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Eco del Nulla N.8 | Duemilaventuno - Fuga dalla pandemia | Vetrina",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/05/10/leco_del_nulla_n8_duemilaventuno_-_fuga_dalla_pandemia_vetrina/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La seduzione: dalla sirena a Retablo",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/10/la_seduzione_dalla_sirena_a_retablo/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La plebe assassina? “Questi sono gli ultimi dei barbari”. Parola di Spinoza (e di Piero Martinetti allontanato dai fascisti)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/10/la_plebe_assassina_questi_sono_gli_ultimi_dei_barbari_parola_di_spinoza_e_di_piero_martinetti_allontanato_dai_fascisti/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Italia, e oltre l’infinito",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/05/10/italia_e_oltre_linfinito/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "INDIFFERENZIATA #6: Di nuovo Adele (Stefania Maruelli, 22/12/20)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/05/10/indifferenziata_6_di_nuovo_adele_stefania_maruelli_221220/",
       "date"     : "2021-05-10 00:00:00 +0200"
     } ,
   
@@ -33,6 +201,126 @@
     } ,
   
     {
+      "title"    : "Il potere delle parole: Giada Trebeschi",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/05/10/il_potere_delle_parole_giada_trebeschi/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il paradosso della lettera E",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/05/10/il_paradosso_della_lettera_e/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli onironauti di Tula",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/05/10/gli_onironauti_di_tula/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fuori dagli schemi 10 – Valeria Parrella",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/10/fuori_dagli_schemi_10_valeria_parrella/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fuga dalla pandemia | Rivista",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/05/10/fuga_dalla_pandemia_rivista/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Exuvia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/10/exuvia/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Effetto Milone, note a margine",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/10/effetto_milone_note_a_margine/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Droga Reportage – Viaggio nella comune dove Achille Lauro visse a 14 anni.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/10/droga_reportage_viaggio_nella_comune_dove_achille_lauro_visse_a_14_anni/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Consigli di lettura: 5 Laterza",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/05/10/consigli_di_lettura_5_laterza/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cara classe operaia, il paradiso è stato venduto",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/05/10/cara_classe_operaia_il_paradiso_stato_venduto/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Byung-Chul Han e l’obbligo della felicità",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/05/10/byung-chul_han_e_lobbligo_della_felicit/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bravissima: il romanzo d’esordio di Paola Moretti. Dalla ginnastica ritmica all’ossessione per la perfezione. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/10/bravissima_il_romanzo_desordio_di_paola_moretti_dalla_ginnastica_ritmica_allossessione_per_la_perfezione_recensione/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bibliosmia, tsundoku e page-à-vu: nuovi termini per lettori e lettrici instancabili",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/05/10/bibliosmia_tsundoku_e_page-vu_nuovi_termini_per_lettori_e_lettrici_instancabili/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Napoleone “era poco dotato. Ecco le vere misure del suo pene”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/10/attenzionenapoleone_era_poco_dotato_ecco_le_vere_misure_del_suo_pene/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ Morgan cade rovinosamente dal monopattino e si rompe due costole",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/10/attenzione_morgan_cade_rovinosamente_dal_monopattino_e_si_rompe_due_costole/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "+++ ATTENZIONE +++ Mattarella scrive ai Jalisse: “Inviatemi il vostro nuovo disco”",
       "category" : "droga",
       "tags"     : "droga",
@@ -45,6 +333,22 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/05/10/attenzione_fedez_il_figlio_leone_non_accetta_che_il_pap_si_chiami_federico/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ Emanuele Filiberto vuole fare una versione italiana di The Crown",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/10/attenzione_emanuele_filiberto_vuole_fare_una_versione_italiana_di_the_crown/",
+      "date"     : "2021-05-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Athinà Titaki | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/05/10/athin_titaki_poesie/",
       "date"     : "2021-05-10 00:00:00 +0200"
     } ,
   
@@ -401,7 +705,7 @@
     } ,
   
     {
-      "title"    : "Nicolás Guillèn – Poesie scelte",
+      "title"    : "Nicolás Guillèn | Poesie scelte",
       "category" : "inverso",
       "tags"     : "inverso",
       "url"      : "/2021/05/07/nicolas_guilln_poesie_scelte/",
