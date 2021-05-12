@@ -1,10 +1,202 @@
 [
   
     {
+      "title"    : "Malina | Greta Rosso",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/05/12/malina_greta_rosso/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La filosofia dell’infinito di Georg Cantor",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/05/12/la_filosofia_dellinfinito_di_georg_cantor/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Dopo la morte di Prometeo di Alessandro Pestarino",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/12/il_racconto_del_mercoled_dopo_la_morte_di_prometeo_di_alessandro_pestarino/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guareschi, ridere di noi",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/05/12/guareschi_ridere_di_noi/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Funzione-Foscolo",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/12/funzione-foscolo/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Entriamo in noi stessi!”. Il manifesto politico di Joseph Beuys",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/12/entriamo_in_noi_stessi_il_manifesto_politico_di_joseph_beuys/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DUE. Sancho Panza e la pecora Dolly - Parte 2",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/05/12/due_sancho_panza_e_la_pecora_dolly_-_parte_2/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Douglas Stuart – Storia di Shuggie Bain",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/05/12/douglas_stuart_storia_di_shuggie_bain/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dall&#39;altra parte",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/05/12/dallaltra_parte/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vanvitelli e la Reggia di Caserta: 5 curiosità che non conoscevi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/11/vanvitelli_e_la_reggia_di_caserta_5_curiosit_che_non_conoscevi/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Una storia assurda”. I professori, gli spiriti e i depistaggi del caso Moro. “La seduta spiritica” di Antonio Iovane",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/11/una_storia_assurda_i_professori_gli_spiriti_e_i_depistaggi_del_caso_moro_la_seduta_spiritica_di_antonio_iovane/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tirocinio dell’attesa",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/05/11/tirocinio_dellattesa/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sotto le bende",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/05/11/sotto_le_bende/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sherlock Holmes e l’orrore di Cthulhu",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/11/sherlock_holmes_e_lorrore_di_cthulhu/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rosicatori del tempo",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/11/rosicatori_del_tempo/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ripartire dal dolore",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/05/11/ripartire_dal_dolore/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesia come GPS: “Verso dove” di Lorenzo Mandalis",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/11/poesia_come_gps_verso_dove_di_lorenzo_mandalis/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nomadland | Diventare grandi",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/05/11/nomadland_diventare_grandi/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Mutazioni e altre noie",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/05/11/mutazioni_e_altre_noie/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Matteo Mingoli – I poeti hanno volti deformi",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/05/11/matteo_mingoli_i_poeti_hanno_volti_deformi/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marinare… la scuola?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/11/marinare_la_scuola/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ossessione amorosa nel romanzo esistenzialista italiano: tra “La noia” e “Un amore”, parte II",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/11/lossessione_amorosa_nel_romanzo_esistenzialista_italiano_tra_la_noia_e_un_amore_parte_ii/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo scrigno dei ricordi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/11/lo_scrigno_dei_ricordi/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Levi, tra chimica e inchiostro",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/11/levi_tra_chimica_e_inchiostro/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture Elettriche per Libri D’Asporto: Liberocaos e Libreria Gori",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/05/11/letture_elettriche_per_libri_dasporto_liberocaos_e_libreria_gori/",
       "date"     : "2021-05-11 00:00:00 +0200"
     } ,
   
@@ -17,10 +209,66 @@
     } ,
   
     {
+      "title"    : "L’arrivo della vita adulta",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/05/11/larrivo_della_vita_adulta/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’albero di pomelie",
+      "category" : "voce-del-verbo",
+      "tags"     : "voce-del-verbo",
+      "url"      : "/2021/05/11/lalbero_di_pomelie/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La morte tersa delle parole",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/11/la_morte_tersa_delle_parole/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La mannara di San Cassiano – Parte III",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/05/11/la_mannara_di_san_cassiano_parte_iii/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La casa che brucia",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/05/11/la_casa_che_brucia/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il romanzo poliziesco di María Angélica Bosco",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/05/11/il_romanzo_poliziesco_di_mara_anglica_bosco/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il matrimonio",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/05/11/il_matrimonio/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I viaggiatori",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/05/11/i_viaggiatori/",
       "date"     : "2021-05-11 00:00:00 +0200"
     } ,
   
@@ -33,10 +281,58 @@
     } ,
   
     {
+      "title"    : "Ecopoesia: Paesaggi in prestito | Marion Poschmann",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/05/11/ecopoesia_paesaggi_in_prestito_marion_poschmann/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ecopoesia: intervista ad Alexander Shurbanov",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/05/11/ecopoesia_intervista_ad_alexander_shurbanov/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Disney: bufera su Cip &amp; Ciop.  Uno studio Usa rivela: “sono sex offenders”.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/11/disney_bufera_su_cip_ciop_uno_studio_usa_rivela_sono_sex_offenders/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Clarice Lispector: Acqua viva",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/11/clarice_lispector_acqua_viva/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Chi ha paura di Biancaneve?",
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
       "url"      : "/2021/05/11/chi_ha_paura_di_biancaneve/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Amore e Morte” di Calcedonio Reina è il ‘carpe diem’, l’attimo del bacio colto in tempo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/11/amore_e_morte_di_calcedonio_reina_il_carpe_diem_lattimo_del_bacio_colto_in_tempo/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alla z2o Sara Zanin Gallery di Roma è in esposizione ‘Verticale Terra’, la personale a due “voci” di Tocca-Prevedello",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/05/11/alla_z2o_sara_zanin_gallery_di_roma_in_esposizione_verticale_terra_la_personale_a_due_voci_di_tocca-prevedello/",
       "date"     : "2021-05-11 00:00:00 +0200"
     } ,
   
