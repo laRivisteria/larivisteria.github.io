@@ -1,10 +1,74 @@
 [
   
     {
+      "title"    : "Un pensiero della luce",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/16/un_pensiero_della_luce/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ronzani editore",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/05/16/ronzani_editore/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“La letteratura ci offre gli strumenti per combattere la fantasia e il bisogno di consolazione e ci aiuta a riprenderci dai danni del Romanticismo”. Su Iris Murdoch, la filosofa americana che impugnava libri come scimitarre",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/16/la_letteratura_ci_offre_gli_strumenti_per_combattere_la_fantasia_e_il_bisogno_di_consolazione_e_ci_aiuta_a_riprenderci_dai_danni_del_romanticismo_su_iris_murdoch_la_filosofa_americana_che_impugnava_libri_come_scimitarre/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Katja",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/05/16/katja/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Rivelazioni sul pittore magico di Marco Corvaia",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/16/il_racconto_della_domenica_rivelazioni_sul_pittore_magico_di_marco_corvaia/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vita di paese – Episodio 2",
+      "category" : "doctor-tale-and-mister-shot",
+      "tags"     : "doctor-tale-and-mister-shot",
+      "url"      : "/2021/05/15/vita_di_paese_episodio_2/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TAXI LISBOA",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/05/15/taxi_lisboa/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Non sono reazionario: è che mi disegnano così",
       "category" : "la-letteratura-e-noi",
       "tags"     : "la-letteratura-e-noi",
       "url"      : "/2021/05/15/non_sono_reazionario_che_mi_disegnano_cos/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Messaggio di Moni Ovadia sul conflitto israelo-palestinese",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/15/messaggio_di_moni_ovadia_sul_conflitto_israelo-palestinese/",
       "date"     : "2021-05-15 00:00:00 +0200"
     } ,
   
@@ -25,6 +89,30 @@
     } ,
   
     {
+      "title"    : "La tua privacy vale un iPhone12?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/15/la_tua_privacy_vale_un_iphone12/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La più bella giornata della sua vita",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/05/15/la_pi_bella_giornata_della_sua_vita/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La nottola della saggezza, da Omero ad Hegel",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/15/la_nottola_della_saggezza_da_omero_ad_hegel/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Io porto la situazione senza scampo”. Alejandra Pizarnik su Henri Michaux",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -33,10 +121,58 @@
     } ,
   
     {
+      "title"    : "Gianni Ruscio | L’ottavo giorno",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/05/15/gianni_ruscio_lottavo_giorno/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Emily Dickinson | Quella rara e strana creatura",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/05/15/emily_dickinson_quella_rara_e_strana_creatura/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Coprifuoco",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/05/15/coprifuoco/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Comunità e società. “Favolacce” o la lacerazione",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/15/comunit_e_societ_favolacce_o_la_lacerazione/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cinque curiosità su Billy Bob Thornton",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/15/cinque_curiosit_su_billy_bob_thornton/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Assialità dei legami : fotografie di Isabelle Boccon-Gibod",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/05/15/assialit_dei_legami_fotografie_di_isabelle_boccon-gibod/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amabili resti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/15/amabili_resti/",
       "date"     : "2021-05-15 00:00:00 +0200"
     } ,
   
@@ -7493,6 +7629,14 @@
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
       "url"      : "/2021/04/13/liberaci_dal_padre_le_famiglie_religiose_nei_memoir/",
+      "date"     : "2021-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le cometeore",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/04/13/le_cometeore/",
       "date"     : "2021-04-13 00:00:00 +0200"
     } ,
   
