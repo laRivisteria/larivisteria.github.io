@@ -1,6 +1,62 @@
 [
   
     {
+      "title"    : "Tutto il mondo deve essere morto",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/05/17/tutto_il_mondo_deve_essere_morto/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mettiamo un mattino come un altro",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/05/17/mettiamo_un_mattino_come_un_altro/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Manifesto per la nuova scuola",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/17/manifesto_per_la_nuova_scuola/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La pienezza di una storia, la fragilità di una vita. Su Le stelle vicine di Massimo Gezzi.",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/17/la_pienezza_di_una_storia_la_fragilit_di_una_vita_su_le_stelle_vicine_di_massimo_gezzi/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il trauma del divenire: come la pandemia ci ha dato un pizzicotto",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/05/17/il_trauma_del_divenire_come_la_pandemia_ci_ha_dato_un_pizzicotto/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Gloriosa luminosità”. La mia Africa di André Gide",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/17/gloriosa_luminosit_la_mia_africa_di_andr_gide/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Breaking point",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/05/17/breaking_point/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un pensiero della luce",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -9,10 +65,42 @@
     } ,
   
     {
-      "title"    : "Ronzani editore",
+      "title"    : "T’innalzerò una statua",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/16/tinnalzer_una_statua/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Schegge",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/05/16/schegge/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ronzani Editore",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/05/16/ronzani_editore/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rana Ahmad per Ceci n’est pas un blasphème: essere atei nel mondo islamico",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/16/rana_ahmad_per_ceci_nest_pas_un_blasphme_essere_atei_nel_mondo_islamico/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La nuova frontiera d’umanità è on the road e si chiama “Nomadland”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/16/la_nuova_frontiera_dumanit_on_the_road_e_si_chiama_nomadland/",
       "date"     : "2021-05-16 00:00:00 +0200"
     } ,
   
@@ -41,10 +129,42 @@
     } ,
   
     {
+      "title"    : "Donami un rene",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/05/16/donami_un_rene/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Antonio Giuglini  – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/16/antonio_giuglini_personaggio_della_settimana/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Acrobazie — Storie brevi e brevissime di Alessandro Trasciatti",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/05/16/acrobazie_storie_brevi_e_brevissime_di_alessandro_trasciatti/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vita di paese – Episodio 2",
       "category" : "doctor-tale-and-mister-shot",
       "tags"     : "doctor-tale-and-mister-shot",
       "url"      : "/2021/05/15/vita_di_paese_episodio_2/",
+      "date"     : "2021-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tratti di un legame coi luoghi: La pioggia gialla | Julio Llamazares",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/05/15/tratti_di_un_legame_coi_luoghi_la_pioggia_gialla_julio_llamazares/",
       "date"     : "2021-05-15 00:00:00 +0200"
     } ,
   
@@ -349,6 +469,14 @@
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/05/14/due_poesie_di_floriana_porta/",
+      "date"     : "2021-05-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DIALOGO DI DUE CANI BASTARDI – III PARTE",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/05/14/dialogo_di_due_cani_bastardi_iii_parte/",
       "date"     : "2021-05-14 00:00:00 +0200"
     } ,
   
