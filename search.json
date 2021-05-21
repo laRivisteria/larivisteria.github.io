@@ -1,10 +1,282 @@
 [
   
     {
+      "title"    : "Yoga: il nuovo libro di Emmanuel Carrère.",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/05/21/yoga_il_nuovo_libro_di_emmanuel_carrre/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Valentino Bellucci | La solitudine dello sciamano",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/05/21/valentino_bellucci_la_solitudine_dello_sciamano/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Valecchi editore: oltre 100 anni di storia e una nuova veste per la casa editrice di Firenze. Intervista",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/05/21/valecchi_editore_oltre_100_anni_di_storia_e_una_nuova_veste_per_la_casa_editrice_di_firenze_intervista/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un frutto caduto, un racconto di D. Landi || Street Stories – INEDITO",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/05/21/un_frutto_caduto_un_racconto_di_d_landi_street_stories_inedito/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tratado sobre contraerotismo #2",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/05/21/tratado_sobre_contraerotismo_2/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tokyo, Stazione Ueno: la favola triste di un fantasma senzatetto",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/21/tokyo_stazione_ueno_la_favola_triste_di_un_fantasma_senzatetto/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Suicidio – Il mio quarto racconto poliziesco",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/21/suicidio_il_mio_quarto_racconto_poliziesco/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Senza bacchetta magica il mondo si cambia solo con il cuore”. Dialogo con Kader, musulmano",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/21/senza_bacchetta_magica_il_mondo_si_cambia_solo_con_il_cuore_dialogo_con_kader_musulmano/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Se tu dici che la poesia è l’effusione del tuo io, non c’è più nulla da teorizzare ⥀ Intervista a Lello Voce",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/05/21/se_tu_dici_che_la_poesia_leffusione_del_tuo_io_non_c_pi_nulla_da_teorizzare_intervista_a_lello_voce/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sabrina &amp; Corina: intervista a Kali Fajardo-Anstine",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/05/21/sabrina_corina_intervista_a_kali_fajardo-anstine/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rituale per l’evocazione di una scimmia",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/21/rituale_per_levocazione_di_una_scimmia/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quattro poesie di Sofia Ciriello",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/05/21/quattro_poesie_di_sofia_ciriello/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quando Stevenson – Peter Pan trovò Wendy. Era una principessa hawaiana,  “un’Altezza Reale carina e impegnativa”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/21/quando_stevenson_peter_pan_trov_wendy_era_una_principessa_hawaiana_unaltezza_reale_carina_e_impegnativa/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quando abbiamo smesso di capire il mondo: intervista a Benjamín Labatut",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/21/quando_abbiamo_smesso_di_capire_il_mondo_intervista_a_benjamn_labatut/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesie nell’erba",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/21/poesie_nellerba/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo specchio distorto",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/05/21/lo_specchio_distorto/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le monde est à nous",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/05/21/le_monde_est_nous/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le molte forme del Ferdydurke",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/05/21/le_molte_forme_del_ferdydurke/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La storia del mondo in tre oggetti",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/05/21/la_storia_del_mondo_in_tre_oggetti/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La solidarietà femminile in Almarina di Valeria Parrella",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/05/21/la_solidariet_femminile_in_almarina_di_valeria_parrella/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La regina dell’acqua",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/05/21/la_regina_dellacqua/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La lunga strada di sabbia (parte 4)",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/05/21/la_lunga_strada_di_sabbia_parte_4/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Iperdenti. Episodio 18. Quel venerdì.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/21/iperdenti_episodio_18_quel_venerd/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Plastico",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/05/21/il_plastico/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il cattivo poeta e l’immagine di un D’Annunzio mai data prima",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/21/il_cattivo_poeta_e_limmagine_di_un_dannunzio_mai_data_prima/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giovanni Peparello",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/21/giovanni_peparello/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Durantini e le sonorità femminili di Colette, Duras ed Ernaux",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/21/durantini_e_le_sonorit_femminili_di_colette_duras_ed_ernaux/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dunque, volete scrivere…”. Ezra Pound &amp; Lawrence d’Arabia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/21/dunque_volete_scrivere_ezra_pound_lawrence_darabia/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diario di un editore di fumetti #11",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/21/diario_di_un_editore_di_fumetti_11/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Decostruire e ricostruire verità. Su “Esercizi di fiducia” di Susan Choi",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/21/decostruire_e_ricostruire_verit_su_esercizi_di_fiducia_di_susan_choi/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da “Betelgeuse e altre poesie scientifiche”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/21/da_betelgeuse_e_altre_poesie_scientifiche/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cos&#39;è un corpo? Riflessioni su &quot;Conversari&quot; di Alfonso Guida",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/05/21/cos_un_corpo_riflessioni_su_conversari_di_alfonso_guida/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un nuovo modo di guardare. Purgatorio XXIII, il cinema e i manga",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/05/20/un_nuovo_modo_di_guardare_purgatorio_xxiii_il_cinema_e_i_manga/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Tutte le conseguenze”, le vite degli altri raccontate da Joan Silber",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/20/tutte_le_conseguenze_le_vite_degli_altri_raccontate_da_joan_silber/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sciacca, le donne e il fiore purpureo della rivoluzione",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/20/sciacca_le_donne_e_il_fiore_purpureo_della_rivoluzione/",
       "date"     : "2021-05-20 00:00:00 +0200"
     } ,
   
@@ -17,10 +289,26 @@
     } ,
   
     {
+      "title"    : "“Questa nave dell’eterno. E dove andiamo?” Malcolm Lowry schiacciato dalle domande e salvato dalla vita",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/20/questa_nave_delleterno_e_dove_andiamo_malcolm_lowry_schiacciato_dalle_domande_e_salvato_dalla_vita/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Piangi piangi”: cosa consola lo strazio dell’uomo moderno",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2021/05/20/piangi_piangi_cosa_consola_lo_strazio_delluomo_moderno/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Novena”: a caccia di fantasmi con Marco Marrucci",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/05/20/novena_a_caccia_di_fantasmi_con_marco_marrucci/",
       "date"     : "2021-05-20 00:00:00 +0200"
     } ,
   
@@ -33,10 +321,122 @@
     } ,
   
     {
+      "title"    : "Lo pseudonimo, il romance storico di Juls Way",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/20/lo_pseudonimo_il_romance_storico_di_juls_way/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lisa Orlando | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/05/20/lisa_orlando_poesie/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’eredità di Kentaro Miura, padre di Berserk",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/20/leredit_di_kentaro_miura_padre_di_berserk/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lattine",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/05/20/lattine/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La ragazza con l’occhio di vetro, di Stefano Fantelli",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/05/20/la_ragazza_con_locchio_di_vetro_di_stefano_fantelli/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La nuova questione della lingua: il napoletano inclusivo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/20/la_nuova_questione_della_lingua_il_napoletano_inclusivo/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Marco Balzano – Le parole sono importanti",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/05/20/intervista_a_marco_balzano_le_parole_sono_importanti/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Carlotta Scalabrini – Il cerchio magico",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/05/20/intervista_a_carlotta_scalabrini_il_cerchio_magico/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inchiesta sul lavoro di editor / 8: Vanni Santoni (Tunuè, dal 2014 al 2020)",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/20/inchiesta_sul_lavoro_di_editor_8_vanni_santoni_tunu_dal_2014_al_2020/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il sapore della libertà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/20/il_sapore_della_libert/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il blu di Geneviève Asse",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/20/il_blu_di_genevive_asse/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli orizzonti mai perduti",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/05/20/gli_orizzonti_mai_perduti/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Frammenti di Battiato",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/05/20/frammenti_di_battiato/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Essere o non essere…Super? : Joker e l’ultima barzelletta",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/05/20/essere_o_non_esseresuper_joker_e_lultima_barzelletta/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "E ti vengo a cercare",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/05/20/e_ti_vengo_a_cercare/",
       "date"     : "2021-05-20 00:00:00 +0200"
     } ,
   
@@ -53,6 +453,46 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/05/20/cos_chopin_immise_un_vivente_prodigio_parole_notturne_tra_rubinstein_cristina_campo_boris_pasternak/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cinismo, suicidio e la forza del caos",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/05/20/cinismo_suicidio_e_la_forza_del_caos/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi lo ha detto che i pirati sono solo uomini?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/20/chi_lo_ha_detto_che_i_pirati_sono_solo_uomini/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Calcio: mas que un “sport”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/20/calcio_mas_que_un_sport/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Arcipelago N.”, il nuovo libro di Vittorio Lingiardi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/20/arcipelago_n_il_nuovo_libro_di_vittorio_lingiardi/",
+      "date"     : "2021-05-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A4 nº 24 – maggio 2021",
+      "category" : "a4",
+      "tags"     : "a4",
+      "url"      : "/2021/05/20/a4_n_24_maggio_2021/",
       "date"     : "2021-05-20 00:00:00 +0200"
     } ,
   
@@ -133,6 +573,14 @@
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2021/05/19/premiobg21_nel_nome_del_diavolo_di_lorenzo_alunni/",
+      "date"     : "2021-05-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pratolini, la gioventù e certi dolori che resistono alle parole",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/19/pratolini_la_giovent_e_certi_dolori_che_resistono_alle_parole/",
       "date"     : "2021-05-19 00:00:00 +0200"
     } ,
   
@@ -249,6 +697,14 @@
     } ,
   
     {
+      "title"    : "Due che litigano",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/05/19/due_che_litigano/",
+      "date"     : "2021-05-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Dopamina e cortisolo",
       "category" : "singola",
       "tags"     : "singola",
@@ -273,10 +729,26 @@
     } ,
   
     {
+      "title"    : "Come è triste ora fare a meno del padre che Battiato non voleva essere",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/19/come_triste_ora_fare_a_meno_del_padre_che_battiato_non_voleva_essere/",
+      "date"     : "2021-05-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Come è triste ora fare a meno del padre che Battiato non è stato",
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/05/19/come_triste_ora_fare_a_meno_del_padre_che_battiato_non_stato/",
+      "date"     : "2021-05-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cognomi di potere",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/05/19/cognomi_di_potere/",
       "date"     : "2021-05-19 00:00:00 +0200"
     } ,
   
@@ -593,6 +1065,14 @@
     } ,
   
     {
+      "title"    : "Ciao Battiato, la luce sulla nostra parte assente",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/18/ciao_battiato_la_luce_sulla_nostra_parte_assente/",
+      "date"     : "2021-05-18 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Chi è cristiano e non si occupa del prossimo che soffre, mente”. Dialogo con Nathalie, cattolica",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -637,6 +1117,14 @@
       "category" : "narrandom",
       "tags"     : "narrandom",
       "url"      : "/2021/05/18/addio_e_grazie_per_tutto_il_salmone/",
+      "date"     : "2021-05-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A lunga conservazione. Orfeo e lo sguardo inopportuno",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/18/a_lunga_conservazione_orfeo_e_lo_sguardo_inopportuno/",
       "date"     : "2021-05-18 00:00:00 +0200"
     } ,
   
@@ -841,6 +1329,14 @@
     } ,
   
     {
+      "title"    : "Giornata contro l’omofobia, ecco i libri che suggeriamo",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/17/giornata_contro_lomofobia_ecco_i_libri_che_suggeriamo/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Felicitas Hoppe, Pigafetta",
       "category" : "morel",
       "tags"     : "morel",
@@ -973,6 +1469,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/05/16/tinnalzer_una_statua/",
+      "date"     : "2021-05-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Svevo, Zeno e l’ironica inquietudine di un (nuovo) inetto",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/16/svevo_zeno_e_lironica_inquietudine_di_un_nuovo_inetto/",
       "date"     : "2021-05-16 00:00:00 +0200"
     } ,
   
@@ -1513,6 +2017,14 @@
     } ,
   
     {
+      "title"    : "Scarlatti e la principessa, sodalizio di musica e silenzi per Riva",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/13/scarlatti_e_la_principessa_sodalizio_di_musica_e_silenzi_per_riva/",
+      "date"     : "2021-05-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Rock’n’Soul, intervista a Noemi Serracini",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -1873,6 +2385,14 @@
     } ,
   
     {
+      "title"    : "Facile da leggere, difficile da capire: riecco il poliziotto di Cercas",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/12/facile_da_leggere_difficile_da_capire_riecco_il_poliziotto_di_cercas/",
+      "date"     : "2021-05-12 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Entriamo in noi stessi!”. Il manifesto politico di Joseph Beuys",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -1941,6 +2461,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/05/11/una_storia_assurda_i_professori_gli_spiriti_e_i_depistaggi_del_caso_moro_la_seduta_spiritica_di_antonio_iovane/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tolstoj, la contraddizione tra finito e infinito è il motore di tutti",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/11/tolstoj_la_contraddizione_tra_finito_e_infinito_il_motore_di_tutti/",
       "date"     : "2021-05-11 00:00:00 +0200"
     } ,
   
@@ -2925,6 +3453,14 @@
       "category" : "waste",
       "tags"     : "waste",
       "url"      : "/2021/05/07/la_bambola/",
+      "date"     : "2021-05-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il fischio del vento, un racconto di C. Francioni || Street Stories – INEDITO",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/05/07/il_fischio_del_vento_un_racconto_di_c_francioni_street_stories_inedito/",
       "date"     : "2021-05-07 00:00:00 +0200"
     } ,
   
