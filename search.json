@@ -1,6 +1,102 @@
 [
   
     {
+      "title"    : "Solo Andata &amp; Tofu",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/05/25/solo_andata_tofu/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ricchioni",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/05/25/ricchioni/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Repubblica democratica fondata sulla resilienza, ma a (s)vantaggio di chi?",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/05/25/repubblica_democratica_fondata_sulla_resilienza_ma_a_svantaggio_di_chi/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Piano immaginario.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/25/piano_immaginario/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Mi sono messo in ascolto del deserto”. Intervista a Maurizio Fantoni Minnella che ha scovato le antiche biblioteche del deserto mauritano",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/25/mi_sono_messo_in_ascolto_del_deserto_intervista_a_maurizio_fantoni_minnella_che_ha_scovato_le_antiche_biblioteche_del_deserto_mauritano/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’opera da tre soldati, i disertori raminghi di Magliani",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/25/lopera_da_tre_soldati_i_disertori_raminghi_di_magliani/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’appartamento spagnolo | Meglio chiamarsi Elvira",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/05/25/lappartamento_spagnolo_meglio_chiamarsi_elvira/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il malumore della mia fenice",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/05/25/il_malumore_della_mia_fenice/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il boia di Dio. Storia di Mastro Titta, tagliatore di teste",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/25/il_boia_di_dio_storia_di_mastro_titta_tagliatore_di_teste/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gino Scartaghiande: per una ricognizione impossibile",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/25/gino_scartaghiande_per_una_ricognizione_impossibile/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Eva Hitler” di simone consorti",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/05/25/eva_hitler_di_simone_consorti/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vasari e “la maniera moderna” nella Sagrestia di Sant’Anna dei Lombardi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/24/vasari_e_la_maniera_moderna_nella_sagrestia_di_santanna_dei_lombardi/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Splendi come vita di Maria Grazia Calandrone: lettera d’amore alla madre adottiva. Recensione",
       "category" : "blam",
       "tags"     : "blam",
@@ -17,10 +113,74 @@
     } ,
   
     {
+      "title"    : "Saremo mai a posto con la coscienza?",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/05/24/saremo_mai_a_posto_con_la_coscienza/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sante",
+      "category" : "voce-del-verbo",
+      "tags"     : "voce-del-verbo",
+      "url"      : "/2021/05/24/sante/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Piccoli giardini letterari",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/05/24/piccoli_giardini_letterari/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Passioni e curiosità non scientificamente provate sul fantastico mondo canino",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/24/passioni_e_curiosit_non_scientificamente_provate_sul_fantastico_mondo_canino/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nasce la collana ArgoFumetti! ⥀ Argolibri",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/05/24/nasce_la_collana_argofumetti_argolibri/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nasce Bookers Italia, la prima agenzia di influencer culturali",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/05/24/nasce_bookers_italia_la_prima_agenzia_di_influencer_culturali/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nadeesha Uyangoda e  l’essere neri in Italia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/05/24/nadeesha_uyangoda_e_lessere_neri_in_italia/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marco Stefanelli in mostra con “Orogenesi”",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/05/24/marco_stefanelli_in_mostra_con_orogenesi/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lunghi istanti d’amore",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/05/24/lunghi_istanti_damore/",
       "date"     : "2021-05-24 00:00:00 +0200"
     } ,
   
@@ -41,6 +201,22 @@
     } ,
   
     {
+      "title"    : "Le montagne e il resto di Antonia Pozzi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/24/le_montagne_e_il_resto_di_antonia_pozzi/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le Locuste (I)",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/05/24/le_locuste_i/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Last taxi driver",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
@@ -49,10 +225,90 @@
     } ,
   
     {
+      "title"    : "La sapienza di Dylan",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/24/la_sapienza_di_dylan/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "INDIFFERENZIATA #8: Mememorfosi (Alberto Liverani, 24/12/20)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/05/24/indifferenziata_8_mememorfosi_alberto_liverani_241220/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il saggio di Ilaria Mainardi su David Lynch: Il racconto di un sogno. Ritorno a Twin Peaks",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/24/il_saggio_di_ilaria_mainardi_su_david_lynch_il_racconto_di_un_sogno_ritorno_a_twin_peaks/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Il cuore umano in conflitto con se stesso”. Difendiamo Faulkner!",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/05/24/il_cuore_umano_in_conflitto_con_se_stesso_difendiamo_faulkner/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I mezzi, i fini, i media. Perché non ho firmato il Manifesto per la nuova scuola",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/24/i_mezzi_i_fini_i_media_perch_non_ho_firmato_il_manifesto_per_la_nuova_scuola/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I libri per bambini che ogni adulto dovrebbe leggere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/24/i_libri_per_bambini_che_ogni_adulto_dovrebbe_leggere/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gaia e il cigno: su “L’acqua del lago non è mai dolce” di Caminito.",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/24/gaia_e_il_cigno_su_lacqua_del_lago_non_mai_dolce_di_caminito/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Frammenti di una filmografia amorosa – Parte prima",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/24/frammenti_di_una_filmografia_amorosa_parte_prima/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Flavio Villani",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/24/flavio_villani/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Festeggiando gli ottant’anni di Bob Dylan",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/24/festeggiando_gli_ottantanni_di_bob_dylan/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Famiglia, natura e distruzione: “A volte una bella pensata” di Ken Kesey",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/24/famiglia_natura_e_distruzione_a_volte_una_bella_pensata_di_ken_kesey/",
       "date"     : "2021-05-24 00:00:00 +0200"
     } ,
   
@@ -69,6 +325,14 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/05/24/china_miville_la_parigi_trasfigurata_e_larte_contro_la_barbarie/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bidibi Bodibi… Puff",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/05/24/bidibi_bodibi_puff/",
       "date"     : "2021-05-24 00:00:00 +0200"
     } ,
   
@@ -117,6 +381,14 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/05/24/attenzione_chiara_ferragni_abbatte_lultimo_tab_le_ciabatte_con_i_calzini_bianchi/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Asal",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/24/asal/",
       "date"     : "2021-05-24 00:00:00 +0200"
     } ,
   
