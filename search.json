@@ -1,10 +1,130 @@
 [
   
     {
+      "title"    : "Solo libri e personaggi salvano l’infanzia di Bayley",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/05/26/solo_libri_e_personaggi_salvano_linfanzia_di_bayley/",
+      "date"     : "2021-05-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Siamo in lotta contro il linguaggio”. Ludwig Wittgenstein",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/05/26/siamo_in_lotta_contro_il_linguaggio_ludwig_wittgenstein/",
+      "date"     : "2021-05-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nosferatu non esiste",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/05/26/nosferatu_non_esiste/",
+      "date"     : "2021-05-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mickey Mouse Graffiti",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/05/26/mickey_mouse_graffiti/",
+      "date"     : "2021-05-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Eros&amp;Thanatos – 13.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/05/26/erosthanatos_13/",
+      "date"     : "2021-05-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Emily Dickinson: per una teologia del desiderio",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/05/26/emily_dickinson_per_una_teologia_del_desiderio/",
+      "date"     : "2021-05-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DUE. Sancho Panza e la pecora Dolly - Parte 4",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/05/26/due_sancho_panza_e_la_pecora_dolly_-_parte_4/",
+      "date"     : "2021-05-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vecchio e nuovo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/25/vecchio_e_nuovo/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Urano",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/05/25/urano/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una settimana di racconti #166",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/05/25/una_settimana_di_racconti_166/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tonica Veronica",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/05/25/tonica_veronica/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Solo Andata &amp; Tofu",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/05/25/solo_andata_tofu/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Siamo stati felici",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/05/25/siamo_stati_felici/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Shtisel – I matrimoni d’inferno sono cascer",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/05/25/shtisel_i_matrimoni_dinferno_sono_cascer/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sfoglia il nostro catalogo",
+      "category" : "racconti-edizioni",
+      "tags"     : "racconti-edizioni",
+      "url"      : "/2021/05/25/sfoglia_il_nostro_catalogo/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rospi",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/25/rospi/",
       "date"     : "2021-05-25 00:00:00 +0200"
     } ,
   
@@ -33,10 +153,66 @@
     } ,
   
     {
+      "title"    : "Ombre Bianche",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/05/25/ombre_bianche/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Noterelle su [assemblatz] di Fiammetta Cirilli",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/05/25/noterelle_su_assemblatz_di_fiammetta_cirilli/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Mi sono messo in ascolto del deserto”. Intervista a Maurizio Fantoni Minnella che ha scovato le antiche biblioteche del deserto mauritano",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/05/25/mi_sono_messo_in_ascolto_del_deserto_intervista_a_maurizio_fantoni_minnella_che_ha_scovato_le_antiche_biblioteche_del_deserto_mauritano/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Memo: 27 maggio reunion di Friends",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/25/memo_27_maggio_reunion_di_friends/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mediocri di tutto il mondo – i drammi di Salieri e Mozart",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/05/25/mediocri_di_tutto_il_mondo_i_drammi_di_salieri_e_mozart/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Maurizio Cianchella",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/05/25/maurizio_cianchella/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Magliani, o della visibilità",
+      "category" : "il-problema-di-grendel",
+      "tags"     : "il-problema-di-grendel",
+      "url"      : "/2021/05/25/magliani_o_della_visibilit/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’orlo dell’abisso: sulle tracce di Malcolm Lowry",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/25/lorlo_dellabisso_sulle_tracce_di_malcolm_lowry/",
       "date"     : "2021-05-25 00:00:00 +0200"
     } ,
   
@@ -49,10 +225,66 @@
     } ,
   
     {
+      "title"    : "Lo splendido concorso “Verso mondi da inventare”",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/05/25/lo_splendido_concorso_verso_mondi_da_inventare/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Le ripetizioni” di Giulio Mozzi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/05/25/le_ripetizioni_di_giulio_mozzi/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’appartamento spagnolo | Meglio chiamarsi Elvira",
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
       "url"      : "/2021/05/25/lappartamento_spagnolo_meglio_chiamarsi_elvira/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’amazzone diatomea",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/05/25/lamazzone_diatomea/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La saliva dei gatti",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/05/25/la_saliva_dei_gatti/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La notte si avvicina (ma le stelle-stelline no): sull’ultimo romanzo di Loredana Lipperini",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/05/25/la_notte_si_avvicina_ma_le_stelle-stelline_no_sullultimo_romanzo_di_loredana_lipperini/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La lista di ILDA – maggio 21",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/05/25/la_lista_di_ilda_maggio_21/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Immagini dimenticate di una Palestina felice",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/25/immagini_dimenticate_di_una_palestina_felice/",
       "date"     : "2021-05-25 00:00:00 +0200"
     } ,
   
@@ -65,10 +297,26 @@
     } ,
   
     {
+      "title"    : "Il campanello sulla tomba",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/25/il_campanello_sulla_tomba/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il boia di Dio. Storia di Mastro Titta, tagliatore di teste",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/05/25/il_boia_di_dio_storia_di_mastro_titta_tagliatore_di_teste/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Gli affamati”, di Mattia Insolia",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/05/25/gli_affamati_di_mattia_insolia/",
       "date"     : "2021-05-25 00:00:00 +0200"
     } ,
   
@@ -81,10 +329,50 @@
     } ,
   
     {
-      "title"    : "“Eva Hitler” di simone consorti",
+      "title"    : "“Eva Hitler” di Simone Consorti",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/05/25/eva_hitler_di_simone_consorti/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Estratto da Cagliostro, di Vicente Huidobro",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/05/25/estratto_da_cagliostro_di_vicente_huidobro/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Deb Olin Unferth – Capannone n. 8",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/05/25/deb_olin_unferth_capannone_n_8/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Aurora Leone prende a calci l’ingiustizia subita: storia di ordinario sessismo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/05/25/aurora_leone_prende_a_calci_lingiustizia_subita_storia_di_ordinario_sessismo/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Area 99+",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/05/25/area_99/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Adolescenza di carne e violenza: Mandibula di Mónica Ojeda",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/05/25/adolescenza_di_carne_e_violenza_mandibula_di_mnica_ojeda/",
       "date"     : "2021-05-25 00:00:00 +0200"
     } ,
   
