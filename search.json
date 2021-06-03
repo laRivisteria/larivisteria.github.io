@@ -1,6 +1,86 @@
 [
   
     {
+      "title"    : "“Per un attimo soltanto, la bellezza soppianterà l’errore della noncuranza”. Buzzati fa fiorire ancora i ricordi e il bello",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/03/per_un_attimo_soltanto_la_bellezza_soppianter_lerrore_della_noncuranza_buzzati_fa_fiorire_ancora_i_ricordi_e_il_bello/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nero chiaro quasi bianco: il colore delle bugie.",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/03/nero_chiaro_quasi_bianco_il_colore_delle_bugie/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Odissea di Enard, disarmante geografia dello spirito in versi",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/03/lodissea_di_enard_disarmante_geografia_dello_spirito_in_versi/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Le stelle vicine”, la nuova raccolta di racconti di Massimo Gezzi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/03/le_stelle_vicine_la_nuova_raccolta_di_racconti_di_massimo_gezzi/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Jammed for the fist” di Dickie Smabers aka Legowelt.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/03/jammed_for_the_fist_di_dickie_smabers_aka_legowelt/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giorgio Morandi e lo Strapaese",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/03/giorgio_morandi_e_lo_strapaese/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dal fondo della vita. Per Thierry Metz",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/03/dal_fondo_della_vita_per_thierry_metz/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chiunque io sia",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/06/03/chiunque_io_sia/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Blue Jay | Il bellissimo giaccone della Carhartt che indossa Jim",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/06/03/blue_jay_il_bellissimo_giaccone_della_carhartt_che_indossa_jim/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Adriano Spatola o “La smania del corpo”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/03/adriano_spatola_o_la_smania_del_corpo/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Una calda notte senza luna",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -49,6 +129,14 @@
     } ,
   
     {
+      "title"    : "Non tutto il male, cronache della terra inabitabile di Andrea Cassini",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/02/non_tutto_il_male_cronache_della_terra_inabitabile_di_andrea_cassini/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Non scrivermi d’amore”. Viktor Sklovskij o della bellezza come condanna",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -65,6 +153,22 @@
     } ,
   
     {
+      "title"    : "La disputa sul Raki",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/06/02/la_disputa_sul_raki/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Kamikaze 1989",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/06/02/kamikaze_1989/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il racconto del mercoledì: Ponte Colossus di Matteo Consiglio",
       "category" : "blam",
       "tags"     : "blam",
@@ -73,10 +177,66 @@
     } ,
   
     {
+      "title"    : "Il correttore",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/06/02/il_correttore/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I Gladiatori al MANN",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/02/i_gladiatori_al_mann/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Gocce di sudore, ovvero il mio documentario africano, # 1",
       "category" : "spazinclusi",
       "tags"     : "spazinclusi",
       "url"      : "/2021/06/02/gocce_di_sudore_ovvero_il_mio_documentario_africano_1/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Gladiatori”, la mostra al MANN ha fatto scacco matto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/02/gladiatori_la_mostra_al_mann_ha_fatto_scacco_matto/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gioventù Etrusca #10: Nella direzione sbagliata",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/06/02/giovent_etrusca_10_nella_direzione_sbagliata/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fotografia al femminile, quando la Newborn si afferma in Campania",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/02/fotografia_al_femminile_quando_la_newborn_si_afferma_in_campania/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Disegnare per resistere. Intervista a Zehra Doğan",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/02/disegnare_per_resistere_intervista_a_zehra_doan/",
+      "date"     : "2021-06-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DaDizioni – ripetizioni ai tempi della DaD: Giacomo Leopardi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/02/dadizioni_ripetizioni_ai_tempi_della_dad_giacomo_leopardi/",
       "date"     : "2021-06-02 00:00:00 +0200"
     } ,
   
@@ -1861,6 +2021,14 @@
       "category" : "pastrengo",
       "tags"     : "pastrengo",
       "url"      : "/2021/05/25/siamo_stati_felici/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Shtisel –  Matrimoni d’inferno e cascer",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/05/25/shtisel_matrimoni_dinferno_e_cascer/",
       "date"     : "2021-05-25 00:00:00 +0200"
     } ,
   
