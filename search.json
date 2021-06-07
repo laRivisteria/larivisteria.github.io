@@ -1,6 +1,94 @@
 [
   
     {
+      "title"    : "Vademecum dell’HIV pt I. – Da piaga sociale a problema sanitario",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/06/07/vademecum_dellhiv_pt_i_da_piaga_sociale_a_problema_sanitario/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Uno su dodici – Seconda parte",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/06/07/uno_su_dodici_seconda_parte/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spoglio",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/06/07/spoglio/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Silenzio in aula! Orwell recensisce un nuovo libro di Miller (e lo trova sbiadito)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/07/silenzio_in_aula_orwell_recensisce_un_nuovo_libro_di_miller_e_lo_trova_sbiadito/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La foresta senza fine",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/06/07/la_foresta_senza_fine/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inclassificabile Mazzi, lettura che sorprende senza motivo",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/07/inclassificabile_mazzi_lettura_che_sorprende_senza_motivo/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I bambini perduti di Space Oddity",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/07/i_bambini_perduti_di_space_oddity/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Che cosa significa abitare",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/06/07/che_cosa_significa_abitare/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Morgan e il radicale cambio di look",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/07/attenzionemorgan_e_il_radicale_cambio_di_look/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Daniela Zuccoli: “Mike ci protegge: nostro figlio ha preso la funivia mezz’ora prima che precipitasse”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/07/attenzionedaniela_zuccoli_mike_ci_protegge_nostro_figlio_ha_preso_la_funivia_mezzora_prima_che_precipitasse/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Chiara Ferragni, un inaspettato regalo per Leone solca i cieli di Milano: la tenera reazione",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/07/attenzionechiara_ferragni_un_inaspettato_regalo_per_leone_solca_i_cieli_di_milano_la_tenera_reazione/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "viaggio onirico ne “LA CITTà” DI LEVRERO",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -17,10 +105,26 @@
     } ,
   
     {
+      "title"    : "Scuola, la posta in gioco",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/06/06/scuola_la_posta_in_gioco/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Occorrono mesi e anni di sacrificio per imbastire opere letterarie, mentre basta un ‘secondo’ soltanto per dimenticarsi di quel che sei”. Giorgio Anelli invoca una nuova scrittura segreta",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/06/06/occorrono_mesi_e_anni_di_sacrificio_per_imbastire_opere_letterarie_mentre_basta_un_secondo_soltanto_per_dimenticarsi_di_quel_che_sei_giorgio_anelli_invoca_una_nuova_scrittura_segreta/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nello spazio con AstroSam: come ti abbatto gli stereotipi sessisti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/06/nello_spazio_con_astrosam_come_ti_abbatto_gli_stereotipi_sessisti/",
       "date"     : "2021-06-06 00:00:00 +0200"
     } ,
   
@@ -41,10 +145,34 @@
     } ,
   
     {
+      "title"    : "Le ripetizioni di Giulio Mozzi: il male, i corpi e la memoria. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/06/le_ripetizioni_di_giulio_mozzi_il_male_i_corpi_e_la_memoria_recensione/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Laura Bassi  – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/06/laura_bassi_personaggio_della_settimana/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La Porta del Cielo, di Ana Llurba",
       "category" : "la-nuova-carne",
       "tags"     : "la-nuova-carne",
       "url"      : "/2021/06/06/la_porta_del_cielo_di_ana_llurba/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il rifugio delle ricette",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/06/il_rifugio_delle_ricette/",
       "date"     : "2021-06-06 00:00:00 +0200"
     } ,
   
@@ -61,6 +189,22 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/06/06/giallo_s_ma_sociale_carlomagno_esce_fuori_dal_gruppo/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "FuoriAsse #26 - La Pietas",
+      "category" : "cooperativa-letteraria",
+      "tags"     : "cooperativa-letteraria",
+      "url"      : "/2021/06/06/fuoriasse_26_-_la_pietas/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dissolversi” per sentirsi meno soli: il sussurro di una generazione dissociata",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/06/dissolversi_per_sentirsi_meno_soli_il_sussurro_di_una_generazione_dissociata/",
       "date"     : "2021-06-06 00:00:00 +0200"
     } ,
   
@@ -141,6 +285,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/06/05/la_guerra_anglo-zanzibariana_la_pi_breve_della_storia/",
+      "date"     : "2021-06-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“La follia ha molto a che fare con me…”. Juan Rodolfo Wilcock",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/05/la_follia_ha_molto_a_che_fare_con_me_juan_rodolfo_wilcock/",
       "date"     : "2021-06-05 00:00:00 +0200"
     } ,
   
@@ -389,6 +541,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/06/04/giuda_kiss_me_hard_before_you_go/",
+      "date"     : "2021-06-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Galassia Orabona",
+      "category" : "ctrl-magazine",
+      "tags"     : "ctrl-magazine",
+      "url"      : "/2021/06/04/galassia_orabona/",
       "date"     : "2021-06-04 00:00:00 +0200"
     } ,
   
