@@ -1,6 +1,78 @@
 [
   
     {
+      "title"    : "Una comune favola di migrazione. “Il rosso e il blu” di Luca Giommoni",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/08/una_comune_favola_di_migrazione_il_rosso_e_il_blu_di_luca_giommoni/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Storia breve e allucinata di Sherwood Anderson, il padre nobile di Faulker che a 36 anni lasciò moglie e fabbrica di vernici cominciando a scrivere racconti",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/08/storia_breve_e_allucinata_di_sherwood_anderson_il_padre_nobile_di_faulker_che_a_36_anni_lasci_moglie_e_fabbrica_di_vernici_cominciando_a_scrivere_racconti/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Progetto #11",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/08/progetto_11/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“L’AVVISTAMENTO” di Antonio Potenza",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/08/lavvistamento_di_antonio_potenza/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La legge del signore | Gary Cooper",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/06/08/la_legge_del_signore_gary_cooper/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Kore di Sicilia",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/06/08/la_kore_di_sicilia/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Halston di Ryan Murphy: raccontare il mito della moda  attraverso la fiction",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/06/08/halston_di_ryan_murphy_raccontare_il_mito_della_moda_attraverso_la_fiction/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ha vissuto l’eterno in ogni istante”. Marguerite Yourcenar",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/08/ha_vissuto_leterno_in_ogni_istante_marguerite_yourcenar/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fabio Orecchini: Malbianco",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/08/fabio_orecchini_malbianco/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vademecum dell’HIV pt I. – Da piaga sociale a problema sanitario",
       "category" : "light-magazine",
       "tags"     : "light-magazine",
@@ -17,10 +89,34 @@
     } ,
   
     {
+      "title"    : "Una specie compagna per la rivoluzione",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/06/07/una_specie_compagna_per_la_rivoluzione/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una boccata d’aria fresca – Festival della Letteratura Sociale",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/06/07/una_boccata_daria_fresca_festival_della_letteratura_sociale/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Spoglio",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/06/07/spoglio/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sono come suono. Per un nuovo paradigma nei Film studies",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/07/sono_come_suono_per_un_nuovo_paradigma_nei_film_studies/",
       "date"     : "2021-06-07 00:00:00 +0200"
     } ,
   
@@ -33,10 +129,82 @@
     } ,
   
     {
+      "title"    : "Se potessimo fare una raccolta dei rifiuti del passato, da cosa inizieremmo?",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/07/se_potessimo_fare_una_raccolta_dei_rifiuti_del_passato_da_cosa_inizieremmo/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Alberto Moravia, chi era? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/07/ritratti_di_scrittori_alberto_moravia_chi_era_scoprilo_in_5_parole/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Patrizio Oliva In tre round",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/07/patrizio_oliva_in_tre_round/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pasta alla genovese",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/07/pasta_alla_genovese/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Noi non possiamo toccare il silenzio – Parte I",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/06/07/noi_non_possiamo_toccare_il_silenzio_parte_i/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "LINDA MAY E LA FINE DELLA STRADA",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/06/07/linda_may_e_la_fine_della_strada/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Le cose di Benni”, di Gianmarco Perale",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/06/07/le_cose_di_benni_di_gianmarco_perale/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La letteratura è una paladina della giustizia o un freddo sicario? La parola a Walter Siti che va “Contro l’impegno”",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/07/la_letteratura_una_paladina_della_giustizia_o_un_freddo_sicario_la_parola_a_walter_siti_che_va_contro_limpegno/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La foresta senza fine",
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2021/06/07/la_foresta_senza_fine/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La ferrovia sotterranea: recensione tra romanzo e serie tv",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/06/07/la_ferrovia_sotterranea_recensione_tra_romanzo_e_serie_tv/",
       "date"     : "2021-06-07 00:00:00 +0200"
     } ,
   
@@ -49,10 +217,74 @@
     } ,
   
     {
+      "title"    : "IN AEROPLANO, CERCANDO DOPAMINA DA MANGIARE",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/06/07/in_aeroplano_cercando_dopamina_da_mangiare/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il palazzo dell’amore eterno in “Di Cenere e di carne” di Laura Vegliamore",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/07/il_palazzo_dellamore_eterno_in_di_cenere_e_di_carne_di_laura_vegliamore/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "I bambini perduti di Space Oddity",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/06/07/i_bambini_perduti_di_space_oddity/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gioventù Etrusca #11: Lo stronzo",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/06/07/giovent_etrusca_11_lo_stronzo/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fogliemorte",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/06/07/fogliemorte/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diario della pandemia dall’Himachal Pradesh #5",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/07/diario_della_pandemia_dallhimachal_pradesh_5/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di cosa parliamo quando parliamo degli altri. Dialogo di un metafisico e di un fisico",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/07/di_cosa_parliamo_quando_parliamo_degli_altri_dialogo_di_un_metafisico_e_di_un_fisico/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Contest: Democratizzare i futuri",
+      "category" : "specularia",
+      "tags"     : "specularia",
+      "url"      : "/2021/06/07/contest_democratizzare_i_futuri/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Conoscenza è opinione vera giustificata?",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/07/conoscenza_opinione_vera_giustificata/",
       "date"     : "2021-06-07 00:00:00 +0200"
     } ,
   
@@ -89,6 +321,38 @@
     } ,
   
     {
+      "title"    : "AL ROGO LO STREGA!",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/06/07/al_rogo_lo_strega/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Al Divin Codino gli si vuole bene comunque. Anche quando sbaglia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/07/al_divin_codino_gli_si_vuole_bene_comunque_anche_quando_sbaglia/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A noi due, saggio breve!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/07/a_noi_due_saggio_breve/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A Napoli WellBar il caffè non è mai stato così socievole",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/07/a_napoli_wellbar_il_caff_non_mai_stato_cos_socievole/",
+      "date"     : "2021-06-07 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "viaggio onirico ne “LA CITTà” DI LEVRERO",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -117,6 +381,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/06/06/occorrono_mesi_e_anni_di_sacrificio_per_imbastire_opere_letterarie_mentre_basta_un_secondo_soltanto_per_dimenticarsi_di_quel_che_sei_giorgio_anelli_invoca_una_nuova_scrittura_segreta/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nomadland di Chloé Zhao | In Sala",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/06/06/nomadland_di_chlo_zhao_in_sala/",
       "date"     : "2021-06-06 00:00:00 +0200"
     } ,
   
