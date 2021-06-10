@@ -1,10 +1,90 @@
 [
   
     {
+      "title"    : "Voglie",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/06/10/voglie/",
+      "date"     : "2021-06-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Vi scrivo dal deserto, non so quando spedirò”. Rimbaud nel suo labirinto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/10/vi_scrivo_dal_deserto_non_so_quando_spedir_rimbaud_nel_suo_labirinto/",
+      "date"     : "2021-06-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Humboldt di Bellow tra la morte e una gloriosa sconfitta",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/10/lhumboldt_di_bellow_tra_la_morte_e_una_gloriosa_sconfitta/",
+      "date"     : "2021-06-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giulia Caminito risponde a Fante",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/10/giulia_caminito_risponde_a_fante/",
+      "date"     : "2021-06-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A spasso tra le ibridazioni: intervista a Zona MC",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/06/10/a_spasso_tra_le_ibridazioni_intervista_a_zona_mc/",
+      "date"     : "2021-06-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vivere di arte.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/06/09/vivere_di_arte/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Uzodinma Iweala, quel coming out che ribalta i destini",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/09/uzodinma_iweala_quel_coming_out_che_ribalta_i_destini/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una pasta al pomodoro, di notte",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/06/09/una_pasta_al_pomodoro_di_notte/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un cazzo ebreo di Katharina Volckmer: cronaca di un desiderio di trasformazione. Recensione ",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/09/un_cazzo_ebreo_di_katharina_volckmer_cronaca_di_un_desiderio_di_trasformazione_recensione/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Trafitti dal volume di Sound of Metal",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/09/trafitti_dal_volume_di_sound_of_metal/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Streghe fraterne di Antoine Volodine",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/06/09/streghe_fraterne_di_antoine_volodine/",
       "date"     : "2021-06-09 00:00:00 +0200"
     } ,
   
@@ -25,10 +105,114 @@
     } ,
   
     {
+      "title"    : "Say the line, Milo! Su Linea intera, linea spezzata",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/09/say_the_line_milo_su_linea_intera_linea_spezzata/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rispetta la procedura",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/06/09/rispetta_la_procedura/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recensione di “Io e Bafometto” di Gregorio H. Meier",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/09/recensione_di_io_e_bafometto_di_gregorio_h_meier/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Prolegomena a una scienza dello Stato",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/06/09/prolegomena_a_una_scienza_dello_stato/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Partiti e classi, oggi",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/06/09/partiti_e_classi_oggi/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Oblò",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/06/09/obl/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non muoiono le api (Estratto)",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/06/09/non_muoiono_le_api_estratto/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Miti, rivoluzioni e nefandezze di un uruguagio nella succursale di Malibù. “Isla bonita” di Nicola Muscas",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/06/09/miti_rivoluzioni_e_nefandezze_di_un_uruguagio_nella_succursale_di_malib_isla_bonita_di_nicola_muscas/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Minima Oralia I ⥀ Voci elettroniche di Gabriele Stera",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/06/09/minima_oralia_i_voci_elettroniche_di_gabriele_stera/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 09 Giugno 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/09/le_news_letterarie_09_giugno_2021/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La scala verso i sogni la si dovrebbe costruire insieme",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/09/la_scala_verso_i_sogni_la_si_dovrebbe_costruire_insieme/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La lingua appiccicosa",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/06/09/la_lingua_appiccicosa/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La bambina ritorta",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/06/09/la_bambina_ritorta/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Deborah D’Addetta",
+      "category" : "a4",
+      "tags"     : "a4",
+      "url"      : "/2021/06/09/intervista_a_deborah_daddetta/",
       "date"     : "2021-06-09 00:00:00 +0200"
     } ,
   
@@ -49,6 +233,22 @@
     } ,
   
     {
+      "title"    : "Il guinzaglio: l’estate a vent’anni",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/09/il_guinzaglio_lestate_a_ventanni/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il campione è tornato o della bellezza delle bugie",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/06/09/il_campione_tornato_o_della_bellezza_delle_bugie/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Gioco a rate",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -57,10 +257,50 @@
     } ,
   
     {
+      "title"    : "Formazione culturale e sentimentale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/09/formazione_culturale_e_sentimentale/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dadizioni – ripetizioni ai tempi della didattica a  distanza: Elsa Morante",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/09/dadizioni_ripetizioni_ai_tempi_della_didattica_a_distanza_elsa_morante/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Bianca",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/06/09/bianca/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Attica libera, un articolo di C. Francioni || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/06/09/attica_libera_un_articolo_di_c_francioni_threevial_pursuit/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Astarte  e il metallo misterioso",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/06/09/astarte_e_il_metallo_misterioso/",
+      "date"     : "2021-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Adlershof è più rara che unica",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/06/09/adlershof_pi_rara_che_unica/",
       "date"     : "2021-06-09 00:00:00 +0200"
     } ,
   
