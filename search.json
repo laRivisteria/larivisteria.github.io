@@ -1,6 +1,270 @@
 [
   
     {
+      "title"    : "Ufo, alieni, alienati",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/15/ufo_alieni_alienati/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Senza tetto né legge” è l’anti-“Nomadland”.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/15/senza_tetto_n_legge_lanti-nomadland/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Se Pippo Baudo avesse un podcast",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/06/15/se_pippo_baudo_avesse_un_podcast/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scrivo perché non ho bisogno che qualcuno scriva per me",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/06/15/scrivo_perch_non_ho_bisogno_che_qualcuno_scriva_per_me/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scomporre le vignette: “Figure del fumetto” di Ivan Pintor Iranzo",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/06/15/scomporre_le_vignette_figure_del_fumetto_di_ivan_pintor_iranzo/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "RIP Club Culture (finalmente)",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/06/15/rip_club_culture_finalmente/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Piccole imperfezioni di fabbrica",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/06/15/piccole_imperfezioni_di_fabbrica/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paolo Zardi – Memorie di un dittatore",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/15/paolo_zardi_memorie_di_un_dittatore/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Noi non possiamo toccare il silenzio – Parte III",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/06/15/noi_non_possiamo_toccare_il_silenzio_parte_iii/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le ginocchia",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/15/le_ginocchia/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’AMICIZIA COME FOGLIO BIANCO",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/06/15/lamicizia_come_foglio_bianco/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Podologa",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/06/15/la_podologa/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "LA FEBBRE",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/06/15/la_febbre/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La famiglia Fang | Estratto di una tesi di laurea",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/06/15/la_famiglia_fang_estratto_di_una_tesi_di_laurea/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“IL PRIMO BACIO” di Mattia Alari",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/15/il_primo_bacio_di_mattia_alari/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I libri belli da leggere oggi? Pasticciano prosa e poesia, e tradiscono i generi letterari",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/15/i_libri_belli_da_leggere_oggi_pasticciano_prosa_e_poesia_e_tradiscono_i_generi_letterari/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giulia Sara Miori",
+      "category" : "racconti-edizioni",
+      "tags"     : "racconti-edizioni",
+      "url"      : "/2021/06/15/giulia_sara_miori/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fino alle ossa",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/06/15/fino_alle_ossa/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Etica e vino: croce e delizia",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/15/etica_e_vino_croce_e_delizia/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "E se non si vede",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/06/15/e_se_non_si_vede/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dove nasce un classico, Pavese fra romanzi e traduzioni",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/15/dove_nasce_un_classico_pavese_fra_romanzi_e_traduzioni/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da nessuna parte. L’enigma di Milan Kundera, l’ultimo classico",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/15/da_nessuna_parte_lenigma_di_milan_kundera_lultimo_classico/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cases vs. Schmidt. 3° round sospeso per ko tecnico (ha vinto lo scrittore sul critico, come sempre!)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/15/cases_vs_schmidt_3_round_sospeso_per_ko_tecnico_ha_vinto_lo_scrittore_sul_critico_come_sempre/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Avrei potuto far ritorno al mio reame sconfinato.” Landolfi al lago",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/15/avrei_potuto_far_ritorno_al_mio_reame_sconfinato_landolfi_al_lago/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Allegro con Brio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/15/allegro_con_brio/",
+      "date"     : "2021-06-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vuansaponetaim",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/06/14/vuansaponetaim/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una settimana di racconti #167 #168 #169",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/06/14/una_settimana_di_racconti_167_168_169/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tu, toi – Le nuove parole di Alessandro Chidichimo",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/06/14/tu_toi_le_nuove_parole_di_alessandro_chidichimo/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Troverai più nei boschi | Francesco Boer – Estratto su ZEST",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/06/14/troverai_pi_nei_boschi_francesco_boer_estratto_su_zest/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tanti auguri al leggen-nontimuovere-dario Neil Patrick Harris!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/14/tanti_auguri_al_leggen-nontimuovere-dario_neil_patrick_harris/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spiriti liberi ⥀ Eretici dalla vita spericolata",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/06/14/spiriti_liberi_eretici_dalla_vita_spericolata/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Special”, la serie tv su Netflix",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/06/14/special_la_serie_tv_su_netflix/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sono io che t’ho chiamata.",
+      "category" : "voce-del-verbo",
+      "tags"     : "voce-del-verbo",
+      "url"      : "/2021/06/14/sono_io_che_tho_chiamata/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "«Ontologia Orientata agli Oggetti» di Graham Harman",
       "category" : "singola",
       "tags"     : "singola",
@@ -17,10 +281,146 @@
     } ,
   
     {
+      "title"    : "Nelle parole di Pietro Grasso emerge tutta la trattativa Stato-mafia",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/06/14/nelle_parole_di_pietro_grasso_emerge_tutta_la_trattativa_stato-mafia/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Negli abissi luminosi. Sciamanesimo, trance ed estasi nella Grecia antica",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/14/negli_abissi_luminosi_sciamanesimo_trance_ed_estasi_nella_grecia_antica/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“L’Italia è un paese di ladri e di bagnini che aspettano l’estate”. Flaiano in fiamme",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/14/litalia_un_paese_di_ladri_e_di_bagnini_che_aspettano_lestate_flaiano_in_fiamme/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’impronta della cura: su “Fioriture capovolte” di Giovanna Rosadini",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/14/limpronta_della_cura_su_fioriture_capovolte_di_giovanna_rosadini/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lettera aperta a comune, regione e ministero della cultura, giornali, artisti, tecnici, spettatori sul teatro di Roma",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/14/lettera_aperta_a_comune_regione_e_ministero_della_cultura_giornali_artisti_tecnici_spettatori_sul_teatro_di_roma/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le streghe e il ragazzo che voleva diventare una di loro",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/06/14/le_streghe_e_il_ragazzo_che_voleva_diventare_una_di_loro/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lassù sui tetti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/14/lass_sui_tetti/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La torre di Babele della scienza, ovvero quando abbiamo smesso di capire il mondo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/14/la_torre_di_babele_della_scienza_ovvero_quando_abbiamo_smesso_di_capire_il_mondo/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La libertà che illumina",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/14/la_libert_che_illumina/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La fuga da ogni definizione: Spatriati di Mario Desiati",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/14/la_fuga_da_ogni_definizione_spatriati_di_mario_desiati/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il sorriso del diavolo",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/06/14/il_sorriso_del_diavolo/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gioventù Etrusca #12: Io sono Elena Ferrante",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/06/14/giovent_etrusca_12_io_sono_elena_ferrante/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Exuvia, la fuga del Capa da Prisoner 709",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/14/exuvia_la_fuga_del_capa_da_prisoner_709/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Et tournoie…",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/06/14/et_tournoie/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dormite, viventi!",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/06/14/dormite_viventi/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cronologia, eternità e ciclicità: le tre concezioni del tempo in Dante",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/06/14/cronologia_eternit_e_ciclicit_le_tre_concezioni_del_tempo_in_dante/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – E dei balletti russi di Valentina Cottini",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/14/crack_numero_10_e_dei_balletti_russi_di_valentina_cottini/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Conoscenza è opinione vera giustificata? Parte II",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/14/conoscenza_opinione_vera_giustificata_parte_ii/",
       "date"     : "2021-06-14 00:00:00 +0200"
     } ,
   
@@ -33,10 +433,42 @@
     } ,
   
     {
+      "title"    : "Caligo",
+      "category" : "specularia",
+      "tags"     : "specularia",
+      "url"      : "/2021/06/14/caligo/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Byung-Chul Han: ermeneutica del dolore e scomparsa della ritualità",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/14/byung-chul_han_ermeneutica_del_dolore_e_scomparsa_della_ritualit/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "+++ATTENZIONE+++Don Matteo, Terence Hill lascia per sempre: il motivo svelato dal figlio dell’attore",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/06/14/attenzionedon_matteo_terence_hill_lascia_per_sempre_il_motivo_svelato_dal_figlio_dellattore/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ Pippo Baudo su Paolo Bonolis: “Ma non si vergogna?”. E su Carlo Conti: “Tale e Quale Show è tremendo”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/14/attenzione_pippo_baudo_su_paolo_bonolis_ma_non_si_vergogna_e_su_carlo_conti_tale_e_quale_show_tremendo/",
+      "date"     : "2021-06-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Acrobazie” di Alessandro Trasciatti, stravaganti micronarrazioni",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/14/acrobazie_di_alessandro_trasciatti_stravaganti_micronarrazioni/",
       "date"     : "2021-06-14 00:00:00 +0200"
     } ,
   
@@ -313,6 +745,14 @@
     } ,
   
     {
+      "title"    : "Tempi di paglia",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/06/11/tempi_di_paglia/",
+      "date"     : "2021-06-11 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Sul reato di scrivere. Una lettera di Leo Ninor",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -517,6 +957,14 @@
       "category" : "malgrado-le-mosche",
       "tags"     : "malgrado-le-mosche",
       "url"      : "/2021/06/11/gabriele_valenza/",
+      "date"     : "2021-06-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "FABIO ARMILIATO COL CARUSO GALA RINNOVA I LEGAMI CULTURALI TRA VARNA E GENOVA.",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/06/11/fabio_armiliato_col_caruso_gala_rinnova_i_legami_culturali_tra_varna_e_genova/",
       "date"     : "2021-06-11 00:00:00 +0200"
     } ,
   
@@ -1345,6 +1793,14 @@
     } ,
   
     {
+      "title"    : "#12. BRUCIARE: IL CIELO È DEI VIOLENTI",
+      "category" : "coye",
+      "tags"     : "coye",
+      "url"      : "/2021/06/08/12_bruciare_il_cielo_dei_violenti/",
+      "date"     : "2021-06-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vademecum dell’HIV pt I. – Da piaga sociale a problema sanitario",
       "category" : "light-magazine",
       "tags"     : "light-magazine",
@@ -1749,6 +2205,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/06/06/dissolversi_per_sentirsi_meno_soli_il_sussurro_di_una_generazione_dissociata/",
+      "date"     : "2021-06-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DAL 30 LUGLIO &quot;IMAGES GIBELLINA 2021&quot; | OPEN AIR E SITE SPECIFIC PHOTO FESTIVAL III EDIZIONE",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/06/06/dal_30_luglio_images_gibellina_2021_open_air_e_site_specific_photo_festival_iii_edizione/",
       "date"     : "2021-06-06 00:00:00 +0200"
     } ,
   
@@ -2165,6 +2629,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/06/03/presso_il_re_moro_di_antonio_trucillo_una_bambina_architetta_dellalba/",
+      "date"     : "2021-06-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pomelo",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/06/03/pomelo/",
       "date"     : "2021-06-03 00:00:00 +0200"
     } ,
   
@@ -2705,6 +3177,14 @@
     } ,
   
     {
+      "title"    : "I NUOVI CONFINI DELL&#39; ELETTRONICA: MAD OF STATIC, IL NUOVO ALBUM DI STUBBORN HEART",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/06/01/i_nuovi_confini_dell_elettronica_mad_of_static_il_nuovo_album_di_stubborn_heart/",
+      "date"     : "2021-06-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "I duellanti: l’ossessione per la violenza e l’assurdità della guerra",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
@@ -3045,6 +3525,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/05/31/in_quella_goccia_terribile_ho_visto_mio_figlio_e_la_realt_la_storia_pi_crudele_un_apologo_di_genio_con_simonide_una_coppia_e_un_paio_di_libri_in_un_negozio_di_giocattoli/",
+      "date"     : "2021-05-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "IL SENTIERO DEL SARAGO DI BRUNO POMPILI. INTERVISTA ALL&#39; AUTORE",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/31/il_sentiero_del_sarago_di_bruno_pompili_intervista_all_autore/",
       "date"     : "2021-05-31 00:00:00 +0200"
     } ,
   
@@ -3605,6 +4093,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/05/28/il_parco_nazionale_virunga_e_il_coraggio_dei_suoi_eroici_ranger/",
+      "date"     : "2021-05-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "IL FUTURISMO DIMENTICATO: IL GIALLO E L&#39;AZZURRO DI ARMANDO CAVALLI. INTERVISTA AL CURATORE ANTONIO CASTRONUOVO",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/28/il_futurismo_dimenticato_il_giallo_e_lazzurro_di_armando_cavalli_intervista_al_curatore_antonio_castronuovo/",
       "date"     : "2021-05-28 00:00:00 +0200"
     } ,
   
@@ -4577,6 +5073,14 @@
     } ,
   
     {
+      "title"    : "AL DI LA&#39; E OLTRE IL TEMPO IL POETA BOB DYLAN COMPIE 80 ANNI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/25/al_di_la_e_oltre_il_tempo_il_poeta_bob_dylan_compie_80_anni/",
+      "date"     : "2021-05-25 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Adolescenza di carne e violenza: Mandibula di Mónica Ojeda",
       "category" : "grado-zero",
       "tags"     : "grado-zero",
@@ -4589,6 +5093,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/05/24/vasari_e_la_maniera_moderna_nella_sagrestia_di_santanna_dei_lombardi/",
+      "date"     : "2021-05-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TREGUA A GAZA. FINO A QUANDO?",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/24/tregua_a_gaza_fino_a_quando/",
       "date"     : "2021-05-24 00:00:00 +0200"
     } ,
   
@@ -5245,6 +5757,14 @@
       "category" : "verde",
       "tags"     : "verde",
       "url"      : "/2021/05/21/tratado_sobre_contraerotismo_2/",
+      "date"     : "2021-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TRAIETTORIE 2021 - A PARMA LA XXXI RASSEGNA INTERNAZIONALE DI MUSICA MODERNA E CONTEMPORANEA",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/21/traiettorie_2021_-_a_parma_la_xxxi_rassegna_internazionale_di_musica_moderna_e_contemporanea/",
       "date"     : "2021-05-21 00:00:00 +0200"
     } ,
   
@@ -6037,6 +6557,14 @@
       "category" : "italiansbookitbetter",
       "tags"     : "italiansbookitbetter",
       "url"      : "/2021/05/18/una_settimana_di_racconti_164_165/",
+      "date"     : "2021-05-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "THE LOST ABC - SOMEWHERE. INTERVISTA A GIANLUCA MANCINI E MASSIMILIANO FRATICELLI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/18/the_lost_abc_-_somewhere_intervista_a_gianluca_mancini_e_massimiliano_fraticelli/",
       "date"     : "2021-05-18 00:00:00 +0200"
     } ,
   
@@ -7201,6 +7729,14 @@
     } ,
   
     {
+      "title"    : "A MILANO &quot;KIN&quot; - FOTOGRAFIE DI CAROLA GUAINERI KINTSUGI DI ANITA CERRATO DAL 20 MAGGIO AL 19 GIUGNO 2021",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/14/a_milano_kin_-_fotografie_di_carola_guaineri_kintsugi_di_anita_cerrato_dal_20_maggio_al_19_giugno_2021/",
+      "date"     : "2021-05-14 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Uno sguardo filosofico sulla famiglia, oggi",
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
@@ -7725,6 +8261,14 @@
       "category" : "micorrize",
       "tags"     : "micorrize",
       "url"      : "/2021/05/11/tirocinio_dellattesa/",
+      "date"     : "2021-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TEORIA E PRATICA DI PANE E POMODORO DI LEOPOLDO POMES",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/11/teoria_e_pratica_di_pane_e_pomodoro_di_leopoldo_pomes/",
       "date"     : "2021-05-11 00:00:00 +0200"
     } ,
   
@@ -8857,6 +9401,14 @@
     } ,
   
     {
+      "title"    : "RYUU, IL CUSTODE DI IZU DI CHRISTIANO CERASOLA. LA FATICA NECESSARIA PER RAGGIUNGERE LA FELICITA&#39;",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/06/ryuu_il_custode_di_izu_di_christiano_cerasola_la_fatica_necessaria_per_raggiungere_la_felicita/",
+      "date"     : "2021-05-06 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Quando Sandor Marai raccontava di un uomo sull’isola del tradimento che “rompe il patto di solidarietà con la coniuge e con gli amici”. Con tre poesie inedite (editori, traducete Márai poeta!)",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -9161,6 +9713,14 @@
     } ,
   
     {
+      "title"    : "MILANO DA LEGGERE. EDIZIONE 2021 SOTTO IL SEGNO DELLA SUSPENSE. DIECI EBOOK SCARICABILI GRATUITAMENTE",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/05/milano_da_leggere_edizione_2021_sotto_il_segno_della_suspense_dieci_ebook_scaricabili_gratuitamente/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’uomo che scriveva nel futuro",
       "category" : "singola",
       "tags"     : "singola",
@@ -9277,6 +9837,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/05/05/camihawke_racconta_lamore_a_misura_derrore_in_per_tutto_il_resto_dei_miei_sbagli/",
+      "date"     : "2021-05-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "BRAHMS A QUATTRO MANI.  ORIGINAL TRANSCRIPTIONS FOR PIANO FOUR HANDS",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/05/05/brahms_a_quattro_mani_original_transcriptions_for_piano_four_hands/",
       "date"     : "2021-05-05 00:00:00 +0200"
     } ,
   
@@ -12657,6 +13225,14 @@
     } ,
   
     {
+      "title"    : "THE SIMPSON: PANIC E POLEMICHE",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/04/20/the_simpson_panic_e_polemiche/",
+      "date"     : "2021-04-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Terribilis est!” di Marco Daniele",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -13045,6 +13621,14 @@
       "category" : "marvin",
       "tags"     : "marvin",
       "url"      : "/2021/04/19/sangue_madri_e_streghe/",
+      "date"     : "2021-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ROMA, GUIDA INSOLITA PER ESPLORATORI URBANI. INTERVISTA ALL&#39; AUTORE CARLO CORONATI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/04/19/roma_guida_insolita_per_esploratori_urbani_intervista_all_autore_carlo_coronati/",
       "date"     : "2021-04-19 00:00:00 +0200"
     } ,
   
@@ -15401,6 +15985,14 @@
     } ,
   
     {
+      "title"    : "LANEGHE&#39; ISOLA DEL MAR TENEBROSO. INTERVISTA ALLO SCRITTORE E ILLUSTRATORE BEPPE MECCONI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/04/09/laneghe_isola_del_mar_tenebroso_intervista_allo_scrittore_e_illustratore_beppe_mecconi/",
+      "date"     : "2021-04-09 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "‘La Tela’, all’ex Asilo Filangieri di Napoli un’opera d’arte collettiva per ricordare chi siamo",
       "category" : "milena",
       "tags"     : "milena",
@@ -16961,6 +17553,14 @@
     } ,
   
     {
+      "title"    : "ANDREA MANZITTI “ISOLE, MAPPE E PORTOLANI” A MILANO DAL 4 AL 25 MAGGIO 2021",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/04/01/andrea_manzitti_isole_mappe_e_portolani_a_milano_dal_4_al_25_maggio_2021/",
+      "date"     : "2021-04-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Ai Social non si comanda!",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -17897,6 +18497,14 @@
     } ,
   
     {
+      "title"    : "LUIGI PIRANDELLO, IO SONO FASCISTA. INTERVISTA CON IL GIORNALISTA PIERO MELI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/03/26/luigi_pirandello_io_sono_fascista_intervista_con_il_giornalista_piero_meli/",
+      "date"     : "2021-03-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Letture Femministe Metropolitane, sesto incontro del gruppo di lettura",
       "category" : "letture-metropolitane",
       "tags"     : "letture-metropolitane",
@@ -18037,6 +18645,14 @@
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/03/25/mezzanotte_di_amori_e_fantasmi_purgatorio_xviii/",
+      "date"     : "2021-03-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L&#39;ILLUSIONE DELLA VOLONTA&#39; COSCIENTE DI DANIEL M. WEGNER",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/03/25/lillusione_della_volonta_cosciente_di_daniel_m_wegner/",
       "date"     : "2021-03-25 00:00:00 +0100"
     } ,
   
@@ -18261,6 +18877,14 @@
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
       "url"      : "/2021/03/24/double_trouble/",
+      "date"     : "2021-03-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "BUSHIDO E CRISTIANESIMO DI ADOLFO MORGANTI - GUERRIERI E SAPIENTI TRA DUE MONDI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/03/24/bushido_e_cristianesimo_di_adolfo_morganti_-_guerrieri_e_sapienti_tra_due_mondi/",
       "date"     : "2021-03-24 00:00:00 +0100"
     } ,
   
@@ -20265,6 +20889,14 @@
     } ,
   
     {
+      "title"    : "ACCURSIO SOLDANO INTERVISTATO DAL CANALE TV FRANCESE ArtTv",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/03/15/accursio_soldano_intervistato_dal_canale_tv_francese_arttv/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tommaso Di Dio: La poesia è questo annuncio ⥀ La radice dell’inchiostro",
       "category" : "argo",
       "tags"     : "argo",
@@ -21525,6 +22157,14 @@
       "category" : "narrandom",
       "tags"     : "narrandom",
       "url"      : "/2021/03/09/anche_in_provincia_si_muore_soli/",
+      "date"     : "2021-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "AL VIA LA SECONDA EDIZIONE DEL PREMIO SCARAMUZZA DEDICATO ALLA LETTERATURA PER RAGAZZI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/03/09/al_via_la_seconda_edizione_del_premio_scaramuzza_dedicato_alla_letteratura_per_ragazzi/",
       "date"     : "2021-03-09 00:00:00 +0100"
     } ,
   
@@ -23945,6 +24585,14 @@
     } ,
   
     {
+      "title"    : "PAST AND PRESENT. INTERVISTA AL MUSICISTA ALESSANDRO MARTINELLI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/02/26/past_and_present_intervista_al_musicista_alessandro_martinelli/",
+      "date"     : "2021-02-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Non prenderla come una critica – Naviga le tue stelle di Jesmyn Ward",
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
@@ -24349,6 +24997,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/02/25/discorso_sul_digiuno_e_sullartista_della_fame/",
+      "date"     : "2021-02-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "DIPINTI A VOCE DI FRANCOIS LE LIONNAIS. SOPRAVVIVERE CON L&#39;ARTE IN UN LAGER NAZISTA",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/02/25/dipinti_a_voce_di_francois_le_lionnais_sopravvivere_con_larte_in_un_lager_nazista/",
       "date"     : "2021-02-25 00:00:00 +0100"
     } ,
   
