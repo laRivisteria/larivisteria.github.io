@@ -1,10 +1,282 @@
 [
   
     {
+      "title"    : "Verso il buio",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/18/verso_il_buio/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pettegolezzi intorno a Jorge Luis Borges, insolente, donnaiolo, geniale",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/18/pettegolezzi_intorno_a_jorge_luis_borges_insolente_donnaiolo_geniale/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non sarò mai un uomo comune: Maradona secondo Gianni Minà",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/18/non_sar_mai_un_uomo_comune_maradona_secondo_gianni_min/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo zen e l’ironia",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/06/18/lo_zen_e_lironia/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Iperdenti. Episodio 19. Che diamine di film è?",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/18/iperdenti_episodio_19_che_diamine_di_film/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il paesaggio. Dialogo con Giuseppe Barbera",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/06/18/il_paesaggio_dialogo_con_giuseppe_barbera/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il cannocchiale del tenente Dumont",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/06/18/il_cannocchiale_del_tenente_dumont/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Due poesie di Antonietta Cianci",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/18/due_poesie_di_antonietta_cianci/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "WWW.ROMANIA.ORG – La rivolta violenta del cinema rumeno.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/17/wwwromaniaorg_la_rivolta_violenta_del_cinema_rumeno/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Uno su Infinito: la narrazione dell’inattualità e attualità del possibile",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/17/uno_su_infinito_la_narrazione_dellinattualit_e_attualit_del_possibile/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una foresta abissale e pensante",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/06/17/una_foresta_abissale_e_pensante/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tutto qui il mondo?",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/06/17/tutto_qui_il_mondo/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Superman Comunista?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/17/superman_comunista/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Sarà una vita costellata di addii”. Sinéad O’Connor, il libro",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/17/sar_una_vita_costellata_di_addii_sinad_oconnor_il_libro/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#PremioBergamo21 – Due parole con Sergio La Chiusa",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/17/premiobergamo21_due_parole_con_sergio_la_chiusa/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poeti dall’inferno | 3 persone che vivono con la scrittura",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/06/17/poeti_dallinferno_3_persone_che_vivono_con_la_scrittura/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Piccola ma implacabile”. Liliana Heker: corso di scrittura con racconto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/17/piccola_ma_implacabile_liliana_heker_corso_di_scrittura_con_racconto/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Matzneff proibito",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/17/matzneff_proibito/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’intensa esperienza personale d’auto-aiuto, Come il mare di notte",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/17/lintensa_esperienza_personale_dauto-aiuto_come_il_mare_di_notte/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture Femministe Metropolitane, ottavo incontro del gruppo di lettura",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/06/17/letture_femministe_metropolitane_ottavo_incontro_del_gruppo_di_lettura/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lettere dall’assenza #5",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/17/lettere_dallassenza_5/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Francesca Marciano – Animal Spirit",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/06/17/intervista_a_francesca_marciano_animal_spirit/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inchiesta sul lavoro di editor /10: Serena Daniele (NNE)",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/06/17/inchiesta_sul_lavoro_di_editor_10_serena_daniele_nne/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "IL LIBRO DELLE CASE",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/06/17/il_libro_delle_case/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guava Island : Stephen e Donald Glover protestano in musica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/17/guava_island_stephen_e_donald_glover_protestano_in_musica/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Evelina Schatz | Patria lingua ovvero il possibile negato. Esercizi autobiografici",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/06/17/evelina_schatz_patria_lingua_ovvero_il_possibile_negato_esercizi_autobiografici/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come gli scrittori sbarcavano il lunario – Conoscevi gli “altri” mestieri?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/17/come_gli_scrittori_sbarcavano_il_lunario_conoscevi_gli_altri_mestieri/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Claudio Parentela",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/06/17/claudio_parentela/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chisciotte di Antonio Moresco",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/06/17/chisciotte_di_antonio_moresco/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bernardine Evaristo – Blonde Roots",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/17/bernardine_evaristo_blonde_roots/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Attese",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/17/attese/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ascolto, supporto e consulenza per le famiglie vesuviane: nasce il Centro “Family Point”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/17/ascolto_supporto_e_consulenza_per_le_famiglie_vesuviane_nasce_il_centro_family_point/",
+      "date"     : "2021-06-17 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Votato al servizio, allo smisurato…”. Dialogo con Alessandro Orlandi, editore",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/06/16/votato_al_servizio_allo_smisurato_dialogo_con_alessandro_orlandi_editore/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Viaggio nell’isola perduta",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/06/16/viaggio_nellisola_perduta/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un insolito menage a trois: D’Annunzio, Chopin e Wagner",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/16/un_insolito_menage_a_trois_dannunzio_chopin_e_wagner/",
       "date"     : "2021-06-16 00:00:00 +0200"
     } ,
   
@@ -17,6 +289,22 @@
     } ,
   
     {
+      "title"    : "Segni e simboli",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/06/16/segni_e_simboli/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scoperte archeologiche: ultime notizie da non perdere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/16/scoperte_archeologiche_ultime_notizie_da_non_perdere/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Sì, va nominato l’inferno, talvolta”. Intorno ad Andrea Temporelli",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +313,34 @@
     } ,
   
     {
+      "title"    : "#PremioBg21 – Due parole con Mariangela Mianiti",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/16/premiobg21_due_parole_con_mariangela_mianiti/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Podcast a tema LGBTQ+: i nostri consigli di ascolto",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/16/podcast_a_tema_lgbtq_i_nostri_consigli_di_ascolto/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Non volevamo entrare qui",
       "category" : "inutile",
       "tags"     : "inutile",
       "url"      : "/2021/06/16/non_volevamo_entrare_qui/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non tutto il male ha una ragione",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/16/non_tutto_il_male_ha_una_ragione/",
       "date"     : "2021-06-16 00:00:00 +0200"
     } ,
   
@@ -57,6 +369,14 @@
     } ,
   
     {
+      "title"    : "“Liquefatto” di Hilary Tiscione: un on the road della rovina",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/16/liquefatto_di_hilary_tiscione_un_on_the_road_della_rovina/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "È lento, l&#39;orologio della montagna",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -65,10 +385,26 @@
     } ,
   
     {
+      "title"    : "Le news letterarie – 16 Giugno 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/16/le_news_letterarie_16_giugno_2021/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La promessa",
       "category" : "spazinclusi",
       "tags"     : "spazinclusi",
       "url"      : "/2021/06/16/la_promessa/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Milo Manara",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/16/intervista_a_milo_manara/",
       "date"     : "2021-06-16 00:00:00 +0200"
     } ,
   
@@ -97,6 +433,14 @@
     } ,
   
     {
+      "title"    : "Gente di Dublino: la nascita del flusso di coscienza in una città immobile",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/16/gente_di_dublino_la_nascita_del_flusso_di_coscienza_in_una_citt_immobile/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Frantellanimello",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -105,10 +449,66 @@
     } ,
   
     {
+      "title"    : "Franco Battiato, nel nome della musica e dello spirito",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/16/franco_battiato_nel_nome_della_musica_e_dello_spirito/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Frammenti di una donna nuova | Visioni",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/06/16/frammenti_di_una_donna_nuova_visioni/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ercole e il suo amore per Amalfi, la ninfa che odorava di limoni",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/16/ercole_e_il_suo_amore_per_amalfi_la_ninfa_che_odorava_di_limoni/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Distruggere l’aura, combattere il poetese – Conversando con Edoardo Sanguineti di Renato Minore",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/06/16/distruggere_laura_combattere_il_poetese_conversando_con_edoardo_sanguineti_di_renato_minore/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dadizioni – ripetizioni ai tempi della didattica a distanza: Alda Merini",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/16/dadizioni_ripetizioni_ai_tempi_della_didattica_a_distanza_alda_merini/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bruxelles, il purgatorio dell’immaginazione",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/06/16/bruxelles_il_purgatorio_dellimmaginazione/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amicizia, ricerca, trauma: leggere Elena Ferrante nel contesto globale",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/16/amicizia_ricerca_trauma_leggere_elena_ferrante_nel_contesto_globale/",
+      "date"     : "2021-06-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alfabeto digitale ⥀ La letteratura elettronica come cybertestualità",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/06/16/alfabeto_digitale_la_letteratura_elettronica_come_cybertestualit/",
       "date"     : "2021-06-16 00:00:00 +0200"
     } ,
   
