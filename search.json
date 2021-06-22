@@ -1,6 +1,566 @@
 [
   
     {
+      "title"    : "Vademecum dell’HIV pt. II – Come la paura del contagio alimenta i falsi miti",
+      "category" : "light-magazine",
+      "tags"     : "light-magazine",
+      "url"      : "/2021/06/22/vademecum_dellhiv_pt_ii_come_la_paura_del_contagio_alimenta_i_falsi_miti/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un’ecologia del possibile",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/06/22/unecologia_del_possibile/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un sasso",
+      "category" : "voce-del-verbo",
+      "tags"     : "voce-del-verbo",
+      "url"      : "/2021/06/22/un_sasso/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Umberto Galimberti – La parola ai giovani. Dialogo con la generazione del nichilismo attivo",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/22/umberto_galimberti_la_parola_ai_giovani_dialogo_con_la_generazione_del_nichilismo_attivo/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra verismo e magia: intervista a Claudio Metallo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/22/tra_verismo_e_magia_intervista_a_claudio_metallo/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sulle soglie del bosco ho parlato ai suoi occhi, con la poesia di Pasternak",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/22/sulle_soglie_del_bosco_ho_parlato_ai_suoi_occhi_con_la_poesia_di_pasternak/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Phenomena #8 Clarice Lispector",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/06/22/phenomena_8_clarice_lispector/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ormai qui inconoscibile”. Gli ultimi giorni di Rainer Maria Rilke",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/22/ormai_qui_inconoscibile_gli_ultimi_giorni_di_rainer_maria_rilke/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ordigno complesso: su “Somiglianze di famiglia” di Matteo Pelliti",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/22/lordigno_complesso_su_somiglianze_di_famiglia_di_matteo_pelliti/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’anteprima",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/06/22/lanteprima/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“La sedia nel campo” di Grazia Palmisano",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/22/la_sedia_nel_campo_di_grazia_palmisano/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La riscoperta del dio del luogo",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/22/la_riscoperta_del_dio_del_luogo/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La rana in pancia",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/06/22/la_rana_in_pancia/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La crisi della realtà",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/06/22/la_crisi_della_realt/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La carcassa",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/06/22/la_carcassa/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto di un’America ai margini: intervista a William Kennedy",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/22/il_racconto_di_unamerica_ai_margini_intervista_a_william_kennedy/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il grande libro della scrittura di Marco Franzoso: un viaggio faticoso, come la scrittura",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/06/22/il_grande_libro_della_scrittura_di_marco_franzoso_un_viaggio_faticoso_come_la_scrittura/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il deserto del nostro scontento",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/06/22/il_deserto_del_nostro_scontento/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Generare nell’affollamento. Su Concerto per l’inizio del secolo di Roberto Minardi",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/06/22/generare_nellaffollamento_su_concerto_per_linizio_del_secolo_di_roberto_minardi/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ellen Bass | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/06/22/ellen_bass_poesie/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ecopoesia: Claudia Di Palma – due poesie e un inedito",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/06/22/ecopoesia_claudia_di_palma_due_poesie_e_un_inedito/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da “Il tempo che trova”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/22/da_il_tempo_che_trova/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da domani si cambia parco",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/06/22/da_domani_si_cambia_parco/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cinque mesi",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/06/22/cinque_mesi/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Canti e voci nella silloge Formulario di Mauro Lamantia",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/22/canti_e_voci_nella_silloge_formulario_di_mauro_lamantia/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Brewster McCloud | Maglie a righe",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/06/22/brewster_mccloud_maglie_a_righe/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bocca di cavalletta",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/22/bocca_di_cavalletta/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Blackened – Due domande ad Andrea Cassini e Claudio Kulesko.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/22/blackened_due_domande_ad_andrea_cassini_e_claudio_kulesko/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Area 22. Singer e il feuilleton filosofico su ebrei e America",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/22/area_22_singer_e_il_feuilleton_filosofico_su_ebrei_e_america/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "American blend",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/06/22/american_blend/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vite, morti e miracoli di “Nostra Signora dei Sullivan”",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/21/vite_morti_e_miracoli_di_nostra_signora_dei_sullivan/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Verso il prossimo crack",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/06/21/verso_il_prossimo_crack/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vero-falso: su “Yoga” di Emmanuel Carrère",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/21/vero-falso_su_yoga_di_emmanuel_carrre/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un territorio immaginato",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/21/un_territorio_immaginato/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un nome insolito",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/06/21/un_nome_insolito/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un monito vecchio più di un secolo per il nostro pianeta: “La guerra dei mondi” di H.G. Wells",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/21/un_monito_vecchio_pi_di_un_secolo_per_il_nostro_pianeta_la_guerra_dei_mondi_di_hg_wells/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scusami, ma ci credo tanto (II)",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/06/21/scusami_ma_ci_credo_tanto_ii/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Selma Lagerlöf, chi era? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/21/ritratti_di_scrittori_selma_lagerlf_chi_era_scoprilo_in_5_parole/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quando Schwob trasformò l’amore per una prostituta in fantasma infantile",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/21/quando_schwob_trasform_lamore_per_una_prostituta_in_fantasma_infantile/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Post-hit per Mediterranea Saving Humans || 22-30 giugno @ La Drogheria",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/06/21/post-hit_per_mediterranea_saving_humans_22-30_giugno_la_drogheria/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pierini, quella bimba salvata dalle bambole parlanti",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/21/pierini_quella_bimba_salvata_dalle_bambole_parlanti/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Per riscoprire Mario Rigoni Stern a cento anni dalla nascita",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/06/21/per_riscoprire_mario_rigoni_stern_a_cento_anni_dalla_nascita/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Omelia",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/06/21/omelia/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non ho tempo per leggere!",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/21/non_ho_tempo_per_leggere/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Memorie della foresta | Damir Karakaš",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/06/21/memorie_della_foresta_damir_karaka/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ma il cielo è sempre più blu",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/06/21/ma_il_cielo_sempre_pi_blu/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’origine delle piante",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/06/21/lorigine_delle_piante/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo Spost",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/21/lo_spost/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lina Sastri è Medea per me",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/21/lina_sastri_medea_per_me/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture di benessere",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/06/21/letture_di_benessere/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Vergogna",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/06/21/la_vergogna/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il regno incantato di Napoli tra Storia e Mito",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/21/il_regno_incantato_di_napoli_tra_storia_e_mito/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il pugilatore. Viaggio intorno a Sonny Liston",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/21/il_pugilatore_viaggio_intorno_a_sonny_liston/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«Il primato del testo». Intervista a Alfredo Zucchi",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/21/il_primato_del_testo_intervista_a_alfredo_zucchi/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il paese",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/06/21/il_paese/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gioventù Etrusca #13: L’occhio profondo di Hubble",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/06/21/giovent_etrusca_13_locchio_profondo_di_hubble/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fuori dagli schemi 12 – Francesco Pecoraro",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/21/fuori_dagli_schemi_12_francesco_pecoraro/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dustin contro Meryl | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/06/21/dustin_contro_meryl_in_translation/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dormite, viventi!",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/06/21/dormite_viventi/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Disney Pixar tra Luca e la Liguria non sbaglia un colpo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/21/disney_pixar_tra_luca_e_la_liguria_non_sbaglia_un_colpo/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cristina Campo remastered. Un nuovo saggio sulla fedeltà all’Assoluto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/21/cristina_campo_remastered_un_nuovo_saggio_sulla_fedelt_allassoluto/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Correte tutti al “Sogna! Teatro Film Festival”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/21/correte_tutti_al_sogna_teatro_film_festival/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chiave musicale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/21/chiave_musicale/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CANCELLATURE",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/06/21/cancellature/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Attraversare il deserto",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/06/21/attraversare_il_deserto/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Codacons, nuovo attacco contro Fedez (Achille Lauro e Orietta Berti): “Il video di ‘Mille’ è pubblicità occulta alla Coca-Cola”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/21/attenzionecodacons_nuovo_attacco_contro_fedez_achille_lauro_e_orietta_berti_il_video_di_mille_pubblicit_occulta_alla_coca-cola/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Amedeo Goria e la fidanzata Vera Miales: “Con lei lo faccio 5 volte al giorno, l’età non ha intaccato la mia virilità”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/21/attenzioneamedeo_goria_e_la_fidanzata_vera_miales_con_lei_lo_faccio_5_volte_al_giorno_let_non_ha_intaccato_la_mia_virilit/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ Il principe William compie 39 anni (e sembra già un re)",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/21/attenzione_il_principe_william_compie_39_anni_e_sembra_gi_un_re/",
+      "date"     : "2021-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quella notte a Vermicino",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/20/quella_notte_a_vermicino/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le cose di Benni di Gianmarco Perale: ossessione e amore in un esordio sperimentale riuscito. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/20/le_cose_di_benni_di_gianmarco_perale_ossessione_e_amore_in_un_esordio_sperimentale_riuscito_recensione/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La “Trilogia della villeggiatura”: essere ciò che non si è",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
@@ -17,10 +577,26 @@
     } ,
   
     {
+      "title"    : "La fantascienza nell’antichità",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/06/20/la_fantascienza_nellantichit/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Jago e il miracolo della creazione artistica a Sant’Anna Dei Lombardi",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/06/20/jago_e_il_miracolo_della_creazione_artistica_a_santanna_dei_lombardi/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Prima di uscire di Benedetta Faedi",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/20/il_racconto_della_domenica_prima_di_uscire_di_benedetta_faedi/",
       "date"     : "2021-06-20 00:00:00 +0200"
     } ,
   
@@ -37,6 +613,102 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/06/20/i_poeti_appartati_nunzio_festa/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Francesca Turini Bufalini – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/20/francesca_turini_bufalini_personaggio_della_settimana/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Estate 2021 all’insegna della body positivity: manuale per gli insicuri",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/20/estate_2021_allinsegna_della_body_positivity_manuale_per_gli_insicuri/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Un filo sottile di Antonella Enrica Gramone",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_un_filo_sottile_di_antonella_enrica_gramone/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Tutto fa di Marco Lazzarotto",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_tutto_fa_di_marco_lazzarotto/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Leggi di monotonia per scomporre la noia di Alberto Poli",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_leggi_di_monotonia_per_scomporre_la_noia_di_alberto_poli/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – La mia in/dipendenza Intervista alla LibrOsteria",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_la_mia_indipendenza_intervista_alla_librosteria/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Il letto singolo di Leonardo Gliatta",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_il_letto_singolo_di_leonardo_gliatta/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Il corvo di Angelo Antonio Izzo",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_il_corvo_di_angelo_antonio_izzo/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Figurarsi di Savina Tamborini e Giannino Dari",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_figurarsi_di_savina_tamborini_e_giannino_dari/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Eva di Micol Fischer",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_eva_di_micol_fischer/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Brutti Caratteri Intervista a Scritturapura casa editrice",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_brutti_caratteri_intervista_a_scritturapura_casa_editrice/",
+      "date"     : "2021-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 10 – Belvidera di Giulio Iovine",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/06/20/crack_numero_10_belvidera_di_giulio_iovine/",
       "date"     : "2021-06-20 00:00:00 +0200"
     } ,
   
@@ -61,6 +733,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/06/19/una_teiera_nello_spazio/",
+      "date"     : "2021-06-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "UAU il festival: un nuovo modo di abitare la città",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/06/19/uau_il_festival_un_nuovo_modo_di_abitare_la_citt/",
       "date"     : "2021-06-19 00:00:00 +0200"
     } ,
   
@@ -205,6 +885,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/06/18/shimpei_kusano_un_whitman_nipponico_letto_dai_tranvieri_elogio_del_poeta_che_colse_il_mare_e_il_suo_respiro/",
+      "date"     : "2021-06-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scusami, ma ci credo tanto (I)",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/06/18/scusami_ma_ci_credo_tanto_i/",
       "date"     : "2021-06-18 00:00:00 +0200"
     } ,
   
