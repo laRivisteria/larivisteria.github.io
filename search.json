@@ -1,6 +1,70 @@
 [
   
     {
+      "title"    : "Vernon Lee: Genius Loci",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/06/23/vernon_lee_genius_loci/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sanguina ancora: l’incredibile vita di Dostoevskij raccontata da Paolo Nori",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/06/23/sanguina_ancora_lincredibile_vita_di_dostoevskij_raccontata_da_paolo_nori/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "New Alexandria",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/06/23/new_alexandria/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Leggere, tradurre, imparare da Horacio Quiroga",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/06/23/leggere_tradurre_imparare_da_horacio_quiroga/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gemütlichkeit",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/23/gemtlichkeit/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Elogio del Marchese de Custine, un Sade a rovescio che elogiava la Russia (tra mille rimorsi)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/23/elogio_del_marchese_de_custine_un_sade_a_rovescio_che_elogiava_la_russia_tra_mille_rimorsi/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CAVEAT/SOUND OF VIOLENCE/BREEDER/RV: RESURRECTED VICTIMS/THE ISLE.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/23/caveatsound_of_violencebreederrv_resurrected_victimsthe_isle/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ambrosecchio, la scuola dopo la Dad? Rimpiangere l’imperfetto",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/23/ambrosecchio_la_scuola_dopo_la_dad_rimpiangere_limperfetto/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vademecum dell’HIV pt. II – Come la paura del contagio alimenta i falsi miti",
       "category" : "light-magazine",
       "tags"     : "light-magazine",
@@ -41,6 +105,14 @@
     } ,
   
     {
+      "title"    : "Teatro e tecnologia: due mondi che si abbracciano",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/22/teatro_e_tecnologia_due_mondi_che_si_abbracciano/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Sulle soglie del bosco ho parlato ai suoi occhi, con la poesia di Pasternak",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -69,6 +141,14 @@
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2021/06/22/lordigno_complesso_su_somiglianze_di_famiglia_di_matteo_pelliti/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le vedove di Rocas (For absent friends)",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/06/22/le_vedove_di_rocas_for_absent_friends/",
       "date"     : "2021-06-22 00:00:00 +0200"
     } ,
   
@@ -129,6 +209,14 @@
     } ,
   
     {
+      "title"    : "Il racconto del mercoledì: Emancipazione di Nicolò Donelli",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/22/il_racconto_del_mercoled_emancipazione_di_nicol_donelli/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il grande libro della scrittura di Marco Franzoso: un viaggio faticoso, come la scrittura",
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
@@ -145,10 +233,26 @@
     } ,
   
     {
+      "title"    : "Gli abiti più iconici dell’alta moda (quando non c’erano ancora Nike e Obey) – Parte I",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/22/gli_abiti_pi_iconici_dellalta_moda_quando_non_cerano_ancora_nike_e_obey_parte_i/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Generare nell’affollamento. Su Concerto per l’inizio del secolo di Roberto Minardi",
       "category" : "grado-zero",
       "tags"     : "grado-zero",
       "url"      : "/2021/06/22/generare_nellaffollamento_su_concerto_per_linizio_del_secolo_di_roberto_minardi/",
+      "date"     : "2021-06-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Eroi invisibili",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/22/eroi_invisibili/",
       "date"     : "2021-06-22 00:00:00 +0200"
     } ,
   
