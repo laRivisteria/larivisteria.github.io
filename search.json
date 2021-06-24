@@ -1,10 +1,114 @@
 [
   
     {
+      "title"    : "Urla sempre, Vaccari",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/24/urla_sempre_vaccari/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Subalterna di Adriano Cataldo | Nuova vita ai “detti”",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/06/24/subalterna_di_adriano_cataldo_nuova_vita_ai_detti/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Robocop | Avevamo una capra, Betty",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/06/24/robocop_avevamo_una_capra_betty/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#POP21 – “Tutti gli appuntamenti mancati” di Alice Zanotti",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/24/pop21_tutti_gli_appuntamenti_mancati_di_alice_zanotti/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Originale Pagano, giallo da sciogliere tra pandemia e razzismo",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/24/originale_pagano_giallo_da_sciogliere_tra_pandemia_e_razzismo/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Le ferite brillano come gioielli”. Jean Grosjean, una leggenda",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/24/le_ferite_brillano_come_gioielli_jean_grosjean_una_leggenda/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Donatella Di Pietrantonio risponde a Fante",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/24/donatella_di_pietrantonio_risponde_a_fante/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Denti",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/06/24/denti/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bolidi fiammanti.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/24/bolidi_fiammanti/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Accusorgios da (ri)scoprire: Cenere di Grazia Deledda",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/24/accusorgios_da_riscoprire_cenere_di_grazia_deledda/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ziye Ge – Le canzoni di donna mezzanotte",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/06/23/ziye_ge_le_canzoni_di_donna_mezzanotte/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vernon Lee: Genius Loci",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/06/23/vernon_lee_genius_loci/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un’altra idea di magia",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/06/23/unaltra_idea_di_magia/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Sono buonissimo con i buoni e stalinista con i fascisti”. Dialogo con Enrico Lucci",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/23/sono_buonissimo_con_i_buoni_e_stalinista_con_i_fascisti_dialogo_con_enrico_lucci/",
       "date"     : "2021-06-23 00:00:00 +0200"
     } ,
   
@@ -17,6 +121,38 @@
     } ,
   
     {
+      "title"    : "“Sangue di Giuda”, ovvero: dell’importanza di un nome",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/23/sangue_di_giuda_ovvero_dellimportanza_di_un_nome/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Racconti di un posto sicuro",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/23/racconti_di_un_posto_sicuro/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pericoli, bifolchi e nemici: su «La rivolta dello stile» e «Neofascismo in grigio»",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/23/pericoli_bifolchi_e_nemici_su_la_rivolta_dello_stile_e_neofascismo_in_grigio/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nomofobia: una nuova paura tecnologica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/23/nomofobia_una_nuova_paura_tecnologica/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "New Alexandria",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -25,10 +161,74 @@
     } ,
   
     {
+      "title"    : "Momento Zanardi. O di come cambiare l’approccio alla vita, nell’anno che cambiò il mondo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/23/momento_zanardi_o_di_come_cambiare_lapproccio_alla_vita_nellanno_che_cambi_il_mondo/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Molto ‘politically’ e poco ‘correct’",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/23/molto_politically_e_poco_correct/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Manifesto, raccolta antologica a cura di Iacopo Barison:  10 autori per raccontare il disagio dei millennial. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/23/manifesto_raccolta_antologica_a_cura_di_iacopo_barison_10_autori_per_raccontare_il_disagio_dei_millennial_recensione/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Leggere, tradurre, imparare da Horacio Quiroga",
       "category" : "tre-racconti",
       "tags"     : "tre-racconti",
       "url"      : "/2021/06/23/leggere_tradurre_imparare_da_horacio_quiroga/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 23 Giugno 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/23/le_news_letterarie_23_giugno_2021/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L&#39;ARTE FOLLE E INCANTATA DI FILIPPO BENTIVEGNA",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/06/23/larte_folle_e_incantata_di_filippo_bentivegna/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il secondo balzo della Cina",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/06/23/il_secondo_balzo_della_cina/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il nostro primo amore radiofonico || Intervista a Radio Rogna di A. Biagioni e S. Piccinni || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/06/23/il_nostro_primo_amore_radiofonico_intervista_a_radio_rogna_di_a_biagioni_e_s_piccinni_threevial_pursuit/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I luoghi sono i presupposti dei mondi che abiteremo. Sullo Stradario aggiornato di tutti i miei baci di Daniela Ranieri.",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/23/i_luoghi_sono_i_presupposti_dei_mondi_che_abiteremo_sullo_stradario_aggiornato_di_tutti_i_miei_baci_di_daniela_ranieri/",
       "date"     : "2021-06-23 00:00:00 +0200"
     } ,
   
@@ -49,6 +249,38 @@
     } ,
   
     {
+      "title"    : "Discesa | Diego Riccobene",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/06/23/discesa_diego_riccobene/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diario metafisico di un terrorista o di come distruggere i pregiudizi",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/06/23/diario_metafisico_di_un_terrorista_o_di_come_distruggere_i_pregiudizi/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Daìta Martinez | Nutrica",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/06/23/data_martinez_nutrica/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi ha ucciso Frida Eidinger?",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/06/23/chi_ha_ucciso_frida_eidinger/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "CAVEAT/SOUND OF VIOLENCE/BREEDER/RV: RESURRECTED VICTIMS/THE ISLE.",
       "category" : "droga",
       "tags"     : "droga",
@@ -57,10 +289,42 @@
     } ,
   
     {
+      "title"    : "CADE UNA FOGLIA E NASCE UNA POESIA",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/06/23/cade_una_foglia_e_nasce_una_poesia/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Aspettando lo Strega 2021 – Recensioni della cinquina",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/06/23/aspettando_lo_strega_2021_recensioni_della_cinquina/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Anatomia della sitcom: da Ross Geller a Ted Mosby è un attimo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/23/anatomia_della_sitcom_da_ross_geller_a_ted_mosby_un_attimo/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Ambrosecchio, la scuola dopo la Dad? Rimpiangere l’imperfetto",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/06/23/ambrosecchio_la_scuola_dopo_la_dad_rimpiangere_limperfetto/",
+      "date"     : "2021-06-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Addio amore mio",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/06/23/addio_amore_mio/",
       "date"     : "2021-06-23 00:00:00 +0200"
     } ,
   
@@ -217,7 +481,7 @@
     } ,
   
     {
-      "title"    : "Il grande libro della scrittura di Marco Franzoso: un viaggio faticoso, come la scrittura",
+      "title"    : "“Il grande libro della scrittura” di Marco Franzoso: un viaggio faticoso, come la scrittura",
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
       "url"      : "/2021/06/22/il_grande_libro_della_scrittura_di_marco_franzoso_un_viaggio_faticoso_come_la_scrittura/",
