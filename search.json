@@ -1,10 +1,218 @@
 [
   
     {
+      "title"    : "Vortici",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/06/25/vortici/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Valentina Della Seta e Mario Desiati: un dialogo su “Le ore piene” e “Spatriati”",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/25/valentina_della_seta_e_mario_desiati_un_dialogo_su_le_ore_piene_e_spatriati/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra le righe: il nuovo romanzo di Laura Mercuri",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/25/tra_le_righe_il_nuovo_romanzo_di_laura_mercuri/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Storia di una porta",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/06/25/storia_di_una_porta/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ripulire le parole per capire chi sei: intervista a Maddalena Fingerle",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/25/ripulire_le_parole_per_capire_chi_sei_intervista_a_maddalena_fingerle/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Primàdopo – Idealia.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/25/primdopo_idealia/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Preludi – Hybris al Campania Teatro Festival",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/25/preludi_hybris_al_campania_teatro_festival/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#POP21 – “Le cose di Benni” di Gianmarco Perale",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/25/pop21_le_cose_di_benni_di_gianmarco_perale/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "‘Non si guarda alla vita solo con gli occhi’ – Il miracolo",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/06/25/non_si_guarda_alla_vita_solo_con_gli_occhi_il_miracolo/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nadeesha Uyangoda: intervista alla scrittrice di L’unica persona nera nella stanza",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/25/nadeesha_uyangoda_intervista_alla_scrittrice_di_lunica_persona_nera_nella_stanza/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Moonrise Kingdom con delitto",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/06/25/moonrise_kingdom_con_delitto/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture Elettriche per Libri D’Asporto: Libreria Equilibri e Libreria Liberamente",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/06/25/letture_elettriche_per_libri_dasporto_libreria_equilibri_e_libreria_liberamente/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le Carré difeso dai suoi accusatori. L’ex agente-scrittore non perde smalto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/25/le_carr_difeso_dai_suoi_accusatori_lex_agente-scrittore_non_perde_smalto/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Sicilia e la iella, un colpo di coda firmato Dumas",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/25/la_sicilia_e_la_iella_un_colpo_di_coda_firmato_dumas/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La satira menippea di Gregorio H. Meier",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/06/25/la_satira_menippea_di_gregorio_h_meier/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il pettirosso",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/25/il_pettirosso/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gregorio Tenti | Corpi sommi",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/06/25/gregorio_tenti_corpi_sommi/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gombitelli, (non solo) un mucchio di terra al sole",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/06/25/gombitelli_non_solo_un_mucchio_di_terra_al_sole/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Empireo, un racconto di G. Bindi || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/06/25/empireo_un_racconto_di_g_bindi_street_stories/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dylan Thomas | Poesie I",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/06/25/dylan_thomas_poesie_i/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dietro le nebbie dell’innocenza”: Jan Kerouac, la figlia sconosciuta di Jack",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/25/dietro_le_nebbie_dellinnocenza_jan_kerouac_la_figlia_sconosciuta_di_jack/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diario della pandemia dall’Himachal Pradesh #7",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/25/diario_della_pandemia_dallhimachal_pradesh_7/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di cinema e attivismo digitale",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/25/di_cinema_e_attivismo_digitale/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cosa sono i cakra?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/06/25/cosa_sono_i_cakra/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Annemarie Schwarzenbach: “La mia esistenza condannata all’esilio e all’avventura”",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/06/25/annemarie_schwarzenbach_la_mia_esistenza_condannata_allesilio_e_allavventura/",
+      "date"     : "2021-06-25 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Urla sempre, Vaccari",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/06/24/urla_sempre_vaccari/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ti racconto Salmace",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/06/24/ti_racconto_salmace/",
       "date"     : "2021-06-24 00:00:00 +0200"
     } ,
   
@@ -17,10 +225,34 @@
     } ,
   
     {
+      "title"    : "Salvo Prestifilippo /  A me – moria",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/24/salvo_prestifilippo_a_me_moria/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Robocop | Avevamo una capra, Betty",
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
       "url"      : "/2021/06/24/robocop_avevamo_una_capra_betty/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Roberto Gaudioso | Squittii",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/06/24/roberto_gaudioso_squittii/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Previsione — Charles Rafferty",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/06/24/previsione_charles_rafferty/",
       "date"     : "2021-06-24 00:00:00 +0200"
     } ,
   
@@ -33,6 +265,14 @@
     } ,
   
     {
+      "title"    : "Percorsi sottoterra per perdersi e ritrovarsi nelle foto Underground di Marco Pesaresi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/24/percorsi_sottoterra_per_perdersi_e_ritrovarsi_nelle_foto_underground_di_marco_pesaresi/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Originale Pagano, giallo da sciogliere tra pandemia e razzismo",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -41,10 +281,66 @@
     } ,
   
     {
+      "title"    : "Metrofobia che orrore la poesia!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/24/metrofobia_che_orrore_la_poesia/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’omosessualità vista dagli occhi di Ettore Scola",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/06/24/lomosessualit_vista_dagli_occhi_di_ettore_scola/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Le ferite brillano come gioielli”. Jean Grosjean, una leggenda",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/06/24/le_ferite_brillano_come_gioielli_jean_grosjean_una_leggenda/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le campane / Divergenze – Poesie di Barbara Zanotti",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/24/le_campane_divergenze_poesie_di_barbara_zanotti/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’arte di respirare. La nuova scienza per rieducare un gesto naturale (James Nestor) – ESTRATTO",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/06/24/larte_di_respirare_la_nuova_scienza_per_rieducare_un_gesto_naturale_james_nestor_estratto/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La “principessa Sissi” o imperatrice ribelle?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/24/la_principessa_sissi_o_imperatrice_ribelle/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inchiesta sul lavoro di editor / 11 – Giovanni Carletti (Laterza)",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/06/24/inchiesta_sul_lavoro_di_editor_11_giovanni_carletti_laterza/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il libro dell’amore",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/24/il_libro_dellamore/",
       "date"     : "2021-06-24 00:00:00 +0200"
     } ,
   
@@ -65,10 +361,42 @@
     } ,
   
     {
+      "title"    : "Cyberfemminismo e controcultura",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/06/24/cyberfemminismo_e_controcultura/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come le formiche: Purgatorio XXVI",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/06/24/come_le_formiche_purgatorio_xxvi/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Bolidi fiammanti.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/06/24/bolidi_fiammanti/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Billy Porter ed Ezra Miller come essenza della gender fluidity",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/24/billy_porter_ed_ezra_miller_come_essenza_della_gender_fluidity/",
+      "date"     : "2021-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Appello della Società degli Scrittori ungheresi ⥀ Contro la deriva reazionaria del governo ungherese",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/06/24/appello_della_societ_degli_scrittori_ungheresi_contro_la_deriva_reazionaria_del_governo_ungherese/",
       "date"     : "2021-06-24 00:00:00 +0200"
     } ,
   
