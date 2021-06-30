@@ -1,10 +1,418 @@
 [
   
     {
+      "title"    : "Un lontano odore familiare",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/06/30/un_lontano_odore_familiare/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Grande Pandemia Prostituzionale. Su Pierre Guyotat",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/30/la_grande_pandemia_prostituzionale_su_pierre_guyotat/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La casa è nera",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/30/la_casa_nera/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ipazia",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/06/30/ipazia/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il testamento politico",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/06/30/il_testamento_politico/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Sudafrica di Deon Meyer? Plurale, ironico e hard-boiled",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/30/il_sudafrica_di_deon_meyer_plurale_ironico_e_hard-boiled/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guida alla notte per principianti di Mary Robison",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/06/30/guida_alla_notte_per_principianti_di_mary_robison/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ep.24 Quello che ricordo",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/06/30/ep24_quello_che_ricordo/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una mattina insieme",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/06/29/una_mattina_insieme/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "True Detective, una delle migliori serie in circolazione",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/29/true_detective_una_delle_migliori_serie_in_circolazione/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Transgender – Pride flags",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/29/transgender_pride_flags/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tassisti no-vax",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/29/tassisti_no-vax/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Saluti dal sottobosco",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/06/29/saluti_dal_sottobosco/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Prisco De Vivo | Del lirismo antropologico",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/06/29/prisco_de_vivo_del_lirismo_antropologico/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#POP21 – “Adorazione” di Alice Urciuolo",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/29/pop21_adorazione_di_alice_urciuolo/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Planet Revolutionary e la rivoluzione verde di cui avevamo bisogno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/29/planet_revolutionary_e_la_rivoluzione_verde_di_cui_avevamo_bisogno/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mio padre il farabutto",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/29/mio_padre_il_farabutto/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lisarium",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/06/29/lisarium/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’estate non è tutto; e nemmeno il terremoto",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/29/lestate_non_tutto_e_nemmeno_il_terremoto/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le letture tendenziose di Franco Antonicelli",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/29/le_letture_tendenziose_di_franco_antonicelli/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La sanità campana: cronaca di un giorno di ordinario disastro",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/06/29/la_sanit_campana_cronaca_di_un_giorno_di_ordinario_disastro/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La metamorfosi di Rkomi da rapper in apnea a tassista pop",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/29/la_metamorfosi_di_rkomi_da_rapper_in_apnea_a_tassista_pop/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Io Incendio: La mafia uccide solo d’estate",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/06/29/io_incendio_la_mafia_uccide_solo_destate/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Io e Bafometto, lo stregone non si prende più sul serio",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/29/io_e_bafometto_lo_stregone_non_si_prende_pi_sul_serio/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: L’occasione speciale di Stefania Coco Scalisi",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/29/il_racconto_del_mercoled_loccasione_speciale_di_stefania_coco_scalisi/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il poeta è un rivoluzionario”. Su Benjamin Péret, il più grande stronzo della Storia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/29/il_poeta_un_rivoluzionario_su_benjamin_pret_il_pi_grande_stronzo_della_storia/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il costo del lavoro",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/06/29/il_costo_del_lavoro/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gianmarco Parodi | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/06/29/gianmarco_parodi_poesie/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Figlie",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/06/29/figlie/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Do you remember? I migliori memoir degli ultimi 10 anni",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/29/do_you_remember_i_migliori_memoir_degli_ultimi_10_anni/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diario di un editore di fumetti #12",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/29/diario_di_un_editore_di_fumetti_12/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dentro il campo minato",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/06/29/dentro_il_campo_minato/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Della mia più asciutta lingua”. Sulla poesia di Elisa Donzelli",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/29/della_mia_pi_asciutta_lingua_sulla_poesia_di_elisa_donzelli/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Corri a prenderti",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/06/29/corri_a_prenderti/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "BANDIERA BIANCA",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/29/bandiera_bianca/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Arpino ai mondiali di calcio: l’Azzurro (tenebra) della Nazionale italiana",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/06/29/arpino_ai_mondiali_di_calcio_lazzurro_tenebra_della_nazionale_italiana/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Veleno” e “Il sospetto”: due modi di raccontare l’innocenza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/28/veleno_e_il_sospetto_due_modi_di_raccontare_linnocenza/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una storia di abissi luminosi",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/06/28/una_storia_di_abissi_luminosi/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sull’incompletezza – Intervista a Gianni Montieri",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/06/28/sullincompletezza_intervista_a_gianni_montieri/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ses ailes de géant l’empêchent de marcher*",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/06/28/ses_ailes_de_gant_lempchent_de_marcher/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rainbow – Pride flags",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/28/rainbow_pride_flags/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#POP21 – “Ciò che nel silenzio non tace” di Martina Merletti",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/28/pop21_ci_che_nel_silenzio_non_tace_di_martina_merletti/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché si chiama “luna di miele”?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/28/perch_si_chiama_luna_di_miele/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Offline n.12",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/06/28/offline_n12/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lucia Tradii",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/06/28/lucia_tradii/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Olifante: è uscito il secondo numero dedicato alle contaminazioni",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/28/lolifante_uscito_il_secondo_numero_dedicato_alle_contaminazioni/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le macchinazioni: uno specchio tra fantasia e realtà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/28/le_macchinazioni_uno_specchio_tra_fantasia_e_realt/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’Anno del Fuoco Segreto: Iniziativa di Ordine Superiore",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/06/28/lanno_del_fuoco_segreto_iniziativa_di_ordine_superiore/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La riunione di condominio",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/06/28/la_riunione_di_condominio/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La montagna palestra e la troppa vita di Antonia Pozzi",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/06/28/la_montagna_palestra_e_la_troppa_vita_di_antonia_pozzi/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La luna di Ripazecca",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/06/28/la_luna_di_ripazecca/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La forza della mente | Un pozzo chiaro ",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/06/28/la_forza_della_mente_un_pozzo_chiaro/",
       "date"     : "2021-06-28 00:00:00 +0200"
     } ,
   
@@ -33,6 +441,14 @@
     } ,
   
     {
+      "title"    : "Io e Bafometto – una lettura senza ritegno",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/06/28/io_e_bafometto_una_lettura_senza_ritegno/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il legame tra la creatività e i geni dell’autismo",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
@@ -41,10 +457,34 @@
     } ,
   
     {
+      "title"    : "“I tuoni” di Tommaso Giagni: il fuoco nella banlieue romana",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/06/28/i_tuoni_di_tommaso_giagni_il_fuoco_nella_banlieue_romana/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gus Van Sant e la miniserie per Gucci tra fluidità di genere, isolamento e futuro del cinema | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/06/28/gus_van_sant_e_la_miniserie_per_gucci_tra_fluidit_di_genere_isolamento_e_futuro_del_cinema_in_translation/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Gli uomini sono insetti che indossano maschere. Roger Caillois",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/06/28/gli_uomini_sono_insetti_che_indossano_maschere_roger_caillois/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli occhi della madre",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/06/28/gli_occhi_della_madre/",
       "date"     : "2021-06-28 00:00:00 +0200"
     } ,
   
@@ -61,6 +501,22 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/06/28/ecco_a_voi_la_stroncatura_pi_divertente_di_sempre_roberto_longhi_e_le_tele_di_de_chirico/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cose, spiegate bene – Intervista a Pietro Biancardi",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/06/28/cose_spiegate_bene_intervista_a_pietro_biancardi/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Colson Whitehead e le notti di pandemia in cui osserva la sua silenziosa New York",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/28/colson_whitehead_e_le_notti_di_pandemia_in_cui_osserva_la_sua_silenziosa_new_york/",
       "date"     : "2021-06-28 00:00:00 +0200"
     } ,
   
@@ -85,6 +541,30 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/06/28/attenzioneachille_lauro_sanremo_ha_creduto_in_me_mi_piacerebbe_fare_il_direttore_artistico/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ Myss Keta, la regina del comunismo upper class, trionfa al reality di Amazon, Celebrity Hunter 2.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/28/attenzione_myss_keta_la_regina_del_comunismo_upper_class_trionfa_al_reality_di_amazon_celebrity_hunter_2/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Adolesco",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/06/28/adolesco/",
+      "date"     : "2021-06-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "9 Righe",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/06/28/9_righe/",
       "date"     : "2021-06-28 00:00:00 +0200"
     } ,
   
