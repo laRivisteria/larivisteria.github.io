@@ -1,10 +1,266 @@
 [
   
     {
+      "title"    : "Storie di animali notturni",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/07/01/storie_di_animali_notturni/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Stazione degli occhi (O del corpo che si sottrae) – Anteprima del libro di Jonida Prifti e Donatella Della Ratta.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/07/01/stazione_degli_occhi_o_del_corpo_che_si_sottrae_anteprima_del_libro_di_jonida_prifti_e_donatella_della_ratta/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Siamo corpi da abbracciare: una riflessione sulla poesia di Manuela Mori",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/07/01/siamo_corpi_da_abbracciare_una_riflessione_sulla_poesia_di_manuela_mori/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Lettere carbonare su Facebook” di Vincenzo Pezzella Dedalus squarcia “il fegato dell’etrusco eroe Dedalus” per ritrovare chi siamo dopo la pandemia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/01/lettere_carbonare_su_facebook_di_vincenzo_pezzella_dedalus_squarcia_il_fegato_delletrusco_eroe_dedalus_per_ritrovare_chi_siamo_dopo_la_pandemia/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le notti acustiche di Snuff, Black e Nutshell",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/07/01/le_notti_acustiche_di_snuff_black_e_nutshell/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La mezzanotte dell’innocenza e le ombre della dipendenza",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/07/01/la_mezzanotte_dellinnocenza_e_le_ombre_della_dipendenza/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Italo Calvino e la notte difficile del viaggiatore",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/07/01/italo_calvino_e_la_notte_difficile_del_viaggiatore/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I segni dell’inguaribile ferita. Giovanni Giudici e Roma",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/07/01/i_segni_dellinguaribile_ferita_giovanni_giudici_e_roma/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Goya e la verità della guerra",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/07/01/goya_e_la_verit_della_guerra/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Good night, and good luck: la lunga notte di una democrazia morente",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/07/01/good_night_and_good_luck_la_lunga_notte_di_una_democrazia_morente/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Feriti a morte da Raffaele La Capria",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/07/01/feriti_a_morte_da_raffaele_la_capria/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fake",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/07/01/fake/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Emanuele Pettener risponde a Fante",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/07/01/emanuele_pettener_risponde_a_fante/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Bisogna soffrire prima di scrivere”: Hemingway scrive a Fitzgerald",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/01/bisogna_soffrire_prima_di_scrivere_hemingway_scrive_a_fitzgerald/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una foto un peso",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/06/30/una_foto_un_peso/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un lontano odore familiare",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/06/30/un_lontano_odore_familiare/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "un inverno freddissimo – fausta cialente (quarta parte)",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/06/30/un_inverno_freddissimo_fausta_cialente_quarta_parte/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un altro giro di vita",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/06/30/un_altro_giro_di_vita/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TADPOLE SUSHI di Gabriele Doria",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/tadpole_sushi_di_gabriele_doria/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "SOGNO di Verdiana Raw",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/sogno_di_verdiana_raw/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Simone Lisi’s Padre Occidentale@Roma 01/07/21",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/06/30/simone_lisis_padre_occidentaleroma_010721/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "SABATO di Francesco Chiantese",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/sabato_di_francesco_chiantese/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#POP21 – “Ada brucia. Storia di un amore minuscolo” di Anja Trevisan",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/06/30/pop21_ada_brucia_storia_di_un_amore_minuscolo_di_anja_trevisan/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "POI TI SPIEGO di Monica Capomonte",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/poi_ti_spiego_di_monica_capomonte/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pierfrancesco Trocchi",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/06/30/pierfrancesco_trocchi/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "PETARDI, DIVORZI E TESTARDI di Virginia Puccianti",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/petardi_divorzi_e_testardi_di_virginia_puccianti/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "MEMORIE FIORENTINE (III) di Narciso Fenice Ramparti",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/memorie_fiorentine_iii_di_narciso_fenice_ramparti/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "MALEDETTO MONTALE  di Marco Bianchini",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/maledetto_montale_di_marco_bianchini/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ultimo sesso",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/06/30/lultimo_sesso/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’orso di Calarsi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/06/30/lorso_di_calarsi/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Loro",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/06/30/loro/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le sonde Voyager nello spazio interstellare",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/30/le_sonde_voyager_nello_spazio_interstellare/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 30 Giugno 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/06/30/le_news_letterarie_30_giugno_2021/",
       "date"     : "2021-06-30 00:00:00 +0200"
     } ,
   
@@ -17,6 +273,14 @@
     } ,
   
     {
+      "title"    : "LA FORCHETTA di Gila Manetti",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/la_forchetta_di_gila_manetti/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La casa è nera",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -25,10 +289,34 @@
     } ,
   
     {
+      "title"    : "LA BELVA di Gabriele Giustri",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/la_belva_di_gabriele_giustri/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ipertrofia",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/06/30/ipertrofia/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Ipazia",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/06/30/ipazia/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "IL VICINATO STA IN PANCHINA di Giovanni Ciappelli",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/il_vicinato_sta_in_panchina_di_giovanni_ciappelli/",
       "date"     : "2021-06-30 00:00:00 +0200"
     } ,
   
@@ -49,6 +337,46 @@
     } ,
   
     {
+      "title"    : "IL MARITO OMICIDA di Roberta Sandrini",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/il_marito_omicida_di_roberta_sandrini/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I TESTARDI di Francesco Mancini",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/i_testardi_di_francesco_mancini/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ho scritto un glossario narrativo sul mare e i suoi abitanti",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/06/30/ho_scritto_un_glossario_narrativo_sul_mare_e_i_suoi_abitanti/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ho incontrato Esenin nel futuro. Ritratto di un amico",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/30/ho_incontrato_esenin_nel_futuro_ritratto_di_un_amico/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "HEAVEN IS NOT A PLACE ON EARTH. Il paradiso della realtà virtuale",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/30/heaven_is_not_a_place_on_earth_il_paradiso_della_realt_virtuale/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Guida alla notte per principianti di Mary Robison",
       "category" : "tre-racconti",
       "tags"     : "tre-racconti",
@@ -57,10 +385,114 @@
     } ,
   
     {
+      "title"    : "Generi musicali: la Sonata",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/30/generi_musicali_la_sonata/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Genderqueer – Pride flags",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/30/genderqueer_pride_flags/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Follia",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/06/30/follia/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Eros&amp;Thanatos – 14.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/06/30/erosthanatos_14/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "ep.24 Quello che ricordo",
       "category" : "offline",
       "tags"     : "offline",
       "url"      : "/2021/06/30/ep24_quello_che_ricordo/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Elogio breve, sentenzioso e piccato dei best-seller. Quanti li leggono?",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/06/30/elogio_breve_sentenzioso_e_piccato_dei_best-seller_quanti_li_leggono/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Disamore — Rossella Cirrone",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/06/30/disamore_rossella_cirrone/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come si vive su un pianeta ferito",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/06/30/come_si_vive_su_un_pianeta_ferito/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Call – scrittura – Anime – immaginari – Ibridamenti",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/06/30/call_scrittura_anime_immaginari_ibridamenti/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "BALZO COME UN PESCE FUORI DALL’ACQUA di Chiara Macinai",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/balzo_come_un_pesce_fuori_dallacqua_di_chiara_macinai/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ANEDDOTO SU GASTONE di Francesco Barilli",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/aneddoto_su_gastone_di_francesco_barilli/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alzheimer’s disease attraverso l’arte di William Utermohlen",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/06/30/alzheimers_disease_attraverso_larte_di_william_utermohlen/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Al Diavolo Barbara Alberti",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/06/30/al_diavolo_barbara_alberti/",
+      "date"     : "2021-06-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A PIEDI NUDI TRA LE MANGROVIE (88) di Lucio Cascavilla",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/06/30/a_piedi_nudi_tra_le_mangrovie_88_di_lucio_cascavilla/",
       "date"     : "2021-06-30 00:00:00 +0200"
     } ,
   
@@ -141,6 +573,14 @@
       "category" : "narrandom",
       "tags"     : "narrandom",
       "url"      : "/2021/06/29/lisarium/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Libri in uscita a luglio 2021: le novità da non perdere",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/06/29/libri_in_uscita_a_luglio_2021_le_novit_da_non_perdere/",
       "date"     : "2021-06-29 00:00:00 +0200"
     } ,
   
@@ -765,6 +1205,14 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/06/26/il_racconto_della_domenica_con_quanto_fiato_hai_in_corpo_jimmy-boy_di_martino_costa/",
+      "date"     : "2021-06-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il cuore: presente, passato e futuro dell’uomo",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/06/26/il_cuore_presente_passato_e_futuro_delluomo/",
       "date"     : "2021-06-26 00:00:00 +0200"
     } ,
   
@@ -20637,6 +21085,14 @@
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
       "url"      : "/2021/04/01/il_memoriale/",
+      "date"     : "2021-04-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il fango dell&#39;empatia",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/04/01/il_fango_dellempatia/",
       "date"     : "2021-04-01 00:00:00 +0200"
     } ,
   
