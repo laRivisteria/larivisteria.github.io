@@ -1,6 +1,78 @@
 [
   
     {
+      "title"    : "Servo vostro, Otello",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/07/02/servo_vostro_otello/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quattro poesie di Rosanna Frattaruolo",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/07/02/quattro_poesie_di_rosanna_frattaruolo/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mi sembra inutile",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2021/07/02/mi_sembra_inutile/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’isola di Caronte. Dialogo con Alessandro Buttitta",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/07/02/lisola_di_caronte_dialogo_con_alessandro_buttitta/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le colpe, proprie e altrui : su Heautontimorumenos XXI di Alessandro Seri",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/07/02/le_colpe_proprie_e_altrui_su_heautontimorumenos_xxi_di_alessandro_seri/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++INCREDIBILE+++ I MANESKIN HANNO SUPERATO QUESTO GRANDISSIMO CEPPONE DI CAZZO.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/07/02/incredibile_i_maneskin_hanno_superato_questo_grandissimo_ceppone_di_cazzo/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il secolo breve di McIlvanney visto da una miniera scozzese",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/07/02/il_secolo_breve_di_mcilvanney_visto_da_una_miniera_scozzese/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gertrude Stein, la cubista",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/02/gertrude_stein_la_cubista/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dagli iperoggetti ai pericoli delle intelligenze artificiali: la portata profetica di “Blame”",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/07/02/dagli_iperoggetti_ai_pericoli_delle_intelligenze_artificiali_la_portata_profetica_di_blame/",
+      "date"     : "2021-07-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Wu Ming 1 – La Q di Qomplotto. QAnon e dintorni. Come le fantasie di complotto difendono il sistema",
       "category" : "the-bookish-explorer",
       "tags"     : "the-bookish-explorer",
@@ -65,6 +137,22 @@
     } ,
   
     {
+      "title"    : "Quanto ci è costato romanticizzare le paranze",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/01/quanto_ci_costato_romanticizzare_le_paranze/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poliamore ed altri rimedi: istruzioni d’uso per un amore libero",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/01/poliamore_ed_altri_rimedi_istruzioni_duso_per_un_amore_libero/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "NORMA DI VINCENZO BELLINI INCANTA IL SUMMER REGGIA OPERA FESTIVAL",
       "category" : "voce-blu",
       "tags"     : "voce-blu",
@@ -93,6 +181,14 @@
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2021/07/01/la_mezzanotte_dellinnocenza_e_le_ombre_della_dipendenza/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Klara e il sole: un’utopia postumana?",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/07/01/klara_e_il_sole_unutopia_postumana/",
       "date"     : "2021-07-01 00:00:00 +0200"
     } ,
   
@@ -245,6 +341,14 @@
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
       "url"      : "/2021/07/01/amour_spezzatino/",
+      "date"     : "2021-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amare la porchetta",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/01/amare_la_porchetta/",
       "date"     : "2021-07-01 00:00:00 +0200"
     } ,
   
