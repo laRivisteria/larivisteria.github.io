@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Sono femminista: mi tingo, mi trucco e se voglio mi rifaccio le tette",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/07/20/sono_femminista_mi_tingo_mi_trucco_e_se_voglio_mi_rifaccio_le_tette/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Solo Limoni. Videotestimonianza sui fatti di Genova ⥀ 20 anni dalla morte di Carlo Giuliani",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/07/20/solo_limoni_videotestimonianza_sui_fatti_di_genova_20_anni_dalla_morte_di_carlo_giuliani/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Santoni franco ed esplicito, per scrivere serve leggere…",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -17,10 +33,42 @@
     } ,
   
     {
+      "title"    : "Questa balena è fantastica, tu no.",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/07/20/questa_balena_fantastica_tu_no/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Programma fedeltà",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/07/20/programma_fedelt/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Maledico la parola amore e la sua stregoneria”. Violeta Parra (e fratello Nicanor)",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/07/20/maledico_la_parola_amore_e_la_sua_stregoneria_violeta_parra_e_fratello_nicanor/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ultimo cane di Vannina",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/07/20/lultimo_cane_di_vannina/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La domenica della vita",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/07/20/la_domenica_della_vita/",
       "date"     : "2021-07-20 00:00:00 +0200"
     } ,
   
@@ -33,10 +81,82 @@
     } ,
   
     {
+      "title"    : "Intorno ad “Atto di violenza” di Manuel de Pederolo",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/07/20/intorno_ad_atto_di_violenza_di_manuel_de_pederolo/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il silenzio dei giorni: una storia di ordinaria omofobia",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/07/20/il_silenzio_dei_giorni_una_storia_di_ordinaria_omofobia/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guadalupe Nettel – La figlia unica",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/07/20/guadalupe_nettel_la_figlia_unica/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli “avevamo ragione noi” aspri e amari come il gusto dello Xanax sotto la lingua",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/07/20/gli_avevamo_ragione_noi_aspri_e_amari_come_il_gusto_dello_xanax_sotto_la_lingua/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gioventù Cursata",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/07/20/giovent_cursata/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dieffenbachstraße e il fascino discreto della gentrificazione",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/07/20/dieffenbachstrae_e_il_fascino_discreto_della_gentrificazione/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Charta 08” di Sara Grosoli",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/07/20/charta_08_di_sara_grosoli/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Breviario delle aberrazioni”, l’esordio di Michele Paladino",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/07/20/breviario_delle_aberrazioni_lesordio_di_michele_paladino/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Altrove Italia",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/07/20/altrove_italia/",
+      "date"     : "2021-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "All you can fight",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/07/20/all_you_can_fight/",
       "date"     : "2021-07-20 00:00:00 +0200"
     } ,
   
