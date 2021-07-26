@@ -1,10 +1,386 @@
 [
   
     {
+      "title"    : "Overbooking: Omar Viel",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/07/26/overbooking_omar_viel/",
+      "date"     : "2021-07-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ivo Andrić a scuola. Letteratura, storia… e anche geografia",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/07/26/ivo_andri_a_scuola_letteratura_storia_e_anche_geografia/",
+      "date"     : "2021-07-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il modello delle foreste",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/07/26/il_modello_delle_foreste/",
+      "date"     : "2021-07-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Famelici del miracolo. Odisseas Elitis, il poeta solare",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/26/famelici_del_miracolo_odisseas_elitis_il_poeta_solare/",
+      "date"     : "2021-07-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cacche",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/07/26/cacche/",
+      "date"     : "2021-07-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "VIVA #9",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/07/25/viva_9/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un viso a metà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/25/un_viso_a_met/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un racconto e una vignetta #5: Il purino",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/07/25/un_racconto_e_una_vignetta_5_il_purino/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Maria Elisabetta Alberti Casellati",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/07/25/maria_elisabetta_alberti_casellati/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ma è così sicuro che le commedie dei De Filippo fanno ridere?” Alberto Savinio a teatro",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/25/ma_cos_sicuro_che_le_commedie_dei_de_filippo_fanno_ridere_alberto_savinio_a_teatro/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’amore come vocazione, Saffo incanta piccoli e grandi",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/07/25/lamore_come_vocazione_saffo_incanta_piccoli_e_grandi/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La mia mappa d’autore",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/07/25/la_mia_mappa_dautore/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Karakasa – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/25/karakasa_personaggio_della_settimana/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il sapere non è una stanza. Test, crocette, verifiche e altre consuete follie",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/07/25/il_sapere_non_una_stanza_test_crocette_verifiche_e_altre_consuete_follie/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il 26 luglio non perdetevi la festa più importante di Ischia!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/25/il_26_luglio_non_perdetevi_la_festa_pi_importante_di_ischia/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I poeti appartati: Francesca Canobbio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/07/25/i_poeti_appartati_francesca_canobbio/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di quella volta che volevo leccarmi la figa, così mi sono decollata",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/07/25/di_quella_volta_che_volevo_leccarmi_la_figa_cos_mi_sono_decollata/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "C’era una volta il reggiseno, poi il no bra l’ha fatto fuori",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/25/cera_una_volta_il_reggiseno_poi_il_no_bra_lha_fatto_fuori/",
+      "date"     : "2021-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Trombe e gloria della fibra ottica: Purgatorio XXX",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/07/24/trombe_e_gloria_della_fibra_ottica_purgatorio_xxx/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Olimpiadi Tokyo 2020: il canottaggio",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/24/olimpiadi_tokyo_2020_il_canottaggio/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non credete che anche noi desideriamo passeggiare per le strade di Roma ebbri di gioia e non di disperazione?",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/07/24/non_credete_che_anche_noi_desideriamo_passeggiare_per_le_strade_di_roma_ebbri_di_gioia_e_non_di_disperazione/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nel nome dell’azione: “Mediterraneo” di Barbera non dà pace alla scienza",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/24/nel_nome_dellazione_mediterraneo_di_barbera_non_d_pace_alla_scienza/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Muse ispiratrici e destini crudeli, il dolore dell’arte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/24/muse_ispiratrici_e_destini_crudeli_il_dolore_dellarte/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’universo in una stanza: il fenomeno Hikikomori in Youtopia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/24/luniverso_in_una_stanza_il_fenomeno_hikikomori_in_youtopia/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lispector artista della parola fra sussulti di scrittura e vita",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/07/24/lispector_artista_della_parola_fra_sussulti_di_scrittura_e_vita/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ascesa della Vedova – Essere o non essere… Super?",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/07/24/lascesa_della_vedova_essere_o_non_essere_super/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In Treno – Il viaggio di chi soffia di Simone Sanseverinati",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/07/24/in_treno_il_viaggio_di_chi_soffia_di_simone_sanseverinati/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il vecchissimo, nuovo Ellroy",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/07/24/il_vecchissimo_nuovo_ellroy/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: La me di colla di pesce di Stefania Maruelli",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/07/24/il_racconto_della_domenica_la_me_di_colla_di_pesce_di_stefania_maruelli/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il dio che chiamiamo Poesia. Sia lode a Robert Graves",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/24/il_dio_che_chiamiamo_poesia_sia_lode_a_robert_graves/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Green Pass",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/07/24/green_pass/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giulia Niccolai: Le due sponde",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/07/24/giulia_niccolai_le_due_sponde/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gianni De Martino: «noi ci incamminiamo attraverso il mondo»",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/07/24/gianni_de_martino_noi_ci_incamminiamo_attraverso_il_mondo/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #108",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/07/24/fantastico_108/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Colazioni salate",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/07/24/colazioni_salate/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Animali dell’Antropocene",
+      "category" : "il-problema-di-grendel",
+      "tags"     : "il-problema-di-grendel",
+      "url"      : "/2021/07/24/animali_dellantropocene/",
+      "date"     : "2021-07-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un Numero, una Data, il Mondo, Noi Stessi: indagine selvaggia sul significato di 2666",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/07/23/un_numero_una_data_il_mondo_noi_stessi_indagine_selvaggia_sul_significato_di_2666/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Un fiato da passerotto”: vita avventuriera di Silvio D’Arzo, pirata di collina",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/07/23/un_fiato_da_passerotto_vita_avventuriera_di_silvio_darzo_pirata_di_collina/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "‘SARNEGHERA STOMP’, OVVERO LA TEMPESTA BLUES. INTERVISTA A CEK FRANCESCHETTI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/07/23/sarneghera_stomp_ovvero_la_tempesta_blues_intervista_a_cek_franceschetti/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritratto della giovane in fiamme, un film d’amore e di riscatto dalla logica patriarcale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/23/ritratto_della_giovane_in_fiamme_un_film_damore_e_di_riscatto_dalla_logica_patriarcale/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Riscrivere Antigone, ovvero i significati di un significante",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/07/23/riscrivere_antigone_ovvero_i_significati_di_un_significante/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Riparare un E-reader",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/07/23/riparare_un_e-reader/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Olimpiadi Tokyo 2020: la ginnastica artistica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/23/olimpiadi_tokyo_2020_la_ginnastica_artistica/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "‘Non si guarda alla vita solo con gli occhi’ – Motorizzati",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/07/23/non_si_guarda_alla_vita_solo_con_gli_occhi_motorizzati/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non si dice",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/07/23/non_si_dice/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La gazzella nera",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/07/23/la_gazzella_nera/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La casa capovolta",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/07/23/la_casa_capovolta/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Balena consiglia: dodici libri per l’estate",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/07/23/la_balena_consiglia_dodici_libri_per_lestate/",
       "date"     : "2021-07-23 00:00:00 +0200"
     } ,
   
@@ -17,6 +393,22 @@
     } ,
   
     {
+      "title"    : "Il silenzio degli oracoli. Tre poesie di Flavio Ferraro",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/07/23/il_silenzio_degli_oracoli_tre_poesie_di_flavio_ferraro/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il moderno antimoderno. Alain de Benoist e la sua ultima autobiografia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/23/il_moderno_antimoderno_alain_de_benoist_e_la_sua_ultima_autobiografia/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "I “sette libri per l’estate” di… Eva Ferri",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -25,10 +417,66 @@
     } ,
   
     {
+      "title"    : "I film da riscoprire: La rivincita delle sfigate",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/07/23/i_film_da_riscoprire_la_rivincita_delle_sfigate/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Esercizi Vegetali: Inverno – Pasquale Sbrizzi",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/07/23/esercizi_vegetali_inverno_pasquale_sbrizzi/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ENPA e OIPA in difesa degli animali napoletani",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/23/enpa_e_oipa_in_difesa_degli_animali_napoletani/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Elogio di Adorno moralista: il matrimonio? “Il trucco dell’autoconservazione”",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/07/23/elogio_di_adorno_moralista_il_matrimonio_il_trucco_dellautoconservazione/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi nasce tondo… un racconto di S. Piccinni || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/07/23/chi_nasce_tondo_un_racconto_di_s_piccinni_street_stories/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cassini",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/07/23/cassini/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Anteprima: Purp – Apocalypse Song.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/07/23/anteprima_purp_apocalypse_song/",
+      "date"     : "2021-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A proposito di niente #2: Guida per aspirantƏ romanzierƏ retribuitƏ",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/07/23/a_proposito_di_niente_2_guida_per_aspirant_romanzier_retribuit/",
       "date"     : "2021-07-23 00:00:00 +0200"
     } ,
   
@@ -93,6 +541,14 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/07/22/libri_da_leggere_in_estate_2021_consigli_letterari_in_base_al_luogo_di_vacanza/",
+      "date"     : "2021-07-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lecce matrona bambina",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/07/22/lecce_matrona_bambina/",
       "date"     : "2021-07-22 00:00:00 +0200"
     } ,
   
@@ -365,6 +821,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/07/21/quella_poesia_sul_ramo_del_lago_di_como_tra_hemingway_e_unamante/",
+      "date"     : "2021-07-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Muse col muso | Visioni",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/07/21/muse_col_muso_visioni/",
       "date"     : "2021-07-21 00:00:00 +0200"
     } ,
   
