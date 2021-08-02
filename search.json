@@ -1,10 +1,410 @@
 [
   
     {
+      "title"    : "Un dialogo",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/08/02/un_dialogo/",
+      "date"     : "2021-08-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Overbooking: Sam Wasson",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/08/02/overbooking_sam_wasson/",
+      "date"     : "2021-08-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Le responsabilità cominciano nei sogni”. Iosif Brodskij a Venezia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/08/02/le_responsabilit_cominciano_nei_sogni_iosif_brodskij_a_venezia/",
+      "date"     : "2021-08-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Santa Cortigiana",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/08/02/la_santa_cortigiana/",
+      "date"     : "2021-08-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ho bisogno di voi. Vi prego, tornate.”",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/08/02/ho_bisogno_di_voi_vi_prego_tornate/",
+      "date"     : "2021-08-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fidatevi, ecco i libri da leggere sotto l’ombrellone",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/08/02/fidatevi_ecco_i_libri_da_leggere_sotto_lombrellone/",
+      "date"     : "2021-08-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un viaggio tra le meraviglie dell’Europa: i grandi vedutisti del Seicento",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/08/01/un_viaggio_tra_le_meraviglie_delleuropa_i_grandi_vedutisti_del_seicento/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un Bezos dallo spazio",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/01/un_bezos_dallo_spazio/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non si può morire sempre",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/08/01/non_si_pu_morire_sempre/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mots-clés__Tuffatore",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/08/01/mots-clstuffatore/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Italia vacante: storia di un Paese in guerra e in ferie",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/08/01/litalia_vacante_storia_di_un_paese_in_guerra_e_in_ferie/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Italia dagli occhi di Turner",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/08/01/litalia_dagli_occhi_di_turner/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Africa come non ci è mai stata raccontata: Africana, a cura di Chiara Piaggio e Igiaba Scego. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/08/01/lafrica_come_non_ci_mai_stata_raccontata_africana_a_cura_di_chiara_piaggio_e_igiaba_scego_recensione/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La scuola di Ambrosecchio, sogni e speranze oltre la realtà",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/08/01/la_scuola_di_ambrosecchio_sogni_e_speranze_oltre_la_realt/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il periscopio delle meraviglie",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/08/01/il_periscopio_delle_meraviglie/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I 47 migliori film italiani di sempre",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/08/01/i_47_migliori_film_italiani_di_sempre/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Eutanasia come gesto estremo di libertà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/01/eutanasia_come_gesto_estremo_di_libert/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Due facce del pop italiano e la colonna portante Gazzelle",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/08/01/due_facce_del_pop_italiano_e_la_colonna_portante_gazzelle/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Creare rapporti è un viaggio dentro sè stessi",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/08/01/creare_rapporti_un_viaggio_dentro_s_stessi/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Carlo Broschi – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/01/carlo_broschi_personaggio_della_settimana/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Belluscone: un viaggio per Palermo che racconta l’Italia",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/08/01/belluscone_un_viaggio_per_palermo_che_racconta_litalia/",
+      "date"     : "2021-08-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Zanzare: una lotta eterna",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/07/31/zanzare_una_lotta_eterna/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Venezia, bellezza immortale da preservare",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/31/venezia_bellezza_immortale_da_preservare/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“È un solitario, ed è la solitudine a dargli quella sicurezza”. Jean Grosjean, il poeta che ha riscritto la Bibbia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/31/un_solitario_ed_la_solitudine_a_dargli_quella_sicurezza_jean_grosjean_il_poeta_che_ha_riscritto_la_bibbia/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tina. Storie della grande estinzione",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/07/31/tina_storie_della_grande_estinzione/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tabucchi oltre Moravia, la piccola rivoluzione di Pereira",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/07/31/tabucchi_oltre_moravia_la_piccola_rivoluzione_di_pereira/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sport lunari. Guida per atleti in tuta spaziale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/31/sport_lunari_guida_per_atleti_in_tuta_spaziale/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lydia Millet, I figli del diluvio",
+      "category" : "il-problema-di-grendel",
+      "tags"     : "il-problema-di-grendel",
+      "url"      : "/2021/07/31/lydia_millet_i_figli_del_diluvio/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo specchio dell’Europa",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/07/31/lo_specchio_delleuropa/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lettere da Merano",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/07/31/lettere_da_merano/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le mani delle donne. Giulia",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/07/31/le_mani_delle_donne_giulia/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’amore attraverso la penna di Diego Galdino",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/31/lamore_attraverso_la_penna_di_diego_galdino/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In questo tempo devastato e vile. Genna vs. Moresco",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/31/in_questo_tempo_devastato_e_vile_genna_vs_moresco/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Clochard – Giovanni Cugliari",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/07/31/il_clochard_giovanni_cugliari/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #109",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/07/31/fantastico_109/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Esercizi Vegetali: Primavera – Pasquale Sbrizzi",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/07/31/esercizi_vegetali_primavera_pasquale_sbrizzi/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un’altra storia",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/07/30/unaltra_storia/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un posto nel mondo? Io voglio girarlo tutto il mondo",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/07/30/un_posto_nel_mondo_io_voglio_girarlo_tutto_il_mondo/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sulle tracce di un profumo",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/07/30/sulle_tracce_di_un_profumo/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Settembre in Sicilia",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/07/30/settembre_in_sicilia/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Roberto Calasso, uno dei più grandi. Se non il più grande",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/07/30/roberto_calasso_uno_dei_pi_grandi_se_non_il_pi_grande/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Queer studies: ripensare la cultura dalla Divina Commedia a Pose",
       "category" : "light-magazine",
       "tags"     : "light-magazine",
       "url"      : "/2021/07/30/queer_studies_ripensare_la_cultura_dalla_divina_commedia_a_pose/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quanto: di letteratura speculativa ed editoria indipendente",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/07/30/quanto_di_letteratura_speculativa_ed_editoria_indipendente/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Philofobia: l’amore qualche volta ha paura",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/30/philofobia_lamore_qualche_volta_ha_paura/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Olimpiadi Tokyo 2020: la vela",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/30/olimpiadi_tokyo_2020_la_vela/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mio zio fa l’orto.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/07/30/mio_zio_fa_lorto/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ma la poesia da cassetto non vale realmente nulla?",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/07/30/ma_la_poesia_da_cassetto_non_vale_realmente_nulla/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’editor e l’ascolto. Intervista a Stefano Izzo",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/07/30/leditor_e_lascolto_intervista_a_stefano_izzo/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le tasche",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/07/30/le_tasche/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La mangiatoia",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/07/30/la_mangiatoia/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La lingua degli dei",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/07/30/la_lingua_degli_dei/",
       "date"     : "2021-07-30 00:00:00 +0200"
     } ,
   
@@ -17,10 +417,26 @@
     } ,
   
     {
+      "title"    : "Irina, un racconto di M. Vidon || Street Stories – INEDITO",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/07/30/irina_un_racconto_di_m_vidon_street_stories_inedito/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Desiati, cercarsi senza mai arrivare a un approdo",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/07/30/desiati_cercarsi_senza_mai_arrivare_a_un_approdo/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da TVU&amp;N a Graduation, le più belle cover di vinili realizzate dagli artisti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/30/da_tvun_a_graduation_le_pi_belle_cover_di_vinili_realizzate_dagli_artisti/",
       "date"     : "2021-07-30 00:00:00 +0200"
     } ,
   
@@ -37,6 +453,38 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/07/30/corpi_anonimi_in_una_stanza_empia/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Consigli di lettura per l’estate",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/07/30/consigli_di_lettura_per_lestate/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cara vecchia, nuova TV",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/07/30/cara_vecchia_nuova_tv/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Budda nel bosco | Piccola bussola per orientarsi nel buddismo zen | Tiziano Fratus",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/07/30/budda_nel_bosco_piccola_bussola_per_orientarsi_nel_buddismo_zen_tiziano_fratus/",
+      "date"     : "2021-07-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Belli i milioni di streaming, ma ridatemi gli anni 90",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/07/30/belli_i_milioni_di_streaming_ma_ridatemi_gli_anni_90/",
       "date"     : "2021-07-30 00:00:00 +0200"
     } ,
   
