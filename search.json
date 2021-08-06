@@ -1,10 +1,90 @@
 [
   
     {
+      "title"    : "“Verso l’ignoto”. Catherine Pozzi, tradurre l’amore tradito",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/08/06/verso_lignoto_catherine_pozzi_tradurre_lamore_tradito/",
+      "date"     : "2021-08-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un coccodrillo vivo per Philippe Sollers",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/08/06/un_coccodrillo_vivo_per_philippe_sollers/",
+      "date"     : "2021-08-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Palumbo, quegli inchini ai mafiosi e la religione che fa pietà…",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/08/06/palumbo_quegli_inchini_ai_mafiosi_e_la_religione_che_fa_piet/",
+      "date"     : "2021-08-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Luigi Ghirri: note sul paesaggio",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/08/06/luigi_ghirri_note_sul_paesaggio/",
+      "date"     : "2021-08-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dopo anse piene d’irresolutezza”. Esther Kinsky: il sogno di una tedesca davanti ai fiumi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/08/06/dopo_anse_piene_dirresolutezza_esther_kinsky_il_sogno_di_una_tedesca_davanti_ai_fiumi/",
+      "date"     : "2021-08-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Coprofagi alchimisti",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/08/06/coprofagi_alchimisti/",
+      "date"     : "2021-08-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un posto come un altro",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2021/08/05/un_posto_come_un_altro/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un desiderio assoluto di bene – su Kolja di Giulia Corsalini",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/08/05/un_desiderio_assoluto_di_bene_su_kolja_di_giulia_corsalini/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ti racconto La Nuova Verdə",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/08/05/ti_racconto_la_nuova_verd/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Questo autentico ribelle…”. Albert Camus su René Char",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/08/05/questo_autentico_ribelle_albert_camus_su_ren_char/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La sostanza instabile di Giulia Lombezzi: come la paura scombina i piani delle nostre esistenze. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/08/05/la_sostanza_instabile_di_giulia_lombezzi_come_la_paura_scombina_i_piani_delle_nostre_esistenze_recensione/",
       "date"     : "2021-08-05 00:00:00 +0200"
     } ,
   
@@ -29,6 +109,54 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/08/05/la_fabbrica_wittgesund/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Irreplaceable. The fight to save our wild places | Julian Hoffman (anticipazione)",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/08/05/irreplaceable_the_fight_to_save_our_wild_places_julian_hoffman_anticipazione/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ibib racconta La Nuova Verdə",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/08/05/ibib_racconta_la_nuova_verd/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I No-Gender del pianoforte",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/08/05/i_no-gender_del_pianoforte/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "e… e… e…",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/08/05/e_e_e/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come nasce Instagram? Lo sviluppo di un colosso Social Media",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/05/come_nasce_instagram_lo_sviluppo_di_un_colosso_social_media/",
+      "date"     : "2021-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "10 città europee da visitare in estate",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/05/10_citt_europee_da_visitare_in_estate/",
       "date"     : "2021-08-05 00:00:00 +0200"
     } ,
   
@@ -2221,6 +2349,14 @@
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/07/22/trieste_senza_bora_di_corrado_premuda_dichiarazione_damore_una_e_trina_per_la_sua_citt-approdo/",
+      "date"     : "2021-07-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ti racconto In allarmata radura",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/07/22/ti_racconto_in_allarmata_radura/",
       "date"     : "2021-07-22 00:00:00 +0200"
     } ,
   
