@@ -1,10 +1,162 @@
 [
   
     {
+      "title"    : "“Perché i giorni per noi sono nulla”. Iosif Brodskij ad alta quota",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/08/21/perch_i_giorni_per_noi_sono_nulla_iosif_brodskij_ad_alta_quota/",
+      "date"     : "2021-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paolo Carnevali – Le emozioni",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/08/21/paolo_carnevali_le_emozioni/",
+      "date"     : "2021-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Note sullo ius soli",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/08/21/note_sullo_ius_soli/",
+      "date"     : "2021-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "θυμός, la scissione dell’identità secondo Omero",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/08/21/la_scissione_dellidentit_secondo_omero/",
+      "date"     : "2021-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Whatever it takes",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/08/20/whatever_it_takes/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tre gocce di sangue, bianco latte",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/08/20/tre_gocce_di_sangue_bianco_latte/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sudore",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/08/20/sudore/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Shadow and bone, uno young adult che insegna il razzismo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/20/shadow_and_bone_uno_young_adult_che_insegna_il_razzismo/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Selena Gomez inventa il make-up inclusivo con Rare Beauty!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/20/selena_gomez_inventa_il_make-up_inclusivo_con_rare_beauty/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scrivere con la regola del P.O.R.C.O., parola di Beppe Severgnini",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/08/20/scrivere_con_la_regola_del_porco_parola_di_beppe_severgnini/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Primo Maggio Novantaquattro",
+      "category" : "doctor-tale-and-mister-shot",
+      "tags"     : "doctor-tale-and-mister-shot",
+      "url"      : "/2021/08/20/primo_maggio_novantaquattro/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo sguardo delle muse: 16 artisti ‘sull’enigma femminile dell’arte tra natura, mito e scienza’",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/08/20/lo_sguardo_delle_muse_16_artisti_sullenigma_femminile_dellarte_tra_natura_mito_e_scienza/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’arte non ha nulla che fare con la verità? Hans-Georg Gadamer, per un’apologia dell’esperienza estetica",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/08/20/larte_non_ha_nulla_che_fare_con_la_verit_hans-georg_gadamer_per_unapologia_dellesperienza_estetica/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La cuoca detective nel centro benessere, imperdibile Glaser",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/08/20/la_cuoca_detective_nel_centro_benessere_imperdibile_glaser/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mio piano",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/08/20/il_mio_piano/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli altri libertini di Brooklyn",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/08/20/gli_altri_libertini_di_brooklyn/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dove si trovano i Poteri dell’Oscurità?”. Amos Wilder, poeta, teologo, tennista",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/08/20/dove_si_trovano_i_poteri_delloscurit_amos_wilder_poeta_teologo_tennista/",
+      "date"     : "2021-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Yayoi Kusama: perdersi e ritrovarsi nell’infinito dell’arte",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/08/19/yayoi_kusama_perdersi_e_ritrovarsi_nellinfinito_dellarte/",
+      "date"     : "2021-08-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Tratto peculiare di Venezia: scomparire in un attimo”: Nina Berberova e Venezia",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/08/19/tratto_peculiare_di_venezia_scomparire_in_un_attimo_nina_berberova_e_venezia/",
+      "date"     : "2021-08-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sabbia o sassi?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/19/sabbia_o_sassi/",
       "date"     : "2021-08-19 00:00:00 +0200"
     } ,
   
@@ -29,6 +181,22 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/08/19/la_notte_dei_ponti_scuciti/",
+      "date"     : "2021-08-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La combattente di Stefania Nardini: un naufragio nel dolore. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/08/19/la_combattente_di_stefania_nardini_un_naufragio_nel_dolore_recensione/",
+      "date"     : "2021-08-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Cappella Piccolomini: l’arte fiorentina trapiantata nel cuore di Napoli",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/08/19/la_cappella_piccolomini_larte_fiorentina_trapiantata_nel_cuore_di_napoli/",
       "date"     : "2021-08-19 00:00:00 +0200"
     } ,
   
