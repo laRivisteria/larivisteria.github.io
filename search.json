@@ -1,6 +1,126 @@
 [
   
     {
+      "title"    : "Volare con la nebbia",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/09/03/volare_con_la_nebbia/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Trieste senza bora",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/03/trieste_senza_bora/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Opportunista, scaltro, geniale. Elogio di Giuseppe Tucci, il nostro Indiana Jones tra Tibet, Afghanistan e Oriente estremo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/03/opportunista_scaltro_geniale_elogio_di_giuseppe_tucci_il_nostro_indiana_jones_tra_tibet_afghanistan_e_oriente_estremo/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’invenzione del vero nella Città dei vivi di Lagioia",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/09/03/linvenzione_del_vero_nella_citt_dei_vivi_di_lagioia/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’impero che si tace. Poesie di Ilaria Seclì",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/03/limpero_che_si_tace_poesie_di_ilaria_secl/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le radici del problema",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/09/03/le_radici_del_problema/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La parte di Malvasia ⥀ Un fragile “trojan” nel sistema letterario italiano",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/09/03/la_parte_di_malvasia_un_fragile_trojan_nel_sistema_letterario_italiano/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La paralisi nel sonno",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/09/03/la_paralisi_nel_sonno/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inserirsi nei vuoti",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/09/03/inserirsi_nei_vuoti/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "FLIP Wojtek – Pomigliano 3-5 settembre 2021",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/09/03/flip_wojtek_pomigliano_3-5_settembre_2021/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fare da soli",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/09/03/fare_da_soli/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Andrea Pazienza disambientato: una lettura",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/09/03/andrea_pazienza_disambientato_una_lettura/",
+      "date"     : "2021-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Zeus! la rivista letteraria mutante realizzata da persone con disabilità (o forse no?!). Intervista",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/09/02/zeus_la_rivista_letteraria_mutante_realizzata_da_persone_con_disabilit_o_forse_no_intervista/",
+      "date"     : "2021-09-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Venezia 78 giorno 2. Paolo Sorrentino si racconta e realizza il suo film più sincero e viscerale",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/09/02/venezia_78_giorno_2_paolo_sorrentino_si_racconta_e_realizza_il_suo_film_pi_sincero_e_viscerale/",
+      "date"     : "2021-09-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "È tutto un Flip! Festival della letteratura indipendente",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/02/tutto_un_flip_festival_della_letteratura_indipendente/",
+      "date"     : "2021-09-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Storia di un piano inclinato",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -25,6 +145,14 @@
     } ,
   
     {
+      "title"    : "Michela Murgia – Stai zitta",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/02/michela_murgia_stai_zitta/",
+      "date"     : "2021-09-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Ma devi passare tra le fiamme!”. David Gascoyne traduce Hölderlin (e Dalí)",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -41,6 +169,14 @@
     } ,
   
     {
+      "title"    : "Generi musicali: il Concerto solistico",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/02/generi_musicali_il_concerto_solistico/",
+      "date"     : "2021-09-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Eduardo Margaretto Kohrmann risponde a Fante",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -53,6 +189,22 @@
       "category" : "biró",
       "tags"     : "biró",
       "url"      : "/2021/09/02/editoriale_settembre/",
+      "date"     : "2021-09-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Clima, Capitalismo verde e catastrofismo | Philippe Pelletier",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/09/02/clima_capitalismo_verde_e_catastrofismo_philippe_pelletier/",
+      "date"     : "2021-09-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cinque canzoni italiane che raccontano eventi di cronaca e di storia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/02/cinque_canzoni_italiane_che_raccontano_eventi_di_cronaca_e_di_storia/",
       "date"     : "2021-09-02 00:00:00 +0200"
     } ,
   
