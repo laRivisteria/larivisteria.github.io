@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "Sul campo di battaglia. Croce Taravella: un racconto dostoevskijano",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/05/sul_campo_di_battaglia_croce_taravella_un_racconto_dostoevskijano/",
+      "date"     : "2021-09-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mots-clés__Visione",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/05/mots-clsvisione/",
+      "date"     : "2021-09-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Montemurro, quando i nazisti rubavano musica e anima…",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/05/montemurro_quando_i_nazisti_rubavano_musica_e_anima/",
+      "date"     : "2021-09-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un ultimo tuffo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/04/un_ultimo_tuffo/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un romanzo per Dolores. Intorno all’ultimo libro di Davide Grittani",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/04/un_romanzo_per_dolores_intorno_allultimo_libro_di_davide_grittani/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tradire è un’arte… canora",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/04/tradire_unarte_canora/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Susanna e i Vecchioni: La nudità associata alla colpa",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -33,10 +81,74 @@
     } ,
   
     {
+      "title"    : "Ouroboros: l’eterno ritorno. L’isola nell’arte di Eleonora Rossi",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/04/ouroboros_leterno_ritorno_lisola_nellarte_di_eleonora_rossi/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Noi con Loro/ Bordered Lives",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/09/04/noi_con_loro_bordered_lives/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La questione afghana",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/09/04/la_questione_afghana/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La conversazione: Rossana Valle ( fu Anna Giuba )",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/09/04/la_conversazione_rossana_valle_fu_anna_giuba/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Miss Dior di Sofia Ricci",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/09/04/il_racconto_della_domenica_miss_dior_di_sofia_ricci/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Grendel Room",
+      "category" : "il-problema-di-grendel",
+      "tags"     : "il-problema-di-grendel",
+      "url"      : "/2021/09/04/grendel_room/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #111",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/09/04/fantastico_111/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DANIELE DEL GIUDICE “levare a ogni frase la terra sotto i piedi“",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/04/daniele_del_giudice_levare_a_ogni_frase_la_terra_sotto_i_piedi/",
+      "date"     : "2021-09-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alessandro Franci – La fragilità dei pesi",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/04/alessandro_franci_la_fragilit_dei_pesi/",
       "date"     : "2021-09-04 00:00:00 +0200"
     } ,
   
@@ -261,6 +373,14 @@
       "category" : "offline",
       "tags"     : "offline",
       "url"      : "/2021/09/02/le_lettere_dallelba_di_un_poeta_maledetto_dylan_thomas/",
+      "date"     : "2021-09-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La parte di Malvasia di Gilda Policastro ⥀ Un fragile trojan nel sistema letterario italiano",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/09/02/la_parte_di_malvasia_di_gilda_policastro_un_fragile_trojan_nel_sistema_letterario_italiano/",
       "date"     : "2021-09-02 00:00:00 +0200"
     } ,
   
