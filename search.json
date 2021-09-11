@@ -1,18 +1,26 @@
 [
   
     {
-      "title"    : "Numero Uno",
-      "category" : "",
-      "tags"     : "pro-vocazione",
-      "url"      : "/2021/09/11/numero_uno/",
-      "date"     : "2021-09-11 10:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Trevi? Sarà anche “stregato”, ma disorienta e lascia poco…",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/09/11/trevi_sar_anche_stregato_ma_disorienta_e_lascia_poco/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Riscoprire i margini",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/09/11/riscoprire_i_margini/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Philip Seymour Hoffman: ritratto di un attore fuori dal comune",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/09/11/philip_seymour_hoffman_ritratto_di_un_attore_fuori_dal_comune/",
       "date"     : "2021-09-11 00:00:00 +0200"
     } ,
   
@@ -37,6 +45,22 @@
       "category" : "the-bookish-explorer",
       "tags"     : "the-bookish-explorer",
       "url"      : "/2021/09/11/ive_got_a_story_for_you/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il ragno, il diavolo, il Doc – Essere o non essere… super?",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/09/11/il_ragno_il_diavolo_il_doc_essere_o_non_essere_super/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #112",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/09/11/fantastico_112/",
       "date"     : "2021-09-11 00:00:00 +0200"
     } ,
   
@@ -421,6 +445,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/09/09/acromatopsia_ti_vedo_ma_in_bianco_e_nero/",
+      "date"     : "2021-09-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "11 settembre, Qanon e no-vax: vent’anni di cospirazioni virali.",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/09/09/11_settembre_qanon_e_no-vax_ventanni_di_cospirazioni_virali/",
       "date"     : "2021-09-09 00:00:00 +0200"
     } ,
   
