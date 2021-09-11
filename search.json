@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "Numero Uno",
+      "category" : "",
+      "tags"     : "pro-vocazione",
+      "url"      : "/2021/09/11/numero_uno/",
+      "date"     : "2021-09-11 10:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Trevi? Sarà anche “stregato”, ma disorienta e lascia poco…",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/11/trevi_sar_anche_stregato_ma_disorienta_e_lascia_poco/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "MUSICA PER I GIORNI DISPARI #01 Steve Reich “WTC 9/11” [2010]",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/11/musica_per_i_giorni_dispari_01_steve_reich_wtc_911_2010/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Madonie generose”",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/11/madonie_generose/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I’ve got a story for you",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/11/ive_got_a_story_for_you/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Enormità estrema. L’Undici Settembre secondo John Updike e Denis Johnson",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/11/enormit_estrema_lundici_settembre_secondo_john_updike_e_denis_johnson/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Venezia 78, giorno 10. Con ‘Un autre monde’ Brizé completa la sua trilogia sul mondo del lavoro",
       "category" : "milena",
       "tags"     : "milena",
@@ -25,6 +73,14 @@
     } ,
   
     {
+      "title"    : "Spatriati di Mario Desiati: fare i conti con il proprio altrove interiore. Recensione ",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/09/10/spatriati_di_mario_desiati_fare_i_conti_con_il_proprio_altrove_interiore_recensione/",
+      "date"     : "2021-09-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Siamo tutti figli del Linguaggio. Streghe di Brenda Lozano",
       "category" : "grado-zero",
       "tags"     : "grado-zero",
@@ -33,10 +89,26 @@
     } ,
   
     {
+      "title"    : "Se c’è una cosa che odio, sono le scottature solari!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/10/se_c_una_cosa_che_odio_sono_le_scottature_solari/",
+      "date"     : "2021-09-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Quattro romanzi: Sorrentino, Teobaldi, Lobo Antunes, Camenisch",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/09/10/quattro_romanzi_sorrentino_teobaldi_lobo_antunes_camenisch/",
+      "date"     : "2021-09-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quanto veloce batte il cuore di un beija-flor?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/10/quanto_veloce_batte_il_cuore_di_un_beija-flor/",
       "date"     : "2021-09-10 00:00:00 +0200"
     } ,
   
@@ -153,6 +225,14 @@
     } ,
   
     {
+      "title"    : "Eco-ansia, ho paura del cambiamento climatico",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/10/eco-ansia_ho_paura_del_cambiamento_climatico/",
+      "date"     : "2021-09-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Dall’uovo di coniglio",
       "category" : "waste",
       "tags"     : "waste",
@@ -181,6 +261,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/09/10/c_un_solo_rifugio_una_sola_medicina_larte_dostoevskij_una_lettera/",
+      "date"     : "2021-09-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Benvenuti fra i miei pensieri, scusate il maltempo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/10/benvenuti_fra_i_miei_pensieri_scusate_il_maltempo/",
       "date"     : "2021-09-10 00:00:00 +0200"
     } ,
   
