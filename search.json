@@ -1,10 +1,50 @@
 [
   
     {
+      "title"    : "Numero Uno",
+      "category" : "",
+      "tags"     : "pro-vocazione",
+      "url"      : "/2021/09/12/numero_uno/",
+      "date"     : "2021-09-12 06:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Visti e svisti – “Pericle il nero”, di Stefano Mordini",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/09/12/visti_e_svisti_pericle_il_nero_di_stefano_mordini/",
+      "date"     : "2021-09-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scrivere testi urbani: viaggio in bus con Lauren Elkin",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/09/12/scrivere_testi_urbani_viaggio_in_bus_con_lauren_elkin/",
+      "date"     : "2021-09-12 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Luomomacchina e altre poesie",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/09/12/luomomacchina_e_altre_poesie/",
+      "date"     : "2021-09-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le canzonette ufficiali del FLIP, approvate dall’ortodossia letteraria italiana, canoni vari compresi, nessuno escluso, la storia siamo noi e questo è un grosso guaio cui prima o poi qualcun* dovrà porre rimedio.",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/09/12/le_canzonette_ufficiali_del_flip_approvate_dallortodossia_letteraria_italiana_canoni_vari_compresi_nessuno_escluso_la_storia_siamo_noi_e_questo_un_grosso_guaio_cui_prima_o_poi_qualcun_dovr_porre_rimedio/",
+      "date"     : "2021-09-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La rivoluzione CRISPR. Ho intervistato Kevin Davies",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/09/12/la_rivoluzione_crispr_ho_intervistato_kevin_davies/",
       "date"     : "2021-09-12 00:00:00 +0200"
     } ,
   
@@ -17,10 +57,26 @@
     } ,
   
     {
+      "title"    : "Due passi in compagnia di Sebastian Vettel: meglio di una corsa",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/12/due_passi_in_compagnia_di_sebastian_vettel_meglio_di_una_corsa/",
+      "date"     : "2021-09-12 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Du iu spich inglisc?",
       "category" : "doctor-tale-and-mister-shot",
       "tags"     : "doctor-tale-and-mister-shot",
       "url"      : "/2021/09/12/du_iu_spich_inglisc/",
+      "date"     : "2021-09-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DAVID FOSTER WALLACE legge “Una storia ridotta all’osso della vita postindustriale” [1999]",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/12/david_foster_wallace_legge_una_storia_ridotta_allosso_della_vita_postindustriale_1999/",
       "date"     : "2021-09-12 00:00:00 +0200"
     } ,
   
