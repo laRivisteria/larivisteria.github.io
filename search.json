@@ -1,10 +1,74 @@
 [
   
     {
+      "title"    : "Salire al Pian dei Ciliegi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/16/salire_al_pian_dei_ciliegi/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Macchine ferme IV.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/09/16/macchine_ferme_iv/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’umanità prima della religione, Bitani fondamentalista redento",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/16/lumanit_prima_della_religione_bitani_fondamentalista_redento/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "LA FELICITÀ DEL POETA – CONVERSANDO CON ANTONIO PORTA DI RENATO MINORE",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/09/16/la_felicit_del_poeta_conversando_con_antonio_porta_di_renato_minore/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La casa dalle finestre che ridono | Granturco",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/09/16/la_casa_dalle_finestre_che_ridono_granturco/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giudo Morselli entra in teatro: una vita in scena",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/16/giudo_morselli_entra_in_teatro_una_vita_in_scena/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Venezia 78_Il capitano Volkonogov è scappato",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/09/15/venezia_78il_capitano_volkonogov_scappato/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Shamsia",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/15/shamsia/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non solo romantica: “Se Venezia vive” di Mario Isnenghi",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/09/15/non_solo_romantica_se_venezia_vive_di_mario_isnenghi/",
       "date"     : "2021-09-15 00:00:00 +0200"
     } ,
   
@@ -17,6 +81,110 @@
     } ,
   
     {
+      "title"    : "Morte a Venezia, i rave, vecchiaia e giovinezza",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/15/morte_a_venezia_i_rave_vecchiaia_e_giovinezza/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Matilda Randighieri | Poesie per pettirossi e altre creature minute",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/09/15/matilda_randighieri_poesie_per_pettirossi_e_altre_creature_minute/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lobotomia ovvero un’oscura pratica medica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/15/lobotomia_ovvero_unoscura_pratica_medica/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "LO SGUARDO DEL MARE",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/09/15/lo_sguardo_del_mare/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’importanza di Evangelion",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/09/15/limportanza_di_evangelion/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Libertalia, l’utopia pirata della democrazia perfetta",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/09/15/libertalia_lutopia_pirata_della_democrazia_perfetta/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 15 Settembre 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/15/le_news_letterarie_15_settembre_2021/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Kabul | Alfredo D’Alessandro",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/09/15/kabul_alfredo_dalessandro/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inseparabili",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/09/15/inseparabili/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il figlio dell’uomo",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/09/15/il_figlio_delluomo/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I mostri secondo China Miéville, un estratto da “Divenire Invertebrato”",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/09/15/i_mostri_secondo_china_miville_un_estratto_da_divenire_invertebrato/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I Mirmidoni: le formiche di Achille",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/15/i_mirmidoni_le_formiche_di_achille/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Fai ciao”, il romanzo di de-formazione di Flavio Ignelzi",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/09/15/fai_ciao_il_romanzo_di_de-formazione_di_flavio_ignelzi/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Ernaux, il Leone d’oro e l’arte come atto pubblico",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -25,10 +193,58 @@
     } ,
   
     {
+      "title"    : "Doppi e avi, la risalita verso l’altrove",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/09/15/doppi_e_avi_la_risalita_verso_laltrove/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Dalla memoria al perdono: Andarsene di Rodrigo Hasbún",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2021/09/15/dalla_memoria_al_perdono_andarsene_di_rodrigo_hasbn/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Click",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/09/15/click/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ciò che soggiace. Impressioni su America Latina dei fratelli D’Innocenzo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/15/ci_che_soggiace_impressioni_su_america_latina_dei_fratelli_dinnocenzo/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Antonioni: l’eclisse dell’eros e il dramma dell’incomunicabilità",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/15/antonioni_leclisse_delleros_e_il_dramma_dellincomunicabilit/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Albert Camus, Lo straniero. Ecco cosa mi sono perso.",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/09/15/albert_camus_lo_straniero_ecco_cosa_mi_sono_perso/",
+      "date"     : "2021-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "5 uscite fuori luogo e fuori di testa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/15/5_uscite_fuori_luogo_e_fuori_di_testa/",
       "date"     : "2021-09-15 00:00:00 +0200"
     } ,
   
@@ -205,6 +421,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/09/14/elephant_sanctuary_i_rifugi_che_proteggono_dallestinzione/",
+      "date"     : "2021-09-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ecopoesia: due poesie di Ra Sh (Ravi Shanker N) | two ecopoems by Ra Sh (Ravi Shanker N)",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/09/14/ecopoesia_due_poesie_di_ra_sh_ravi_shanker_n_two_ecopoems_by_ra_sh_ravi_shanker_n/",
       "date"     : "2021-09-14 00:00:00 +0200"
     } ,
   
@@ -497,6 +721,14 @@
     } ,
   
     {
+      "title"    : "Storie di orsi e uomini",
+      "category" : "ctrl-magazine",
+      "tags"     : "ctrl-magazine",
+      "url"      : "/2021/09/12/storie_di_orsi_e_uomini/",
+      "date"     : "2021-09-12 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Shang-Chi e la Leggenda dei Dieci Anelli: grazie Marvel, continua a farci sognare!",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -645,6 +877,14 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/09/11/musica_per_i_giorni_dispari_01_steve_reich_wtc_911_2010/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "MUSICA PER GIORNI DISPARI #01 Steve Reich “WTC 9/11” [2010]",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/11/musica_per_giorni_dispari_01_steve_reich_wtc_911_2010/",
       "date"     : "2021-09-11 00:00:00 +0200"
     } ,
   
@@ -1045,6 +1285,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/09/09/dove_si_trova_il_paradiso_terrestre_ai_giardini_la_mortella/",
+      "date"     : "2021-09-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Crepita la carta. Libri e vertigini di Emilio Villa” Macerata",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/09/09/crepita_la_carta_libri_e_vertigini_di_emilio_villa_macerata/",
       "date"     : "2021-09-09 00:00:00 +0200"
     } ,
   
