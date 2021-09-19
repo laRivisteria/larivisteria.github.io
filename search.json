@@ -1,10 +1,418 @@
 [
   
     {
+      "title"    : "VIVA #10",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/09/19/viva_10/",
+      "date"     : "2021-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tempesta imperfetta",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/09/19/tempesta_imperfetta/",
+      "date"     : "2021-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Racconto: Benzinaie di Giorgia Giuliano",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/09/19/racconto_benzinaie_di_giorgia_giuliano/",
+      "date"     : "2021-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Overbooking: Lucio Saviani",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/19/overbooking_lucio_saviani/",
+      "date"     : "2021-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dove stavi andando ragazzo?",
+      "category" : "doctor-tale-and-mister-shot",
+      "tags"     : "doctor-tale-and-mister-shot",
+      "url"      : "/2021/09/19/dove_stavi_andando_ragazzo/",
+      "date"     : "2021-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Carucci, la necessità della contaminazione tra mondi e culture",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/19/carucci_la_necessit_della_contaminazione_tra_mondi_e_culture/",
+      "date"     : "2021-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Toscano: “I Corsaro, i giovani degli Ottanta e l’Italia avara”",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/18/toscano_i_corsaro_i_giovani_degli_ottanta_e_litalia_avara/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Se il gioco non vale la candela perché non lo pianti in asso?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/18/se_il_gioco_non_vale_la_candela_perch_non_lo_pianti_in_asso/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Prima serata Ceci n’est pas un blasphème: al via il talk show",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/18/prima_serata_ceci_nest_pas_un_blasphme_al_via_il_talk_show/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poeta cileno di alejandro zambra",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/09/18/poeta_cileno_di_alejandro_zambra/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesia, azione pubblica (Milano 25-26 settembre, Teatro Litta)",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/18/poesia_azione_pubblica_milano_25-26_settembre_teatro_litta/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Papaioannou incanta con la prima di Transverse orientation",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/18/papaioannou_incanta_con_la_prima_di_transverse_orientation/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Non esiste grande arte senza grandi amanti”. Storia brutale di H.D.",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/18/non_esiste_grande_arte_senza_grandi_amanti_storia_brutale_di_hd/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Luca Iavarone padrino della prima serata del Festival Ceci n’est pas un blasphème",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/18/luca_iavarone_padrino_della_prima_serata_del_festival_ceci_nest_pas_un_blasphme/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Paolo Di Paolo – Il Far West dell’editoria",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/09/18/intervista_a_paolo_di_paolo_il_far_west_delleditoria/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Francesco Muzzopappa – L’inferno spiegato male",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/09/18/intervista_a_francesco_muzzopappa_linferno_spiegato_male/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Francesco Lancia – Santi, poeti e altri lavoratori autonomi",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/09/18/intervista_a_francesco_lancia_santi_poeti_e_altri_lavoratori_autonomi/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: L’incontro di Carlo Maria Vadim",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/09/18/il_racconto_della_domenica_lincontro_di_carlo_maria_vadim/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Libano moderno, il nuovo quaderno di geopolitica targato Les Flaneurs",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/09/18/il_libano_moderno_il_nuovo_quaderno_di_geopolitica_targato_les_flaneurs/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il gelo e la verità",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/18/il_gelo_e_la_verit/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I peggiori lettori al mondo (nl 04.09.21)",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/09/18/i_peggiori_lettori_al_mondo_nl_040921/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #113",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/09/18/fantastico_113/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Essere donna nella civiltà etrusca",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/18/essere_donna_nella_civilt_etrusca/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "EFFETTO DOMINO. IL CROLLO DELL&#39;IMPRENDITORIA SENZA SCRUPOLI. INTERVISTA AL REGISTA ALESSANDRO ROSSETTO",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/09/18/effetto_domino_il_crollo_dellimprenditoria_senza_scrupoli_intervista_al_regista_alessandro_rossetto/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dio si rivela nel volto degli uomini”. Kara Kitap, il racconto di una Istanbul in cui si perde la bussola spazio temporale",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/18/dio_si_rivela_nel_volto_degli_uomini_kara_kitap_il_racconto_di_una_istanbul_in_cui_si_perde_la_bussola_spazio_temporale/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ali",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/09/18/ali/",
+      "date"     : "2021-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vola via, pacchetto digitale",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/17/vola_via_pacchetto_digitale/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vita da traduttrice | Francesca Degani",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/09/17/vita_da_traduttrice_francesca_degani/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "VERBA SONANT. L&#39;INFERNO METROPOLITANO DI TADAN",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/09/17/verba_sonant_linferno_metropolitano_di_tadan/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Teresa non si muove",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/09/17/teresa_non_si_muove/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sulla scrittura transculturale: Quintetto d’Istanbul | Arianna Dagnino",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/09/17/sulla_scrittura_transculturale_quintetto_distanbul_arianna_dagnino/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Seiunpeso",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/09/17/seiunpeso/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mandibula di Mónica Ojeda: un romanzo rosso come il sangue e bianco come l’orrore. Trama e recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/09/17/mandibula_di_mnica_ojeda_un_romanzo_rosso_come_il_sangue_e_bianco_come_lorrore_trama_e_recensione/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ma quindi com’è il corpo nei generi cinematografici?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/17/ma_quindi_com_il_corpo_nei_generi_cinematografici/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Ircocervo n.8 è online",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/09/17/lircocervo_n8_online/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’analisi del rischio, un racconto di B. Bendinelli || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/09/17/lanalisi_del_rischio_un_racconto_di_b_bendinelli_street_stories/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La guerra delle marmotte",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/09/17/la_guerra_delle_marmotte/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La concezione anarchica del vivente",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/09/17/la_concezione_anarchica_del_vivente/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Clinica",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/09/17/la_clinica/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Internazionale 2021 a Ferrara, il programma è online",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/09/17/internazionale_2021_a_ferrara_il_programma_online/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il comune e il valore, ovvero il valore del comune: un nodo irrisolto",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/09/17/il_comune_e_il_valore_ovvero_il_valore_del_comune_un_nodo_irrisolto/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Goliarda Sapienza: il paesaggio in “Lettera aperta”",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/17/goliarda_sapienza_il_paesaggio_in_lettera_aperta/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Galati, l’impeto della giovinezza prima della disillusione",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/17/galati_limpeto_della_giovinezza_prima_della_disillusione/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dalla scatola di scarpe a via Vigevano: andata e ritorno",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/17/dalla_scatola_di_scarpe_a_via_vigevano_andata_e_ritorno/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Contro la tirannia dei Dizionari dei luoghi comuni",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/17/contro_la_tirannia_dei_dizionari_dei_luoghi_comuni/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Considerazioni stregonesche di un lettore inattuale, seguito da: “Il tempo della nostalgia. ‘Sogni e favole’ di Emanuele Trevi”",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/09/17/considerazioni_stregonesche_di_un_lettore_inattuale_seguito_da_il_tempo_della_nostalgia_sogni_e_favole_di_emanuele_trevi/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Campi energetici: su “Solenoide” di Mircea Cărtărescu",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/09/17/campi_energetici_su_solenoide_di_mircea_crtrescu/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Artaud in Irlanda. Storia di una missione impossibile",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/17/artaud_in_irlanda_storia_di_una_missione_impossibile/",
+      "date"     : "2021-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vipera | Un tentativo di volo che si stacca da tutto",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/09/16/vipera_un_tentativo_di_volo_che_si_stacca_da_tutto/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Venezia 78. Passato, presente e futuro",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/09/16/venezia_78_passato_presente_e_futuro/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Salire al Pian dei Ciliegi",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/09/16/salire_al_pian_dei_ciliegi/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "No (Global) Future ⥀ Estratto da Desert",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/09/16/no_global_future_estratto_da_desert/",
       "date"     : "2021-09-16 00:00:00 +0200"
     } ,
   
@@ -17,10 +425,34 @@
     } ,
   
     {
+      "title"    : "Macchine come me",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/09/16/macchine_come_me/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’umanità prima della religione, Bitani fondamentalista redento",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/09/16/lumanit_prima_della_religione_bitani_fondamentalista_redento/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’elettronica mediterranea di Aniello",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/09/16/lelettronica_mediterranea_di_aniello/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La quiete sotto la pelle: (storia di) una storia dimenticata",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/16/la_quiete_sotto_la_pelle_storia_di_una_storia_dimenticata/",
       "date"     : "2021-09-16 00:00:00 +0200"
     } ,
   
@@ -41,10 +473,74 @@
     } ,
   
     {
+      "title"    : "Il goblin",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/16/il_goblin/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il canto della sirena: storia dolce di una tragica fine",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/16/il_canto_della_sirena_storia_dolce_di_una_tragica_fine/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Giudo Morselli entra in teatro: una vita in scena",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/09/16/giudo_morselli_entra_in_teatro_una_vita_in_scena/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dune a modo mio",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/09/16/dune_a_modo_mio/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Do you read? – Su Daniele Del Giudice",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/09/16/do_you_read_su_daniele_del_giudice/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CONCORSO LETTERARIO LATITUDINI (S)VELATE 2021. PRIMO CLASSIFICATO SEZIONE RACCONTO BREVE E FOTOGRAFIA. IL BOSCO DELLE PAROLE DI DIANA BELSAGRIO",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/09/16/concorso_letterario_latitudini_svelate_2021_primo_classificato_sezione_racconto_breve_e_fotografia_il_bosco_delle_parole_di_diana_belsagrio/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CONCORSO LETTERARIO LATITUDINI (S)VELATE 2021. PRIMO CLASSIFICATO SEZIONE POESIA E FOTOGRAFIA. GHIACCIO SOSPESO DI ADRIANA TASIN E MARZIA FRONZA",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/09/16/concorso_letterario_latitudini_svelate_2021_primo_classificato_sezione_poesia_e_fotografia_ghiaccio_sospeso_di_adriana_tasin_e_marzia_fronza/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Che cos’è il GAM, il gel di amido di mais",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/16/che_cos_il_gam_il_gel_di_amido_di_mais/",
+      "date"     : "2021-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ann e Jeff VanderMeer (a cura di) – Le visionarie, un’antologia",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/16/ann_e_jeff_vandermeer_a_cura_di_le_visionarie_unantologia/",
       "date"     : "2021-09-16 00:00:00 +0200"
     } ,
   
