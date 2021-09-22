@@ -1,6 +1,38 @@
 [
   
     {
+      "title"    : "Mezzo chilo di carne",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/22/mezzo_chilo_di_carne/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lino Banfi e il sentimento tragico della vita.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/09/22/lino_banfi_e_il_sentimento_tragico_della_vita/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Verginità",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/09/21/verginit/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tutto l’universo obbedisce alla vulva",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/09/21/tutto_luniverso_obbedisce_alla_vulva/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Stephen Crane ha cambiato il nostro modo di scrivere”. Il nuovo romanzo di Paul Auster",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -9,10 +41,74 @@
     } ,
   
     {
+      "title"    : "Rileggere Cesare Cases: un antidoto",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/09/21/rileggere_cesare_cases_un_antidoto/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Restare vivo”. Dialogo con Francesco Borrasso",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/21/restare_vivo_dialogo_con_francesco_borrasso/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché leggere Samanta Schweblin",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/09/21/perch_leggere_samanta_schweblin/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Non abbandonare la speranza, gli amori di Aciman",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/09/21/non_abbandonare_la_speranza_gli_amori_di_aciman/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mettere le cose a posto",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/09/21/mettere_le_cose_a_posto/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Memoria e menzogna. Perché è così difficile ricordare?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/21/memoria_e_menzogna_perch_cos_difficile_ricordare/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La montagna rigenerata",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/09/21/la_montagna_rigenerata/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Arrivato di Eva Poggio",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/09/21/il_racconto_del_mercoled_arrivato_di_eva_poggio/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Henné, amore mio: il toccasana di cui non sapevi di aver bisogno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/21/henn_amore_mio_il_toccasana_di_cui_non_sapevi_di_aver_bisogno/",
       "date"     : "2021-09-21 00:00:00 +0200"
     } ,
   
@@ -29,6 +125,14 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/09/21/droga_per_il_sociale_giustizia_e_solidariet_per_gabriele_paolini_libero_subito/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come funziona (davvero) il 5G",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/21/come_funziona_davvero_il_5g/",
       "date"     : "2021-09-21 00:00:00 +0200"
     } ,
   
