@@ -1,6 +1,126 @@
 [
   
     {
+      "title"    : "small monkey john deere",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/09/23/small_monkey_john_deere/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il poeta non può che essere misconosciuto, scrive per nessuno”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/23/il_poeta_non_pu_che_essere_misconosciuto_scrive_per_nessuno/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giuliana Traverso, “una giornalista del visuale”",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/23/giuliana_traverso_una_giornalista_del_visuale/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dove gli ebrei non ci sono” di Masha Gessen, il prologo",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/23/dove_gli_ebrei_non_ci_sono_di_masha_gessen_il_prologo/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Daniele Mencarelli risponde a Fante",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/09/23/daniele_mencarelli_risponde_a_fante/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Complesso fino all’esasperazione”. T.E. Lawrence nella biografia di Robert Graves",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/23/complesso_fino_allesasperazione_te_lawrence_nella_biografia_di_robert_graves/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Appunti su “EDENICHE” di Flavio Ermini.  Ovvero: Il tramonto della luna.",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/23/appunti_su_edeniche_di_flavio_ermini_ovvero_il_tramonto_della_luna/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Zanzotto sulla Luna ⥀ Intervista a Lello Voce",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/09/22/zanzotto_sulla_luna_intervista_a_lello_voce/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un drammatico e glorioso affresco nigeriano. Prudenti come serpenti di Lola Shoneyin",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/22/un_drammatico_e_glorioso_affresco_nigeriano_prudenti_come_serpenti_di_lola_shoneyin/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Santi Numi: recensione del nuovo libro di racconti di Jacopo Masini",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/09/22/santi_numi_recensione_del_nuovo_libro_di_racconti_di_jacopo_masini/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pungerà",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/09/22/punger/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Piccola libreria con delitto di Elena Molini: un giallo ironico e irriverente. Trama e recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/09/22/piccola_libreria_con_delitto_di_elena_molini_un_giallo_ironico_e_irriverente_trama_e_recensione/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nuovissimo blob",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/09/22/nuovissimo_blob/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non perdete il FeST – Il Festival delle serie TV",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/22/non_perdete_il_fest_il_festival_delle_serie_tv/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nati troppe volte negli Stati Uniti",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/09/22/nati_troppe_volte_negli_stati_uniti/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Mezzo chilo di carne",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -9,10 +129,178 @@
     } ,
   
     {
+      "title"    : "L’uccello nero",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/09/22/luccello_nero/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Lino Banfi e il sentimento tragico della vita.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/09/22/lino_banfi_e_il_sentimento_tragico_della_vita/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Liberi e uguali dal 1948, ma ancora non lo abbiamo capito",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/22/liberi_e_uguali_dal_1948_ma_ancora_non_lo_abbiamo_capito/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le vite ribelli di Pino Cacucci",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/09/22/le_vite_ribelli_di_pino_cacucci/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 22 Settembre 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/22/le_news_letterarie_22_settembre_2021/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’altra faccia dei poteri (e dello scrittore): Luca Rastello giornalista",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/09/22/laltra_faccia_dei_poteri_e_dello_scrittore_luca_rastello_giornalista/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La storia dello gnosticismo",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/09/22/la_storia_dello_gnosticismo/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Jonathan Franzen o la condanna del romanzo perfetto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/22/jonathan_franzen_o_la_condanna_del_romanzo_perfetto/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ingranaggio educato — Stefano Ficagna",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/09/22/ingranaggio_educato_stefano_ficagna/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mondo selvatico",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/09/22/il_mondo_selvatico/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mio paese | una poesia di Alfonso Guida",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/09/22/il_mio_paese_una_poesia_di_alfonso_guida/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il fantastico mondo della letteratura per bambini",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/09/22/il_fantastico_mondo_della_letteratura_per_bambini/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il contrario della serendipità",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/09/22/il_contrario_della_serendipit/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I cinque “feat.” più imprevedibili di Iggy Pop",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/22/i_cinque_feat_pi_imprevedibili_di_iggy_pop/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Due vite di Emanuele Trevi – Recensione",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/09/22/due_vite_di_emanuele_trevi_recensione/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Don Zauker è vero e proprio “Ciarpame morale”, due chiacchiere con I Paguri",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/22/don_zauker_vero_e_proprio_ciarpame_morale_due_chiacchiere_con_i_paguri/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dante Pop! Un articolo di Three Faces || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/09/22/dante_pop_un_articolo_di_three_faces_threevial_pursuit/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Curly Girl Method? Rivoluzionerà la tua “testa”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/22/curly_girl_method_rivoluzioner_la_tua_testa/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cesso a pedali",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/09/22/cesso_a_pedali/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Attendere il nulla con fiducia: inno all’Equinozio d’autunno",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/22/attendere_il_nulla_con_fiducia_inno_allequinozio_dautunno/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Area 22. Papp e ciò che non può smettere di risplendere",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/22/area_22_papp_e_ci_che_non_pu_smettere_di_risplendere/",
+      "date"     : "2021-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amedeo Modigliani e Anna Achmatova: tra pittura e poesia￼￼",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/09/22/amedeo_modigliani_e_anna_achmatova_tra_pittura_e_poesia/",
       "date"     : "2021-09-22 00:00:00 +0200"
     } ,
   
@@ -65,6 +353,14 @@
     } ,
   
     {
+      "title"    : "Paolo Parrini – Dentro tutte le cose c’è amore",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/21/paolo_parrini_dentro_tutte_le_cose_c_amore/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Non abbandonare la speranza, gli amori di Aciman",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -85,6 +381,54 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/09/21/memoria_e_menzogna_perch_cos_difficile_ricordare/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Masino",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/09/21/masino/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Litio",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/21/litio/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Leonard Cohen tra carnalità e spirito, un artista oltre il tempo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/21/leonard_cohen_tra_carnalit_e_spirito_un_artista_oltre_il_tempo/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le elezioni nel paese di Gernoia",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/09/21/le_elezioni_nel_paese_di_gernoia/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’alba nell’acqua",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/09/21/lalba_nellacqua/",
+      "date"     : "2021-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La ribellione e la vittoria degli schiavi della Amistad￼",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/09/21/la_ribellione_e_la_vittoria_degli_schiavi_della_amistad/",
       "date"     : "2021-09-21 00:00:00 +0200"
     } ,
   
