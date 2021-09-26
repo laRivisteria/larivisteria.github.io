@@ -1,10 +1,306 @@
 [
   
     {
+      "title"    : "Larosa, il calvario giudiziario di un falso ‘ndranghetista",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/26/larosa_il_calvario_giudiziario_di_un_falso_ndranghetista/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La memoria è una corda del panaro. “Il nostro meglio” di Alessio Forgione",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/09/26/la_memoria_una_corda_del_panaro_il_nostro_meglio_di_alessio_forgione/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La letteratura non è nessuno ed è scritta. Discorso contro la letteratura parlata",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/26/la_letteratura_non_nessuno_ed_scritta_discorso_contro_la_letteratura_parlata/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La bestia sbagliata",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/09/26/la_bestia_sbagliata/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Immagini dell’arrivo_parte seconda",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/26/immagini_dellarrivoparte_seconda/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gramigna",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/09/26/gramigna/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – Stanze vuote di Silvia D’Oria",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_stanze_vuote_di_silvia_doria/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – Modalità comunicative disfunzionali nei rapporti di coppia di Ruben Marciano",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_modalit_comunicative_disfunzionali_nei_rapporti_di_coppia_di_ruben_marciano/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – La mia In/dipendenza intervista a La Storia",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_la_mia_indipendenza_intervista_a_la_storia/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – Intonaco di Nicola Nucci",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_intonaco_di_nicola_nucci/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – Il vuoto del mare di Savina Tamborini",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_il_vuoto_del_mare_di_savina_tamborini/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – I Filosofi del Crack di Andrea Serra",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_i_filosofi_del_crack_di_andrea_serra/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – Gli immortali di Lorenzo Pedrazzi",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_gli_immortali_di_lorenzo_pedrazzi/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – Figurarsi",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_figurarsi/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – Brutti Caratteri intervista a Zona 42",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_brutti_caratteri_intervista_a_zona_42/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 11 – Attaccati di Clelia Attanasio",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/09/26/crack_numero_11_attaccati_di_clelia_attanasio/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "W il dettaglio del recesso più oscuro, la favolaccia di Ignelzi",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/25/w_il_dettaglio_del_recesso_pi_oscuro_la_favolaccia_di_ignelzi/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una città in dissolvenza",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/una_citt_in_dissolvenza/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un muro di nebbia e una città visibile: Intervista a Michele Catozzi",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/09/25/un_muro_di_nebbia_e_una_citt_visibile_intervista_a_michele_catozzi/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un dialogo tra psicoanalisi e medicina",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/un_dialogo_tra_psicoanalisi_e_medicina/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Stappare la vasca dell’Io",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/stappare_la_vasca_dellio/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Shleppen di goles",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/shleppen_di_goles/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sell your soul",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/25/sell_your_soul/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Segnalazioni letterarie #6",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/09/25/segnalazioni_letterarie_6/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "PLAY – Passaggio. Firenze RiVista",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/09/25/play_passaggio_firenze_rivista/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’unione non sempre fa la forza",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/lunione_non_sempre_fa_la_forza/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Dispersione",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/la_dispersione/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La diaspora dei fondamenti",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/la_diaspora_dei_fondamenti/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La classe non è acqua",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/la_classe_non_acqua/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Immagini dell’arrivo_parte prima",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/25/immagini_dellarrivoparte_prima/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Tutto lì di Matteo Quaglia",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/09/25/il_racconto_della_domenica_tutto_l_di_matteo_quaglia/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I diversi volti di Amleto: da Shakespeare a Laforgue, fino a Carmelo Bene",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/25/i_diversi_volti_di_amleto_da_shakespeare_a_laforgue_fino_a_carmelo_bene/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gricia che spettacolo!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/25/gricia_che_spettacolo/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #114",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/09/25/fantastico_114/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da scrittore senza lettori ad autore dell’anno",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/da_scrittore_senza_lettori_ad_autore_dellanno/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Attraversare la Grande Acqua",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/09/25/attraversare_la_grande_acqua/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Variazioni poetiche: Tutti gli appuntamenti mancati di Alice Zanotti",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2021/09/24/variazioni_poetiche_tutti_gli_appuntamenti_mancati_di_alice_zanotti/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tutù",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/09/24/tut/",
       "date"     : "2021-09-24 00:00:00 +0200"
     } ,
   
@@ -17,10 +313,58 @@
     } ,
   
     {
+      "title"    : "The Big Bang Theory e il “miglior Batman”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/24/the_big_bang_theory_e_il_miglior_batman/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "’Sti regazzini hanno sbroccato",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/09/24/sti_regazzini_hanno_sbroccato/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Solenoide” di Mircea Cărtărescu, un romanzo in fuga",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/24/solenoide_di_mircea_crtrescu_un_romanzo_in_fuga/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Senza impegno/1: quattro domande intorno al pamphlet di Walter Siti",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/09/24/senza_impegno1_quattro_domande_intorno_al_pamphlet_di_walter_siti/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Raffaela Fazio | Meccanica dei solidi",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/09/24/raffaela_fazio_meccanica_dei_solidi/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Quelli di sotto",
       "category" : "malgrado-le-mosche",
       "tags"     : "malgrado-le-mosche",
       "url"      : "/2021/09/24/quelli_di_sotto/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Osmosi e apodissi in “Inattuali” di Gilda Policastro",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/09/24/osmosi_e_apodissi_in_inattuali_di_gilda_policastro/",
       "date"     : "2021-09-24 00:00:00 +0200"
     } ,
   
@@ -41,10 +385,82 @@
     } ,
   
     {
+      "title"    : "La sindrome di Dragon Ball",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/09/24/la_sindrome_di_dragon_ball/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La disabilità spiegata ai bambini",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/24/la_disabilit_spiegata_ai_bambini/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Katalin Karikò e i superpoteri dell’mRNA",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/09/24/katalin_karik_e_i_superpoteri_dellmrna/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il prodotto giusto per la sua anima",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/09/24/il_prodotto_giusto_per_la_sua_anima/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il grande serpente di mare ⥀ Un racconto di Giulio Iovine",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/09/24/il_grande_serpente_di_mare_un_racconto_di_giulio_iovine/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il complottismo è un’ideologia",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/09/24/il_complottismo_unideologia/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "I vangeli di Mario Valentini? Un Gesù tra ironia e profondità",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/09/24/i_vangeli_di_mario_valentini_un_ges_tra_ironia_e_profondit/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Doppi e avi, la risalita verso l’altrove",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/09/24/doppi_e_avi_la_risalita_verso_laltrove/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Appuntamento numero cento, un racconto di G. Chiarini || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/09/24/appuntamento_numero_cento_un_racconto_di_g_chiarini_street_stories/",
+      "date"     : "2021-09-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Altre storie dalla fine del mondo",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/09/24/altre_storie_dalla_fine_del_mondo/",
       "date"     : "2021-09-24 00:00:00 +0200"
     } ,
   
