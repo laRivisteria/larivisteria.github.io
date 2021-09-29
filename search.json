@@ -1,10 +1,170 @@
 [
   
     {
+      "title"    : "Zingara | Grazia Cassetta",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/09/29/zingara_grazia_cassetta/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "XV Quaderno di poesia italiana contemporanea",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/29/xv_quaderno_di_poesia_italiana_contemporanea/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Tutto ti è dato se sei pronto a dare tutto”. Una lezione di Lanza del Vasto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/29/tutto_ti_dato_se_sei_pronto_a_dare_tutto_una_lezione_di_lanza_del_vasto/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quando?",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/09/29/quando/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’anatomia del Gray",
+      "category" : "malgrado-le-mosche",
+      "tags"     : "malgrado-le-mosche",
+      "url"      : "/2021/09/29/lanatomia_del_gray/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“La Madre”, della giornalista Orietta Cicchinelli, nella Biblioteca del Salone Internazionale del libro di Torino",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/09/29/la_madre_della_giornalista_orietta_cicchinelli_nella_biblioteca_del_salone_internazionale_del_libro_di_torino/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Helsinki: un racconto per immagini",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/09/29/helsinki_un_racconto_per_immagini/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Despentes, solo le donne possono spostare gli equilibri",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/09/29/despentes_solo_le_donne_possono_spostare_gli_equilibri/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Breve storia delle origini dell’industria erotica",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/09/29/breve_storia_delle_origini_dellindustria_erotica/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Venezia 3021: un omaggio alla storia de La Serenissima",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/09/28/venezia_3021_un_omaggio_alla_storia_de_la_serenissima/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una pagina al giorno",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/09/28/una_pagina_al_giorno/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tema 001. “Arkivet”, il metal antropocenico dei Wormwood",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/09/28/tema_001_arkivet_il_metal_antropocenico_dei_wormwood/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sorveglianza e sortilegio. Italia-Francia: alla fine della notte",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/28/sorveglianza_e_sortilegio_italia-francia_alla_fine_della_notte/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ricomincio dai libri: Maurizio de Giovanni presenta la sua sirena",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/28/ricomincio_dai_libri_maurizio_de_giovanni_presenta_la_sua_sirena/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quaranta anni senza Montale",
+      "category" : "la-letteratura-e-noi",
+      "tags"     : "la-letteratura-e-noi",
+      "url"      : "/2021/09/28/quaranta_anni_senza_montale/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Qabbalah e traduzione. Un saggio su Paul Celan",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/09/28/qabbalah_e_traduzione_un_saggio_su_paul_celan/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pose: la serie di Ryan Murphy che vi ruberà il cuore",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/28/pose_la_serie_di_ryan_murphy_che_vi_ruber_il_cuore/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "πνεῦμα – Pneuma",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/28/pneuma/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Parole sbagliate” se non leggi tra le righe",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/28/parole_sbagliate_se_non_leggi_tra_le_righe/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non siamo che alberi: nuove radici per l’ecologia",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/09/28/non_siamo_che_alberi_nuove_radici_per_lecologia/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Non ha senso elogiare e predicare la luce se nessuno la percepisce” Jung e il Buddhismo, misticismi a confronto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/09/28/non_ha_senso_elogiare_e_predicare_la_luce_se_nessuno_la_percepisce_jung_e_il_buddhismo_misticismi_a_confronto/",
       "date"     : "2021-09-28 00:00:00 +0200"
     } ,
   
@@ -17,10 +177,26 @@
     } ,
   
     {
+      "title"    : "Marionconlecuffie e il suo viaggio in una Napoli di tutti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/28/marionconlecuffie_e_il_suo_viaggio_in_una_napoli_di_tutti/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’inferno di Taranto e Genova",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/09/28/linferno_di_taranto_e_genova/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’inferno di Taranto e di Genova",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/09/28/linferno_di_taranto_e_di_genova/",
       "date"     : "2021-09-28 00:00:00 +0200"
     } ,
   
@@ -33,10 +209,66 @@
     } ,
   
     {
+      "title"    : "Lawrence Ferlinghetti, da New York a San Francisco il pilastro della poesia",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/09/28/lawrence_ferlinghetti_da_new_york_a_san_francisco_il_pilastro_della_poesia/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Audi nuova",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/09/28/laudi_nuova/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "John Niven – La lista degli stronzi",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/09/28/john_niven_la_lista_degli_stronzi/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "I fagioli di Venere",
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2021/09/28/i_fagioli_di_venere/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "How to clean fish",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/09/28/how_to_clean_fish/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "FLIP – Festival della Letteratura Indipendente Pomigliano d’Arco",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/09/28/flip_festival_della_letteratura_indipendente_pomigliano_darco/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Entre dos Mundos | Un giurato",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/09/28/entre_dos_mundos_un_giurato/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Davide DDL, ridere e riflettere con la stand-up comedy",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/09/28/davide_ddl_ridere_e_riflettere_con_la_stand-up_comedy/",
       "date"     : "2021-09-28 00:00:00 +0200"
     } ,
   
@@ -57,10 +289,42 @@
     } ,
   
     {
+      "title"    : "Control Z e i segreti dei teenager",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/09/28/control_z_e_i_segreti_dei_teenager/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Che la forza sia con te",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/09/28/che_la_forza_sia_con_te/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Candianula",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/09/28/candianula/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Bolidi fiammanti.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/09/28/bolidi_fiammanti/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Attraverso gli occhi di un insetto",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/09/28/attraverso_gli_occhi_di_un_insetto/",
       "date"     : "2021-09-28 00:00:00 +0200"
     } ,
   
