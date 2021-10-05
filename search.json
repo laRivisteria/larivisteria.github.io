@@ -1,6 +1,430 @@
 [
   
     {
+      "title"    : "L’uccello",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/10/05/luccello/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I poeti appartati: Philippe Denis",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/05/i_poeti_appartati_philippe_denis/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amore &amp; Nulla, con un pugnale nel cuore. Un testo di Roger Nimier, il ribelle",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/05/amore_nulla_con_un_pugnale_nel_cuore_un_testo_di_roger_nimier_il_ribelle/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Teoria delle descrizioni definite – Un salto nella filosofia del linguaggio – parte 2",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/10/04/teoria_delle_descrizioni_definite_un_salto_nella_filosofia_del_linguaggio_parte_2/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spargendo anime ovunque:  Io sarò il rovo di Francesca Matteoni",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/10/04/spargendo_anime_ovunque_io_sar_il_rovo_di_francesca_matteoni/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rubrica: Entomologia raccontata a cura di Tommaso Lisa: il Danaide",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/04/rubrica_entomologia_raccontata_a_cura_di_tommaso_lisa_il_danaide/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Niccolò Ammaniti, chi è? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/04/ritratti_di_scrittori_niccol_ammaniti_chi_scoprilo_in_5_parole/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ri-Cominciare",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/04/ri-cominciare/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : ".red rum.",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/10/04/red_rum/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "QUARELE #2: Strada",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/10/04/quarele_2_strada/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché è necessario cambiare il linguaggio?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/04/perch_necessario_cambiare_il_linguaggio/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Niente trucchi da quattro soldi",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/04/niente_trucchi_da_quattro_soldi/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "My mother was a computer",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/10/04/my_mother_was_a_computer/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Luna Park e gli anni Sessanta a colpi di stereotipi e drama",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/04/luna_park_e_gli_anni_sessanta_a_colpi_di_stereotipi_e_drama/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La maledizione dei Benati riguarda anche noi",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/04/la_maledizione_dei_benati_riguarda_anche_noi/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La dilatazione dello spazio scenico: “Qui rido io” di Mario Martone",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/10/04/la_dilatazione_dello_spazio_scenico_qui_rido_io_di_mario_martone/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Io incendio: Giornate nere per uno scrutatore",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/04/io_incendio_giornate_nere_per_uno_scrutatore/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In my heart forever",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/04/in_my_heart_forever/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In dialogo con il poeta Alfonso Guida",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/04/in_dialogo_con_il_poeta_alfonso_guida/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il senso nudo e l’ininterrotta notizia: pensieri su “Liturgia dell’acqua” di Daìta Martinez",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/10/04/il_senso_nudo_e_lininterrotta_notizia_pensieri_su_liturgia_dellacqua_di_data_martinez/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il bagnetto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/04/il_bagnetto/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dune” di Villeneuve: un insperato equilibrio",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/04/dune_di_villeneuve_un_insperato_equilibrio/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dante: la Commedia, Beatrice invia Virgilio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/04/dante_la_commedia_beatrice_invia_virgilio/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dalla musica al cinema (quasi) per caso",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/04/dalla_musica_al_cinema_quasi_per_caso/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come mettere i personaggi nei guai (senza farli morire) – Intervista a Terézia Mora",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/04/come_mettere_i_personaggi_nei_guai_senza_farli_morire_intervista_a_terzia_mora/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CISL non è solo una pila di documenti – GALLERY",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/04/cisl_non_solo_una_pila_di_documenti_gallery/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CISL non è solo una pila di documenti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/04/cisl_non_solo_una_pila_di_documenti/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Benjamin Fondane: storia fatale di un pensatore sovversivo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/04/benjamin_fondane_storia_fatale_di_un_pensatore_sovversivo/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Andrea Iannone rivela: “Giulia De Lellis? Non è stata una vera relazione”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/04/attenzioneandrea_iannone_rivela_giulia_de_lellis_non_stata_una_vera_relazione/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ Miriam Leone: ‘Bullizzata per le sopracciaglia, dicevano che ero Elio delle Storie Tese’",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/04/attenzione_miriam_leone_bullizzata_per_le_sopracciaglia_dicevano_che_ero_elio_delle_storie_tese/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alessandro Broggi | Noi",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/04/alessandro_broggi_noi/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Al bosco",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/10/04/al_bosco/",
+      "date"     : "2021-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "VIVA #11",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/10/03/viva_11/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Titane",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/03/titane/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "SegnaLibrai – Libreria Tamu",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/10/03/segnalibrai_libreria_tamu/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "San Francesco d’Assisi insegnaci a vivere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/03/san_francesco_dassisi_insegnaci_a_vivere/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Piccola stella senza cielo, la canzone che ci ha fatto innamorare",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/03/piccola_stella_senza_cielo_la_canzone_che_ci_ha_fatto_innamorare/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ottobre a Napoli vuol dire una cosa sola: Artecinema",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/03/ottobre_a_napoli_vuol_dire_una_cosa_sola_artecinema/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mots-clés__Angelo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/03/mots-clsangelo/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il giorno in cui diedi fuoco alla mia casa di Francesca Mattei: una raccolta di racconti sul disfacimento. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/03/il_giorno_in_cui_diedi_fuoco_alla_mia_casa_di_francesca_mattei_una_raccolta_di_racconti_sul_disfacimento_recensione/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Facebook ingenua e sentimentale ⥀  Il rapporto di chi scrive con i social network",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/03/facebook_ingenua_e_sentimentale_il_rapporto_di_chi_scrive_con_i_social_network/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Brucia",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/10/03/brucia/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bellerofonte – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/03/bellerofonte_personaggio_della_settimana/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amanti del cioccolato a rapporto! Ad Aversa la terza edizione del Tour delle feste del cioccolato",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/03/amanti_del_cioccolato_a_rapporto_ad_aversa_la_terza_edizione_del_tour_delle_feste_del_cioccolato/",
+      "date"     : "2021-10-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un labile confine: “L’isola dei topi” di Alberto Bertoni",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/02/un_labile_confine_lisola_dei_topi_di_alberto_bertoni/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Resistance Frequencies",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/02/resistance_frequencies/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rebeniza, l’ombra del maestro: il nuovo film di Bonetti, un regista che si conserva poeta",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/02/rebeniza_lombra_del_maestro_il_nuovo_film_di_bonetti_un_regista_che_si_conserva_poeta/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Levantino, la coppia randagia e un match di guerra",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/02/levantino_la_coppia_randagia_e_un_match_di_guerra/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: I tre cuori dei polpi di Margherita Seppi",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/02/il_racconto_della_domenica_i_tre_cuori_dei_polpi_di_margherita_seppi/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #115",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/10/02/fantastico_115/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Editoriale ottobre",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/10/02/editoriale_ottobre/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Campagna",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/02/campagna/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Assemblare le rovine della bellezza”. Un testo di Le Clézio",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/02/assemblare_le_rovine_della_bellezza_un_testo_di_le_clzio/",
+      "date"     : "2021-10-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vita da ragazzi: viaggio nei luoghi pasoliniani delle borgate romane",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
@@ -9,10 +433,26 @@
     } ,
   
     {
+      "title"    : "«Un film fatto solo di case». “Tre piani” di Nanni Moretti",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/10/01/un_film_fatto_solo_di_case_tre_piani_di_nanni_moretti/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Trainspotting: ragazzi di vita a Edimburgo",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2021/10/01/trainspotting_ragazzi_di_vita_a_edimburgo/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "&quot;STRAMILANO&quot;, I COLORI DEL SOGNO E LA NEBBIA, IN UNA SIGARETTA",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/10/01/stramilano_i_colori_del_sogno_e_la_nebbia_in_una_sigaretta/",
       "date"     : "2021-10-01 00:00:00 +0200"
     } ,
   
@@ -33,10 +473,34 @@
     } ,
   
     {
+      "title"    : "Quattro ottimi motivi per guardare Counterpart￼",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/01/quattro_ottimi_motivi_per_guardare_counterpart/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Motorizzazione ’21, un racconto di L. Giommoni || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/10/01/motorizzazione_21_un_racconto_di_l_giommoni_street_stories/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Meneghello: restare ragazzi, rievocare la vita",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2021/10/01/meneghello_restare_ragazzi_rievocare_la_vita/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’utopia infranta e la pazienza del coltello",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/10/01/lutopia_infranta_e_la_pazienza_del_coltello/",
       "date"     : "2021-10-01 00:00:00 +0200"
     } ,
   
@@ -57,10 +521,58 @@
     } ,
   
     {
+      "title"    : "Le mani delle donne. Rita B.",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/01/le_mani_delle_donne_rita_b/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le donne in Colombia e la ricerca della verità sui desaparecidos",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/01/le_donne_in_colombia_e_la_ricerca_della_verit_sui_desaparecidos/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Antropocene secondo Meschiari, un estratto da “Geografie del Collasso”",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/10/01/lantropocene_secondo_meschiari_un_estratto_da_geografie_del_collasso/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La Piazza Grande di Lucio Dalla",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2021/10/01/la_piazza_grande_di_lucio_dalla/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La lotta ai tempi della pandemia di mercato ⥀ La vertenza Elica",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/01/la_lotta_ai_tempi_della_pandemia_di_mercato_la_vertenza_elica/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La giungla (1905) Upton Sinclair | recensione apparsa su Mother Earth 1906",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/01/la_giungla_1905_upton_sinclair_recensione_apparsa_su_mother_earth_1906/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il nostro meglio di Alessio Forgione: quello che siamo stati e che non saremo mai più. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/01/il_nostro_meglio_di_alessio_forgione_quello_che_siamo_stati_e_che_non_saremo_mai_pi_recensione/",
       "date"     : "2021-10-01 00:00:00 +0200"
     } ,
   
@@ -89,6 +601,14 @@
     } ,
   
     {
+      "title"    : "Diario di un editore di fumetti #15",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/01/diario_di_un_editore_di_fumetti_15/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Dai murales di Palermo un messaggio di rinascita delle periferie",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
@@ -109,6 +629,14 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/10/01/covid_alimentazione_e_sindemia/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cover #11: Chi te l’ha fatto fare",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/10/01/cover_11_chi_te_lha_fatto_fare/",
       "date"     : "2021-10-01 00:00:00 +0200"
     } ,
   
@@ -309,6 +837,14 @@
       "category" : "milena",
       "tags"     : "milena",
       "url"      : "/2021/09/29/sulla_trattativa_stato-mafia_ci_sar_mai_sentenza_che_tenga/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sesso per ketamina",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/09/29/sesso_per_ketamina/",
       "date"     : "2021-09-29 00:00:00 +0200"
     } ,
   
