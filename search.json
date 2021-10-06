@@ -1,6 +1,142 @@
 [
   
     {
+      "title"    : "L’eterno presente della gnosi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/06/leterno_presente_della_gnosi/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“L’amore muto”: la riscoperta di Pia Rimini",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/06/lamore_muto_la_riscoperta_di_pia_rimini/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "IN BOCCA ALLA RANA",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/10/06/in_bocca_alla_rana/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il rapporto tra scienza e mistica",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/06/il_rapporto_tra_scienza_e_mistica/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ho tutto",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/10/06/ho_tutto/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Essere umani è più che essere divini”. Emily Dickinson, Dante &amp; la visione di Dio",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/06/essere_umani_pi_che_essere_divini_emily_dickinson_dante_la_visione_di_dio/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Emily Henry, una scommessa e ogni attimo felice da godere",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/06/emily_henry_una_scommessa_e_ogni_attimo_felice_da_godere/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diorama. Poesie di Laura Di Corcia",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/06/diorama_poesie_di_laura_di_corcia/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Carmen Consoli e Salmo.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/06/carmen_consoli_e_salmo/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Voci dall’età di mezzo, i secoli bui ma fecondi di Chiara Pepe",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/05/voci_dallet_di_mezzo_i_secoli_bui_ma_fecondi_di_chiara_pepe/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vai con la pizza… quella marinara",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/05/vai_con_la_pizza_quella_marinara/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tartarughe Caretta caretta schiudono a Napoli",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/05/tartarughe_caretta_caretta_schiudono_a_napoli/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "É tardi! di Eduardo Savarese – Recensione",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/10/05/tardi_di_eduardo_savarese_recensione/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scrivo per avvicinare i vivi, i morti e chi non è ancora nato",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/10/05/scrivo_per_avvicinare_i_vivi_i_morti_e_chi_non_ancora_nato/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quasi seicento ombre",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/10/05/quasi_seicento_ombre/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché volete far crepare il lupo quando vi dicono “in bocca al lupo”?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/05/perch_volete_far_crepare_il_lupo_quando_vi_dicono_in_bocca_al_lupo/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mafia e terrorismo: due facce della stessa medaglia… insanguinata",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/05/mafia_e_terrorismo_due_facce_della_stessa_medaglia_insanguinata/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’uccello",
       "category" : "quaerere",
       "tags"     : "quaerere",
@@ -9,10 +145,98 @@
     } ,
   
     {
+      "title"    : "Livio macera il tempo",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/10/05/livio_macera_il_tempo/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Late capitalism airport",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/10/05/late_capitalism_airport/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lì sul bordo",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/10/05/l_sul_bordo/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Jasmin B. Frelih – A/metà",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/05/jasmin_b_frelih_amet/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Chizuru di Luca Turci",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/05/il_racconto_del_mercoled_chizuru_di_luca_turci/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "I poeti appartati: Philippe Denis",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/10/05/i_poeti_appartati_philippe_denis/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fai ciao, riavvolgere il nastro prima di una decisione fondamentale",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/05/fai_ciao_riavvolgere_il_nastro_prima_di_una_decisione_fondamentale/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dune | Urofilia",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/10/05/dune_urofilia/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DROGA PER IL SOCIALE: I programmi dei due contendenti per il posto di sindaco di Roma spiegati bene, una volta per tutte.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/05/droga_per_il_sociale_i_programmi_dei_due_contendenti_per_il_posto_di_sindaco_di_roma_spiegati_bene_una_volta_per_tutte/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diritti riproduttivi, spazio delle lotte e forme di vita",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/05/diritti_riproduttivi_spazio_delle_lotte_e_forme_di_vita/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Che cos’è allora il destino? I Tombolati di Barbara Karwowska",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/05/che_cos_allora_il_destino_i_tombolati_di_barbara_karwowska/",
+      "date"     : "2021-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Benny’s Video",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/10/05/bennys_video/",
       "date"     : "2021-10-05 00:00:00 +0200"
     } ,
   
