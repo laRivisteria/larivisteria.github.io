@@ -1,10 +1,178 @@
 [
   
     {
+      "title"    : "Voci dall’isola: Lipari",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/10/voci_dallisola_lipari/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vita e opere di un Premio Campiello",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/10/10/vita_e_opere_di_un_premio_campiello/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Racconto: Formica-IO di Deborah D’Addetta",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/10/10/racconto_formica-io_di_deborah_daddetta/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’uomo è δεινός",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/10/luomo/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: La staffetta di Anna Maria Pipolo",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/10/il_racconto_della_domenica_la_staffetta_di_anna_maria_pipolo/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il buco” di Michelangelo Frammartino",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/10/il_buco_di_michelangelo_frammartino/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Who is Chiara Ferragni?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/09/who_is_chiara_ferragni/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Si scrive – lo immagina – per sottomettere”. Vladimir Nabokov parla",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/09/si_scrive_lo_immagina_per_sottomettere_vladimir_nabokov_parla/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Serie TV mania: no, reboot e revival non sono sinonimi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/09/serie_tv_mania_no_reboot_e_revival_non_sono_sinonimi/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rebecca, libreria al femminile nel cuore di Siena",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/10/09/rebecca_libreria_al_femminile_nel_cuore_di_siena/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le infinite sfumature del Boto vermelho",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/09/le_infinite_sfumature_del_boto_vermelho/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le faremo sapere",
+      "category" : "doctor-tale-and-mister-shot",
+      "tags"     : "doctor-tale-and-mister-shot",
+      "url"      : "/2021/10/09/le_faremo_sapere/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I girasoli dell’Adriatico",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/10/09/i_girasoli_delladriatico/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #116",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/10/09/fantastico_116/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Egloghe e altre lepidezze",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/09/egloghe_e_altre_lepidezze/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da “Tra le cose e gli altri”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/09/da_tra_le_cose_e_gli_altri/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ancora una volta la giornata è salva grazie alle Superchicche",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/09/ancora_una_volta_la_giornata_salva_grazie_alle_superchicche/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Viola",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/10/08/viola/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una guerra senza vincitori",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/10/08/una_guerra_senza_vincitori/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Tre inediti  da “Lettere a San Giorgio” di Roberta Durante",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/10/08/tre_inediti_da_lettere_a_san_giorgio_di_roberta_durante/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Senza impegno/3: quattro domande intorno al pamphlet di Walter Siti",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/08/senza_impegno3_quattro_domande_intorno_al_pamphlet_di_walter_siti/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scritture minori",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/08/scritture_minori/",
       "date"     : "2021-10-08 00:00:00 +0200"
     } ,
   
@@ -33,6 +201,86 @@
     } ,
   
     {
+      "title"    : "L’Italia è un posto razzista",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/10/08/litalia_un_posto_razzista/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Eccidio di Piazza Tasso, un racconto di D. Landi || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/10/08/leccidio_di_piazza_tasso_un_racconto_di_d_landi_street_stories/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Densità degli elementi separati",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/10/08/la_densit_degli_elementi_separati/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In un mondo parallelo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/08/in_un_mondo_parallelo/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Imperdibili — Ottobre 2021",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/10/08/imperdibili_ottobre_2021/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il diritto al piacere. Ripensare la pornoresistenza. Ipertesto.",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/10/08/il_diritto_al_piacere_ripensare_la_pornoresistenza_ipertesto/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il corpo, la musica, gli Appalachi in “Un diluvio di veleno”",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/08/il_corpo_la_musica_gli_appalachi_in_un_diluvio_di_veleno/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gemelli ma non proprio: concepire due volte con la superfetazione",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/08/gemelli_ma_non_proprio_concepire_due_volte_con_la_superfetazione/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Francesco Terracciano | MCM",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/08/francesco_terracciano_mcm/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Desert da Lokanda Mala gel (Macerata)",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/08/desert_da_lokanda_mala_gel_macerata/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Dentro l’arcobaleno. Un’intervista a William Vollmann",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -49,10 +297,34 @@
     } ,
   
     {
+      "title"    : "Cover #12: Fantasie di stupro",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/10/08/cover_12_fantasie_di_stupro/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi è Abdulrazak Gurnah, Nobel per la Letteratura 2021",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/08/chi_abdulrazak_gurnah_nobel_per_la_letteratura_2021/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "È ancora lì",
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2021/10/08/ancora_l/",
+      "date"     : "2021-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "10 romanzi epistolari da leggere (e non perdere!)",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/08/10_romanzi_epistolari_da_leggere_e_non_perdere/",
       "date"     : "2021-10-08 00:00:00 +0200"
     } ,
   
@@ -169,6 +441,14 @@
     } ,
   
     {
+      "title"    : "La gioia di resistere",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/07/la_gioia_di_resistere/",
+      "date"     : "2021-10-07 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "I had a dream",
       "category" : "droga",
       "tags"     : "droga",
@@ -269,6 +549,14 @@
       "category" : "not",
       "tags"     : "not",
       "url"      : "/2021/10/06/nft_changed_my_life/",
+      "date"     : "2021-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Musica leggerissima? No, Heavy Metal!",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/06/musica_leggerissima_no_heavy_metal/",
       "date"     : "2021-10-06 00:00:00 +0200"
     } ,
   
