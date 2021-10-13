@@ -1,6 +1,614 @@
 [
   
     {
+      "title"    : "Un mondo inaccessibile. Al mercato con Aida: quando la saggistica parla",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/13/un_mondo_inaccessibile_al_mercato_con_aida_quando_la_saggistica_parla/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Taliercio ucciso dalle Br, Vito alle radici del male",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/13/taliercio_ucciso_dalle_br_vito_alle_radici_del_male/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sibilla | Zahira Ziello",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/13/sibilla_zahira_ziello/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo stato delle cose",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/10/13/lo_stato_delle_cose/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La rivoluzione CRISPR e la nuova era dell’editing genetico",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/13/la_rivoluzione_crispr_e_la_nuova_era_dellediting_genetico/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il viaggio dell’eremita",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/10/13/il_viaggio_delleremita/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il silenzo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/13/il_silenzo/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il pozzo asteroidale di Rasnov (Estratto)",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/10/13/il_pozzo_asteroidale_di_rasnov_estratto/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Hellseer, # 1",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/10/13/hellseer_1/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gabriele Paolini in sciopero della fame.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/13/gabriele_paolini_in_sciopero_della_fame/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dobbiamo diventare semplici”. Con Juri Camisasca",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/13/dobbiamo_diventare_semplici_con_juri_camisasca/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Andrea Gatti e “La fuga dei corpi”, la storia di un’ascesi mistica all’inverso",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/10/13/andrea_gatti_e_la_fuga_dei_corpi_la_storia_di_unascesi_mistica_allinverso/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Voci dall’isola: Lipari",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/12/voci_dallisola_lipari/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Te lo dico poi domani",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/10/12/te_lo_dico_poi_domani/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Storia del regista Keywan Karimi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/12/storia_del_regista_keywan_karimi/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spazi politici",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/12/spazi_politici/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Si può uccidere con uno “Swipe”? Il corto di Arafat Mazhar",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/12/si_pu_uccidere_con_uno_swipe_il_corto_di_arafat_mazhar/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Osiride in California",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/10/12/osiride_in_california/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nazarín | Virgin Colada",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/10/12/nazarn_virgin_colada/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La profanazione",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/10/12/la_profanazione/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La privacy è un diritto inalienabile, te lo spiega la Dudu",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/12/la_privacy_un_diritto_inalienabile_te_lo_spiega_la_dudu/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La nascita del videoclip musicale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/12/la_nascita_del_videoclip_musicale/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Jennifer Guerra – Il capitale amoroso",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/12/jennifer_guerra_il_capitale_amoroso/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Ogni tanto di Karin Joss &amp; Thomas Lehn",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/12/il_racconto_del_mercoled_ogni_tanto_di_karin_joss_thomas_lehn/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il dono” di Mattia Cecchini",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/10/12/il_dono_di_mattia_cecchini/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Canzoniere di Saba, cento anni dopo",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/12/il_canzoniere_di_saba_cento_anni_dopo/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I polli del complotto",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/10/12/i_polli_del_complotto/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gessen, come fallì la grande utopia ebraica in seno all’Urss",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/12/gessen_come_fall_la_grande_utopia_ebraica_in_seno_allurss/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fumo",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/10/12/fumo/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Facebook è la causa di tutto il male o un suo effetto?",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/10/12/facebook_la_causa_di_tutto_il_male_o_un_suo_effetto/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Edoardo Scipioni | Giaciture",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/12/edoardo_scipioni_giaciture/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Edizioni WoM, non tutti i libri escono col buco",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/12/edizioni_wom_non_tutti_i_libri_escono_col_buco/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dune | L’ottimismo della fantascienza",
+      "category" : "duemilauno",
+      "tags"     : "duemilauno",
+      "url"      : "/2021/10/12/dune_lottimismo_della_fantascienza/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dominique Fortier. Un’isola tutta per sé",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/10/12/dominique_fortier_unisola_tutta_per_s/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dialogo con Mary Garret. L’arte divina e complicata della danza",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/12/dialogo_con_mary_garret_larte_divina_e_complicata_della_danza/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cinico, disincantato, antipatico. Elogio di Somerset Maugham",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/12/cinico_disincantato_antipatico_elogio_di_somerset_maugham/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ Royal wedding tedesco: Alexander di Shaumburg-Lippe ha detto il suo terzo «sì»",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/12/attenzione_royal_wedding_tedesco_alexander_di_shaumburg-lippe_ha_detto_il_suo_terzo_s/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++ Claudia Koll: “Aggredita fisicamente dal Diavolo. Mi è salito sul corpo, mi ha stritolata e mi ha detto che era la morte”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/12/attenzione_claudia_koll_aggredita_fisicamente_dal_diavolo_mi_salito_sul_corpo_mi_ha_stritolata_e_mi_ha_detto_che_era_la_morte/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Argolibri al Salone Internazionale del libro di Torino",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/12/argolibri_al_salone_internazionale_del_libro_di_torino/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ANDREA ZANZOTTO [1921-2021] Vera figura, vera natura, slansada in ragi come’n’aurora…",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/12/andrea_zanzotto_1921-2021_vera_figura_vera_natura_slansada_in_ragi_comenaurora/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "AGRICOLTURA E SCIENZA",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/12/agricoltura_e_scienza/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#2 Invito alla lettura della “Nuova Poesia Americana”, vol. 2",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/12/2_invito_alla_lettura_della_nuova_poesia_americana_vol_2/",
+      "date"     : "2021-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Wojtek e la collana Ostranenie",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/11/wojtek_e_la_collana_ostranenie/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un messaggio da Roberto, un Testimone di Geova.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/11/un_messaggio_da_roberto_un_testimone_di_geova/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un caldo, vitale respiro",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/10/11/un_caldo_vitale_respiro/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "T.d.L: finalmente disponibile il Test della Libertà.",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/10/11/tdl_finalmente_disponibile_il_test_della_libert/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sulla crisi della responsabilità. Il Panopticon di Nanni Moretti",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/11/sulla_crisi_della_responsabilit_il_panopticon_di_nanni_moretti/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sicilia saudita | Giulio Pitroso",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/11/sicilia_saudita_giulio_pitroso/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Santone",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/10/11/santone/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quando gli Dei vogliono punirci, esaudiscono le nostre preghiere. Dialogo con Emanuele Pettener",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/11/quando_gli_dei_vogliono_punirci_esaudiscono_le_nostre_preghiere_dialogo_con_emanuele_pettener/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Qualche idea intorno a “Noi” di Alessandro Broggi",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/11/qualche_idea_intorno_a_noi_di_alessandro_broggi/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "QUAERELE #3: Trilogia Caruso 1/3: Coglioni di arancio",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/10/11/quaerele_3_trilogia_caruso_13_coglioni_di_arancio/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Psicoanalisi e rivoluzione",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/11/psicoanalisi_e_rivoluzione/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "𝐼𝑙 𝑐𝑜𝑟𝑝𝑜 𝑢𝑡𝑜𝑝𝑖𝑐𝑜",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/11/post75680b312c714d03e20fb71e532800f1/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pazzia, poesia, umanità. I folli di Gabriella Montanari",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/11/pazzia_poesia_umanit_i_folli_di_gabriella_montanari/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Noi, il mondo",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/10/11/noi_il_mondo/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Niente che possa impedirmi di crescere",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/10/11/niente_che_possa_impedirmi_di_crescere/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Milza — Stefano Tarquini",
+      "category" : "mirino",
+      "tags"     : "mirino",
+      "url"      : "/2021/10/11/milza_stefano_tarquini/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“madonna libertà”, di Daniele Dionisi",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/10/11/madonna_libert_di_daniele_dionisi/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L&#39;unico animale sulla Terra",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/10/11/lunico_animale_sulla_terra/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’INCENDIARIO COMPIE UN ANNO!",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/11/lincendiario_compie_un_anno/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Berlino che siamo, la Berlino che avremmo potuto essere: Gli annegati di Lorenzo Monfregola",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/10/11/la_berlino_che_siamo_la_berlino_che_avremmo_potuto_essere_gli_annegati_di_lorenzo_monfregola/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Iperrivista ⥀ Aldo Nove su Franco Arminio",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/11/iperrivista_aldo_nove_su_franco_arminio/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Michele Mele, l’autore matematico: “Non è un pugno di cellule in meno che crea la disabilità.”",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/10/11/intervista_a_michele_mele_lautore_matematico_non_un_pugno_di_cellule_in_meno_che_crea_la_disabilit/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mostro sotto la maschera. “La fuga dei corpi” di Andrea Gatti",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/11/il_mostro_sotto_la_maschera_la_fuga_dei_corpi_di_andrea_gatti/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Essere. Umano. Omologato.",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/10/11/essere_umano_omologato/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ero attratto dall’odore del tempo”. Patrick Modiano",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/11/ero_attratto_dallodore_del_tempo_patrick_modiano/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dobbiamo salvare i paesi.",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/10/11/dobbiamo_salvare_i_paesi/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Del vuoto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/11/del_vuoto/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dalla Sicilia a Roma fino a Napoli, a tu per tu con Gaspare Di Stefano",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/11/dalla_sicilia_a_roma_fino_a_napoli_a_tu_per_tu_con_gaspare_di_stefano/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cos’è l’abilismo?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/11/cos_labilismo/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Buena vista social club: Anna Mallamo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/11/buena_vista_social_club_anna_mallamo/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bewilderment",
+      "category" : "il-problema-di-grendel",
+      "tags"     : "il-problema-di-grendel",
+      "url"      : "/2021/10/11/bewilderment/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alessandro Brusa | L’amore dei lupi",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/11/alessandro_brusa_lamore_dei_lupi/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Adele Orioli: l’Uaar per il diritto di non credere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/11/adele_orioli_luaar_per_il_diritto_di_non_credere/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "1&#39; 59&#39;&#39;",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/10/11/1_59/",
+      "date"     : "2021-10-11 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Voci dall’isola: Lipari",
       "category" : "morel",
       "tags"     : "morel",
@@ -17,6 +625,14 @@
     } ,
   
     {
+      "title"    : "Visti e svisti – “Sulla giostra”",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/10/10/visti_e_svisti_sulla_giostra/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Racconto: Formica-IO di Deborah D’Addetta",
       "category" : "grado-zero",
       "tags"     : "grado-zero",
@@ -25,10 +641,34 @@
     } ,
   
     {
+      "title"    : "Omaggio ad Andrea Zanzotto nel centenario della nascita",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/10/omaggio_ad_andrea_zanzotto_nel_centenario_della_nascita/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marco Prato e l’arte blasfema come nuova iconografia religiosa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/10/marco_prato_e_larte_blasfema_come_nuova_iconografia_religiosa/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’uomo è δεινός",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/10/10/luomo/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La “Porta dell’inferno” si trova in Turkmenistan e… si può visitare!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/10/la_porta_dellinferno_si_trova_in_turkmenistan_e_si_pu_visitare/",
       "date"     : "2021-10-10 00:00:00 +0200"
     } ,
   
@@ -45,6 +685,14 @@
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/10/10/il_buco_di_michelangelo_frammartino/",
+      "date"     : "2021-10-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "10 libri femministi che ti spiegano perché combattere per le donne",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/10/10_libri_femministi_che_ti_spiegano_perch_combattere_per_le_donne/",
       "date"     : "2021-10-10 00:00:00 +0200"
     } ,
   
@@ -1729,6 +2377,14 @@
     } ,
   
     {
+      "title"    : "Gratta gratta",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/09/30/gratta_gratta/",
+      "date"     : "2021-09-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Anna Utopia Giordano | Svelarsi, non rivelarsi",
       "category" : "neutopia",
       "tags"     : "neutopia",
@@ -1953,6 +2609,14 @@
     } ,
   
     {
+      "title"    : "Anacardi",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/09/29/anacardi/",
+      "date"     : "2021-09-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "#1 Invito alla lettura della “Nuova Poesia Americana”, vol. 2",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -2109,6 +2773,14 @@
       "category" : "l-inquieto",
       "tags"     : "l-inquieto",
       "url"      : "/2021/09/28/laudi_nuova/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La protagonista",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/09/28/la_protagonista/",
       "date"     : "2021-09-28 00:00:00 +0200"
     } ,
   
@@ -2401,6 +3073,14 @@
     } ,
   
     {
+      "title"    : "Il migliore amico dell’uomo",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/09/27/il_migliore_amico_delluomo/",
+      "date"     : "2021-09-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il De rerum naturis di Rabano Mauro. Un testo sacro per tornare alla terra",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -2609,6 +3289,14 @@
     } ,
   
     {
+      "title"    : "Il giudizio",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/09/26/il_giudizio/",
+      "date"     : "2021-09-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Gramigna",
       "category" : "la-nuova-carne",
       "tags"     : "la-nuova-carne",
@@ -2741,6 +3429,14 @@
       "category" : "la-tigre-di-carta",
       "tags"     : "la-tigre-di-carta",
       "url"      : "/2021/09/25/stappare_la_vasca_dellio/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "sotto effetto della kal’ura",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/09/25/sotto_effetto_della_kalura/",
       "date"     : "2021-09-25 00:00:00 +0200"
     } ,
   
@@ -3849,6 +4545,14 @@
     } ,
   
     {
+      "title"    : "festa in collina",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/09/20/festa_in_collina/",
+      "date"     : "2021-09-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Contro l’attualità",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -3973,6 +4677,14 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/09/19/overbooking_lucio_saviani/",
+      "date"     : "2021-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "jet set radio future",
+      "category" : "clean",
+      "tags"     : "clean",
+      "url"      : "/2021/09/19/jet_set_radio_future/",
       "date"     : "2021-09-19 00:00:00 +0200"
     } ,
   
