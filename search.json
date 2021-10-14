@@ -1,10 +1,66 @@
 [
   
     {
+      "title"    : "Zebio Còtal. Il libro destinato a “tempi meno distratti” (parola di Pasolini)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/14/zebio_ctal_il_libro_destinato_a_tempi_meno_distratti_parola_di_pasolini/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un verme con le ali d’aquila. La dialettica tra vergogna e ambizione nella scrittura fatta dalle donne.",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/10/14/un_verme_con_le_ali_daquila_la_dialettica_tra_vergogna_e_ambizione_nella_scrittura_fatta_dalle_donne/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Morire è una tradizione di famiglia”. Amélie Nothomb davanti al plotone d’esecuzione",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/14/morire_una_tradizione_di_famiglia_amlie_nothomb_davanti_al_plotone_desecuzione/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Anno del Fuoco Segreto: Verso Montsalvat",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/14/lanno_del_fuoco_segreto_verso_montsalvat/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dice Angelica",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/14/dice_angelica/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Annalisa Bruni risponde a Fante",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/10/14/annalisa_bruni_risponde_a_fante/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un mondo inaccessibile. Al mercato con Aida: quando la saggistica parla",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/10/13/un_mondo_inaccessibile_al_mercato_con_aida_quando_la_saggistica_parla/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tenera oscurità e oscura tenerezza",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/13/tenera_oscurit_e_oscura_tenerezza/",
       "date"     : "2021-10-13 00:00:00 +0200"
     } ,
   
@@ -17,6 +73,30 @@
     } ,
   
     {
+      "title"    : "Sunset",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/10/13/sunset/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "SOS rimedi contro le occhiaie!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/13/sos_rimedi_contro_le_occhiaie/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Simbolismo e ironia – Il fascismo che si palesa di nuovo",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/13/simbolismo_e_ironia_il_fascismo_che_si_palesa_di_nuovo/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Sibilla | Zahira Ziello",
       "category" : "neutopia",
       "tags"     : "neutopia",
@@ -25,10 +105,98 @@
     } ,
   
     {
+      "title"    : "Segnalazioni letterarie #7",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/10/13/segnalazioni_letterarie_7/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«Scoprire un luogo è inventarlo». Intervista a Maylis de Kerangal",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/13/scoprire_un_luogo_inventarlo_intervista_a_maylis_de_kerangal/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ricognizioni drammaturgiche in un’estate pandemica",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/13/ricognizioni_drammaturgiche_in_unestate_pandemica/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché non voglio fare l’editor",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/10/13/perch_non_voglio_fare_leditor/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Padre occidentale",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/10/13/padre_occidentale/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non saper andare in bicicletta",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/10/13/non_saper_andare_in_bicicletta/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«Nel profondo Veneto». Di ritorni, canzoni e letteratura",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/10/13/nel_profondo_veneto_di_ritorni_canzoni_e_letteratura/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nel labirinto dell’Antropocene",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/13/nel_labirinto_dellantropocene/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ludwig Binswanger e Aby Warburg: “La guarigione infinita”",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/13/ludwig_binswanger_e_aby_warburg_la_guarigione_infinita/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Lo stato delle cose",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
       "url"      : "/2021/10/13/lo_stato_delle_cose/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Libro del sangue di Matteo Trevisani: genealogia e destino in un intreccio dalle tinte noir. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/13/libro_del_sangue_di_matteo_trevisani_genealogia_e_destino_in_un_intreccio_dalle_tinte_noir_recensione/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 13 Ottobre 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/13/le_news_letterarie_13_ottobre_2021/",
       "date"     : "2021-10-13 00:00:00 +0200"
     } ,
   
@@ -57,6 +225,14 @@
     } ,
   
     {
+      "title"    : "Il silenzio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/13/il_silenzio/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il pozzo asteroidale di Rasnov (Estratto)",
       "category" : "spore",
       "tags"     : "spore",
@@ -81,10 +257,50 @@
     } ,
   
     {
+      "title"    : "Favole, Dèi e Uomini",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/10/13/favole_di_e_uomini/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Essere ricercati dall’arte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/13/essere_ricercati_dallarte/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dune: la storia incredibile dietro il film che è, che è stato e che avrebbe potuto essere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/13/dune_la_storia_incredibile_dietro_il_film_che_che_stato_e_che_avrebbe_potuto_essere/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Dobbiamo diventare semplici”. Con Juri Camisasca",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/10/13/dobbiamo_diventare_semplici_con_juri_camisasca/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Che rapporto c’è tra il diritto alla libertà di espressione e la censura? Ce lo spiega Dea Squillante",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/13/che_rapporto_c_tra_il_diritto_alla_libert_di_espressione_e_la_censura_ce_lo_spiega_dea_squillante/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ariaferma”: sovvertire l’ordine del controllo",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/10/13/ariaferma_sovvertire_lordine_del_controllo/",
       "date"     : "2021-10-13 00:00:00 +0200"
     } ,
   
