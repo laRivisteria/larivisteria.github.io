@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Numero Due",
+      "category" : "",
+      "tags"     : "pro-vocazione",
+      "url"      : "/2021/10/14/numero_due/",
+      "date"     : "2021-10-14 06:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Zebio Còtal. Il libro destinato a “tempi meno distratti” (parola di Pasolini)",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -17,10 +25,58 @@
     } ,
   
     {
+      "title"    : "Titane: lode alla nuova carne del cinema",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/14/titane_lode_alla_nuova_carne_del_cinema/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scrivere di giovani senza farne un romanzo di formazione",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/14/scrivere_di_giovani_senza_farne_un_romanzo_di_formazione/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Prisoners of the Ghostland”, l’ultima fatica di Sion Sono",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/14/prisoners_of_the_ghostland_lultima_fatica_di_sion_sono/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Morire è una tradizione di famiglia”. Amélie Nothomb davanti al plotone d’esecuzione",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/10/14/morire_una_tradizione_di_famiglia_amlie_nothomb_davanti_al_plotone_desecuzione/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marietta Salvo – Vascello fantasma",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/14/marietta_salvo_vascello_fantasma/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ma in poesia si possono usare le parole frigorifero, alluce e resilienza?",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/14/ma_in_poesia_si_possono_usare_le_parole_frigorifero_alluce_e_resilienza/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Livello 49, di Alessandro Pedretta",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/10/14/livello_49_di_alessandro_pedretta/",
       "date"     : "2021-10-14 00:00:00 +0200"
     } ,
   
@@ -37,6 +93,14 @@
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/10/14/dice_angelica/",
+      "date"     : "2021-10-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Consolatio | Un mistero che sonnecchia sotto le coperte del quotidiano",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/14/consolatio_un_mistero_che_sonnecchia_sotto_le_coperte_del_quotidiano/",
       "date"     : "2021-10-14 00:00:00 +0200"
     } ,
   
@@ -117,6 +181,14 @@
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2021/10/13/scoprire_un_luogo_inventarlo_intervista_a_maylis_de_kerangal/",
+      "date"     : "2021-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritorno al futuro: preparando l’esodo dalle piattaforme",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/10/13/ritorno_al_futuro_preparando_lesodo_dalle_piattaforme/",
       "date"     : "2021-10-13 00:00:00 +0200"
     } ,
   
