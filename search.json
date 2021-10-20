@@ -1,6 +1,142 @@
 [
   
     {
+      "title"    : "Una storia d’amore e malattia",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/10/20/una_storia_damore_e_malattia/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ti ho amato. Gridalo. È tutto”. Marguerite Duras",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/20/ti_ho_amato_gridalo_tutto_marguerite_duras/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Santi numi: martiri e beati in osteria",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/20/santi_numi_martiri_e_beati_in_osteria/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Morretta e il viaggio nella modernità di Brontë e Dickinson",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/20/morretta_e_il_viaggio_nella_modernit_di_bront_e_dickinson/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Martyrs Lane/Sensoria.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/20/martyrs_lanesensoria/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lamia (Estratto)",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/10/20/lamia_estratto/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La poesia  di Stefano Tarquini: rose e spine di brughiera",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/10/20/la_poesia_di_stefano_tarquini_rose_e_spine_di_brughiera/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In incognito",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/10/20/in_incognito/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il tempo delle mele anni ’90 dei giovani finocchi",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/10/20/il_tempo_delle_mele_anni_90_dei_giovani_finocchi/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Camera ecoica. Da César Vallejo a Giuliano Mesa (e ritorno)",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/20/camera_ecoica_da_csar_vallejo_a_giuliano_mesa_e_ritorno/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Yoni Steam, momento benessere per la tua vagina!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/19/yoni_steam_momento_benessere_per_la_tua_vagina/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un’eredità violenta tra echi di amore e disperazione. Il furore di Dorothy Allison",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/19/uneredit_violenta_tra_echi_di_amore_e_disperazione_il_furore_di_dorothy_allison/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una consolazione avvelenata. Su Squid game e la sua ricezione.",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/19/una_consolazione_avvelenata_su_squid_game_e_la_sua_ricezione/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tellūs | Call for Papers 02 – 2021",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/19/tells_call_for_papers_02_2021/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sull’esitare",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/19/sullesitare/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Su “Nella spirale (Stagioni di una catastrofe)” di Gianluca D’Andrea",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/19/su_nella_spirale_stagioni_di_una_catastrofe_di_gianluca_dandrea/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sound of Metal | Membrane",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/10/19/sound_of_metal_membrane/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Siamo tutti Raskòl’nikov. Perché rileggere oggi Delitto e Castigo",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -9,10 +145,114 @@
     } ,
   
     {
+      "title"    : "Scegliere la quinoa è davvero etico?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/19/scegliere_la_quinoa_davvero_etico/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Referendum per l’abolizione della caccia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/19/referendum_per_labolizione_della_caccia/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Radici color smeraldo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/19/radici_color_smeraldo/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Questa è la mia guerra” di Chiara Mansi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/19/questa_la_mia_guerra_di_chiara_mansi/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Primàdopo – Da Goldrake alle  pippe.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/19/primdopo_da_goldrake_alle_pippe/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Per un pugno di spiccioli",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/10/19/per_un_pugno_di_spiccioli/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Per Mario Andrea Rigoni, lo studioso micidiale. Dialogo con Raoul Bruni",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/10/19/per_mario_andrea_rigoni_lo_studioso_micidiale_dialogo_con_raoul_bruni/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paola Masino – Racconto grosso e altri",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/19/paola_masino_racconto_grosso_e_altri/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mezza Roma senza voto",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/19/mezza_roma_senza_voto/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Linguaggio inclusivo, androcentrismo, LGBTQI+, schwa, secondo me",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/19/linguaggio_inclusivo_androcentrismo_lgbtqi_schwa_secondo_me/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le parole nascoste di Ryusuke Hamaguchi",
+      "category" : "duemilauno",
+      "tags"     : "duemilauno",
+      "url"      : "/2021/10/19/le_parole_nascoste_di_ryusuke_hamaguchi/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La sedia",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/10/19/la_sedia/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«Invece di usare le tecnologie per liberarci, le usiamo per schiavizzarci» — Intervista con Andrea Daniele Signorelli",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2021/10/19/invece_di_usare_le_tecnologie_per_liberarci_le_usiamo_per_schiavizzarci_intervista_con_andrea_daniele_signorelli/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Il giuramento di ipocrita di Gino Ciaglia",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/19/il_racconto_del_mercoled_il_giuramento_di_ipocrita_di_gino_ciaglia/",
       "date"     : "2021-10-19 00:00:00 +0200"
     } ,
   
@@ -33,10 +273,42 @@
     } ,
   
     {
+      "title"    : "Il bagliore prima della scomparsa",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/10/19/il_bagliore_prima_della_scomparsa/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Figurazioni. Su “Ipotesi di felicità” di Alberto Pellegatta",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/10/19/figurazioni_su_ipotesi_di_felicit_di_alberto_pellegatta/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Da “L’uomo avanzato”",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/10/19/da_luomo_avanzato/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cocci",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/10/19/cocci/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Azione",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/10/19/azione/",
       "date"     : "2021-10-19 00:00:00 +0200"
     } ,
   
@@ -5673,7 +5945,7 @@
     } ,
   
     {
-      "title"    : "jet set radio future",
+      "title"    : "JET SET RADIO FUTURE",
       "category" : "clean",
       "tags"     : "clean",
       "url"      : "/2021/09/19/jet_set_radio_future/",
@@ -9749,6 +10021,14 @@
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
       "url"      : "/2021/08/23/costruttori_fondamentale_corso_di_scrittura_e_sperimentazione_narrativa/",
+      "date"     : "2021-08-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "costruttori – corso di scrittura",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/08/23/costruttori_corso_di_scrittura/",
       "date"     : "2021-08-23 00:00:00 +0200"
     } ,
   
