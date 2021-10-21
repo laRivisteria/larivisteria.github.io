@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "Un estratto da “Una di due” di Daniel Sada",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/21/un_estratto_da_una_di_due_di_daniel_sada/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La morte di un artista non è la sua fine. Per Danni Antonello",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/21/la_morte_di_un_artista_non_la_sua_fine_per_danni_antonello/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dioniso e Adorno. La musica e il dominio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/21/dioniso_e_adorno_la_musica_e_il_dominio/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "127 ore. Un film per imparare a dire “grazie”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/21/127_ore_un_film_per_imparare_a_dire_grazie/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Viera. Un’italiana del ’23” di Paola Mattioli: la storia di una vita vissuta con coraggio￼",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/20/viera_unitaliana_del_23_di_paola_mattioli_la_storia_di_una_vita_vissuta_con_coraggio/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vai con la pizza… Quella capricciosa!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/20/vai_con_la_pizza_quella_capricciosa/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Una storia d’amore e malattia",
       "category" : "tre-racconti",
       "tags"     : "tre-racconti",
@@ -13,6 +61,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/10/20/ti_ho_amato_gridalo_tutto_marguerite_duras/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spazio interno e spazio esterno dell’architettura sovietica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/20/spazio_interno_e_spazio_esterno_dellarchitettura_sovietica/",
       "date"     : "2021-10-20 00:00:00 +0200"
     } ,
   
@@ -33,10 +89,58 @@
     } ,
   
     {
+      "title"    : "Mettere a fuoco la polemica. Su due film vietati ai minori",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/10/20/mettere_a_fuoco_la_polemica_su_due_film_vietati_ai_minori/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Martyrs Lane/Sensoria.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/10/20/martyrs_lanesensoria/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mal di vivere in Senegal, un articolo di Gianluca Bindi || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/10/20/mal_di_vivere_in_senegal_un_articolo_di_gianluca_bindi_threevial_pursuit/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’unica vita",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/10/20/lunica_vita/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo sguardo anarchico",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/20/lo_sguardo_anarchico/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 20 Ottobre 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/20/le_news_letterarie_20_ottobre_2021/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’amore (tossico) ai tempi delle serie tv: come gli standard televisivi ci hanno influenzato nella ricerca del partner",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/20/lamore_tossico_ai_tempi_delle_serie_tv_come_gli_standard_televisivi_ci_hanno_influenzato_nella_ricerca_del_partner/",
       "date"     : "2021-10-20 00:00:00 +0200"
     } ,
   
@@ -57,6 +161,22 @@
     } ,
   
     {
+      "title"    : "La letteratura ci salverà dall’estinzione",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/20/la_letteratura_ci_salver_dallestinzione/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La casa di Franco",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/10/20/la_casa_di_franco/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "In incognito",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -73,10 +193,82 @@
     } ,
   
     {
+      "title"    : "Il punto su Marte",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/10/20/il_punto_su_marte/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il corpo come in un quadro di Dalì: La muta di Aliya Whiteley",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/10/20/il_corpo_come_in_un_quadro_di_dal_la_muta_di_aliya_whiteley/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Grandi calici sorgono dall’acque, gigli di foco…”",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/10/20/grandi_calici_sorgono_dallacque_gigli_di_foco/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fiabe di viaggi e metamorfosi | “Io sarò il rovo” di Francesca Matteoni",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/20/fiabe_di_viaggi_e_metamorfosi_io_sar_il_rovo_di_francesca_matteoni/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Droga Sport – Brasile vs Conor McGregor.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/20/droga_sport_brasile_vs_conor_mcgregor/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dai Gracchi a Silla: Pugnali nel foro Pt.2 ⥀ L’impero colpisce ancora? Dialoghi con Giovanni Brizzi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/20/dai_gracchi_a_silla_pugnali_nel_foro_pt2_limpero_colpisce_ancora_dialoghi_con_giovanni_brizzi/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Camera ecoica. Da César Vallejo a Giuliano Mesa (e ritorno)",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/10/20/camera_ecoica_da_csar_vallejo_a_giuliano_mesa_e_ritorno/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "C’è, finalmente, una teoria del tutto?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/20/c_finalmente_una_teoria_del_tutto/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amor di gloria – Intervista a Maria Pace Ottieri",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/20/amor_di_gloria_intervista_a_maria_pace_ottieri/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Addio assorbenti, non vi uso più! Guida alle mestruazioni “green”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/20/addio_assorbenti_non_vi_uso_pi_guida_alle_mestruazioni_green/",
       "date"     : "2021-10-20 00:00:00 +0200"
     } ,
   
@@ -357,6 +549,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/10/18/perch_i_salici_piangenti_si_chiamano_cos/",
+      "date"     : "2021-10-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Per un pensiero che attraversi il disastro. Recensione a Chernobyl Herbarium.",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/10/18/per_un_pensiero_che_attraversi_il_disastro_recensione_a_chernobyl_herbarium/",
       "date"     : "2021-10-18 00:00:00 +0200"
     } ,
   
