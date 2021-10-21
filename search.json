@@ -1,10 +1,50 @@
 [
   
     {
+      "title"    : "Walter Owen. La Croce di Carl",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/21/walter_owen_la_croce_di_carl/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un estratto da “Una di due” di Daniel Sada",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/10/21/un_estratto_da_una_di_due_di_daniel_sada/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rivista Blam. Intervista alla Redazione",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/21/rivista_blam_intervista_alla_redazione/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«O uomini Ateniesi, Corinzi, Psichiatri e altri! Mi avete menomata» ⥀ Niki-Rebecca Papagheorghìou in prima edizione italiana",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/21/o_uomini_ateniesi_corinzi_psichiatri_e_altri_mi_avete_menomata_niki-rebecca_papagheorghou_in_prima_edizione_italiana/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ma.Ma, il grembo della speranza sorge a Rebibbia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/21/mama_il_grembo_della_speranza_sorge_a_rebibbia/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La storia ambientale ed io | Intervista a Carolyn Merchant, a cura di Marco Armerio",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/21/la_storia_ambientale_ed_io_intervista_a_carolyn_merchant_a_cura_di_marco_armerio/",
       "date"     : "2021-10-21 00:00:00 +0200"
     } ,
   
@@ -17,10 +57,66 @@
     } ,
   
     {
+      "title"    : "In lotta contro il destino, le lettere tra Nicola Chiaromonte e Albert Camus",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/21/in_lotta_contro_il_destino_le_lettere_tra_nicola_chiaromonte_e_albert_camus/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Erica Jong – Paura di volare",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/21/erica_jong_paura_di_volare/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ecopoesia: Poesie Vegetali /GREEN POEMS Lino Angiuli",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/21/ecopoesia_poesie_vegetali_green_poems_lino_angiuli/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Dioniso e Adorno. La musica e il dominio",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/10/21/dioniso_e_adorno_la_musica_e_il_dominio/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diario di una scrittrice in erba #1: l’incipit",
+      "category" : "chiacchiere-letterarie",
+      "tags"     : "chiacchiere-letterarie",
+      "url"      : "/2021/10/21/diario_di_una_scrittrice_in_erba_1_lincipit/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Desiderio spettrale",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/10/21/desiderio_spettrale/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Daniel Orozco",
+      "category" : "racconti-edizioni",
+      "tags"     : "racconti-edizioni",
+      "url"      : "/2021/10/21/daniel_orozco/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Brandimarte e la vita che continua nonostante la devastazione",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/21/brandimarte_e_la_vita_che_continua_nonostante_la_devastazione/",
       "date"     : "2021-10-21 00:00:00 +0200"
     } ,
   
@@ -173,6 +269,14 @@
       "category" : "inutile",
       "tags"     : "inutile",
       "url"      : "/2021/10/20/la_casa_di_franco/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Jean-Luc Caradeau. Parole di potenza in magia e teurgia",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/20/jean-luc_caradeau_parole_di_potenza_in_magia_e_teurgia/",
       "date"     : "2021-10-20 00:00:00 +0200"
     } ,
   
@@ -409,6 +513,14 @@
     } ,
   
     {
+      "title"    : "Mattia Morretta. Tra di noi l’oceano. Modernità di Emily Brontë ed Emily Dickinson",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/19/mattia_morretta_tra_di_noi_loceano_modernit_di_emily_bront_ed_emily_dickinson/",
+      "date"     : "2021-10-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Linguaggio inclusivo, androcentrismo, LGBTQI+, schwa, secondo me",
       "category" : "downtobaker",
       "tags"     : "downtobaker",
@@ -569,6 +681,14 @@
     } ,
   
     {
+      "title"    : "Paolo Maggis inedito. Dehor e botox",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/18/paolo_maggis_inedito_dehor_e_botox/",
+      "date"     : "2021-10-18 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Meteorologia dello stile. Su “Di chi è la colpa” di Alessandro Piperno",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -629,6 +749,14 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/10/18/il_mio_dio_che_sapeva_stare_al_mondo/",
+      "date"     : "2021-10-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il giorno in cui diedi fuoco alla mia casa. Intervista a Francesca Mattei",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/18/il_giorno_in_cui_diedi_fuoco_alla_mia_casa_intervista_a_francesca_mattei/",
       "date"     : "2021-10-18 00:00:00 +0200"
     } ,
   
@@ -833,6 +961,22 @@
     } ,
   
     {
+      "title"    : "Silvia Lumaca. Nomadland",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/16/silvia_lumaca_nomadland/",
+      "date"     : "2021-10-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Silvia Lumaca. Moon Knight",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/16/silvia_lumaca_moon_knight/",
+      "date"     : "2021-10-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Qui nessuno dice niente. Un anno di scuola tra i carcerati – Domenico Conoscenti",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -909,6 +1053,14 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/10/16/diquattro_uno_sfilato_siciliano_e_una_ricetta_gustosissima/",
+      "date"     : "2021-10-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Claude Seignolle. La Malvenue",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/16/claude_seignolle_la_malvenue/",
       "date"     : "2021-10-16 00:00:00 +0200"
     } ,
   
@@ -1005,6 +1157,14 @@
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/10/15/mimesis_il_realismo_della_letteratura_occidentale/",
+      "date"     : "2021-10-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Michel Houellebecq, intervista senza filtri (nemmeno quelli di sigarette)",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/15/michel_houellebecq_intervista_senza_filtri_nemmeno_quelli_di_sigarette/",
       "date"     : "2021-10-15 00:00:00 +0200"
     } ,
   
