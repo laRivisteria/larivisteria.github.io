@@ -1,10 +1,346 @@
 [
   
     {
+      "title"    : "Mercedes Viola intervista Angelo Orazio Pregoni",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/25/mercedes_viola_intervista_angelo_orazio_pregoni/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ultimo scalo del Tramp Steamer",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/10/25/lultimo_scalo_del_tramp_steamer/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La stanza di Tito",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/10/25/la_stanza_di_tito/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La runa della grande spina per il dio Thor: dal mito al simbolo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/25/la_runa_della_grande_spina_per_il_dio_thor_dal_mito_al_simbolo/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La psicosi totalitarista",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/25/la_psicosi_totalitarista/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La luna e l’architetto",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/10/25/la_luna_e_larchitetto/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La cicala e le formiche",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/10/25/la_cicala_e_le_formiche/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La canzone dell’amor totalizzante e perduto, soave Aciman",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/25/la_canzone_dellamor_totalizzante_e_perduto_soave_aciman/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il buio non fa paura”, una favola nera",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/25/il_buio_non_fa_paura_una_favola_nera/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Etty Hillesum: rose malgrado tutto",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/25/etty_hillesum_rose_malgrado_tutto/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Elia W. Peattie. La forma della paura e altre storie spettrali",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/25/elia_w_peattie_la_forma_della_paura_e_altre_storie_spettrali/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Baciami ancora! Inseguimi! Devi essere avventato!”. Le poesie di Louise Labé",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/25/baciami_ancora_inseguimi_devi_essere_avventato_le_poesie_di_louise_lab/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Harrison Ford perde carta credito, gliela riconsegna il figlio di Borsellino",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/25/attenzioneharrison_ford_perde_carta_credito_gliela_riconsegna_il_figlio_di_borsellino/",
+      "date"     : "2021-10-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Zucca, la vera star dell’autunno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/24/zucca_la_vera_star_dellautunno/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un racconto e una vignetta #8: L’esame",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/24/un_racconto_e_una_vignetta_8_lesame/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesie di Elisa Nanini",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/10/24/poesie_di_elisa_nanini/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pino Daniele Alive: Napoli omaggia il suo santo contemporaneo",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/10/24/pino_daniele_alive_napoli_omaggia_il_suo_santo_contemporaneo/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marchese De Sade – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/24/marchese_de_sade_personaggio_della_settimana/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il triangolo delle libertà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/24/il_triangolo_delle_libert/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il revival del teatro dell’assurdo nell’Italia contemporanea",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/24/il_revival_del_teatro_dellassurdo_nellitalia_contemporanea/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cotroneo, svelare l’indecifrabile del quotidiano con stile…",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/24/cotroneo_svelare_lindecifrabile_del_quotidiano_con_stile/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Apache",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/24/apache/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Antsy – Pronto, sono il tuo malessere, riesci a sentirmi?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/24/antsy_pronto_sono_il_tuo_malessere_riesci_a_sentirmi/",
+      "date"     : "2021-10-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Solo nel dolore",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/23/solo_nel_dolore/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’Iraq disperato e violento, Al Shahmani figlio in fuga",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/23/liraq_disperato_e_violento_al_shahmani_figlio_in_fuga/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La vera storia del Green Book",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/23/la_vera_storia_del_green_book/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inavvertita luce",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/23/inavvertita_luce/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In brevi fabulas",
+      "category" : "piegàmi",
+      "tags"     : "piegàmi",
+      "url"      : "/2021/10/23/in_brevi_fabulas/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Il numero 12 di Davide Cerreja Fus",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/23/il_racconto_della_domenica_il_numero_12_di_davide_cerreja_fus/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il novaxismo e le sue radici fasciste",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/23/il_novaxismo_e_le_sue_radici_fasciste/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fare poesia è scoprire",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/23/fare_poesia_scoprire/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! senza numero",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/10/23/fantastico_senza_numero/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Emigrare è “cercare sempre il bene e saperlo distinguere dal resto”. Un articolo di Massimo Maggiari",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/23/emigrare_cercare_sempre_il_bene_e_saperlo_distinguere_dal_resto_un_articolo_di_massimo_maggiari/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di donne, di uomini e dell’innamoramento: quando è tutta una questione di biochimica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/23/di_donne_di_uomini_e_dellinnamoramento_quando_tutta_una_questione_di_biochimica/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dante è turbato, pieno di rimorso, sviene – Purgatorio XXXI",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/23/dante_turbato_pieno_di_rimorso_sviene_purgatorio_xxxi/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Così come sa di terra e vento, il rugby sa di ragù",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/23/cos_come_sa_di_terra_e_vento_il_rugby_sa_di_rag/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CLAUDIO OLIVIERI. Infinito visibile A cura di Archivio Claudio Olivieri Palazzo Ducale, Mantova 8 ottobre - 21 novembre 2021",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/10/23/claudio_olivieri_infinito_visibile_a_cura_di_archivio_claudio_olivieri_palazzo_ducale_mantova_8_ottobre_-_21_novembre_2021/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amare tutti, terribilmente. L’epopea di Boris Pasternak",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/23/amare_tutti_terribilmente_lepopea_di_boris_pasternak/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A Vivid Memory",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/23/a_vivid_memory/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un verme con le ali d’aquila. La dialettica tra vergogna e ambizione nella scrittura fatta dalle donne.Ipertesto.",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
       "url"      : "/2021/10/22/un_verme_con_le_ali_daquila_la_dialettica_tra_vergogna_e_ambizione_nella_scrittura_fatta_dalle_donneipertesto/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tampon Tax, cala l’IVA sugli assorbenti dal 22 al 10%. E no, non è abbastanza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/22/tampon_tax_cala_liva_sugli_assorbenti_dal_22_al_10_e_no_non_abbastanza/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sprangah!!77",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/22/sprangah77/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sirene",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/10/22/sirene/",
       "date"     : "2021-10-22 00:00:00 +0200"
     } ,
   
@@ -17,10 +353,34 @@
     } ,
   
     {
+      "title"    : "Senza impegno/5: quattro domande intorno al pamphlet di Walter Siti",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/22/senza_impegno5_quattro_domande_intorno_al_pamphlet_di_walter_siti/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scorpione",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/10/22/scorpione/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Robert Louis Stevenson. L’isola del Tesoro",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/10/22/robert_louis_stevenson_lisola_del_tesoro/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ricette per vomitare dopo un hangover.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/22/ricette_per_vomitare_dopo_un_hangover/",
       "date"     : "2021-10-22 00:00:00 +0200"
     } ,
   
@@ -33,10 +393,58 @@
     } ,
   
     {
+      "title"    : "Oggettivare il vano, vanificare il soggetto ⥀ Strategie della visione in Nature morte e vanità di Alfonso Maria Petrosino",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/22/oggettivare_il_vano_vanificare_il_soggetto_strategie_della_visione_in_nature_morte_e_vanit_di_alfonso_maria_petrosino/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nadia Agustoni | [la casa è nera]￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/22/nadia_agustoni_la_casa_nera/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Mitologia ikeana",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/10/22/mitologia_ikeana/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Matteo Pelliti | Somiglianze di famiglia￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/22/matteo_pelliti_somiglianze_di_famiglia/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mariapia L. Crisafulli | La vita là fuori￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/22/mariapia_l_crisafulli_la_vita_l_fuori/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marco Corsi | La materia dei giorni",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/22/marco_corsi_la_materia_dei_giorni/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ultimo Allen è un conciliante inno alla vita",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/10/22/lultimo_allen_un_conciliante_inno_alla_vita/",
       "date"     : "2021-10-22 00:00:00 +0200"
     } ,
   
@@ -65,10 +473,42 @@
     } ,
   
     {
+      "title"    : "Gioventù Etrusca #15: Fanfiction",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/10/22/giovent_etrusca_15_fanfiction/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gay-Odin e la sua valigia al cioccolato",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/22/gay-odin_e_la_sua_valigia_al_cioccolato/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Fleabag | Sorridere",
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
       "url"      : "/2021/10/22/fleabag_sorridere/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Emotivi Anonimi, un racconto di R. Dell’Ali || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/10/22/emotivi_anonimi_un_racconto_di_r_dellali_street_stories/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chiamami col mio nome: Ida Vitale",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/22/chiamami_col_mio_nome_ida_vitale/",
       "date"     : "2021-10-22 00:00:00 +0200"
     } ,
   
@@ -85,6 +525,30 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2021/10/22/area_22_le_infinite_corrispondenze_dellalfabeto_ebraico/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Anne Weber. Annette, un poema eroico",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/22/anne_weber_annette_un_poema_eroico/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ANDY CAPP TORNA IN CAMPO. IN LIBRERIA LE STRISCE INEDITE PUBBLICATE SUL DAILY MIRROR DAL 2007 AD OGGI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/10/22/andy_capp_torna_in_campo_in_libreria_le_strisce_inedite_pubblicate_sul_daily_mirror_dal_2007_ad_oggi/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ancora una tempesta: Libro del sangue di Matteo Trevisani",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/10/22/ancora_una_tempesta_libro_del_sangue_di_matteo_trevisani/",
       "date"     : "2021-10-22 00:00:00 +0200"
     } ,
   
@@ -193,6 +657,14 @@
     } ,
   
     {
+      "title"    : "Il cacciatore di miele e la tigre del Bengala – Recensione",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/21/il_cacciatore_di_miele_e_la_tigre_del_bengala_recensione/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Erica Jong – Paura di volare",
       "category" : "the-bookish-explorer",
       "tags"     : "the-bookish-explorer",
@@ -229,6 +701,14 @@
       "category" : "not",
       "tags"     : "not",
       "url"      : "/2021/10/21/desiderio_spettrale/",
+      "date"     : "2021-10-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dentro l’opera di Francesco Pecoraro, attraverso le sue Camere e stanze",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/10/21/dentro_lopera_di_francesco_pecoraro_attraverso_le_sue_camere_e_stanze/",
       "date"     : "2021-10-21 00:00:00 +0200"
     } ,
   
@@ -293,6 +773,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/10/20/ti_ho_amato_gridalo_tutto_marguerite_duras/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sul carcere, nel carcere",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/10/20/sul_carcere_nel_carcere/",
       "date"     : "2021-10-20 00:00:00 +0200"
     } ,
   
@@ -5565,6 +6053,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/09/23/napoli_a_settembre_ricomincia_dai_libri/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’archivio di Alfredo de Santis: la pittura come narrazione",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/09/23/larchivio_di_alfredo_de_santis_la_pittura_come_narrazione/",
       "date"     : "2021-09-23 00:00:00 +0200"
     } ,
   
