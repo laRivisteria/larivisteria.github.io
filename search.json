@@ -1,6 +1,126 @@
 [
   
     {
+      "title"    : "Tutto il tè della città",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/10/27/tutto_il_t_della_citt/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Stenio Solinas. Atlante ideologico-sentimentale",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/27/stenio_solinas_atlante_ideologico-sentimentale/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Siamo una società malata di autofiction?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/27/siamo_una_societ_malata_di_autofiction/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Millenovecentonovantacinque | Riccardo Frola",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/27/millenovecentonovantacinque_riccardo_frola/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’equilibrio è un’antica vertigine",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/27/lequilibrio_unantica_vertigine/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Le stazioni della luna” di Ubah Cristina Ali Farah,  l’impronta italiana a Mogadiscio",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/10/27/le_stazioni_della_luna_di_ubah_cristina_ali_farah_limpronta_italiana_a_mogadiscio/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La scelta",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/10/27/la_scelta/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dialogo assorto",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/27/dialogo_assorto/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Brucia l’aria. Intervista a Omar Di Monopoli",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/27/brucia_laria_intervista_a_omar_di_monopoli/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Abracadabra, evviva: un poeta ha tradotto l’Ulisse di Joyce!",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/27/abracadabra_evviva_un_poeta_ha_tradotto_lulisse_di_joyce/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una lingua come patria. Apolide o l’elogio del margine di Shumona Sinha",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/26/una_lingua_come_patria_apolide_o_lelogio_del_margine_di_shumona_sinha/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un giorno come un altro",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/10/26/un_giorno_come_un_altro/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sil Vicius sul G8 di Genova, il fumetto integrale",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/10/26/sil_vicius_sul_g8_di_genova_il_fumetto_integrale/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scogli",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/10/26/scogli/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "SANDRO MILLER  &quot;MALKOVICH, MALKOVICH, MALKOVICH&quot;  Homage to Photographic Masters MILANO | FONDAZIONE STELLINE  DAL 5 NOVEMBRE 2021 AL 6 FEBBRAIO 2022",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/10/26/sandro_miller_malkovich_malkovich_malkovich_homage_to_photographic_masters_milano_fondazione_stelline_dal_5_novembre_2021_al_6_febbraio_2022/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Rebuild of Evangelion | La cospirazione contro Hideaki Anno",
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
@@ -13,6 +133,46 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/10/26/per_ricondurre_allo_splendore_per_una_nuova_traduzione_dei_cantos/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nuovo Rinascimento Cibernetico",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/10/26/nuovo_rinascimento_cibernetico/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non speravo di rincontrarti vestita",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/10/26/non_speravo_di_rincontrarti_vestita/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mona Awad – Bunny",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/26/mona_awad_bunny/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mastro Geppetto. Dialogo con Fabio Stassi",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/26/mastro_geppetto_dialogo_con_fabio_stassi/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : " Marina &amp; Sergej Djačenko. Vita nostra",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/26/marina_sergej_djaenko_vita_nostra/",
       "date"     : "2021-10-26 00:00:00 +0200"
     } ,
   
@@ -49,10 +209,42 @@
     } ,
   
     {
+      "title"    : "Incubi letterari: Frankenstein",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/10/26/incubi_letterari_frankenstein/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Gloria di Grazia Cassetta",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/26/il_racconto_del_mercoled_gloria_di_grazia_cassetta/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il nano",
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2021/10/26/il_nano/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il bisogno di pensare con urgenza storica, il Crepuscolo del mondo di Werner Herzog",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/26/il_bisogno_di_pensare_con_urgenza_storica_il_crepuscolo_del_mondo_di_werner_herzog/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I 5 Personaggi Disney più sottovalutati",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/26/i_5_personaggi_disney_pi_sottovalutati/",
       "date"     : "2021-10-26 00:00:00 +0200"
     } ,
   
@@ -65,10 +257,42 @@
     } ,
   
     {
+      "title"    : "Daniel Woodrell. Addio, Sweet Mister",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/26/daniel_woodrell_addio_sweet_mister/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Creare una lingua è compiere una dissezione. Su Rethorica novissima di Guadalberto Alvino",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/10/26/creare_una_lingua_compiere_una_dissezione_su_rethorica_novissima_di_guadalberto_alvino/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come si vestivano gli hippie?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/26/come_si_vestivano_gli_hippie/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ciò che il mondo separa – intervista a Francesca Matteoni a cura di Francesco D’Isa",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/26/ci_che_il_mondo_separa_intervista_a_francesca_matteoni_a_cura_di_francesco_disa/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi ha crisi interiori, chi scava nei cuori",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/26/chi_ha_crisi_interiori_chi_scava_nei_cuori/",
       "date"     : "2021-10-26 00:00:00 +0200"
     } ,
   
