@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Viaggio ergo ascolto audiolibri",
+      "category" : "chiacchiere-letterarie",
+      "tags"     : "chiacchiere-letterarie",
+      "url"      : "/2021/10/27/viaggio_ergo_ascolto_audiolibri/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una Sherlock Holmes della poesia ⥀ In memoria di Anna Elisa De Gregorio",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/27/una_sherlock_holmes_della_poesia_in_memoria_di_anna_elisa_de_gregorio/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Tutto il tè della città",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -25,10 +41,42 @@
     } ,
   
     {
+      "title"    : "“Seiobo è discesa quaggiù”: la bellezza che (non) salva il mondo",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/27/seiobo_discesa_quaggi_la_bellezza_che_non_salva_il_mondo/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Obabakoak di Bernardo Atxaga",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2021/10/27/obabakoak_di_bernardo_atxaga/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Millenovecentonovantacinque | Riccardo Frola",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/10/27/millenovecentonovantacinque_riccardo_frola/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mi raccomando: tutti vestiti bene",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/10/27/mi_raccomando_tutti_vestiti_bene/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo stato del caldo. intervista a Mark C. Serreze",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/27/lo_stato_del_caldo_intervista_a_mark_c_serreze/",
       "date"     : "2021-10-27 00:00:00 +0200"
     } ,
   
@@ -49,10 +97,66 @@
     } ,
   
     {
+      "title"    : "Le news letterarie – 27 Ottobre 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/27/le_news_letterarie_27_ottobre_2021/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le anime morte del socialismo jugoslavo – I prodigi della città di N.",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/10/27/le_anime_morte_del_socialismo_jugoslavo_i_prodigi_della_citt_di_n/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La scelta",
       "category" : "offline",
       "tags"     : "offline",
       "url"      : "/2021/10/27/la_scelta/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La grammatica del complotto",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/10/27/la_grammatica_del_complotto/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La caduta di Jensen: singolare, duale, plurale e collettiva",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/27/la_caduta_di_jensen_singolare_duale_plurale_e_collettiva/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In scadenza",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/10/27/in_scadenza/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Duisburg, provincia di Reggio Calabria",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/10/27/duisburg_provincia_di_reggio_calabria/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diario di un editore di fumetti #16",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/27/diario_di_un_editore_di_fumetti_16/",
       "date"     : "2021-10-27 00:00:00 +0200"
     } ,
   
@@ -65,10 +169,42 @@
     } ,
   
     {
+      "title"    : "DDL Zan? L’Italia arretrata e conservatrice ha detto no",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/27/ddl_zan_litalia_arretrata_e_conservatrice_ha_detto_no/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Brucia l’aria. Intervista a Omar Di Monopoli",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/10/27/brucia_laria_intervista_a_omar_di_monopoli/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Back to Black",
+      "category" : "duemilauno",
+      "tags"     : "duemilauno",
+      "url"      : "/2021/10/27/back_to_black/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Anteprima – Giacomo Laser fa la carità",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/27/anteprima_giacomo_laser_fa_la_carit/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alle origini dell’orda d’oro: i Quaderni rossi",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/10/27/alle_origini_dellorda_doro_i_quaderni_rossi/",
       "date"     : "2021-10-27 00:00:00 +0200"
     } ,
   
@@ -245,6 +381,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/10/26/i_5_personaggi_disney_pi_sottovalutati/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giovani, welfare e scuola: quattro chiacchiere con l’Assessore Fortini",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/26/giovani_welfare_e_scuola_quattro_chiacchiere_con_lassessore_fortini/",
       "date"     : "2021-10-26 00:00:00 +0200"
     } ,
   
@@ -837,6 +981,14 @@
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2021/10/22/reminder_versione_beta/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/10/22/postd41d8cd98f00b204e9800998ecf8427e/",
       "date"     : "2021-10-22 00:00:00 +0200"
     } ,
   
@@ -11369,6 +11521,14 @@
     } ,
   
     {
+      "title"    : "Alla scoperta del numero 2 di Pulpette - Il ritorno dei vivi morenti",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/08/24/alla_scoperta_del_numero_2_di_pulpette_-_il_ritorno_dei_vivi_morenti/",
+      "date"     : "2021-08-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Alessio Zanelli – Amalgam",
       "category" : "the-bookish-explorer",
       "tags"     : "the-bookish-explorer",
@@ -12225,6 +12385,14 @@
     } ,
   
     {
+      "title"    : "Rivelazione - Un racconto omaggio a H. P. Lovecraft",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/08/13/rivelazione_-_un_racconto_omaggio_a_h_p_lovecraft/",
+      "date"     : "2021-08-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Le nostre mani sulla città",
       "category" : "quaderni-contemporanei",
       "tags"     : "quaderni-contemporanei",
@@ -12629,6 +12797,14 @@
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2021/08/09/quaerere_consiglia_settimana_n_6/",
+      "date"     : "2021-08-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pulpette ospite di Epiroots Family a Santa Sofia d&#39;Epiro (Cosenza)",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/08/09/pulpette_ospite_di_epiroots_family_a_santa_sofia_depiro_cosenza/",
       "date"     : "2021-08-09 00:00:00 +0200"
     } ,
   
@@ -13769,6 +13945,14 @@
     } ,
   
     {
+      "title"    : "È uscito il nuovo numero di Pulpette: Il ritorno dei vivi morenti",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/07/31/uscito_il_nuovo_numero_di_pulpette_il_ritorno_dei_vivi_morenti/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“È un solitario, ed è la solitudine a dargli quella sicurezza”. Jean Grosjean, il poeta che ha riscritto la Bibbia",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -13837,6 +14021,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/07/31/lamore_attraverso_la_penna_di_diego_galdino/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Pulpette su Viaggi Letterari",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/07/31/intervista_a_pulpette_su_viaggi_letterari/",
       "date"     : "2021-07-31 00:00:00 +0200"
     } ,
   
@@ -19885,6 +20077,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/06/29/la_metamorfosi_di_rkomi_da_rapper_in_apnea_a_tassista_pop/",
+      "date"     : "2021-06-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La copertina del vol.2 di Pulpette in anteprima!",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/06/29/la_copertina_del_vol2_di_pulpette_in_anteprima/",
       "date"     : "2021-06-29 00:00:00 +0200"
     } ,
   
@@ -26361,6 +26561,14 @@
     } ,
   
     {
+      "title"    : "",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/05/31/postd41d8cd98f00b204e9800998ecf8427e/",
+      "date"     : "2021-05-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Non voltiamoci dall’altra parte, ma facciamo la differenza. Stop alle gabbie!",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -29941,6 +30149,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/05/17/quei_giorni_a_bologna_nel_dams_speranze_attese_malinconie_del_ricordo/",
+      "date"     : "2021-05-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pulpette al Cosenza Comics and Games - Beyond",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/05/17/pulpette_al_cosenza_comics_and_games_-_beyond/",
       "date"     : "2021-05-17 00:00:00 +0200"
     } ,
   
@@ -37241,6 +37457,22 @@
     } ,
   
     {
+      "title"    : "La copertina del n. 1 di Pulpette",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/04/16/la_copertina_del_n_1_di_pulpette/",
+      "date"     : "2021-04-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La copertina del n. 0 di Pulpette",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/04/16/la_copertina_del_n_0_di_pulpette/",
+      "date"     : "2021-04-16 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il verso del bliturro",
       "category" : "narrandom",
       "tags"     : "narrandom",
@@ -37333,6 +37565,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/04/16/dai_prozac_al_suo_ultimo_farma-fumetto_monokerostina_intervista_a_alessandro_baronciani/",
+      "date"     : "2021-04-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cos&#39;è Pulpette?",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/04/16/cos_pulpette/",
       "date"     : "2021-04-16 00:00:00 +0200"
     } ,
   
@@ -37449,6 +37689,14 @@
     } ,
   
     {
+      "title"    : "Pulpette - Rivista di racconti pulp &amp; altre frattaglie",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/04/15/pulpette_-_rivista_di_racconti_pulp_altre_frattaglie/",
+      "date"     : "2021-04-15 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Ossitocina",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -37501,6 +37749,14 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/04/15/larte_della_congettura_su_veronica_e_il_diavolo_di_fernanda_alfieri/",
+      "date"     : "2021-04-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La nuova call di Pulpette",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/04/15/la_nuova_call_di_pulpette/",
       "date"     : "2021-04-15 00:00:00 +0200"
     } ,
   
@@ -37621,6 +37877,14 @@
       "category" : "split",
       "tags"     : "split",
       "url"      : "/2021/04/15/duplex/",
+      "date"     : "2021-04-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dove posso acquistare Pulpette?",
+      "category" : "pulpette",
+      "tags"     : "pulpette",
+      "url"      : "/2021/04/15/dove_posso_acquistare_pulpette/",
       "date"     : "2021-04-15 00:00:00 +0200"
     } ,
   
