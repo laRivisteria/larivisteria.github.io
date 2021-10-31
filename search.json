@@ -1,6 +1,430 @@
 [
   
     {
+      "title"    : "WOLF di Eugenio Di Donato",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/wolf_di_eugenio_di_donato/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TURN DOWN di Giovanni Ciappelli",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/turn_down_di_giovanni_ciappelli/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "PREGHIERA DEI PRIMI GIORNI DI OTTOBRE  di Monica Capomonte",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/preghiera_dei_primi_giorni_di_ottobre_di_monica_capomonte/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "PRANZO DI GALA di Andrea Consonni",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/pranzo_di_gala_di_andrea_consonni/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "METEORA di Francesco Barilli",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/meteora_di_francesco_barilli/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mese di Marte",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/10/31/il_mese_di_marte/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "GIORNI, CADUTE E RITORNI di Virginia Puccianti",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/giorni_cadute_e_ritorni_di_virginia_puccianti/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "GIORNI, CADUTE E RITORNI di Lorenzo Bellandi",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/giorni_cadute_e_ritorni_di_lorenzo_bellandi/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DA UN’ALTRA PARTE di Andrea Mitri",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/da_unaltra_parte_di_andrea_mitri/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "BARDO di Fabrizio Ernesto Giuseppe Coco",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/bardo_di_fabrizio_ernesto_giuseppe_coco/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "William Faulkner",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/10/30/william_faulkner/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The falling",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/30/the_falling/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "S’è fatto tardi molto presto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/30/s_fatto_tardi_molto_presto/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché i bambini ci fanno così tanta paura? | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/10/30/perch_i_bambini_ci_fanno_cos_tanta_paura_in_translation/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La città nera",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/30/la_citt_nera/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Una promessa non mantenuta di Gianfranco Martana",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/30/il_racconto_della_domenica_una_promessa_non_mantenuta_di_gianfranco_martana/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I vestiti sono una cosa bella ma.",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/30/i_vestiti_sono_una_cosa_bella_ma/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #117",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/10/30/fantastico_117/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Effetto Rashomon, indovina chi mente",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/30/effetto_rashomon_indovina_chi_mente/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Amarcord”… Fellini fumettista: 5 film disegnati dal regista",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/30/amarcord_fellini_fumettista_5_film_disegnati_dal_regista/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sui diversi modi di usare la parola «casa»",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/10/29/sui_diversi_modi_di_usare_la_parola_casa/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Stephen King e la trilogia delle donne",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/10/29/stephen_king_e_la_trilogia_delle_donne/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Shiva Baby – Sbiadire nella propria comunità",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/29/shiva_baby_sbiadire_nella_propria_comunit/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sandy Kominsky, insegnami a vivere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/29/sandy_kominsky_insegnami_a_vivere/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rachele Di Franza | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/29/rachele_di_franza_poesie/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pressione, un racconto di M. Barucci || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/10/29/pressione_un_racconto_di_m_barucci_street_stories/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Podcast di filosofia: i nostri consigli di ascolto",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/29/podcast_di_filosofia_i_nostri_consigli_di_ascolto/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ogni scuola è paese",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/10/29/ogni_scuola_paese/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nova",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/10/29/nova/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Napoli Sotterranea: fotografie dal sottosuolo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/29/napoli_sotterranea_fotografie_dal_sottosuolo/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Midnight Mass: il sonno della ragione genera mostri (e occasionalmente anche angeli)",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/10/29/midnight_mass_il_sonno_della_ragione_genera_mostri_e_occasionalmente_anche_angeli/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lampostyl",
+      "category" : "doctor-tale-and-mister-shot",
+      "tags"     : "doctor-tale-and-mister-shot",
+      "url"      : "/2021/10/29/lampostyl/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Whiteness come dispositivo di controllo",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/29/la_whiteness_come_dispositivo_di_controllo/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Incubi letterari: Carrie",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/10/29/incubi_letterari_carrie/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il lupo tra bene e male. La politica della rabbia di Franco Palazzi",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/10/29/il_lupo_tra_bene_e_male_la_politica_della_rabbia_di_franco_palazzi/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il cielo per Roma – l’ipercalisse ilarotragica di Mariano Bàino",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/29/il_cielo_per_roma_lipercalisse_ilarotragica_di_mariano_bino/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Geografia di un’anatomia – Il corpo come metafora nella storia dell’arte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/29/geografia_di_unanatomia_il_corpo_come_metafora_nella_storia_dellarte/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "C’eravamo tanto amati | I bambini che piangono nei film",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/10/29/ceravamo_tanto_amati_i_bambini_che_piangono_nei_film/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bolidi fiammanti.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/29/bolidi_fiammanti/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una lettera per Fante da Giovanna Di Lello, Direttrice Artistica del John Fante Festival “Il Dio di mio padre”",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/10/28/una_lettera_per_fante_da_giovanna_di_lello_direttrice_artistica_del_john_fante_festival_il_dio_di_mio_padre/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "THE POND/HONEYDEW/SCHLAF/DON’T BREATHE 2",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/10/28/the_pondhoneydewschlafdont_breathe_2/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sebastian Rif | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/28/sebastian_rif_poesie/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scrivere l’assenza: Filippo Polenchi, “Figlio fortunato”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/28/scrivere_lassenza_filippo_polenchi_figlio_fortunato/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Roberta Sirignano | Sogno la direttiva￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/28/roberta_sirignano_sogno_la_direttiva/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Moda e fantascienza: l’immaginario di Rick Owens",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/10/28/moda_e_fantascienza_limmaginario_di_rick_owens/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mill Town di Kerri Arsenault | in anteprima su ZEST un estratto",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/10/28/mill_town_di_kerri_arsenault_in_anteprima_su_zest_un_estratto/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le tre sorelle",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/28/le_tre_sorelle/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ivonne Mussoni | Sirene",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/28/ivonne_mussoni_sirene/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto concreto di Gaia Ginevra Giorgi",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/10/28/il_racconto_concreto_di_gaia_ginevra_giorgi/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Graeber Redivivus",
+      "category" : "il-problema-di-grendel",
+      "tags"     : "il-problema-di-grendel",
+      "url"      : "/2021/10/28/graeber_redivivus/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gennaro De Falco | Poesie￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/28/gennaro_de_falco_poesie/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fabrizio Bajec | Sogni e risvegli",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/28/fabrizio_bajec_sogni_e_risvegli/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "5 storie vere dietro i classici del cinema horror",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/28/5_storie_vere_dietro_i_classici_del_cinema_horror/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Viaggio ergo ascolto audiolibri",
       "category" : "chiacchiere-letterarie",
       "tags"     : "chiacchiere-letterarie",
@@ -81,6 +505,14 @@
     } ,
   
     {
+      "title"    : "Libri in uscita a novembre 2021: le novità da leggere",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/10/27/libri_in_uscita_a_novembre_2021_le_novit_da_leggere/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’equilibrio è un’antica vertigine",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -109,6 +541,14 @@
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2021/10/27/le_anime_morte_del_socialismo_jugoslavo_i_prodigi_della_citt_di_n/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La vecchiaia, l’osceno torna in scena",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/10/27/la_vecchiaia_losceno_torna_in_scena/",
       "date"     : "2021-10-27 00:00:00 +0200"
     } ,
   
@@ -173,6 +613,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/10/27/ddl_zan_litalia_arretrata_e_conservatrice_ha_detto_no/",
+      "date"     : "2021-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cattivo sangue",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/10/27/cattivo_sangue/",
       "date"     : "2021-10-27 00:00:00 +0200"
     } ,
   
@@ -1389,6 +1837,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/10/20/spazio_interno_e_spazio_esterno_dellarchitettura_sovietica/",
+      "date"     : "2021-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Senza pelle",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/10/20/senza_pelle/",
       "date"     : "2021-10-20 00:00:00 +0200"
     } ,
   
