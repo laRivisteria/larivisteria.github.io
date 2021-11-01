@@ -1,6 +1,126 @@
 [
   
     {
+      "title"    : "Una Lettera al prossimo",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/11/01/una_lettera_al_prossimo/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Love Hypothesis",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/01/the_love_hypothesis/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Temporalia. L’arte di Tonia Erbino",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/01/temporalia_larte_di_tonia_erbino/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sublime e calma travolgente: la discordia della zattera della Medusa",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/11/01/sublime_e_calma_travolgente_la_discordia_della_zattera_della_medusa/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rigoni Stern 100, Tonle che vuol trattenere ciò che scompare",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/01/rigoni_stern_100_tonle_che_vuol_trattenere_ci_che_scompare/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Morella (Traduzioni)",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/11/01/morella_traduzioni/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Molto caos, incredibilmente calmo",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/11/01/molto_caos_incredibilmente_calmo/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La disperata quiete di Hannah",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/11/01/la_disperata_quiete_di_hannah/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il sesso dei nostri cervelli: esistono differenze mentali tra generi?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/11/01/il_sesso_dei_nostri_cervelli_esistono_differenze_mentali_tra_generi/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il canto della driade",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/11/01/il_canto_della_driade/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fausta Leoni. Karma",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/01/fausta_leoni_karma/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fate l’amore e andate a farvi fo**ere. 24 tesi sul Misantropocene",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/01/fate_lamore_e_andate_a_farvi_foere_24_tesi_sul_misantropocene/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "E forse il mare è dentro di lei: la rabbia nata dal rock Måneskin",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/11/01/e_forse_il_mare_dentro_di_lei_la_rabbia_nata_dal_rock_mneskin/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buena Vista Social Club: Brunella Saccone",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/01/buena_vista_social_club_brunella_saccone/",
+      "date"     : "2021-11-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "You, la vivisezione di una mente malata",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/31/you_la_vivisezione_di_una_mente_malata/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "WOLF di Eugenio Di Donato",
       "category" : "sguardindiretti",
       "tags"     : "sguardindiretti",
@@ -9,10 +129,34 @@
     } ,
   
     {
+      "title"    : "Una settimana di racconti #halloweenedition",
+      "category" : "italiansbookitbetter",
+      "tags"     : "italiansbookitbetter",
+      "url"      : "/2021/10/31/una_settimana_di_racconti_halloweenedition/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "TURN DOWN di Giovanni Ciappelli",
       "category" : "sguardindiretti",
       "tags"     : "sguardindiretti",
       "url"      : "/2021/10/31/turn_down_di_giovanni_ciappelli/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rigoni Stern 100, il sergente e la guerra da cui non si torna mai",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/31/rigoni_stern_100_il_sergente_e_la_guerra_da_cui_non_si_torna_mai/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "PRENDI SEGNI PER LEI di Sabatina Napolitano",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/prendi_segni_per_lei_di_sabatina_napolitano/",
       "date"     : "2021-10-31 00:00:00 +0200"
     } ,
   
@@ -33,6 +177,22 @@
     } ,
   
     {
+      "title"    : "Overbooking: Luca Ricci",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/10/31/overbooking_luca_ricci/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "NONO PIANO di Roberta Da Prato",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/nono_piano_di_roberta_da_prato/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "METEORA di Francesco Barilli",
       "category" : "sguardindiretti",
       "tags"     : "sguardindiretti",
@@ -41,10 +201,58 @@
     } ,
   
     {
+      "title"    : "Matteo Fieno, mi descrivi le tue Virtù?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/31/matteo_fieno_mi_descrivi_le_tue_virt/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo strano caso di Adam Rainer",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/10/31/lo_strano_caso_di_adam_rainer/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La propaganda non c’entra nulla ⥀ Franco Buffoni sul destino del ddl Zan",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/10/31/la_propaganda_non_centra_nulla_franco_buffoni_sul_destino_del_ddl_zan/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Isabella Paola Stoja | Poesie￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/31/isabella_paola_stoja_poesie/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il mese di Marte",
       "category" : "inutile",
       "tags"     : "inutile",
       "url"      : "/2021/10/31/il_mese_di_marte/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "IL DELITTO DELLA TASSINAIA di Narciso Fenice Ramparti",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/il_delitto_della_tassinaia_di_narciso_fenice_ramparti/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il Buddha è puro come lo spazio vuoto. Incomparabile, Incontaminato, Onnipervadente”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/31/il_buddha_puro_come_lo_spazio_vuoto_incomparabile_incontaminato_onnipervadente/",
       "date"     : "2021-10-31 00:00:00 +0200"
     } ,
   
@@ -65,6 +273,22 @@
     } ,
   
     {
+      "title"    : "GAZZE di Chiara Macinai",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/gazze_di_chiara_macinai/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DONAMI UN RENE di Nicola Leoni",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/donami_un_rene_di_nicola_leoni/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "DA UN’ALTRA PARTE di Andrea Mitri",
       "category" : "sguardindiretti",
       "tags"     : "sguardindiretti",
@@ -73,10 +297,34 @@
     } ,
   
     {
+      "title"    : "Circolare",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/10/31/circolare/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "CADUTE: FRAMMENTI DI UN VERO RACCONTO di Roberta Sandrini",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2021/10/31/cadute_frammenti_di_un_vero_racconto_di_roberta_sandrini/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "BARDO di Fabrizio Ernesto Giuseppe Coco",
       "category" : "sguardindiretti",
       "tags"     : "sguardindiretti",
       "url"      : "/2021/10/31/bardo_di_fabrizio_ernesto_giuseppe_coco/",
+      "date"     : "2021-10-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alberto Bertoni | L’isola dei topi",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/10/31/alberto_bertoni_lisola_dei_topi/",
       "date"     : "2021-10-31 00:00:00 +0200"
     } ,
   
@@ -97,6 +345,14 @@
     } ,
   
     {
+      "title"    : "#Salto – seconda parte",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/30/salto_seconda_parte/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "S’è fatto tardi molto presto",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -113,6 +369,30 @@
     } ,
   
     {
+      "title"    : "Mia Kankimäki, Évelyne Heyer, Karl Meuli, le novità Neri Pozza",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/30/mia_kankimki_velyne_heyer_karl_meuli_le_novit_neri_pozza/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mephisto Ballad – Nella penombra delle cose presenti",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/30/mephisto_ballad_nella_penombra_delle_cose_presenti/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La doppia parabola di Nino D’Angelo fra vita e carriera",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/30/la_doppia_parabola_di_nino_dangelo_fra_vita_e_carriera/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "La città nera",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -125,6 +405,14 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/10/30/il_racconto_della_domenica_una_promessa_non_mantenuta_di_gianfranco_martana/",
+      "date"     : "2021-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il mio insospettabile viso eterno”. Jorge Luis Borges",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/30/il_mio_insospettabile_viso_eterno_jorge_luis_borges/",
       "date"     : "2021-10-30 00:00:00 +0200"
     } ,
   
@@ -161,6 +449,14 @@
     } ,
   
     {
+      "title"    : "Wonderland",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/10/29/wonderland/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Sui diversi modi di usare la parola «casa»",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -189,6 +485,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/10/29/sandy_kominsky_insegnami_a_vivere/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ro’eh",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/10/29/roeh/",
       "date"     : "2021-10-29 00:00:00 +0200"
     } ,
   
@@ -233,6 +537,14 @@
     } ,
   
     {
+      "title"    : "“Non dubitare di te stesso”. Su una poesia di Rudyard Kipling",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/29/non_dubitare_di_te_stesso_su_una_poesia_di_rudyard_kipling/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Napoli Sotterranea: fotografie dal sottosuolo",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -265,6 +577,22 @@
     } ,
   
     {
+      "title"    : "LA COMUNE BLU, ROMANZO D&#39;ESORDIO DI TONYA PULEO VERRA&#39; PRESENTATO A SCIACCA IL 13 NOVEMBRE 2021",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/10/29/la_comune_blu_romanzo_desordio_di_tonya_puleo_verra_presentato_a_sciacca_il_13_novembre_2021/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Kevin Huizenga. Glen Ganges e il fiume della notte",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/29/kevin_huizenga_glen_ganges_e_il_fiume_della_notte/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Incubi letterari: Carrie",
       "category" : "grado-zero",
       "tags"     : "grado-zero",
@@ -281,10 +609,42 @@
     } ,
   
     {
+      "title"    : "Il filosofo e i due papi, Bàino non smette di poetare",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/29/il_filosofo_e_i_due_papi_bino_non_smette_di_poetare/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il colpevole di cui abbiamo bisogno. Passeggiata nel bosco narrativo di Alessandro Piperno",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/29/il_colpevole_di_cui_abbiamo_bisogno_passeggiata_nel_bosco_narrativo_di_alessandro_piperno/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il cielo per Roma – l’ipercalisse ilarotragica di Mariano Bàino",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/10/29/il_cielo_per_roma_lipercalisse_ilarotragica_di_mariano_bino/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I vestiti che non metti più, di Luca Murano",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/29/i_vestiti_che_non_metti_pi_di_luca_murano/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I primi uomini",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/10/29/i_primi_uomini/",
       "date"     : "2021-10-29 00:00:00 +0200"
     } ,
   
@@ -297,10 +657,26 @@
     } ,
   
     {
+      "title"    : "Elli Woollard. L’autunno della piccola oca",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/29/elli_woollard_lautunno_della_piccola_oca/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "C’eravamo tanto amati | I bambini che piangono nei film",
       "category" : "in-fuga-dalla-bocciofila",
       "tags"     : "in-fuga-dalla-bocciofila",
       "url"      : "/2021/10/29/ceravamo_tanto_amati_i_bambini_che_piangono_nei_film/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Capire Gurdjieff",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/10/29/capire_gurdjieff/",
       "date"     : "2021-10-29 00:00:00 +0200"
     } ,
   
@@ -313,6 +689,30 @@
     } ,
   
     {
+      "title"    : "Berto e Morselli a confronto. La letteratura come approccio alla sofferenza",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/29/berto_e_morselli_a_confronto_la_letteratura_come_approccio_alla_sofferenza/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bauahus – l’idea che ha cambiato il mondo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/29/bauahus_lidea_che_ha_cambiato_il_mondo/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Arab Electronica Playlist",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/10/29/arab_electronica_playlist/",
+      "date"     : "2021-10-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Una lettera per Fante da Giovanna Di Lello, Direttrice Artistica del John Fante Festival “Il Dio di mio padre”",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -321,10 +721,26 @@
     } ,
   
     {
+      "title"    : "Un anno con Virginia Woolf",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/10/28/un_anno_con_virginia_woolf/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "THE POND/HONEYDEW/SCHLAF/DON’T BREATHE 2",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/10/28/the_pondhoneydewschlafdont_breathe_2/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Singer, ritratto di famiglia con geni (anaffettivi) sullo sfondo",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/10/28/singer_ritratto_di_famiglia_con_geni_anaffettivi_sullo_sfondo/",
       "date"     : "2021-10-28 00:00:00 +0200"
     } ,
   
@@ -345,10 +761,34 @@
     } ,
   
     {
+      "title"    : "#Salto2021 – prima parte",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/10/28/salto2021_prima_parte/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Roberta Sirignano | Sogno la direttiva￼",
       "category" : "inverso",
       "tags"     : "inverso",
       "url"      : "/2021/10/28/roberta_sirignano_sogno_la_direttiva/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Pasolini era un’ala scattante, Heidegger una mezzala sinistra di qualità”. Il calcio, oppio poetico dei popoli",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/28/pasolini_era_unala_scattante_heidegger_una_mezzala_sinistra_di_qualit_il_calcio_oppio_poetico_dei_popoli/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nathalie Léger – L’abito bianco",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/10/28/nathalie_lger_labito_bianco/",
       "date"     : "2021-10-28 00:00:00 +0200"
     } ,
   
@@ -369,10 +809,26 @@
     } ,
   
     {
+      "title"    : "L’equilibrio è un’antica vertigine",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/28/lequilibrio_unantica_vertigine/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Le tre sorelle",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/10/28/le_tre_sorelle/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La poesia degli alberi. Intervista a Mino Petazzini",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/10/28/la_poesia_degli_alberi_intervista_a_mino_petazzini/",
       "date"     : "2021-10-28 00:00:00 +0200"
     } ,
   
@@ -385,10 +841,34 @@
     } ,
   
     {
+      "title"    : "Intervista a Fiore Manni e Michele Monteleone – Nel buio della casa",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/10/28/intervista_a_fiore_manni_e_michele_monteleone_nel_buio_della_casa/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il racconto concreto di Gaia Ginevra Giorgi",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/10/28/il_racconto_concreto_di_gaia_ginevra_giorgi/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il mondo è abbandonato alle tenebre – e a me”. Le apocalittiche nubi di John Constable",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/28/il_mondo_abbandonato_alle_tenebre_e_a_me_le_apocalittiche_nubi_di_john_constable/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I cordoni della poesia n. 5: Una certa assenza, un certo ricomporsi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/10/28/i_cordoni_della_poesia_n_5_una_certa_assenza_un_certo_ricomporsi/",
       "date"     : "2021-10-28 00:00:00 +0200"
     } ,
   
@@ -409,10 +889,34 @@
     } ,
   
     {
+      "title"    : "Futurismi Indigeni",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/10/28/futurismi_indigeni/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Fabrizio Bajec | Sogni e risvegli",
       "category" : "inverso",
       "tags"     : "inverso",
       "url"      : "/2021/10/28/fabrizio_bajec_sogni_e_risvegli/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dune: il film di Denis Villeneuve è un inno all’Arte",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/28/dune_il_film_di_denis_villeneuve_un_inno_allarte/",
+      "date"     : "2021-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Con le ossa rotte. L’arte di raccogliere frammenti.",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/10/28/con_le_ossa_rotte_larte_di_raccogliere_frammenti/",
       "date"     : "2021-10-28 00:00:00 +0200"
     } ,
   
@@ -853,6 +1357,14 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/10/26/daniel_woodrell_addio_sweet_mister/",
+      "date"     : "2021-10-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Creare una lingua è compiere una dissezione. Su Rethorica novissima di Gualberto Alvino",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/10/26/creare_una_lingua_compiere_una_dissezione_su_rethorica_novissima_di_gualberto_alvino/",
       "date"     : "2021-10-26 00:00:00 +0200"
     } ,
   
@@ -1357,6 +1869,14 @@
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
       "url"      : "/2021/10/22/un_verme_con_le_ali_daquila_la_dialettica_tra_vergogna_e_ambizione_nella_scrittura_fatta_dalle_donneipertesto/",
+      "date"     : "2021-10-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un verme con le ali d’aquila. La dialettica tra vergogna e ambizione nella scrittura fatta dalle donne. Ipertesto.",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/10/22/un_verme_con_le_ali_daquila_la_dialettica_tra_vergogna_e_ambizione_nella_scrittura_fatta_dalle_donne_ipertesto/",
       "date"     : "2021-10-22 00:00:00 +0200"
     } ,
   
@@ -7125,6 +7645,14 @@
       "category" : "voce-blu",
       "tags"     : "voce-blu",
       "url"      : "/2021/09/23/la_freccia_del_tempo_una_commedia_scientifica_intervista_al_regista_carlo_sarti/",
+      "date"     : "2021-09-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ Archivio di Alfredo de Santis: la pittura come narrazione",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/09/23/l_archivio_di_alfredo_de_santis_la_pittura_come_narrazione/",
       "date"     : "2021-09-23 00:00:00 +0200"
     } ,
   
