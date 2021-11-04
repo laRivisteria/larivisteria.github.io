@@ -1,10 +1,98 @@
 [
   
     {
+      "title"    : "Uno tra i due",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/04/uno_tra_i_due/",
+      "date"     : "2021-11-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Scrivere è mostrare che sono una merda”. Christine Angot",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/04/scrivere_mostrare_che_sono_una_merda_christine_angot/",
+      "date"     : "2021-11-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La tua lettera mi guarda come una donna viva”, Boris Pasternak &amp; Ariadna Efron",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/04/la_tua_lettera_mi_guarda_come_una_donna_viva_boris_pasternak_ariadna_efron/",
+      "date"     : "2021-11-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Kadish tra emancipazione femminile e sete di conoscenza",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/04/kadish_tra_emancipazione_femminile_e_sete_di_conoscenza/",
+      "date"     : "2021-11-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il linguaggio è un immaginario comune?",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/11/04/il_linguaggio_un_immaginario_comune/",
+      "date"     : "2021-11-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Francesco Dezio. La meccanica del divano",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/04/francesco_dezio_la_meccanica_del_divano/",
+      "date"     : "2021-11-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Claire Goll anteprima.  Cercando di afferrare il vento",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/04/claire_goll_anteprima_cercando_di_afferrare_il_vento/",
+      "date"     : "2021-11-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ANTEPRIMA: Real Miracolo – Dall’aria.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/04/anteprima_real_miracolo_dallaria/",
+      "date"     : "2021-11-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vuoi davvero quell’aspirapolvere o è il meme marketing?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/03/vuoi_davvero_quellaspirapolvere_o_il_meme_marketing/",
+      "date"     : "2021-11-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Violoncello Apocalittico ⥀ Una spassosa apocalisse di Rodolfo Bersaglia a Recanati",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/11/03/violoncello_apocalittico_una_spassosa_apocalisse_di_rodolfo_bersaglia_a_recanati/",
+      "date"     : "2021-11-03 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Stefano Olmastroni | Poesie￼￼￼￼",
       "category" : "inverso",
       "tags"     : "inverso",
       "url"      : "/2021/11/03/stefano_olmastroni_poesie/",
+      "date"     : "2021-11-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sempre tornare di Daniele Mencarelli: un viaggio introspettivo lungo quanto la vita. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/03/sempre_tornare_di_daniele_mencarelli_un_viaggio_introspettivo_lungo_quanto_la_vita_recensione/",
       "date"     : "2021-11-03 00:00:00 +0100"
     } ,
   
@@ -29,6 +117,14 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/03/provocazione_intervista_alla_redazione/",
+      "date"     : "2021-11-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pomegrigio",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/03/pomegrigio/",
       "date"     : "2021-11-03 00:00:00 +0100"
     } ,
   
@@ -77,6 +173,14 @@
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/11/03/nazione_indiana/",
+      "date"     : "2021-11-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Meta, cooperativa sociale onlus” e l’impegno al servizio degli altri",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/03/meta_cooperativa_sociale_onlus_e_limpegno_al_servizio_degli_altri/",
       "date"     : "2021-11-03 00:00:00 +0100"
     } ,
   
@@ -213,6 +317,14 @@
       "category" : "a4",
       "tags"     : "a4",
       "url"      : "/2021/11/03/ci_mandi_un_racconto_di_natale/",
+      "date"     : "2021-11-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Angela Merkel, una leader di cui sentiremo la mancanza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/03/angela_merkel_una_leader_di_cui_sentiremo_la_mancanza/",
       "date"     : "2021-11-03 00:00:00 +0100"
     } ,
   
