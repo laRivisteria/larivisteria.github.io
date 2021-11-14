@@ -1,10 +1,202 @@
 [
   
     {
+      "title"    : "Casimiro Piccolo di Calanovella",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/14/casimiro_piccolo_di_calanovella/",
+      "date"     : "2021-11-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bianco di B. E. Ellis e tutti i paradossi del mondo contemporaneo",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/14/bianco_di_b_e_ellis_e_tutti_i_paradossi_del_mondo_contemporaneo/",
+      "date"     : "2021-11-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Agricoltura convenzionale, agricoltura biologica, nuove tecnologie",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/14/agricoltura_convenzionale_agricoltura_biologica_nuove_tecnologie/",
+      "date"     : "2021-11-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un demone mi ha spostato il cuscino!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/13/un_demone_mi_ha_spostato_il_cuscino/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ti aspetto giù",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/13/ti_aspetto_gi/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Cake",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/11/13/the_cake/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "PAROLE IN MASCHERA DI BRUNO POMPILI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/11/13/parole_in_maschera_di_bruno_pompili/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Occidente di Dario Postiglione al Ridotto del Mercadante è il trionfo del nuovo teatro",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/13/occidente_di_dario_postiglione_al_ridotto_del_mercadante_il_trionfo_del_nuovo_teatro/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Niente di personale, di Fabrizio Venerandi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/13/niente_di_personale_di_fabrizio_venerandi/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "METRONOTTE",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/11/13/metronotte/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mario Rigoni Stern si accuccia e scrive “Il libro degli animali”, un manuale della natura",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/13/mario_rigoni_stern_si_accuccia_e_scrive_il_libro_degli_animali_un_manuale_della_natura/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ecologia dei poveri. Ho intervistato l’economista Martínez Alier",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/11/13/lecologia_dei_poveri_ho_intervistato_leconomista_martnez_alier/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le Dame del Faubourg, romanzo storico da un milione di copie che celebra le grandi donne francesi",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/13/le_dame_del_faubourg_romanzo_storico_da_un_milione_di_copie_che_celebra_le_grandi_donne_francesi/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Il sugo di Marina Mongiovì",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/13/il_racconto_della_domenica_il_sugo_di_marina_mongiov/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I vestiti sono una cosa bella ma (parte 2)",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/11/13/i_vestiti_sono_una_cosa_bella_ma_parte_2/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #118",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/11/13/fantastico_118/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“E vedo in te la vita, il miracolo, l’inaspettato”. Una lettera di Octavio Paz",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/13/e_vedo_in_te_la_vita_il_miracolo_linaspettato_una_lettera_di_octavio_paz/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "David Bowie risponde al Proust Questionnaire",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/13/david_bowie_risponde_al_proust_questionnaire/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Birmania e Vietnam inaugurano le monografie di O barra O edizioni",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/13/birmania_e_vietnam_inaugurano_le_monografie_di_o_barra_o_edizioni/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Anime salve e perdute nel Paradiso di Coulon",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/13/anime_salve_e_perdute_nel_paradiso_di_coulon/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Wanderlust, un racconto di M. Mei || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/11/12/wanderlust_un_racconto_di_m_mei_street_stories/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vanessa Policicchio Rizzoli. Brilla, illumina risplendi",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/12/vanessa_policicchio_rizzoli_brilla_illumina_risplendi/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tuono Il Magnifico – La mostra collettiva raccontata da Adriano Ercolani",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/tuono_il_magnifico_la_mostra_collettiva_raccontata_da_adriano_ercolani/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sono come noi, ma si sentono comunicativi (o, meglio, la Santa Inquisizione dell’Internet)",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/12/sono_come_noi_ma_si_sentono_comunicativi_o_meglio_la_santa_inquisizione_dellinternet/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Solo una canzone – Intervista a Roberto Livi",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/solo_una_canzone_intervista_a_roberto_livi/",
       "date"     : "2021-11-12 00:00:00 +0100"
     } ,
   
@@ -17,10 +209,42 @@
     } ,
   
     {
+      "title"    : "Recensioni: “Non chiamarmi papà” di Angela Sofia Lancella",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/12/recensioni_non_chiamarmi_pap_di_angela_sofia_lancella/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Quando incontrai Dino Pedriali",
       "category" : "milena",
       "tags"     : "milena",
       "url"      : "/2021/11/12/quando_incontrai_dino_pedriali/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Qual è la chiesa più antica di Napoli?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/12/qual_la_chiesa_pi_antica_di_napoli/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Once upon a time, in nazi-occupied Rome",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/11/12/once_upon_a_time_in_nazi-occupied_rome/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Murder Ballads – Intervista a Micol Beltramini e Daniele Serra",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/murder_ballads_intervista_a_micol_beltramini_e_daniele_serra/",
       "date"     : "2021-11-12 00:00:00 +0100"
     } ,
   
@@ -33,6 +257,30 @@
     } ,
   
     {
+      "title"    : "L’odore della poesia visiva",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/11/12/lodore_della_poesia_visiva/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letture Elettriche per Libri D’Asporto: Piccoli Labirinti e Lo Spazio",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/letture_elettriche_per_libri_dasporto_piccoli_labirinti_e_lo_spazio/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letture Elettriche per Libri D’Asporto: Libreria Calib e SemiMinimi",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/letture_elettriche_per_libri_dasporto_libreria_calib_e_semiminimi/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Legami” Damiano Grasso",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -41,10 +289,66 @@
     } ,
   
     {
+      "title"    : "La saggistica ci salverà dall’estinzione? Sul saggio di Fabio Deotto",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/12/la_saggistica_ci_salver_dallestinzione_sul_saggio_di_fabio_deotto/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Io sono l’abisso” di Donato Carrisi: dal romanzo al primo ciak dell’omonimo film",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/12/io_sono_labisso_di_donato_carrisi_dal_romanzo_al_primo_ciak_dellomonimo_film/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Giovanna Amato – Un bel giorno sarà estate",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/intervista_a_giovanna_amato_un_bel_giorno_sar_estate/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Chiara Rapaccini – Piccoli amori sfigati",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/intervista_a_chiara_rapaccini_piccoli_amori_sfigati/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Rione Terra rinasce con “Puteoli Sacra” e i ragazzi di Nisida",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/12/il_rione_terra_rinasce_con_puteoli_sacra_e_i_ragazzi_di_nisida/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il desiderio, fra possibile e irrealizzabile: “Annette” di Marco Malvestio",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/12/il_desiderio_fra_possibile_e_irrealizzabile_annette_di_marco_malvestio/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Gigolè",
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2021/11/12/gigol/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Forme del conflitto ⥀ “Sogni e risvegli” di Fabrizio Bajec",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/11/12/forme_del_conflitto_sogni_e_risvegli_di_fabrizio_bajec/",
       "date"     : "2021-11-12 00:00:00 +0100"
     } ,
   
@@ -65,6 +369,22 @@
     } ,
   
     {
+      "title"    : "Dodici racconti per imparare l’arte della mutazione: “Human/”",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/11/12/dodici_racconti_per_imparare_larte_della_mutazione_human/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dalla robotopia al cyberpunk",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/11/12/dalla_robotopia_al_cyberpunk/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Dal Caos al Cosmo (contro il politicamente corretto). Dialogo con Roberto Floreani",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -73,10 +393,74 @@
     } ,
   
     {
+      "title"    : "Cucinare Stanca – Intervista a Sofia Fabiani",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/cucinare_stanca_intervista_a_sofia_fabiani/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come il linguaggio vincola il pensiero",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/11/12/come_il_linguaggio_vincola_il_pensiero/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Casa mia",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/11/12/casa_mia/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Carne in vitro chiama e la scienza risponde, il futuro è alle porte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/12/carne_in_vitro_chiama_e_la_scienza_risponde_il_futuro_alle_porte/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Annie Ernaux: l’intervista",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/12/annie_ernaux_lintervista/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "American Psycho: come la società postmoderna sottovaluta un assassino",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/12/american_psycho_come_la_societ_postmoderna_sottovaluta_un_assassino/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "America non torna più, riconciliarsi dopo la perdita",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/11/12/america_non_torna_pi_riconciliarsi_dopo_la_perdita/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "a cura di Anselmo Roveda. Atlante dei viaggi straordinari",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/12/a_cura_di_anselmo_roveda_atlante_dei_viaggi_straordinari/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "30 giorni per capire l’autismo – Intervista ad Enza Crivelli",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/12/30_giorni_per_capire_lautismo_intervista_ad_enza_crivelli/",
       "date"     : "2021-11-12 00:00:00 +0100"
     } ,
   
@@ -197,6 +581,14 @@
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/11/11/jhon_domini_risponde_a_fante/",
+      "date"     : "2021-11-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Julian Hoffman | Interview with Julian Hoffman – ITA | EN",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/11/11/intervista_a_julian_hoffman_interview_with_julian_hoffman_ita_en/",
       "date"     : "2021-11-11 00:00:00 +0100"
     } ,
   
