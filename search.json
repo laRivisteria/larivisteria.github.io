@@ -1,10 +1,106 @@
 [
   
     {
+      "title"    : "Prima un uomo",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/11/15/prima_un_uomo/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Perché ancora Socrate? Il metodo elenctico, la priorità definizionale e la fallacia",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/15/perch_ancora_socrate_il_metodo_elenctico_la_priorit_definizionale_e_la_fallacia/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’indicibile Necessarium",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/15/lindicibile_necessarium/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lawrence Durrell, il poeta maniaco delle isole. Una antologia a cura di Marco Settimini",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/15/lawrence_durrell_il_poeta_maniaco_delle_isole_una_antologia_a_cura_di_marco_settimini/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L&#39;Albero dei Morti",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/11/15/lalbero_dei_morti/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LA MODA DEI MANICHINI",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/11/15/la_moda_dei_manichini/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giorgiomaria Cornelio. La consegna delle braci",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/15/giorgiomaria_cornelio_la_consegna_delle_braci/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Solo una canzone di Roberto Livi: una tragicommedia all’italiana. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/14/solo_una_canzone_di_roberto_livi_una_tragicommedia_allitaliana_recensione/",
+      "date"     : "2021-11-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rami e fronde tra noi e il cielo",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/11/14/rami_e_fronde_tra_noi_e_il_cielo/",
+      "date"     : "2021-11-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Merope – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/14/merope_personaggio_della_settimana/",
+      "date"     : "2021-11-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“L’Ospite di sé stesso” – Intervista ad Achille Pignatelli",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/11/14/lospite_di_s_stesso_intervista_ad_achille_pignatelli/",
+      "date"     : "2021-11-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Casimiro Piccolo di Calanovella",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/11/14/casimiro_piccolo_di_calanovella/",
+      "date"     : "2021-11-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Blue Bus, il mare al centro",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/14/blue_bus_il_mare_al_centro/",
       "date"     : "2021-11-14 00:00:00 +0100"
     } ,
   
@@ -101,6 +197,14 @@
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/11/13/le_dame_del_faubourg_romanzo_storico_da_un_milione_di_copie_che_celebra_le_grandi_donne_francesi/",
+      "date"     : "2021-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’Arminuta di Giuseppe Bonito | In Sala",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/11/13/larminuta_di_giuseppe_bonito_in_sala/",
       "date"     : "2021-11-13 00:00:00 +0100"
     } ,
   
@@ -317,6 +421,14 @@
       "category" : "letture-metropolitane",
       "tags"     : "letture-metropolitane",
       "url"      : "/2021/11/12/intervista_a_chiara_rapaccini_piccoli_amori_sfigati/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In fiamme",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/11/12/in_fiamme/",
       "date"     : "2021-11-12 00:00:00 +0100"
     } ,
   
