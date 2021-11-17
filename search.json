@@ -1,6 +1,342 @@
 [
   
     {
+      "title"    : "Uno sguardo in attesa | Il cinema di David Lowery",
+      "category" : "duemilauno",
+      "tags"     : "duemilauno",
+      "url"      : "/2021/11/17/uno_sguardo_in_attesa_il_cinema_di_david_lowery/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Storie di Fiorino: lago in collina",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/17/storie_di_fiorino_lago_in_collina/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Passioni e speranze esaurite, il sabato italiano di Palomar",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/17/passioni_e_speranze_esaurite_il_sabato_italiano_di_palomar/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Parole. La mia eredità. La mia condanna”. Sulle Lettere di Alejandra Pizarnik",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/17/parole_la_mia_eredit_la_mia_condanna_sulle_lettere_di_alejandra_pizarnik/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“L’improvvisa incursione dell’irrealtà”. W.G. Sebald, una biografia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/17/limprovvisa_incursione_dellirrealt_wg_sebald_una_biografia/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Divino",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/11/17/divino/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Daniele Mencarelli. Sempre tornare",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/17/daniele_mencarelli_sempre_tornare/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Billy Summers: il thriller di Stephen King è in libreria",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/17/billy_summers_il_thriller_di_stephen_king_in_libreria/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Viaggio, verità e realtà (parenti come corpo e ologramma)",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/16/viaggio_verit_e_realt_parenti_come_corpo_e_ologramma/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stephanie Wrobel. Cara Rose Gold",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/16/stephanie_wrobel_cara_rose_gold/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "SOS Nuova Delhi, lockdown per la città che sta soffocando",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/16/sos_nuova_delhi_lockdown_per_la_citt_che_sta_soffocando/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scrittura nostalgica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/16/scrittura_nostalgica/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "SACRED SPACES, IL NUOVO ALBUM LIVE DI SYML",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/11/16/sacred_spaces_il_nuovo_album_live_di_syml/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Alessio Forgione, chi è? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/16/ritratti_di_scrittori_alessio_forgione_chi_scoprilo_in_5_parole/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recensione del corso tenuto dal mestro Lolli Nicola a Roma",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/11/16/recensione_del_corso_tenuto_dal_mestro_lolli_nicola_a_roma/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Raffaele Notaro. Densità Mondadori",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/16/raffaele_notaro_densit_mondadori/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quando la moglie è in vacanza | Il pianerottolo",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/11/16/quando_la_moglie_in_vacanza_il_pianerottolo/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Petrarchismo e oggetti interposti in “Quanti” di Flavio Santi",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/16/petrarchismo_e_oggetti_interposti_in_quanti_di_flavio_santi/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maizo – Una novella di Elena Giorgiana Mirabelli",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/11/16/maizo_una_novella_di_elena_giorgiana_mirabelli/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Litania nervosa. Intervista a Marco Simonelli",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/16/litania_nervosa_intervista_a_marco_simonelli/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Lasciami essere il tuo unicorno”. Cortázar &amp; Cristina Peri Rossi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/16/lasciami_essere_il_tuo_unicorno_cortzar_cristina_peri_rossi/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ariosa Lombardia",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/16/lariosa_lombardia/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Infami tutti",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/11/16/infami_tutti/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In principio fu il male",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/16/in_principio_fu_il_male/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il desiderio elementare",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/11/16/il_desiderio_elementare/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I semi del Furore. Popolizio legge Steinbeck",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/11/16/i_semi_del_furore_popolizio_legge_steinbeck/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I cambiamenti climatici nell’arte: la mostra “Rescue it! Artisti in movimento”",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/11/16/i_cambiamenti_climatici_nellarte_la_mostra_rescue_it_artisti_in_movimento/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Erica",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/16/erica/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#dovescrivere – AlfaBaita",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/11/16/dovescrivere_alfabaita/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "DELIVER US FROM EVIL/HEADSHOT/FROM A HOUSE ON WILLOW STREET/STRANGLED",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/16/deliver_us_from_evilheadshotfrom_a_house_on_willow_streetstrangled/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coefore",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/11/16/coefore/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Carillon” di Ottavia Marchiori",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/11/16/carillon_di_ottavia_marchiori/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Barrera, un faro per prendere le distanze da se stessa",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/16/barrera_un_faro_per_prendere_le_distanze_da_se_stessa/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ariaferma. Conversazione con Leonardo Di Costanzo",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/16/ariaferma_conversazione_con_leonardo_di_costanzo/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Animal studies, letteratura e animalità",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/16/animal_studies_letteratura_e_animalit/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Angeli che vogliono la passione e tentano di animare gli imbecilli: da Périer a Wenders",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/16/angeli_che_vogliono_la_passione_e_tentano_di_animare_gli_imbecilli_da_prier_a_wenders/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Andrea Cotti. L’impero di mezzo",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/16/andrea_cotti_limpero_di_mezzo/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "A miracle of boxes",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/11/16/a_miracle_of_boxes/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "10 pellicole dei 90s che non puoi non aver visto!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/16/10_pellicole_dei_90s_che_non_puoi_non_aver_visto/",
+      "date"     : "2021-11-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un salto nel vuoto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/15/un_salto_nel_vuoto/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Spazi del possibile: il libro che analizza il fenomeno a partire dall’esperienza di ‘culturability’",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/15/spazi_del_possibile_il_libro_che_analizza_il_fenomeno_a_partire_dallesperienza_diculturability/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sarajevo, oggi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/15/sarajevo_oggi/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Prima un uomo",
       "category" : "singola",
       "tags"     : "singola",
@@ -17,10 +353,74 @@
     } ,
   
     {
+      "title"    : "“Pensa il risveglio”: la narrazione come architettura",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/11/15/pensa_il_risveglio_la_narrazione_come_architettura/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nel corpo e nel sangue: maternità, lingua e italianità in Ubah Cristina Ali Farah",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/15/nel_corpo_e_nel_sangue_maternit_lingua_e_italianit_in_ubah_cristina_ali_farah/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Museo dell’Antica Kaulon a Monasterace: iniziati i lavori di rinnovamento",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/15/museo_dellantica_kaulon_a_monasterace_iniziati_i_lavori_di_rinnovamento/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Meteomagia: le previsioni del tempo nel folklore contadino",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/11/15/meteomagia_le_previsioni_del_tempo_nel_folklore_contadino/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mastro Geppetto",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/11/15/mastro_geppetto/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Manallart presenta “700 Volte Dante Alighieri a Forcella”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/15/manallart_presenta_700_volte_dante_alighieri_a_forcella/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "L’indicibile Necessarium",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/11/15/lindicibile_necessarium/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lettere al maestro. Una speculazione attorno a tre minute di Emily Dickinson che hanno dato vita a un Mistery Case mai risolto, che qui risolviamo. Ipertesto",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/11/15/lettere_al_maestro_una_speculazione_attorno_a_tre_minute_di_emily_dickinson_che_hanno_dato_vita_a_un_mistery_case_mai_risolto_che_qui_risolviamo_ipertesto/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le donne-calcolatrici di Harvard",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/11/15/le_donne-calcolatrici_di_harvard/",
       "date"     : "2021-11-15 00:00:00 +0100"
     } ,
   
@@ -41,6 +441,14 @@
     } ,
   
     {
+      "title"    : "La morte del padre, Giulio Perrone strozza cuore e ragione",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/15/la_morte_del_padre_giulio_perrone_strozza_cuore_e_ragione/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "LA MODA DEI MANICHINI",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
@@ -49,10 +457,130 @@
     } ,
   
     {
+      "title"    : "La bellezza dell’effimero: la street art non va al museo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/15/la_bellezza_delleffimero_la_street_art_non_va_al_museo/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I tesori dell’ultimo viaggio di Tutankhamon",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/15/i_tesori_dellultimo_viaggio_di_tutankhamon/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giulia Capraro, giovane vita al servizio degli animali",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/15/giulia_capraro_giovane_vita_al_servizio_degli_animali/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Giorgiomaria Cornelio. La consegna delle braci",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/15/giorgiomaria_cornelio_la_consegna_delle_braci/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Frida nella magica selva di “Gringolandia”",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/11/15/frida_nella_magica_selva_di_gringolandia/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "COP 26: FALLIMENTO O PUNTO DI PARTENZA?",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/11/15/cop_26_fallimento_o_punto_di_partenza/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Confessioni di un pédé",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/11/15/confessioni_di_un_pd/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chiamami col mio nome: Ilse Aichinger",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/15/chiamami_col_mio_nome_ilse_aichinger/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "جهاد! (Benvenuti in Eurabia)",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/11/15/benvenuti_in_eurabia/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Attraverso cinque Paesi – La storia vera di Enaiatollah Akbari",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/11/15/attraverso_cinque_paesi_la_storia_vera_di_enaiatollah_akbari/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Alessandro Haber inarrestabile: “Dovrei fare un libro di 500 pagine solo di scop*te. Tutti pensavano fossi un cocainomane ma ero solo esuberante…”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/15/attenzionealessandro_haber_inarrestabile_dovrei_fare_un_libro_di_500_pagine_solo_di_scopte_tutti_pensavano_fossi_un_cocainomane_ma_ero_solo_esuberante/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Alba, Enzo Iacchetti fa cadere un tartufo bianco venduto all’asta per oltre 5mila euro",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/15/attenzionealba_enzo_iacchetti_fa_cadere_un_tartufo_bianco_venduto_allasta_per_oltre_5mila_euro/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Ad “Amici” lite tra Serena e Alex, mentre Guido pensa di uscire",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/15/attenzionead_amici_lite_tra_serena_e_alex_mentre_guido_pensa_di_uscire/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Andy Warhol Super Pop”, la mostra evento a Torino",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/15/andy_warhol_super_pop_la_mostra_evento_a_torino/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "After the End di Dennis Kelly al Teatro ZTN è una pièce teatrale necessaria ed attuale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/15/after_the_end_di_dennis_kelly_al_teatro_ztn_una_pice_teatrale_necessaria_ed_attuale/",
+      "date"     : "2021-11-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Acciaio",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/15/acciaio/",
       "date"     : "2021-11-15 00:00:00 +0100"
     } ,
   
