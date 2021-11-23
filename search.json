@@ -1,6 +1,94 @@
 [
   
     {
+      "title"    : "Un’esperienza formativa",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/23/unesperienza_formativa/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sporcarsi le mani con Dostoevskij",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/23/sporcarsi_le_mani_con_dostoevskij/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sfacciatamente intellettuale. Sull’ultimo libro di Sabino Cassese",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/23/sfacciatamente_intellettuale_sullultimo_libro_di_sabino_cassese/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La notte di Vito” di Antonio Francesco Perozzi",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/11/23/la_notte_di_vito_di_antonio_francesco_perozzi/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Roberto Ritondale: “Al di là di molti riconoscimenti, il premio più bello è sapere che mio padre apprezzava quel che scrivevo da piccolo”",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/11/23/intervista_a_roberto_ritondale_al_di_l_di_molti_riconoscimenti_il_premio_pi_bello_sapere_che_mio_padre_apprezzava_quel_che_scrivevo_da_piccolo/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Carlo Lucarelli. Léon",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/23/carlo_lucarelli_lon/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bravo Valerio!",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/23/bravo_valerio/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bisque | Giorgia Giuliano",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/11/23/bisque_giorgia_giuliano/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bimbo in fiamme: il gesuita impiccato &amp; Antonin Artaud",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/23/bimbo_in_fiamme_il_gesuita_impiccato_antonin_artaud/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Voce del verbo ritornare: “L’Arminuta” di Giuseppe Bonito",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/11/22/voce_del_verbo_ritornare_larminuta_di_giuseppe_bonito/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stephen King. Billy Summers",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/22/stephen_king_billy_summers/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Perché ancora Socrate? Il metodo elenctico, la priorità definizionale e la fallacia – Parte II",
       "category" : "quaerere",
       "tags"     : "quaerere",
@@ -17,10 +105,42 @@
     } ,
   
     {
+      "title"    : "No time to die | Essere figlia di Bond",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/11/22/no_time_to_die_essere_figlia_di_bond/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mulholland Drive, in bilico tra realtà e finzione",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/22/mulholland_drive_in_bilico_tra_realt_e_finzione/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "L’odore dell’arrivo",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/11/22/lodore_dellarrivo/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le poesie di Andrea Napoli per I Masnadieri sabato 27 a Cosenza",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/11/22/le_poesie_di_andrea_napoli_per_i_masnadieri_sabato_27_a_cosenza/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le novità Neri Pozza di novembre 2021",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/22/le_novit_neri_pozza_di_novembre_2021/",
       "date"     : "2021-11-22 00:00:00 +0100"
     } ,
   
@@ -49,10 +169,34 @@
     } ,
   
     {
+      "title"    : "La vittoria della ragione. “Noi” di Evegenij Zamjatin",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/22/la_vittoria_della_ragione_noi_di_evegenij_zamjatin/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La parola al non detto",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/11/22/la_parola_al_non_detto/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La civiltà dell’Ospizio e dell’omologazione. Zitti tutti, parla Limonov",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/11/22/la_civilt_dellospizio_e_dellomologazione_zitti_tutti_parla_limonov/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In Vino veritas",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/22/in_vino_veritas/",
       "date"     : "2021-11-22 00:00:00 +0100"
     } ,
   
@@ -65,6 +209,30 @@
     } ,
   
     {
+      "title"    : "Il banchetto annuale della confraternita dei becchini",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/11/22/il_banchetto_annuale_della_confraternita_dei_becchini/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Goliarda Sapienza: Appuntamento a Positano. Note sul paesaggio",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/22/goliarda_sapienza_appuntamento_a_positano_note_sul_paesaggio/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Francesco Ottonello | Isola aperta",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/11/22/francesco_ottonello_isola_aperta/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Droga Traduzioni: Il gruppo pop glam italiano accusa le star dell’Eurovision Måneskin di copiare il loro look anni ’70.",
       "category" : "droga",
       "tags"     : "droga",
@@ -73,10 +241,66 @@
     } ,
   
     {
+      "title"    : "DMT: un’iniziazione",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/11/22/dmt_uniniziazione/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "DIECI NOVELLE, DIECI AUTORI: IL NUOVO DECAMERON",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/11/22/dieci_novelle_dieci_autori_il_nuovo_decameron/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cosa leggere in autunno? I libri consigliati da leggere",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/22/cosa_leggere_in_autunno_i_libri_consigliati_da_leggere/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Civil war: ti schieri con Pavlov o Skinner?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/22/civil_war_ti_schieri_con_pavlov_o_skinner/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bill",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/11/22/bill/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ČAPEK, l’autoproduzione che (r)esiste",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/22/apek_lautoproduzione_che_resiste/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Antonella Sica | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/11/22/antonella_sica_poesie/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amici di strada compagni di vita, il progetto di Save the dogs",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/22/amici_di_strada_compagni_di_vita_il_progetto_di_save_the_dogs/",
       "date"     : "2021-11-22 00:00:00 +0100"
     } ,
   
@@ -117,6 +341,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/11/21/la_leggenda_di_san_leucio_di_atessa/",
+      "date"     : "2021-11-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Io Incendio: Come strappare lungo i bordi",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/11/21/io_incendio_come_strappare_lungo_i_bordi/",
       "date"     : "2021-11-21 00:00:00 +0100"
     } ,
   
@@ -2221,6 +2453,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/11/11/la_pirateria_del_pensiero_benjamin_fondane_victoria_ocampo/",
+      "date"     : "2021-11-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "John Domini risponde a Fante",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/11/11/john_domini_risponde_a_fante/",
       "date"     : "2021-11-11 00:00:00 +0100"
     } ,
   
