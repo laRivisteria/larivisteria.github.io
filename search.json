@@ -1,6 +1,86 @@
 [
   
     {
+      "title"    : "Zerocalcare e Marracash.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/24/zerocalcare_e_marracash/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Su «Quando tornerò» di Marco Balzano",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/24/su_quando_torner_di_marco_balzano/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Storia di Elsa Triolet, la donna di ghiaccio. Amò Majakovskij e fece coppia con Aragon",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/24/storia_di_elsa_triolet_la_donna_di_ghiaccio_am_majakovskij_e_fece_coppia_con_aragon/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Martine Desjardins. Medusa",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/24/martine_desjardins_medusa/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’armatura",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/11/24/larmatura/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La ninna nanna delle mosche fra Cile e Lucania di Alessio Arena",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/11/24/la_ninna_nanna_delle_mosche_fra_cile_e_lucania_di_alessio_arena/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il vaso",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/11/24/il_vaso/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "HUMAN/ Corpi ibridi, mutanti e fluidi nell’universo del possibile",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/24/human_corpi_ibridi_mutanti_e_fluidi_nelluniverso_del_possibile/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Conta i minuti della sua dannazione chi ama e sospetta”. Una lettura dell’Otello di Shakespeare",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/24/conta_i_minuti_della_sua_dannazione_chi_ama_e_sospetta_una_lettura_dellotello_di_shakespeare/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "What’s cellar door?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/23/whats_cellar_door/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Un’esperienza formativa",
       "category" : "quaerere",
       "tags"     : "quaerere",
@@ -25,10 +105,98 @@
     } ,
   
     {
+      "title"    : "Semana Cholita – Incontri, presentazioni e seminari dedicati al poeta César Vallejo",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/11/23/semana_cholita_incontri_presentazioni_e_seminari_dedicati_al_poetacsar_vallejo/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sagittario",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/11/23/sagittario/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recensione di Double JOIJYO colino cucina 2pz",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/11/23/recensione_di_double_joijyo_colino_cucina_2pz/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Procida capitale italiana della cultura 2022: ecco il programma",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/23/procida_capitale_italiana_della_cultura_2022_ecco_il_programma/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pitture infamanti di Giuseppe Nava (Capitolo I) ⥀ Passaggi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/11/23/pitture_infamanti_di_giuseppe_nava_capitolo_i_passaggi/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Medea o della dignità ritrovata",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/23/medea_o_della_dignit_ritrovata/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maschere di gomma ed epifanie negative. L’horror americano e la tragedia greca",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/23/maschere_di_gomma_ed_epifanie_negative_lhorror_americano_e_la_tragedia_greca/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Carretta | Poesie￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/11/23/marco_carretta_poesie/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ludovica con la C",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/11/23/ludovica_con_la_c/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La spora",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/11/23/la_spora/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“La notte di Vito” di Antonio Francesco Perozzi",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/11/23/la_notte_di_vito_di_antonio_francesco_perozzi/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Jaime Fountaine – Nascondersi",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/11/23/jaime_fountaine_nascondersi/",
       "date"     : "2021-11-23 00:00:00 +0100"
     } ,
   
@@ -41,10 +209,74 @@
     } ,
   
     {
+      "title"    : "Il racconto del mercoledì: A-MORphing, ovvero il mal d’amore nell’epoca della computer grafica di Lida Poliero",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/23/il_racconto_del_mercoled_a-morphing_ovvero_il_mal_damore_nellepoca_della_computer_grafica_di_lida_poliero/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I luoghi di Montalbano",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/11/23/i_luoghi_di_montalbano/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Guardare una rivista, leggere un film | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/11/23/guardare_una_rivista_leggere_un_film_in_translation/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Grado zero. Zerocalcare e immaginario",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/23/grado_zero_zerocalcare_e_immaginario/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli italiani maestri di gestualità insegnano a esprimersi senza le parole",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/23/gli_italiani_maestri_di_gestualit_insegnano_a_esprimersi_senza_le_parole/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gioventù Basata",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/11/23/giovent_basata/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Carlotta Curti – Bio",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/11/23/carlotta_curti_bio/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Carlo Lucarelli. Léon",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/23/carlo_lucarelli_lon/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cappuccino",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/11/23/cappuccino/",
       "date"     : "2021-11-23 00:00:00 +0100"
     } ,
   
@@ -69,6 +301,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/11/23/bimbo_in_fiamme_il_gesuita_impiccato_antonin_artaud/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bataille Renaissance",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/11/23/bataille_renaissance/",
       "date"     : "2021-11-23 00:00:00 +0100"
     } ,
   
@@ -277,6 +517,14 @@
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2021/11/22/bill/",
+      "date"     : "2021-11-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Area 22. De Luca e cinque donne bibliche profane e sacre",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/22/area_22_de_luca_e_cinque_donne_bibliche_profane_e_sacre/",
       "date"     : "2021-11-22 00:00:00 +0100"
     } ,
   
@@ -681,6 +929,14 @@
     } ,
   
     {
+      "title"    : "La fuga dei corpi (estratto)",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/11/19/la_fuga_dei_corpi_estratto/",
+      "date"     : "2021-11-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La costituzione è un testo sacro. Salviamola! Sul seminario di Mauro Scardovelli",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -1045,6 +1301,14 @@
       "category" : "spaghetti-writers",
       "tags"     : "spaghetti-writers",
       "url"      : "/2021/11/17/spaghetti_allassassina/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sabato sera",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/11/17/sabato_sera/",
       "date"     : "2021-11-17 00:00:00 +0100"
     } ,
   
@@ -2065,6 +2329,14 @@
     } ,
   
     {
+      "title"    : "Sono come noi, ma si sentono comunicativi (o della Santa Inquisizione dell’Internet)",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/12/sono_come_noi_ma_si_sentono_comunicativi_o_della_santa_inquisizione_dellinternet/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Solo una canzone – Intervista a Roberto Livi",
       "category" : "letture-metropolitane",
       "tags"     : "letture-metropolitane",
@@ -2277,6 +2549,14 @@
       "category" : "letture-metropolitane",
       "tags"     : "letture-metropolitane",
       "url"      : "/2021/11/12/cucinare_stanca_intervista_a_sofia_fabiani/",
+      "date"     : "2021-11-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Costellazione familiare",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/11/12/costellazione_familiare/",
       "date"     : "2021-11-12 00:00:00 +0100"
     } ,
   
@@ -2830,6 +3110,14 @@
       "tags"     : "altri-animali",
       "url"      : "/2021/11/10/andarsene_da_tutti_i_luoghi_le_cattive_di_camila_sosa_villada/",
       "date"     : "2021-11-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vischiosità",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/11/09/vischiosit/",
+      "date"     : "2021-11-09 00:00:00 +0100"
     } ,
   
     {
@@ -3417,6 +3705,14 @@
     } ,
   
     {
+      "title"    : "CRACK Speciale Dora Nera – Cicatrici di Mattia Grigolo",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/11/08/crack_speciale_dora_nera_cicatrici_di_mattia_grigolo/",
+      "date"     : "2021-11-08 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "CRACK Speciale Dora Nera – Area di servizio di Giovanni Buttitta",
       "category" : "crack",
       "tags"     : "crack",
@@ -3813,6 +4109,14 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/11/05/lambtitaneblack_hollow_cageviolation/",
+      "date"     : "2021-11-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La carriola sull’aia",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/11/05/la_carriola_sullaia/",
       "date"     : "2021-11-05 00:00:00 +0100"
     } ,
   
@@ -4373,6 +4677,14 @@
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/11/03/cosa_c_dietro_al_segreto_della_massoneria/",
+      "date"     : "2021-11-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come in una commedia romantica",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/11/03/come_in_una_commedia_romantica/",
       "date"     : "2021-11-03 00:00:00 +0100"
     } ,
   
