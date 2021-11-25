@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "Paolo Maggis inedito. Lui, Bigas Luna",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/25/paolo_maggis_inedito_lui_bigas_luna/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Moresco è “un fuoco che non scorre”. Un pessimista!",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/25/moresco_un_fuoco_che_non_scorre_un_pessimista/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mauro Maraschi. Rogozov",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/25/mauro_maraschi_rogozov/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’originale Odissea di Di Dio, un viaggio verso la… felicità!",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/25/loriginale_odissea_di_di_dio_un_viaggio_verso_la_felicit/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’illusione di una curva che mi rappresenti (ovvero la vita come un grafico)",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/11/25/lillusione_di_una_curva_che_mi_rappresenti_ovvero_la_vita_come_un_grafico/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il mondo è malato: non puoi che impazzire. Elémire Zolla &amp; la schizofrenica",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/25/il_mondo_malato_non_puoi_che_impazzire_elmire_zolla_la_schizofrenica/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Zerocalcare e Marracash.",
       "category" : "droga",
       "tags"     : "droga",
@@ -25,10 +73,42 @@
     } ,
   
     {
+      "title"    : "Recensioni: “Maizo” di Elena Giorgiana Mirabelli",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/24/recensioni_maizo_di_elena_giorgiana_mirabelli/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quali porte apre questa chiave? “Crossroads” di Jonathan Franzen",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/24/quali_porte_apre_questa_chiave_crossroads_di_jonathan_franzen/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nova, o l’epica della normalità",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/24/nova_o_lepica_della_normalit/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Martine Desjardins. Medusa",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/24/martine_desjardins_medusa/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 24 Novembre 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/11/24/le_news_letterarie_24_novembre_2021/",
       "date"     : "2021-11-24 00:00:00 +0100"
     } ,
   
@@ -41,10 +121,34 @@
     } ,
   
     {
+      "title"    : "La psichiatria va messa in discussione",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/11/24/la_psichiatria_va_messa_in_discussione/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La ninna nanna delle mosche fra Cile e Lucania di Alessio Arena",
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
       "url"      : "/2021/11/24/la_ninna_nanna_delle_mosche_fra_cile_e_lucania_di_alessio_arena/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "K-assandra – Puntata #3 – Desiderio",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/11/24/k-assandra_puntata_3_desiderio/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Jorge Carrascosa, l’uomo che rinunciò alla gloria eterna",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/24/jorge_carrascosa_luomo_che_rinunci_alla_gloria_eterna/",
       "date"     : "2021-11-24 00:00:00 +0100"
     } ,
   
@@ -65,10 +169,50 @@
     } ,
   
     {
+      "title"    : "Entità oscure",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/11/24/entit_oscure/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Conta i minuti della sua dannazione chi ama e sospetta”. Una lettura dell’Otello di Shakespeare",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/11/24/conta_i_minuti_della_sua_dannazione_chi_ama_e_sospetta_una_lettura_dellotello_di_shakespeare/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chi è la vera bestia? Una bestia in paradiso di Cécile Coulon",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/11/24/chi_la_vera_bestia_una_bestia_in_paradiso_di_ccile_coulon/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Caterina e Alessandria fallace. Preistoria della giornata contro la violenza sulle donne",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/24/caterina_e_alessandria_fallace_preistoria_della_giornata_contro_la_violenza_sulle_donne/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Brucia l’aria”, di Omar Di Monopoli",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/11/24/brucia_laria_di_omar_di_monopoli/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Accendini | Laura Grecale",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/11/24/accendini_laura_grecale/",
       "date"     : "2021-11-24 00:00:00 +0100"
     } ,
   
