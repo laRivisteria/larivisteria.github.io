@@ -1,10 +1,666 @@
 [
   
     {
+      "title"    : "Uno spettacolo che non dice più nulla",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/29/uno_spettacolo_che_non_dice_pi_nulla/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un tuffo al cuore: Gigi Spina",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/29/un_tuffo_al_cuore_gigi_spina/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un dramma domestico di sessantanove giorni: intervista a Marco Candida di Marino Magliani",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2021/11/29/un_dramma_domestico_di_sessantanove_giorni_intervista_a_marco_candida_di_marino_magliani/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sfamare la bomba",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/11/29/sfamare_la_bomba/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nicola Manuppelli. Domani è un posto enorme. Un’amicizia cob Chuck Kinder",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/29/nicola_manuppelli_domani_un_posto_enorme_unamicizia_cob_chuck_kinder/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’illusione di una curva che mi rappresenti (ovvero la vita come un grafico). Ipertesto",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/11/29/lillusione_di_una_curva_che_mi_rappresenti_ovvero_la_vita_come_un_grafico_ipertesto/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L&#39;Albero del Figlio",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/11/29/lalbero_del_figlio/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Julián López. Una ragazza molto bella",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/29/julin_lpez_una_ragazza_molto_bella/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il successo evolutivo è la condanna dell’Homo sapiens?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/11/29/il_successo_evolutivo_la_condanna_dellhomo_sapiens/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il migliore dei mondi possibili",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/11/29/il_migliore_dei_mondi_possibili/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I miei stupidi intenti: il dramma di essere mortali",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/11/29/i_miei_stupidi_intenti_il_dramma_di_essere_mortali/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Christian Delorenzo. Toys, storie di bambole, soldati &amp; Co.",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/29/christian_delorenzo_toys_storie_di_bambole_soldati_co/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Benvenuti nell’era della post-letteratura. Un saggio di Alain Finkielkraut",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/29/benvenuti_nellera_della_post-letteratura_un_saggio_di_alain_finkielkraut/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++49enne rivendica la proprietà del Sole: “È mio, l’ho registrato dal notaio. L’umanità deve pagarmi le tasse”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/29/attenzione49enne_rivendica_la_propriet_del_sole_mio_lho_registrato_dal_notaio_lumanit_deve_pagarmi_le_tasse/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Yoshiro Nakamatsu – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/28/yoshiro_nakamatsu_personaggio_della_settimana/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una guerra all’ultima scintilla: Tesla contro Edison",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/28/una_guerra_allultima_scintilla_tesla_contro_edison/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un racconto e una vignetta #9: Un uomo originale",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/28/un_racconto_e_una_vignetta_9_un_uomo_originale/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un gelido dicembre milanese",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/28/un_gelido_dicembre_milanese/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Spazi di realtà e nostalgia nel cinema di Wes Anderson. “The French Dispatch” e altre storie",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/11/28/spazi_di_realt_e_nostalgia_nel_cinema_di_wes_anderson_the_french_dispatch_e_altre_storie/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Silvia Lumaca. Close Encounters",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/28/silvia_lumaca_close_encounters/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Poesia – Andrea Galli",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/11/28/poesia_andrea_galli/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le lezioni di Elena Ferrante, trent’anni di mistero",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/28/le_lezioni_di_elena_ferrante_trentanni_di_mistero/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’atavico bisogno di protezione, Gamberale da… (ri)leggere",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/28/latavico_bisogno_di_protezione_gamberale_da_rileggere/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La musa di Damon Albarn ha la forma di un gigante addormentato",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/28/la_musa_di_damon_albarn_ha_la_forma_di_un_gigante_addormentato/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: La prima volta di Chiara Bertora",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/28/il_racconto_della_domenica_la_prima_volta_di_chiara_bertora/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il fascino del rosso",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/28/il_fascino_del_rosso/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Grand Tour”, a Milano una mostra sugli artisti del grande viaggio",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/28/grand_tour_a_milano_una_mostra_sugli_artisti_del_grande_viaggio/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Creature",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/11/28/creature/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bonjour Casimiro",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/28/bonjour_casimiro/",
+      "date"     : "2021-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un estratto da “Mastini, romanzo di una vita in fuga”",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/27/un_estratto_da_mastini_romanzo_di_una_vita_in_fuga/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The land of little rain, un racconto di Mary Hunter Austin",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/11/27/the_land_of_little_rain_un_racconto_di_mary_hunter_austin/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “La storia prende il treno” di Sophie Dubois-Collet",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/27/recensioni_la_storia_prende_il_treno_di_sophie_dubois-collet/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pietrasanta, installata la prima cassetta postale poetica",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/27/pietrasanta_installata_la_prima_cassetta_postale_poetica/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mrs Dalloway, l’arte di creare momenti felici",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/27/mrs_dalloway_larte_di_creare_momenti_felici/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La poesia di Edgar Allan Poe nella traduzione di Raffaela Fazio “Nevermore. Poesie di un Altrove” (Marco Saya Edizioni, 2021)",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/27/la_poesia_di_edgar_allan_poe_nella_traduzione_di_raffaela_fazio_nevermore_poesie_di_un_altrove_marco_saya_edizioni_2021/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Corea è invasa dai Gumiho",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/27/la_corea_invasa_dai_gumiho/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il grande genocidio dimenticato. L’holodomor si ricorda oggi.",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/27/il_grande_genocidio_dimenticato_lholodomor_si_ricorda_oggi/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I vestiti raccontano (di) chi siamo",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/11/27/i_vestiti_raccontano_di_chi_siamo/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Ho ballato la Vita”. In onore di Kazuo Ohno",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/27/ho_ballato_la_vita_in_onore_di_kazuo_ohno/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #119",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/11/27/fantastico_119/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elio Grasso in “Novecento ai confini” è poeta inviolato, abita vegetazioni brade",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/27/elio_grasso_in_novecento_ai_confini_poeta_inviolato_abita_vegetazioni_brade/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Do You Still Want to Play?",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/11/27/do_you_still_want_to_play/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cosa ci siamo persi? ⥀ Alcune Osservazioni sulla poesia di Marco Giovenale",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/11/27/cosa_ci_siamo_persi_alcune_osservazioni_sulla_poesia_di_marco_giovenale/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Caro Harry, si rimane con te fino alla fine",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/27/caro_harry_si_rimane_con_te_fino_alla_fine/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Annus Mirabilis 1922 ⥀ Un incontro online dedicato a C.Vallejo e T.S.Eliot",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/11/27/annus_mirabilis_1922_un_incontro_online_dedicato_a_cvallejo_e_tseliot/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vanilla Sky | Sognare di cadere",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/11/26/vanilla_sky_sognare_di_cadere/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vai con la pizza…pistacchio e mortadella!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/26/vai_con_la_pizzapistacchio_e_mortadella/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tu credi ai Ghostwriter?",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/11/26/tu_credi_ai_ghostwriter/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sotto il sole della KaliFormia",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/11/26/sotto_il_sole_della_kaliformia/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "SOLO DI AUGUST STRINDBERG. INTERVISTA AL PROF. FRANCO PERRELLI, TRADUTTORE DELL&#39;OPERA",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/11/26/solo_di_august_strindberg_intervista_al_prof_franco_perrelli_traduttore_dellopera/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Si può solo “restare in silenzio” come Pablo Neruda",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/26/si_pu_solo_restare_in_silenzio_come_pablo_neruda/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Shirley Jackson, la paura svela ciò che sembra incomprensibile",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/26/shirley_jackson_la_paura_svela_ci_che_sembra_incomprensibile/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sbaglio e Geomag in “Omissis” di Carlo Bellinvia",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/11/26/sbaglio_e_geomag_in_omissis_di_carlo_bellinvia/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rimangano i corpi, un racconto di G. Bindi || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/11/26/rimangano_i_corpi_un_racconto_di_g_bindi_street_stories/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Perché l’assoluzione di Kyle Rittenhouse è giusta | Vetrina",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/11/26/perch_lassoluzione_di_kyle_rittenhouse_giusta_vetrina/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nota di lettura su “Unità stratigrafiche” di Laura Liberale, Arcipelago Itaca, 2020.",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/26/nota_di_lettura_su_unit_stratigrafiche_di_laura_liberale_arcipelago_itaca_2020/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nona Fernandez. Voyager",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/26/nona_fernandez_voyager/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non lasciarti ingannare dai titoli, a volte mentono",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/26/non_lasciarti_ingannare_dai_titoli_a_volte_mentono/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non ci sono poteri buoni – L’età dell’oro di Cyril Pedrosa",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/11/26/non_ci_sono_poteri_buoni_let_delloro_di_cyril_pedrosa/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Michelstaedter Superstar",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/11/26/michelstaedter_superstar/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mai visti prima",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/11/26/mai_visti_prima/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lola corre",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/11/26/lola_corre/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’importanza di chiamarsi Kim Ji-Young",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/11/26/limportanza_di_chiamarsi_kim_ji-young/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : " L’immobilità del tempo nel Sud Italia: “Fortunato” di Bruno Larosa",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/11/26/limmobilit_del_tempo_nel_sud_italia_fortunato_di_bruno_larosa/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Le sang, la merde et le sexe”: apoteosi di Roland Topor",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/26/le_sang_la_merde_et_le_sexe_apoteosi_di_roland_topor/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Kei Miller. Augustown",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/26/kei_miller_augustown/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Inner Future",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/26/inner_future/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In der Nacht",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/26/in_der_nacht/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Impressioni di una gita a Sferopoli",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/26/impressioni_di_una_gita_a_sferopoli/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il ritorno dell’Hacker Porn Film Festival.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/26/il_ritorno_dellhacker_porn_film_festival/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il problema non sussiste",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/11/26/il_problema_non_sussiste/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "How To Be Animal | Melanie Challenger – dall’estero",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/11/26/how_to_be_animal_melanie_challenger_dallestero/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "E se fossimo solamente esausti ? Addolorati e stanchi come i personaggi di Beckett",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/26/e_se_fossimo_solamente_esausti_addolorati_e_stanchi_come_i_personaggi_di_beckett/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cosa ci insegna la crisi climatica del 1300?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/11/26/cosa_ci_insegna_la_crisi_climatica_del_1300/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buñuel e un tetto di tartarughe diseredate",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/26/buuel_e_un_tetto_di_tartarughe_diseredate/",
+      "date"     : "2021-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una Stagione all’inferno a Gas ⥀ (Un Disturbo Ossessivo-Compulsivo)",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/11/25/una_stagione_allinferno_a_gas_un_disturbo_ossessivo-compulsivo/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una segnalazione.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/25/una_segnalazione/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Senza impegno – la tavola rotonda",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/25/senza_impegno_la_tavola_rotonda/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Se questo è un gioco”: Avviso Pubblico e Fondazione Adventum presentano il progetto per combattere la dipendenza da azzardo",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/25/se_questo_un_gioco_avviso_pubblico_e_fondazione_adventum_presentano_il_progetto_per_combattere_la_dipendenza_da_azzardo/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Raccontare lo straniamento. “Un amore” di Sara Mesa",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/25/raccontare_lo_straniamento_un_amore_di_sara_mesa/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Poesie di Francesco Papallo",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/11/25/poesie_di_francesco_papallo/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Paolo Maggis inedito. Lui, Bigas Luna",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/25/paolo_maggis_inedito_lui_bigas_luna/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nel paese del Magnano",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/11/25/nel_paese_del_magnano/",
       "date"     : "2021-11-25 00:00:00 +0100"
     } ,
   
@@ -17,10 +673,26 @@
     } ,
   
     {
+      "title"    : "Michele Granzotto | L’intorno",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/11/25/michele_granzotto_lintorno/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Mauro Maraschi. Rogozov",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/25/mauro_maraschi_rogozov/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’originale Odissea di Di Dio, un viaggio verso… l’inafferrabile",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/25/loriginale_odissea_di_di_dio_un_viaggio_verso_linafferrabile/",
       "date"     : "2021-11-25 00:00:00 +0100"
     } ,
   
@@ -41,10 +713,74 @@
     } ,
   
     {
+      "title"    : "Leslie Kern – Feminist City",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/11/25/leslie_kern_feminist_city/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il raggio verde",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/25/il_raggio_verde/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il mondo è malato: non puoi che impazzire. Elémire Zolla &amp; la schizofrenica",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/11/25/il_mondo_malato_non_puoi_che_impazzire_elmire_zolla_la_schizofrenica/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il mondo immaginario di Raúl Zurita",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/25/il_mondo_immaginario_di_ral_zurita/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli altruisti di Andrew Ridker: storia di un disastroso ricongiungimento familiare. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/25/gli_altruisti_di_andrew_ridker_storia_di_un_disastroso_ricongiungimento_familiare_recensione/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Enough! | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/11/25/enough_in_translation/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Distopia del ritorno",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/25/distopia_del_ritorno/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Daniele Del Giudice: prendere la mira",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/25/daniele_del_giudice_prendere_la_mira/",
+      "date"     : "2021-11-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Compendio di Groenlandia | Un Kosmonavt sulla Terra",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/11/25/compendio_di_groenlandia_un_kosmonavt_sulla_terra/",
       "date"     : "2021-11-25 00:00:00 +0100"
     } ,
   
@@ -201,10 +937,26 @@
     } ,
   
     {
+      "title"    : "Callados",
+      "category" : "split",
+      "tags"     : "split",
+      "url"      : "/2021/11/24/callados/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Brucia l’aria”, di Omar Di Monopoli",
       "category" : "il-loggione-letterario",
       "tags"     : "il-loggione-letterario",
       "url"      : "/2021/11/24/brucia_laria_di_omar_di_monopoli/",
+      "date"     : "2021-11-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amore non corrisposto | Racconti Indigeribili",
+      "category" : "crunched",
+      "tags"     : "crunched",
+      "url"      : "/2021/11/24/amore_non_corrisposto_racconti_indigeribili/",
       "date"     : "2021-11-24 00:00:00 +0100"
     } ,
   
