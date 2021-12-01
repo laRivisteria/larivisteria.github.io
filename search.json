@@ -1,10 +1,410 @@
 [
   
     {
+      "title"    : "Uruz: la runa del toro primordiale e del dio ambiguo Loki",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/01/uruz_la_runa_del_toro_primordiale_e_del_dio_ambiguo_loki/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“The social network” e la socialità oggetto di consumo",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/12/01/the_social_network_e_la_socialit_oggetto_di_consumo/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "THE FEAST/KNOCKING.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/12/01/the_feastknocking/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“È tardi!” il tempo dell’amore e dell’indipendenza nel testo di Eduardo Savarese",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/12/01/tardi_il_tempo_dellamore_e_dellindipendenza_nel_testo_di_eduardo_savarese/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Prodotto animale, prodotto umano",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/12/01/prodotto_animale_prodotto_umano/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pausa pranzo",
+      "category" : "racconti-dal-crocevia",
+      "tags"     : "racconti-dal-crocevia",
+      "url"      : "/2021/12/01/pausa_pranzo/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le Croci",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/01/le_croci/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Roba che rende servi: il circolo vizioso del contadino avaro",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/12/01/la_roba_che_rende_servi_il_circolo_vizioso_del_contadino_avaro/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La libertà di opinione per Simone Weil",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/12/01/la_libert_di_opinioneper_simone_weil/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La frivolezza della cose: una denuncia sulla società progressista",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/12/01/la_frivolezza_della_cose_una_denuncia_sulla_societ_progressista/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La devozione profonda di un Arctic Monkey innamorato in I Wanna Be Yours",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/12/01/la_devozione_profonda_di_un_arctic_monkey_innamorato_in_i_wanna_be_yours/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La danza senza tempo di Andrés Iniesta",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/01/la_danza_senza_tempo_di_andrs_iniesta/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Hubert e Zanzim. Pelle d’uomo",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/01/hubert_e_zanzim_pelle_duomo/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli “asiatici non meglio identificati” d’America",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/12/01/gli_asiatici_non_meglio_identificati_damerica/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Argolide",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/01/argolide/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Appunti intorno a Ripellino traduttore dei poeti russi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/01/appunti_intorno_a_ripellino_traduttore_dei_poeti_russi/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ago, filo e nodo",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2021/12/01/ago_filo_e_nodo/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una recensione bipolare di “Scurau”",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/11/30/una_recensione_bipolare_di_scurau/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Trafficare con le parole mi tiene sveglia”: Lo Russo-Sexton",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/30/trafficare_con_le_parole_mi_tiene_sveglia_lo_russo-sexton/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sergio Oricci – Volevo essere Vincent Gallo",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/11/30/sergio_oricci_volevo_essere_vincent_gallo/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scrittura e movimento",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/11/30/scrittura_e_movimento/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rosa Parks e quel no in nome dei diritti civili",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/30/rosa_parks_e_quel_no_in_nome_dei_diritti_civili/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Emersione” di Benedetta Palmieri",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/30/recensioni_emersione_di_benedetta_palmieri/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recensione del ristorante “da Rodolfo – Bello&amp;Buono”",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2021/11/30/recensione_del_ristorante_da_rodolfo_bellobuono/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Questioni di un certo peso – intervista a Costanza Rizzacasa D’Orsogna",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/30/questioni_di_un_certo_peso_intervista_a_costanza_rizzacasa_dorsogna/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Premio Sila ’49: nella cinquina “Malinverno” di Domenico Dara e “Sud” di Mario Fortunato",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/30/premio_sila_49_nella_cinquina_malinverno_di_domenico_dara_e_sud_di_mario_fortunato/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Premio Giorgio Scerbanenco 2021: la cinquina finalista",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/30/premio_giorgio_scerbanenco_2021_la_cinquina_finalista/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Padre occidentale di Simone Lisi, l’ineffabile origine dello yoga",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/30/padre_occidentale_di_simone_lisi_lineffabile_origine_dello_yoga/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nostalgie della terra",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/11/30/nostalgie_della_terra/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Non fai mai niente di personale” gli dicono. Sorrentino risponde con “È stata la mano di Dio”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/30/non_fai_mai_niente_di_personale_gli_dicono_sorrentino_risponde_con_stata_la_mano_di_dio/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Non abbiamo mai fatto l’amore come si deve”. Le rose (e le ragazze) di Orwell",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/11/30/non_abbiamo_mai_fatto_lamore_come_si_deve_le_rose_e_le_ragazze_di_orwell/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Muzing, appuntamento romantico al museo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/30/muzing_appuntamento_romantico_al_museo/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lingua tra jazz e rumba, Mujila realistico e visionario",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/11/30/lingua_tra_jazz_e_rumba_mujila_realistico_e_visionario/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L&#39;immagine fantasma di Annette",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/11/30/limmagine_fantasma_di_annette/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le parole sono gabbie",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/11/30/le_parole_sono_gabbie/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La vera me",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/30/la_vera_me/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La sublime costruzione di Gianluca Di Dio",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/11/30/la_sublime_costruzione_di_gianluca_di_dio/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Julián López. Una ragazza molto bella",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/30/julin_lpez_una_ragazza_molto_bella/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il cuore della città",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2021/11/30/il_cuore_della_citt/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I biscotti",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/11/30/i_biscotti/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Guida di sopravvivenza: giochi divertenti per persone defi… pigre, persone pigre",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/30/guida_di_sopravvivenza_giochi_divertenti_per_persone_defi_pigre_persone_pigre/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Frammenti di Francesca Marica ⥀ Passaggi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/11/30/frammenti_di_francesca_marica_passaggi/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Figli di un dio minore",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/11/30/figli_di_un_dio_minore/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Eco, conviviale, sostenibile",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/11/30/eco_conviviale_sostenibile/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buon compleanno Mosse di Seppia!",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/11/30/buon_compleanno_mosse_di_seppia/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buon Avvento dalla vostra Collins",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/11/30/buon_avvento_dalla_vostra_collins/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ANTEPRIMA: TOTALE! – Cioccolato fondente/Dimmi dove.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/11/30/anteprima_totale_cioccolato_fondentedimmi_dove/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amore senza lividi: sensibilizzare contro la violenza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/30/amore_senza_lividi_sensibilizzare_contro_la_violenza/",
+      "date"     : "2021-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "USA &amp; GETTA. L&#39;AMERICA ON THE ROAD DI SEBA PEZZANI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/11/29/usa_getta_lamerica_on_the_road_di_seba_pezzani/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Uno spettacolo che non dice più nulla",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/29/uno_spettacolo_che_non_dice_pi_nulla/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un’iniziazione al mistero dileguato. Il Pinocchio di Giorgio Agamben",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/11/29/uniniziazione_al_mistero_dileguato_il_pinocchio_di_giorgio_agamben/",
       "date"     : "2021-11-29 00:00:00 +0100"
     } ,
   
@@ -25,10 +425,74 @@
     } ,
   
     {
+      "title"    : "Tutti dentro",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/11/29/tutti_dentro/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Sfamare la bomba",
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2021/11/29/sfamare_la_bomba/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scrivere di cinema",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/29/scrivere_di_cinema/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sandro De Feo e il vento di Roma",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/29/sandro_de_feo_e_il_vento_di_roma/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rubrica: Entomologia raccontata a cura di Tommaso Lisa: Tre Charaxes jasius",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2021/11/29/rubrica_entomologia_raccontata_a_cura_di_tommaso_lisa_tre_charaxes_jasius/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Politica della (bassa) frequenza",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/11/29/politica_della_bassa_frequenza/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per soli uomini – Intervista a Guido Romeo",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/29/per_soli_uomini_intervista_a_guido_romeo/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Oltre l’umano. Come pensano le foreste di Eduardo Kohn",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/11/29/oltre_lumano_come_pensano_le_foreste_di_eduardo_kohn/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nicola Manuppelli. Domani è un posto enorme. Un’amicizia con Chuck Kinder",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/11/29/nicola_manuppelli_domani_un_posto_enorme_unamicizia_con_chuck_kinder/",
       "date"     : "2021-11-29 00:00:00 +0100"
     } ,
   
@@ -41,10 +505,66 @@
     } ,
   
     {
+      "title"    : "NATAPOETICA – Tombola poetica con Mosse di Seppia",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/11/29/natapoetica_tombola_poetica_con_mosse_di_seppia/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maria Lai, sulla fragilità che ci lega",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/11/29/maria_lai_sulla_fragilit_che_ci_lega/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maradona. L’impostore è morto, oppure no?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/29/maradona_limpostore_morto_oppure_no/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maid | Il Dyson",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/11/29/maid_il_dyson/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "L’illusione di una curva che mi rappresenti (ovvero la vita come un grafico). Ipertesto",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
       "url"      : "/2021/11/29/lillusione_di_una_curva_che_mi_rappresenti_ovvero_la_vita_come_un_grafico_ipertesto/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libri in uscita a dicembre 2021: novità e consigli letterari da non perdere",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/11/29/libri_in_uscita_a_dicembre_2021_novit_e_consigli_letterari_da_non_perdere/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le fiabe delle Opere liriche: un libro di fiabe per regalare un sorriso ai bimbi in ospedale",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/11/29/le_fiabe_delle_opere_liriche_un_libro_di_fiabe_per_regalare_un_sorriso_ai_bimbi_in_ospedale/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le attrici hanno la data di scadenza",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/11/29/le_attrici_hanno_la_data_di_scadenza/",
       "date"     : "2021-11-29 00:00:00 +0100"
     } ,
   
@@ -57,10 +577,34 @@
     } ,
   
     {
+      "title"    : "La modernità di Emily Brontë ed Emily Dickinson: “Tra di noi l’oceano” di Mattia Morretta",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/11/29/la_modernit_di_emily_bront_ed_emily_dickinson_tra_di_noi_loceano_di_mattia_morretta/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La distruzione di Yalta",
+      "category" : "specularia",
+      "tags"     : "specularia",
+      "url"      : "/2021/11/29/la_distruzione_di_yalta/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Julián López. Una ragazza molto bella",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/29/julin_lpez_una_ragazza_molto_bella/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Guido Vitiello – Il lettore sul lettino",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/11/29/intervista_a_guido_vitiello_il_lettore_sul_lettino/",
       "date"     : "2021-11-29 00:00:00 +0100"
     } ,
   
@@ -81,6 +625,22 @@
     } ,
   
     {
+      "title"    : "Il commento di Pasolini a “Delitto e castigo” di Dostoevskij",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/11/29/il_commento_di_pasolini_a_delitto_e_castigo_di_dostoevskij/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il 30 Novembre mettici una X sopra. Sant’Andrea nell’arte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/29/il_30_novembre_mettici_una_x_sopra_santandrea_nellarte/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "I miei stupidi intenti: il dramma di essere mortali",
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
@@ -89,10 +649,42 @@
     } ,
   
     {
+      "title"    : "I corpi di Ducournau | Visioni",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/11/29/i_corpi_di_ducournau_visioni/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dove siamo stati bene di Edelweiss Ripoli",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/11/29/dove_siamo_stati_bene_di_edelweiss_ripoli/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cloro",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2021/11/29/cloro/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Christian Delorenzo. Toys, storie di bambole, soldati &amp; Co.",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/11/29/christian_delorenzo_toys_storie_di_bambole_soldati_co/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chi si ricorda di Argo?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/29/chi_si_ricorda_di_argo/",
       "date"     : "2021-11-29 00:00:00 +0100"
     } ,
   
@@ -109,6 +701,22 @@
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2021/11/29/attenzione49enne_rivendica_la_propriet_del_sole_mio_lho_registrato_dal_notaio_lumanit_deve_pagarmi_le_tasse/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "9 Righe",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/11/29/9_righe/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "5 film sullo sport da dover assolutamente guardare",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/11/29/5_film_sullo_sport_da_dover_assolutamente_guardare/",
       "date"     : "2021-11-29 00:00:00 +0100"
     } ,
   
