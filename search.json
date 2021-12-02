@@ -1,10 +1,74 @@
 [
   
     {
+      "title"    : "Un libro senza amore, un coltello. “Le quattro casalinghe di Tokyo” di Kirino",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/02/un_libro_senza_amore_un_coltello_le_quattro_casalinghe_di_tokyo_di_kirino/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Oltre l&#39;accelerazione",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/12/02/oltre_laccelerazione/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Manuel de Freitas. Poco Allegretto",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/02/manuel_de_freitas_poco_allegretto/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Louisa May Alcott.Buon Natale e altri racconti",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/02/louisa_may_alcottbuon_natale_e_altri_racconti/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le streghe del Mezzanotte. Intervista a Davide Sarti",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/02/le_streghe_del_mezzanotte_intervista_a_davide_sarti/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buena Vista Social Club: Alessandro Trocino",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/02/buena_vista_social_club_alessandro_trocino/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bolidi fiammanti.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/12/02/bolidi_fiammanti/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Uruz: la runa del toro primordiale e del dio ambiguo Loki",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/12/01/uruz_la_runa_del_toro_primordiale_e_del_dio_ambiguo_loki/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Tommaso e l’algebra del destino” di Enrico Macioci",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2021/12/01/tommaso_e_lalgebra_del_destino_di_enrico_macioci/",
       "date"     : "2021-12-01 00:00:00 +0100"
     } ,
   
@@ -33,6 +97,38 @@
     } ,
   
     {
+      "title"    : "Su una gamba sola: la musica che salvò la vita di Oliver Sacks",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/01/su_una_gamba_sola_la_musica_che_salv_la_vita_di_oliver_sacks/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Solidali eppure rivali, ecco le gemelle di Sada",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/01/solidali_eppure_rivali_ecco_le_gemelle_di_sada/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Se “amaro” arriva (in tempo) da “dolce”. L’Eros di Anne Carson",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/12/01/se_amaro_arriva_in_tempo_da_dolce_leros_di_anne_carson/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rassegnatevi",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/12/01/rassegnatevi/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Prodotto animale, prodotto umano",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
@@ -49,10 +145,50 @@
     } ,
   
     {
+      "title"    : "Mont Saint-Michel, uno scenario da sogno Disney firmato UNESCO",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/01/mont_saint-michel_uno_scenario_da_sogno_disney_firmato_unesco/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Listen, ascolta",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/01/listen_ascolta/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 1 Dicembre 2021",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/12/01/le_news_letterarie_1_dicembre_2021/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE INVISIBILI SIGNORE DELLA MUSICA DI ANNA ROLLANDO. INTERVISTA CON L&#39;AUTRICE",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/12/01/le_invisibili_signore_della_musica_di_anna_rollando_intervista_con_lautrice/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Le Croci",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/12/01/le_croci/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’abbacinante luce degli inizi. Nota su Solenoide di Mircea Cărtărescu",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/01/labbacinante_luce_degli_inizi_nota_su_solenoide_di_mircea_crtrescu/",
       "date"     : "2021-12-01 00:00:00 +0100"
     } ,
   
@@ -97,6 +233,30 @@
     } ,
   
     {
+      "title"    : "Klimt: La mostra a Roma e il periodo aureo dell’artista austriaco",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/01/klimt_la_mostra_a_roma_e_il_periodo_aureo_dellartista_austriaco/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Un dio cattivo di Simone Giraudi",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/12/01/il_racconto_del_mercoled_un_dio_cattivo_di_simone_giraudi/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Killer del Loto, congegno perfetto di De Fazi",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/12/01/il_killer_del_loto_congegno_perfetto_di_de_fazi/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Hubert e Zanzim. Pelle d’uomo",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -109,6 +269,54 @@
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2021/12/01/gli_asiatici_non_meglio_identificati_damerica/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Editoriale dicembre",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/12/01/editoriale_dicembre/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dissipatio H.G., un articolo di R. Cannarsa || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/12/01/dissipatio_hg_un_articolo_di_r_cannarsa_threevial_pursuit/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Di riscoperte e rivoluzioni: il secondo avvento di Lisa Morpurgo",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/12/01/di_riscoperte_e_rivoluzioni_il_secondo_avvento_di_lisa_morpurgo/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dentro e fuori",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2021/12/01/dentro_e_fuori/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Decostruire il vittimismo”.  Intervista a Megan Nolan",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/12/01/decostruire_il_vittimismo_intervista_a_megan_nolan/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Boanērghēs",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2021/12/01/boanrghs/",
       "date"     : "2021-12-01 00:00:00 +0100"
     } ,
   
@@ -129,10 +337,26 @@
     } ,
   
     {
+      "title"    : "Anna Milbourne. Sono(quasi )sempre gentile",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/01/anna_milbourne_sonoquasi_sempre_gentile/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Ago, filo e nodo",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2021/12/01/ago_filo_e_nodo/",
+      "date"     : "2021-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Addio Marie-Claire Blais, addio alla sete di vita",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/01/addio_marie-claire_blais_addio_alla_sete_di_vita/",
       "date"     : "2021-12-01 00:00:00 +0100"
     } ,
   
