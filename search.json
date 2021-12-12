@@ -1,6 +1,438 @@
 [
   
     {
+      "title"    : "Un viaggio pericoloso nelle terre delle tre rune del ghiaccio. Mitologia norrena",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/12/un_viaggio_pericoloso_nelle_terre_delle_tre_rune_del_ghiaccio_mitologia_norrena/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Un amore immenso nella storia d’un filo d’erba”. Per i 200 anni di Flaubert",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/12/un_amore_immenso_nella_storia_dun_filo_derba_per_i_200_anni_di_flaubert/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il respiro è scultura. L’arte di Giuseppe Penone",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/12/il_respiro_scultura_larte_di_giuseppe_penone/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dante e Forese, dopo la tenzone l’affetto",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/12/dante_e_forese_dopo_la_tenzone_laffetto/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un’equazione di famiglia ne “Il silenzio grande”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/11/unequazione_di_famiglia_ne_il_silenzio_grande/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Speculari",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2021/12/11/speculari/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ὁδός. Paesaggi e narrazioni – Editoriale",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/11/paesaggi_e_narrazioni_editoriale/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "My mother",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/12/11/my_mother/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maschio, bianco, colonialista. In onore di Rudyard Kipling",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/11/maschio_bianco_colonialista_in_onore_di_rudyard_kipling/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "IPERSENSIBILITÁ",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/11/ipersensibilit/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Eravamo una famiglia felice di Alida Airaghi",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/12/11/il_racconto_della_domenica_eravamo_una_famiglia_felice_di_alida_airaghi/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I racconti finalisti e la giuria del Premio Petrarca.Fiv 2021 | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/12/11/i_racconti_finalisti_e_la_giuria_del_premio_petrarcafiv_2021_lettere/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Goccia dopo goccia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/11/goccia_dopo_goccia/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "GIOVANNA E GRETA ALL&#39;OMBRA DEL ROGO DI BRUNO POMPILI. UN DITTICO.",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/12/11/giovanna_e_greta_allombra_del_rogo_di_bruno_pompili_un_dittico/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #120",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/12/11/fantastico_120/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Diecimila passi",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/12/11/diecimila_passi/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Di astri di carne e luce al bar del Paradiso",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/12/11/di_astri_di_carne_e_luce_al_bar_del_paradiso/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Da grandi poteri derivano grandi responsabilità ⥀ Su “Freaks Out” di Gabriele Mainetti",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/12/11/da_grandi_poteri_derivano_grandi_responsabilit_su_freaks_out_di_gabriele_mainetti/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Crisi della Biodiversità",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/12/11/crisi_della_biodiversit/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cose che potresti fare per sentirti giovane",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/12/11/cose_che_potresti_fare_per_sentirti_giovane/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cose che ho imparato da Alice nel Paese delle Meraviglie",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/11/cose_che_ho_imparato_da_alice_nel_paese_delle_meraviglie/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ariosto secondo Cavazzoni, il cortigiano vuol la libertà",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/11/ariosto_secondo_cavazzoni_il_cortigiano_vuol_la_libert/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Amare il vero, il bello, cercarne l’armonia”. Alfred de Musset: un invito alla lettura (con antologia)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/11/amare_il_vero_il_bello_cercarne_larmonia_alfred_de_musset_un_invito_alla_lettura_con_antologia/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tu non sei un cavallo | Due parole su Nitrito di t_w_i_g",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/12/10/tu_non_sei_un_cavallo_due_parole_su_nitrito_di_twig/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Telmo Pievani: la serendipità nella scienza",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/12/10/telmo_pievani_la_serendipit_nella_scienza/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Su Yasmina Reza: Arte, Il dio del massacro, Babilonia",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/10/su_yasmina_reza_arte_il_dio_del_massacro_babilonia/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sottrarsi allo sguardo per riappropriarsi della voce: le trans “cattive” di Camila Sosa Villada",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/12/10/sottrarsi_allo_sguardo_per_riappropriarsi_della_voce_le_trans_cattive_di_camila_sosa_villada/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Siamo mendicanti di luce”. Dialogo con don Angelo Casati",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/10/siamo_mendicanti_di_luce_dialogo_con_don_angelo_casati/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scrivo per spronare i pochi viventi di Montale a uscire dalle tenebre",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2021/12/10/scrivo_per_spronare_i_pochi_viventi_di_montale_a_uscire_dalle_tenebre/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Roberta Lepri. Hai presente Liam Neeson?",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/10/roberta_lepri_hai_presente_liam_neeson/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Robert Louis Stevenson. L’isola del tesoro",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/10/robert_louis_stevenson_lisola_del_tesoro/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Raccontare la fine del mondo: il ritorno del non-umano",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2021/12/10/raccontare_la_fine_del_mondo_il_ritorno_del_non-umano/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Piero Piccioni 100 Experience”, Roma omaggia il grande compositore",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/12/10/piero_piccioni_100_experience_roma_omaggia_il_grande_compositore/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Parlare di precipizio equivale a cadere due volte”: Due tempi di Nunzio Bellassai.",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/12/10/parlare_di_precipizio_equivale_a_cadere_due_volte_due_tempi_di_nunzio_bellassai/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nella spirale. Intervista a Gianluca D’Andrea",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/10/nella_spirale_intervista_a_gianluca_dandrea/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Monsieur Pigeon”: la Parigi di Giuseppe",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/12/10/monsieur_pigeon_la_parigi_di_giuseppe/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mazzamauriello",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2021/12/10/mazzamauriello/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ultima volta, un racconto di S. Conforti || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/12/10/lultima_volta_un_racconto_di_s_conforti_street_stories/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’irripetibile modulazione estetica del testo",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2021/12/10/lirripetibile_modulazione_estetica_del_testo/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Leggendo Leone per un attimo il cuore non batte",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/10/leggendo_leone_per_un_attimo_il_cuore_non_batte/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le mani delle donne. Avv. Cristina Di Giovine",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/12/10/le_mani_delle_donne_avv_cristina_di_giovine/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La gustosa rivoluzione green di Carlotta Perego",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/10/la_gustosa_rivoluzione_green_di_carlotta_perego/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La crioterapia ovvero quando prendere un “colpo di freddo” fa bene",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/10/la_crioterapia_ovvero_quando_prendere_un_colpo_di_freddo_fa_bene/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In direzione ostinata e contraria",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/10/in_direzione_ostinata_e_contraria/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il regalo per Teco",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/12/10/il_regalo_per_teco/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "IDIOT-SYNCRASY e l’utopia di Igor and Moreno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/10/idiot-syncrasy_e_lutopia_di_igor_and_moreno/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I consigli dei librai indipendenti per i regali di Natale",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/12/10/i_consigli_dei_librai_indipendenti_per_i_regali_di_natale/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Don’t be a drag, just be a queen! Regine che hanno fatto la storia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/10/dont_be_a_drag_just_be_a_queen_regine_che_hanno_fatto_la_storia/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Corpo, desiderio, alterità",
+      "category" : "senzadieci",
+      "tags"     : "senzadieci",
+      "url"      : "/2021/12/10/corpo_desiderio_alterit/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come non omologarsi: voglia di differenziarsi e paura di farlo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/10/come_non_omologarsi_voglia_di_differenziarsi_e_paura_di_farlo/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Classifica di qualità – libri in traduzione del 2021",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/12/10/classifica_di_qualit_libri_in_traduzione_del_2021/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chiamami col mio nome: Margaret Atwood",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/10/chiamami_col_mio_nome_margaret_atwood/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "(a)realismo minimo: “Pensa il risveglio” di Cinquegrani",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2021/12/10/arealismo_minimo_pensa_il_risveglio_di_cinquegrani/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ambizione e labor limae. Alba de Céspedes autrice Mondadori",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/10/ambizione_e_labor_limae_alba_de_cspedes_autrice_mondadori/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Yoga è una maniera di preparare le polpette. Tentativo imperfetto di rispondere alla domanda: “Cos’è lo Yoga?”",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
@@ -17,10 +449,74 @@
     } ,
   
     {
+      "title"    : "Vai con la pizza… Quella salsiccia e friarielli!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/09/vai_con_la_pizza_quella_salsiccia_e_friarielli/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un silenzio condiviso – Silent Book Club di Pesaro",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/12/09/un_silenzio_condiviso_silent_book_club_di_pesaro/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tracciare un contorno. Per una nuova grammatica delle figure",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/09/tracciare_un_contorno_per_una_nuova_grammatica_delle_figure/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Simone de Beauvoir – La femminilità, una trappola",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/12/09/simone_de_beauvoir_la_femminilit_una_trappola/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Segreti che devono rimanere nascosti | Un’intervista ai Carver",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/12/09/segreti_che_devono_rimanere_nascosti_unintervista_ai_carver/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "SegnaLibrai – Libreria LibriDO (parte II)",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/12/09/segnalibrai_libreria_librido_parte_ii/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "RuPaul e le altre – Intervista a Matteo Colombo",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/12/09/rupaul_e_le_altre_intervista_a_matteo_colombo/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pier Vittorio Tondelli non era invidioso",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/09/pier_vittorio_tondelli_non_era_invidioso/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Più libri più liberi: l’edizione 2021 supera le 90 mila presenze",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/12/09/pi_libri_pi_liberi_ledizione_2021_supera_le_90_mila_presenze/",
       "date"     : "2021-12-09 00:00:00 +0100"
     } ,
   
@@ -33,10 +529,34 @@
     } ,
   
     {
+      "title"    : "Parco archeologico di Sibari: si arricchisce la proposta culturale del sito",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/12/09/parco_archeologico_di_sibari_si_arricchisce_la_proposta_culturale_del_sito/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maze Runner: il veliero del labirinto, in anteprima mondiale per Fanucci",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/12/09/maze_runner_il_veliero_del_labirinto_in_anteprima_mondiale_per_fanucci/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Luca Lezzi. Juan Domingo Peron",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/12/09/luca_lezzi_juan_domingo_peron/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libri da regalare a Natale 2021: 71 consigli letterari da non perdere",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/12/09/libri_da_regalare_a_natale_2021_71_consigli_letterari_da_non_perdere/",
       "date"     : "2021-12-09 00:00:00 +0100"
     } ,
   
@@ -65,6 +585,30 @@
     } ,
   
     {
+      "title"    : "La regina della notte",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2021/12/09/la_regina_della_notte/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Invertire il discorso pubblico sulla scuola",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/09/invertire_il_discorso_pubblico_sulla_scuola/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Foreste psichedeliche",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/12/09/foreste_psichedeliche/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Davvero altri, davvero animali",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
@@ -73,10 +617,34 @@
     } ,
   
     {
+      "title"    : "Consigli del mese: film natalizi &amp; storie emozionanti",
+      "category" : "chiacchiere-letterarie",
+      "tags"     : "chiacchiere-letterarie",
+      "url"      : "/2021/12/09/consigli_del_mese_film_natalizi_storie_emozionanti/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Catcalling: cos’è e cosa comporta?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/09/catcalling_cos_e_cosa_comporta/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Arsenio D’Amato risponde a Fante",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
       "url"      : "/2021/12/09/arsenio_damato_risponde_a_fante/",
+      "date"     : "2021-12-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Anche questo è femminismo. Una prospettiva intersezionale",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/09/anche_questo_femminismo_una_prospettiva_intersezionale/",
       "date"     : "2021-12-09 00:00:00 +0100"
     } ,
   
@@ -201,6 +769,14 @@
     } ,
   
     {
+      "title"    : "Il mio Zavattini, tra i luoghi che segnano un destino",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/08/il_mio_zavattini_tra_i_luoghi_che_segnano_un_destino/",
+      "date"     : "2021-12-08 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il 99% dei non privilegiati",
       "category" : "singola",
       "tags"     : "singola",
@@ -321,6 +897,14 @@
     } ,
   
     {
+      "title"    : "Non di solo amore, ma di lotta. Atti di sottomissione di Megan Nolan",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/07/non_di_solo_amore_ma_di_lotta_atti_di_sottomissione_di_megan_nolan/",
+      "date"     : "2021-12-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Nella consuetudine del tempo. Intervista a Luisa delle Vedove",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -365,6 +949,14 @@
       "category" : "chiacchiere-letterarie",
       "tags"     : "chiacchiere-letterarie",
       "url"      : "/2021/12/07/lamore_bugiardo_un_romanzo_inattendibile/",
+      "date"     : "2021-12-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La visione è poesia. Appunti su Lo sguardo di Ungaretti",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/07/la_visione_poesia_appunti_su_lo_sguardo_di_ungaretti/",
       "date"     : "2021-12-07 00:00:00 +0100"
     } ,
   
@@ -529,7 +1121,7 @@
     } ,
   
     {
-      "title"    : "Verso l&#39;ultima fase del concorso letterario Petrarca.Fiv 2021 | Lettere",
+      "title"    : "Verso l’ultima fase del concorso letterario Petrarca.Fiv 2021 | Lettere",
       "category" : "l-eco-del-nulla",
       "tags"     : "l-eco-del-nulla",
       "url"      : "/2021/12/06/verso_lultima_fase_del_concorso_letterario_petrarcafiv_2021_lettere/",
@@ -561,6 +1153,14 @@
     } ,
   
     {
+      "title"    : "Specchiarsi nella cinepresa: quando il film è autobiografia",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/06/specchiarsi_nella_cinepresa_quando_il_film_autobiografia/",
+      "date"     : "2021-12-06 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "SOSTANTIVO + AGGETTIVO",
       "category" : "l-incendiario",
       "tags"     : "l-incendiario",
@@ -573,6 +1173,14 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/12/06/saffo_fr_1/",
+      "date"     : "2021-12-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Monk",
+      "category" : "salmuria",
+      "tags"     : "salmuria",
+      "url"      : "/2021/12/06/monk/",
       "date"     : "2021-12-06 00:00:00 +0100"
     } ,
   
@@ -1097,6 +1705,14 @@
     } ,
   
     {
+      "title"    : "Navigare nell’anima delle città per raccontare storie. Intervista a Jan Brokken",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/03/navigare_nellanima_delle_citt_per_raccontare_storie_intervista_a_jan_brokken/",
+      "date"     : "2021-12-03 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "MMXX – Bambino",
       "category" : "l-incendiario",
       "tags"     : "l-incendiario",
@@ -1353,6 +1969,14 @@
     } ,
   
     {
+      "title"    : "Strappare lungo i bordi. Il vangelo dell’inadeguatezza firmato da Zerocalcare",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/02/strappare_lungo_i_bordi_il_vangelo_dellinadeguatezza_firmato_da_zerocalcare/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Scompartimento n. 6”, da oggi al cinema il film tratto dal romanzo di Rosa Liksom",
       "category" : "glicine",
       "tags"     : "glicine",
@@ -1429,6 +2053,14 @@
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/12/02/la_ragazza_innominabile/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Io sono un bastardo”. Romain Gary, scrittore dell’eccesso",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/02/io_sono_un_bastardo_romain_gary_scrittore_delleccesso/",
       "date"     : "2021-12-02 00:00:00 +0100"
     } ,
   
@@ -3862,6 +4494,14 @@
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/11/21/5_donne_che_hanno_rivoluzionato_lo_sport/",
       "date"     : "2021-11-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Uccelli in declino",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/11/20/uccelli_in_declino/",
+      "date"     : "2021-11-20 00:00:00 +0100"
     } ,
   
     {
@@ -14161,6 +14801,14 @@
     } ,
   
     {
+      "title"    : "Un estratto da “Geografie del Collasso” di Matteo Meschiari",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/10/01/un_estratto_da_geografie_del_collasso_di_matteo_meschiari/",
+      "date"     : "2021-10-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Trainspotting: ragazzi di vita a Edimburgo",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
@@ -15037,6 +15685,14 @@
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2021/09/28/attraverso_gli_occhi_di_un_insetto/",
+      "date"     : "2021-09-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Arkivet”, il metal antropocenico dei Wormwood",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2021/09/28/arkivet_il_metal_antropocenico_dei_wormwood/",
       "date"     : "2021-09-28 00:00:00 +0200"
     } ,
   
