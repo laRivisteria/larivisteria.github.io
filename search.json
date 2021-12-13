@@ -1,6 +1,38 @@
 [
   
     {
+      "title"    : "Yoga è una maniera di preparare le polpette. Tentativo imperfetto di rispondere alla domanda: “Cos’è lo Yoga?”. Ipertesto",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/12/13/yoga_una_maniera_di_preparare_le_polpette_tentativo_imperfetto_di_rispondere_alla_domanda_cos_lo_yoga_ipertesto/",
+      "date"     : "2021-12-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Lazzarotto. Il ministero della Bellezza",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/13/marco_lazzarotto_il_ministero_della_bellezza/",
+      "date"     : "2021-12-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letteratura belga: “Cina” di Jean Jauniaux",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/13/letteratura_belga_cina_di_jean_jauniaux/",
+      "date"     : "2021-12-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buttiamo “Il giovane Holden” giù dalla torre! Basta leggere libri brutti, la vita è breve",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/13/buttiamo_il_giovane_holden_gi_dalla_torre_basta_leggere_libri_brutti_la_vita_breve/",
+      "date"     : "2021-12-13 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Un viaggio pericoloso nelle terre delle tre rune del ghiaccio. Mitologia norrena",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -17,6 +49,86 @@
     } ,
   
     {
+      "title"    : "TICK TICK… BOOM, CIAK SI GIRA!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/12/tick_tick_boom_ciak_si_gira/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stagecraft e le nuove frontiere della tecnologia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/12/stagecraft_e_le_nuove_frontiere_della_tecnologia/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sperimentare il selvatico | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/12/12/sperimentare_il_selvatico_lettere/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Scrivo per addomesticare le mie paure”. Intervista a Georgi Gospodinov",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/12/scrivo_per_addomesticare_le_mie_paure_intervista_a_georgi_gospodinov/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quanta roba falsa e sbagliata ha scritto Aurelio Grimaldi sull’omicidio Luigi Calabresi e Lotta continua",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/12/quanta_roba_falsa_e_sbagliata_ha_scritto_aurelio_grimaldi_sullomicidio_luigi_calabresi_e_lotta_continua/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Piccole cose",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/12/12/piccole_cose/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Occhio non vede, Santa Lucia interviene",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/12/occhio_non_vede_santa_lucia_interviene/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Monsieur Pigeon”: la Parigi di Giuseppe",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/12/12/monsieur_pigeon_la_parigi_di_giuseppe/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ufficio delle parole",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/12/12/lufficio_delle_parole/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La bellezza di scioperare. Sulla ferita narcisistica del capitalismo.",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/12/la_bellezza_di_scioperare_sulla_ferita_narcisistica_del_capitalismo/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il respiro è scultura. L’arte di Giuseppe Penone",
       "category" : "morel",
       "tags"     : "morel",
@@ -25,10 +137,34 @@
     } ,
   
     {
+      "title"    : "I racconti di Orozco, fiammelle accese nel nulla cosmico",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/12/i_racconti_di_orozco_fiammelle_accese_nel_nulla_cosmico/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Doc Holliday – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/12/doc_holliday_personaggio_della_settimana/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Dante e Forese, dopo la tenzone l’affetto",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/12/12/dante_e_forese_dopo_la_tenzone_laffetto/",
+      "date"     : "2021-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“20-20-1 Simposio Internazionale di Archeologia Subacquea”",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/12/12/20-20-1_simposio_internazionale_di_archeologia_subacquea/",
       "date"     : "2021-12-12 00:00:00 +0100"
     } ,
   
