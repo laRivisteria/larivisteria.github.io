@@ -1,6 +1,62 @@
 [
   
     {
+      "title"    : "The watering place. Scrivere sull’acqua",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/12/23/the_watering_place_scrivere_sullacqua/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Quando si prende coscienza dell’essere nulla, se non veniamo paralizzati, poi c’è solo meraviglia”. Viaggio tra gli eremiti",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/23/quando_si_prende_coscienza_dellessere_nulla_se_non_veniamo_paralizzati_poi_c_solo_meraviglia_viaggio_tra_gli_eremiti/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Palermo Underground: Fabio Sgroi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/23/palermo_underground_fabio_sgroi/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il sonetto in carcere",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/23/il_sonetto_in_carcere/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Cosmologo e il Ciarlatano",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/12/23/il_cosmologo_e_il_ciarlatano/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Hit Mania Spoken Word 2021",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/12/23/hit_mania_spoken_word_2021/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“A me piacciono le opere anomale, cadute nell’oblio, sparite”. Dialogo con Giovanni Pacchiano",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/23/a_me_piacciono_le_opere_anomale_cadute_nelloblio_sparite_dialogo_con_giovanni_pacchiano/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Una Francia altrove da Parigi",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -13,6 +69,30 @@
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/12/22/teppa_alla_genovese_sulla_cattiva_strada_di_sara_benedetti/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stefano Raspini + Alessandro Gori in CONFESSIONI DI UNA COPPIA SCAMBISTA AL FIGLIO MORENTE",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/12/22/stefano_raspini_alessandro_gori_in_confessioni_di_una_coppia_scambista_al_figlio_morente/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stefano Carrai | Equinozio",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/12/22/stefano_carrai_equinozio/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "È stata la mano di Dio di Paolo Sorrentino | In Sala",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/12/22/stata_la_mano_di_dio_di_paolo_sorrentino_in_sala/",
       "date"     : "2021-12-22 00:00:00 +0100"
     } ,
   
@@ -49,6 +129,14 @@
     } ,
   
     {
+      "title"    : "NATALE DI GUIDO GOZZANO",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/12/22/natale_di_guido_gozzano/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Matteo Meschiari. Dispacci dall’Antropocene #1",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -61,6 +149,22 @@
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2021/12/22/mappe_a_forza_di_essere_vento_una_puglia_a_piedi/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’inevitabile",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/12/22/linevitabile/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le dieci voci di Frances Leviston",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/22/le_dieci_voci_di_frances_leviston/",
       "date"     : "2021-12-22 00:00:00 +0100"
     } ,
   
@@ -97,6 +201,14 @@
     } ,
   
     {
+      "title"    : "Impareggiabile, ridicolo eroismo",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2021/12/22/impareggiabile_ridicolo_eroismo/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il racconto del mercoledì: L’algoritmo di Carlo Maria Vadim",
       "category" : "blam",
       "tags"     : "blam",
@@ -117,6 +229,30 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/12/22/il_bambino_disarmato_in_un_sussulto_baby_rimbaud/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Emily ci riporta in Paris,che cosa ci aspetta?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/22/emily_ci_riporta_in_parische_cosa_ci_aspetta/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Eleanor Marx: quanto può essere grande l’ombra di un padre?",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/12/22/eleanor_marx_quanto_pu_essere_grande_lombra_di_un_padre/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dress code o misoginia? Cosa si nasconde dietro la decenza",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/22/dress_code_o_misoginia_cosa_si_nasconde_dietro_la_decenza/",
       "date"     : "2021-12-22 00:00:00 +0100"
     } ,
   
@@ -145,10 +281,50 @@
     } ,
   
     {
+      "title"    : "Buon Natale da Squid Game e famiglia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/22/buon_natale_da_squid_game_e_famiglia/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Area 22. Elon e i bimbi ebrei d’Olanda sommersi e salvati",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/22/area_22_elon_e_i_bimbi_ebrei_dolanda_sommersi_e_salvati/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amazzonia, il polmone del mondo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/22/amazzonia_il_polmone_del_mondo/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Acari di Giampaolo G. Rugo: storie di periferia in una realtà di occasioni mancate. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/12/22/acari_di_giampaolo_g_rugo_storie_di_periferia_in_una_realt_di_occasioni_mancate_recensione/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "A domani, l’esordio letterario del fotografo di viaggi Vincenzo Lamanna",
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2021/12/22/a_domani_lesordio_letterario_del_fotografo_di_viaggi_vincenzo_lamanna/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "15 ore e 11 minuti – Stiamo abbastanza bene, una storivista a Francesco Spiedo",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/12/22/15_ore_e_11_minuti_stiamo_abbastanza_bene_una_storivista_a_francesco_spiedo/",
       "date"     : "2021-12-22 00:00:00 +0100"
     } ,
   
@@ -2097,7 +2273,7 @@
     } ,
   
     {
-      "title"    : "Il tipo che leggeva foster wallace ai concerti",
+      "title"    : "Il tipo che leggeva Foster Wallace ai concerti",
       "category" : "clean",
       "tags"     : "clean",
       "url"      : "/2021/12/13/il_tipo_che_leggeva_foster_wallace_ai_concerti/",
