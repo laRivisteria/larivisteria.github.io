@@ -1,10 +1,130 @@
 [
   
     {
+      "title"    : "Quante ore lavori?",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/12/24/quante_ore_lavori/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pane degli angeli",
+      "category" : "specularia",
+      "tags"     : "specularia",
+      "url"      : "/2021/12/24/pane_degli_angeli/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Ogni potere è spregevole”. Paul Valéry, l’anarchico",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/24/ogni_potere_spregevole_paul_valry_lanarchico/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Natale, un racconto di G. Del Giudice || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2021/12/24/natale_un_racconto_di_g_del_giudice_street_stories/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Matteo Meschiari: Dispacci dall’Antropocene #2",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/24/matteo_meschiari_dispacci_dallantropocene_2/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La spuria umanità di Lello Voce ⥀ Su Il Cristo elettrico",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/12/24/la_spuria_umanit_di_lello_voce_su_il_cristo_elettrico/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Fui testimone di agonia e di polvere”. Il cammino cataro di Serge Pey",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/24/fui_testimone_di_agonia_e_di_polvere_il_cammino_cataro_di_serge_pey/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cara Didion, ci hai aiutato ad affrontare le paure peggiori",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/24/cara_didion_ci_hai_aiutato_ad_affrontare_le_paure_peggiori/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buon Natale!",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/12/24/buon_natale/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Avrei voluto essere Candy Candy",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/24/avrei_voluto_essere_candy_candy/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Arte al femminile. Dialogo con Maria Antonietta Spadaro",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/24/arte_al_femminile_dialogo_con_maria_antonietta_spadaro/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "A4 speciale Natale 2021: “La breve guerra del caporale di Santo”, di Enrico Piscitelli",
+      "category" : "a4",
+      "tags"     : "a4",
+      "url"      : "/2021/12/24/a4_speciale_natale_2021_la_breve_guerra_del_caporale_di_santo_di_enrico_piscitelli/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vivere di storie e stile: il giornalismo secondo Wes Anderson",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2021/12/23/vivere_di_storie_e_stile_il_giornalismo_secondo_wes_anderson/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tornare in Matrix",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/23/tornare_in_matrix/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "The watering place. Scrivere sull’acqua",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
       "url"      : "/2021/12/23/the_watering_place_scrivere_sullacqua/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Riassunto per immagini del 2021",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/12/23/riassunto_per_immagini_del_2021/",
       "date"     : "2021-12-23 00:00:00 +0100"
     } ,
   
@@ -17,6 +137,14 @@
     } ,
   
     {
+      "title"    : "Perché ci piacciono le canzoni tristi?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/23/perch_ci_piacciono_le_canzoni_tristi/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Palermo Underground: Fabio Sgroi",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -25,10 +153,82 @@
     } ,
   
     {
+      "title"    : "Museo archeologico Métauros: al via restauro della sede di Palazzo Baldari",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/12/23/museo_archeologico_mtauros_al_via_restauro_della_sede_di_palazzo_baldari/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mi racconti, dunque sono: Storia di un’amicizia secondo Silvia Avallone",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/23/mi_racconti_dunque_sono_storia_di_unamicizia_secondo_silvia_avallone/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mascotte sportive, i portafortuna dello sport",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/23/mascotte_sportive_i_portafortuna_dello_sport/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letture Femministe Metropolitane, primo incontro della nuova stagione",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/12/23/letture_femministe_metropolitane_primo_incontro_della_nuova_stagione/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letture Elettriche per Libri D’Asporto: Librerie Libri e Giochi e Indipendente",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/12/23/letture_elettriche_per_libri_dasporto_librerie_libri_e_giochi_e_indipendente/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letture Elettriche per Libri D’Asporto: Librerie Le Nuvole e Claudiana",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2021/12/23/letture_elettriche_per_libri_dasporto_librerie_le_nuvole_e_claudiana/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #2: SPACCARE PRESEPI (QUARA)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/12/23/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_2_spaccare_presepi_quara/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Casa de Noel",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/23/la_casa_de_noel/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il sonetto in carcere",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/12/23/il_sonetto_in_carcere/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il piccolo principe e L’Incendiario presentano: Festa dell’albero – I racconti dei terzi classificati",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2021/12/23/il_piccolo_principe_e_lincendiario_presentano_festa_dellalbero_i_racconti_dei_terzi_classificati/",
       "date"     : "2021-12-23 00:00:00 +0100"
     } ,
   
@@ -45,6 +245,134 @@
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2021/12/23/hit_mania_spoken_word_2021/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Grand Hotel di Serena Venditto – Recensione",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2021/12/23/grand_hotel_di_serena_venditto_recensione/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gabriella Musetti | Un buon uso della vita￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/12/23/gabriella_musetti_un_buon_uso_della_vita/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Figini, come trasformare il buio più feroce in amore",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/23/figini_come_trasformare_il_buio_pi_feroce_in_amore/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Domenico Cipriano | Fantasmi",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/12/23/domenico_cipriano_fantasmi/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Dialoghi con…”, a Lamezia Terme quattro scrittori si confrontano sui temi della letteratura e dell’editoria",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/12/23/dialoghi_con_a_lamezia_terme_quattro_scrittori_si_confrontano_sui_temi_della_letteratura_e_delleditoria/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cristiano Perso, rumorismo introspettivo",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2021/12/23/cristiano_perso_rumorismo_introspettivo/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – Tutto fa di Marco Lazzarotto",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_tutto_fa_di_marco_lazzarotto/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – Le bombe più pericolose di Giulio Natali",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_le_bombe_pi_pericolose_di_giulio_natali/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – L’aria dell’Asinara di Antonio Muglia",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_laria_dellasinara_di_antonio_muglia/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – La Torraccia di Pierandrea Ranicchi",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_la_torraccia_di_pierandrea_ranicchi/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – La neve nel cuore di Stefano Palumbo",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_la_neve_nel_cuore_di_stefano_palumbo/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – La mia In/dipendenza intervista alla libreria Angolo Manzoni",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_la_mia_indipendenza_intervista_alla_libreria_angolo_manzoni/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – I filosofi del Crack di Andrea Serra",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_i_filosofi_del_crack_di_andrea_serra/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – Figurarsi di Savina Tamborini e Giannino Dari",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_figurarsi_di_savina_tamborini_e_giannino_dari/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – Di un pelo e di una buccia di Luca Calò",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_di_un_pelo_e_di_una_buccia_di_luca_cal/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CRACK Numero 12 – Brutti Caratteri intervista alla casa editrice Racconti Edizioni",
+      "category" : "crack",
+      "tags"     : "crack",
+      "url"      : "/2021/12/23/crack_numero_12_brutti_caratteri_intervista_alla_casa_editrice_racconti_edizioni/",
       "date"     : "2021-12-23 00:00:00 +0100"
     } ,
   
@@ -125,6 +453,14 @@
       "category" : "not",
       "tags"     : "not",
       "url"      : "/2021/12/22/orgone/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non tutte le canzoni di Natale fanno schifo | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/12/22/non_tutte_le_canzoni_di_natale_fanno_schifo_in_translation/",
       "date"     : "2021-12-22 00:00:00 +0100"
     } ,
   
