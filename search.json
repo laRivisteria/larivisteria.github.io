@@ -1,6 +1,62 @@
 [
   
     {
+      "title"    : "Sindrome da sacco vuoto",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2021/12/25/sindrome_da_sacco_vuoto/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Non credo proprio per nulla ai nostri Natali”: David Maria Turoldo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/25/non_credo_proprio_per_nulla_ai_nostri_natali_david_maria_turoldo/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #4: LA GOGNA DI NATALE (FRAU)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/12/25/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_4_la_gogna_di_natale_frau/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il triangolo",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/25/il_triangolo/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I viaggi di Ulisse – 1",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/25/i_viaggi_di_ulisse_1/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #121",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2021/12/25/fantastico_121/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cose che puoi fare per sentirti giovane (pt. 2)",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2021/12/25/cose_che_puoi_fare_per_sentirti_giovane_pt_2/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Quante ore lavori?",
       "category" : "neutopia",
       "tags"     : "neutopia",
@@ -33,10 +89,34 @@
     } ,
   
     {
+      "title"    : "Merry Burp! Le festività sono sinonimo di relax",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/24/merry_burp_le_festivit_sono_sinonimo_di_relax/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Matteo Meschiari: Dispacci dall’Antropocene #2",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/12/24/matteo_meschiari_dispacci_dallantropocene_2/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lo straniero",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/12/24/lo_straniero/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #3: I CANI (PAOLO GAMERRO)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/12/24/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_3_i_cani_paolo_gamerro/",
       "date"     : "2021-12-24 00:00:00 +0100"
     } ,
   
@@ -49,10 +129,58 @@
     } ,
   
     {
+      "title"    : "La spiritualità cosmopolita di Marc Chagall tra sogno e colore",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/24/la_spiritualit_cosmopolita_di_marc_chagall_tra_sogno_e_colore/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giulia Niccolai",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/24/giulia_niccolai/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Fui testimone di agonia e di polvere”. Il cammino cataro di Serge Pey",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/12/24/fui_testimone_di_agonia_e_di_polvere_il_cammino_cataro_di_serge_pey/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fauda: benvenuti nel caos del Medio Oriente",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/12/24/fauda_benvenuti_nel_caos_del_medio_oriente/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Editoriale di Natale",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2021/12/24/editoriale_di_natale/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come è cambiato il Natale nel tempo?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/24/come_cambiato_il_natale_nel_tempo/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Carlomagno a Natale riceve l’incoronazione, tu cosa vorresti?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/24/carlomagno_a_natale_riceve_lincoronazione_tu_cosa_vorresti/",
       "date"     : "2021-12-24 00:00:00 +0100"
     } ,
   
@@ -93,6 +221,14 @@
       "category" : "a4",
       "tags"     : "a4",
       "url"      : "/2021/12/24/a4_speciale_natale_2021_la_breve_guerra_del_caporale_di_santo_di_enrico_piscitelli/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "36 scrittori per il Natale di Rivista Blam",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/12/24/36_scrittori_per_il_natale_di_rivista_blam/",
       "date"     : "2021-12-24 00:00:00 +0100"
     } ,
   
