@@ -1,6 +1,118 @@
 [
   
     {
+      "title"    : "The watering place. Scrivere sull’acqua. Ipertesto",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2021/12/27/the_watering_place_scrivere_sullacqua_ipertesto/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Testamento di un idolatra",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/27/testamento_di_un_idolatra/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Dietro una porta ho atteso il tuo respiro” di Giuseppe Gervasi",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/12/27/recensioni_dietro_una_porta_ho_atteso_il_tuo_respiro_di_giuseppe_gervasi/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Pensava a quei fiori: che faranno di notte, cancellati dal buio?”. L’urgente delicatezza delle donne ciociare",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/27/pensava_a_quei_fiori_che_faranno_di_notte_cancellati_dal_buio_lurgente_delicatezza_delle_donne_ciociare/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nel giorno di Natale",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2021/12/27/nel_giorno_di_natale/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Miracolo",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/12/27/miracolo/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #6: DICIANNOVE GIORNI A NATALE (MAZZINI)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/12/27/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_6_diciannove_giorni_a_natale_mazzini/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Roma di Ljubov’ Dostoevskaja",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/27/la_roma_di_ljubov_dostoevskaja/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il capitalismo è una forma di vita vegetale?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/12/27/il_capitalismo_una_forma_di_vita_vegetale/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Che cos’è precisamente un vangelo",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/27/che_cos_precisamente_un_vangelo/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "9 Righe",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/12/27/9_righe/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un racconto e una vignetta #10: Il Tuttonaso",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/12/26/un_racconto_e_una_vignetta_10_il_tuttonaso/",
+      "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quando respirate, fateci caso | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/12/26/quando_respirate_fateci_caso_lettere/",
+      "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Mathieu, l’unica nostra forza è la sincerità.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/12/26/marco_mathieu_lunica_nostra_forza_la_sincerit/",
+      "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #5: PRESEPE IN MINIATURA N.1 (SERGIO PETER)",
       "category" : "verde",
       "tags"     : "verde",
@@ -9,10 +121,42 @@
     } ,
   
     {
+      "title"    : "Il momento del Pandoro",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/26/il_momento_del_pandoro/",
+      "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "I viaggi di Ulisse – 2",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/12/26/i_viaggi_di_ulisse_2/",
+      "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Domenico Ghirardelli – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/26/domenico_ghirardelli_personaggio_della_settimana/",
+      "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coral…mente, lo spettacolo del cuore!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/26/coralmente_lo_spettacolo_del_cuore/",
+      "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bella ciao, l’inno della libertà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/26/bella_ciao_linno_della_libert/",
       "date"     : "2021-12-26 00:00:00 +0100"
     } ,
   
@@ -29,6 +173,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/12/25/non_credo_proprio_per_nulla_ai_nostri_natali_david_maria_turoldo/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mattine d’artista: cosa fai quando suona la sveglia?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/25/mattine_dartista_cosa_fai_quando_suona_la_sveglia/",
       "date"     : "2021-12-25 00:00:00 +0100"
     } ,
   
@@ -113,6 +265,14 @@
     } ,
   
     {
+      "title"    : "Origini di un mito: dalla “fiera crudele e diversa” alla geografia locale di Cassola",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/12/24/origini_di_un_mito_dalla_fiera_crudele_e_diversa_alla_geografia_locale_di_cassola/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Ogni potere è spregevole”. Paul Valéry, l’anarchico",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -189,6 +349,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/12/24/fui_testimone_di_agonia_e_di_polvere_il_cammino_cataro_di_serge_pey/",
+      "date"     : "2021-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Frammenti di un paesaggio sotterraneo, nella valle fra le tre province",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/12/24/frammenti_di_un_paesaggio_sotterraneo_nella_valle_fra_le_tre_province/",
       "date"     : "2021-12-24 00:00:00 +0100"
     } ,
   
@@ -333,6 +501,14 @@
       "category" : "glicine",
       "tags"     : "glicine",
       "url"      : "/2021/12/23/museo_archeologico_mtauros_al_via_restauro_della_sede_di_palazzo_baldari/",
+      "date"     : "2021-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mito, storia e tecnologia nella geografia della Val di Cecina",
+      "category" : "eccetera",
+      "tags"     : "eccetera",
+      "url"      : "/2021/12/23/mito_storia_e_tecnologia_nella_geografia_della_val_di_cecina/",
       "date"     : "2021-12-23 00:00:00 +0100"
     } ,
   
