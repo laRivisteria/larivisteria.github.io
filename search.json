@@ -1,6 +1,62 @@
 [
   
     {
+      "title"    : "Vibrisse",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2021/12/28/vibrisse/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Signore, liberami dall’uomo che ha eccellenti intenzioni e cuore impuro»: il Covid spiegato da René Girard",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/28/signore_liberami_dalluomo_che_ha_eccellenti_intenzioni_e_cuore_impuro_il_covid_spiegato_da_ren_girard/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’occhio di Joyce",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/28/locchio_di_joyce/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La pandemia, la cultura classica e la cultura scientifica",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/28/la_pandemia_la_cultura_classica_e_la_cultura_scientifica/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Kazoo tric trac di Francesco Mattioni ⥀ Passaggi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/12/28/kazoo_tric_trac_di_francesco_mattioni_passaggi/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Genius loci: Anna Maria Ortese e il Monaciello di Napoli",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/28/genius_loci_anna_maria_ortese_e_il_monaciello_di_napoli/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“È cannibalismo”. Charles Olson, Moby Dick &amp; Ezra Pound",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/28/cannibalismo_charles_olson_moby_dick_ezra_pound/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "The watering place. Scrivere sull’acqua. Ipertesto",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
@@ -25,10 +81,26 @@
     } ,
   
     {
+      "title"    : "Re Granchio | Senzanome",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/12/27/re_granchio_senzanome/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Pensava a quei fiori: che faranno di notte, cancellati dal buio?”. L’urgente delicatezza delle donne ciociare",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2021/12/27/pensava_a_quei_fiori_che_faranno_di_notte_cancellati_dal_buio_lurgente_delicatezza_delle_donne_ciociare/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non ditelo ai boomer! 6 culture antiche che abbracciavano la gender fluidity",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/27/non_ditelo_ai_boomer_6_culture_antiche_che_abbracciavano_la_gender_fluidity/",
       "date"     : "2021-12-27 00:00:00 +0100"
     } ,
   
@@ -45,6 +117,14 @@
       "category" : "squadernauti",
       "tags"     : "squadernauti",
       "url"      : "/2021/12/27/miracolo/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’industria della polvere – una mostra di Carlo Vigni",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/27/lindustria_della_polvere_una_mostra_di_carlo_vigni/",
       "date"     : "2021-12-27 00:00:00 +0100"
     } ,
   
@@ -69,6 +149,30 @@
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/12/27/il_capitalismo_una_forma_di_vita_vegetale/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giochiamo? Ma senza orologio!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/27/giochiamo_ma_senza_orologio/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Evelina è l’Art Sharerdi cui non sapevi di aver bisogno!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/27/evelina_lart_sharerdi_cui_non_sapevi_di_aver_bisogno/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come è bello far l’amore nelle piazze da Trieste in giù",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/27/come_bello_far_lamore_nelle_piazze_da_trieste_in_gi/",
       "date"     : "2021-12-27 00:00:00 +0100"
     } ,
   
