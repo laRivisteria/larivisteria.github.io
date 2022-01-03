@@ -1,6 +1,726 @@
 [
   
     {
+      "title"    : "Ri-nascere",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/03/ri-nascere/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lo sberleffo di Badiucao: come bucare il bavaglio cinese",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/03/lo_sberleffo_di_badiucao_come_bucare_il_bavaglio_cinese/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“E poi, chiudete gli occhi…”. L come Luce",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/03/e_poi_chiudete_gli_occhi_l_come_luce/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Carabba e quel funambolo della vita tra finito e infinito",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/03/carabba_e_quel_funambolo_della_vita_tra_finito_e_infinito/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Surreale Paige, cade un gabbiano ed è subito… bellezza",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/02/surreale_paige_cade_un_gabbiano_ed_subito_bellezza/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sergio Leone e C’era una volta in America, l’avventura di un mito",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/02/sergio_leone_e_cera_una_volta_in_america_lavventura_di_un_mito/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Roberto Vetrugno. Umiliati",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/02/roberto_vetrugno_umiliati/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritratto per chi giunge",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/02/ritratto_per_chi_giunge/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mots-clés__Tacchi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/02/mots-clstacchi/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Michelangelo Buonarroti: il tesoro di Sant’Anna dei Lombardi si amplia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/02/michelangelo_buonarroti_il_tesoro_di_santanna_dei_lombardi_si_amplia/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Joshua Cohen con ironia e profondità sulle menzogne del Web",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/02/joshua_cohen_con_ironia_e_profondit_sulle_menzogne_del_web/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Italia che vince, non si cambia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/02/italia_che_vince_non_si_cambia/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In Molise l’aborto sembra essere ancora un reato",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/02/in_molise_laborto_sembra_essere_ancora_un_reato/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Eihwaz: la runa del passaggio all’anno nuovo che collega morte e vita",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/02/eihwaz_la_runa_del_passaggio_allanno_nuovo_che_collega_morte_e_vita/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dieci storie quasi vere",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/01/02/dieci_storie_quasi_vere/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Date a Cesare quel che è di Cesare… pure la prima autopsia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/02/date_a_cesare_quel_che_di_cesare_pure_la_prima_autopsia/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Calendar Man –  Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/02/calendar_man_personaggio_della_settimana/",
+      "date"     : "2022-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Woody Allen, amore e nevrosi nella metropoli newyorkese",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/01/woody_allen_amore_e_nevrosi_nella_metropoli_newyorkese/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quella volta che Picasso… rubò la Monnalisa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/01/quella_volta_che_picasso_rub_la_monnalisa/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Psiche in mille pezzi e mondo onirico: una riflessione su Frantumi",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/01/psiche_in_mille_pezzi_e_mondo_onirico_una_riflessione_su_frantumi/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Prose di Niki-Rebecca Papagheorghìou ⥀ Passaggi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/01/01/prose_di_niki-rebecca_papagheorghou_passaggi/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Non è un paese per vecchi” dei fratelli Coen: un destino crudele per un mondo feroce",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/01/01/non_un_paese_per_vecchi_dei_fratelli_coen_un_destino_crudele_per_un_mondo_feroce/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ma a quali giovani parla, presidente? | Blog",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/01/01/ma_a_quali_giovani_parla_presidente_blog/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #10: QUANDO (D’ANTUONO)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2022/01/01/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_10_quando_dantuono/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La brutalità del gesto: il riscatto di una donna dalla dominazione maschile",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/01/01/la_brutalit_del_gesto_il_riscatto_di_una_donna_dalla_dominazione_maschile/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Io sono il mio modo di scrivere”. Selvaggiamente, Joan Didion",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/01/io_sono_il_mio_modo_di_scrivere_selvaggiamente_joan_didion/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Indicatore Golanera, l’uccello che indica il miele",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/01/indicatore_golanera_luccello_che_indica_il_miele/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Implacabile Ward, abissi di dolore e istanti di bagliori",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/01/implacabile_ward_abissi_di_dolore_e_istanti_di_bagliori/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Illuminismo psichedelico",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/01/illuminismo_psichedelico/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Senti Nina, ci ho pensato su di Maria Vincenza Rinaldi",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/01/il_racconto_della_domenica_senti_nina_ci_ho_pensato_su_di_maria_vincenza_rinaldi/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I 10 articoli più letti del 2021 su L’Eco del Nulla | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/01/01/i_10_articoli_pi_letti_del_2021_su_leco_del_nulla_lettere/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Daniele Semeraro. L’ultima perla del filo",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/01/daniele_semeraro_lultima_perla_del_filo/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come il Sole s’impigrì",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/01/come_il_sole_simpigr/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CLOSE ENCOUNTERS – Il 2021 nelle sale cinematografiche deserte (e disertate)",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/01/close_encounters_il_2021_nelle_sale_cinematografiche_deserte_e_disertate/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Claire North, Notes from the Burning age",
+      "category" : "il-problema-di-grendel",
+      "tags"     : "il-problema-di-grendel",
+      "url"      : "/2022/01/01/claire_north_notes_from_the_burning_age/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Burattini violenti: Punch and Judy di Harrison Birtwistle",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/01/01/burattini_violenti_punch_and_judy_di_harrison_birtwistle/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bang Bang, tra finzione e realtà",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/01/01/bang_bang_tra_finzione_e_realt/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Antonio Ligabue: la ferocia delle belve come metafora della vita",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/01/01/antonio_ligabue_la_ferocia_delle_belve_come_metafora_della_vita/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Trema la notte”, esce a febbraio il nuovo romanzo di Nadia Terranova",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2021/12/31/trema_la_notte_esce_a_febbraio_il_nuovo_romanzo_di_nadia_terranova/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#Top11, i libri stranieri del 2021 che abbiamo amato di più",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/31/top11_i_libri_stranieri_del_2021_che_abbiamo_amato_di_pi/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stefano Tarquini | I giorni furiosi",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/12/31/stefano_tarquini_i_giorni_furiosi/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“È possibile rimuovere dal mio cervello questi Suoi versi solo chirurgicamente…”. La lezione di Anna Achmatova",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/31/possibile_rimuovere_dal_mio_cervello_questi_suoi_versi_solo_chirurgicamente_la_lezione_di_anna_achmatova/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Offline n.14",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/12/31/offline_n14/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Matteo Meschiari: Dispacci dall’Antropocene #3",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/31/matteo_meschiari_dispacci_dallantropocene_3/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #9: ANTICO MAESTRO (FELICI)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/12/31/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_9_antico_maestro_felici/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Giant’s Causeway, sulle tracce dei Giganti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/31/il_giants_causeway_sulle_tracce_dei_giganti/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I pezzi più letti nel 2021",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2021/12/31/i_pezzi_pi_letti_nel_2021/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I 10 film del 2021, scelti dalla Bocciofila",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2021/12/31/i_10_film_del_2021_scelti_dalla_bocciofila/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantasie discount",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/12/31/fantasie_discount/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "E se non fossimo così coscienti come crediamo?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2021/12/31/e_se_non_fossimo_cos_coscienti_come_crediamo/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Contro i leccaculo di Houellebecq",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/31/contro_i_leccaculo_di_houellebecq/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Colonna (sonora) 2022",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/31/colonna_sonora_2022/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buon 2022!",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2021/12/31/buon_2022/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Anteprima di Capodanno: SYSTEM HARDWARE ABNORMAL – “Shappy new year’s album”",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/12/31/anteprima_di_capodanno_system_hardware_abnormal_shappy_new_years_album/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "a cura di Serenella Quarello. A volte ritornano. Storie di fantasmi",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2021/12/31/a_cura_di_serenella_quarello_a_volte_ritornano_storie_di_fantasmi/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "2021 Omicron Megamix",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2021/12/31/2021_omicron_megamix/",
+      "date"     : "2021-12-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Toti O’Brien traduce Richard Garcia (I) ⥀ Le vele – Poesia della traduzione 10",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2021/12/30/toti_obrien_traduce_richard_garcia_i_le_vele_poesia_della_traduzione_10/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#Top11, i libri italiani del 2021 che abbiamo amato di più",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/30/top11_i_libri_italiani_del_2021_che_abbiamo_amato_di_pi/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sull’oblio come possibilità. “E tutto intorno il mare” di Dominique Fortier",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/30/sulloblio_come_possibilit_e_tutto_intorno_il_mare_di_dominique_fortier/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "SOTTOTRACCIA Squadra Speciale Vi.D. - IL PRIMO ROMANZO POLIZIESCO DI EDDY LOVAGLIO. INTERVISTA ALL&#39;AUTRICE",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2021/12/30/sottotraccia_squadra_speciale_vid_-_il_primo_romanzo_poliziesco_di_eddy_lovaglio_intervista_allautrice/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Primàdopo.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2021/12/30/primdopo/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nichilismo patinato e «inferenze interrotte»: “Gli iperborei” di Castellitto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2021/12/30/nichilismo_patinato_e_inferenze_interrotte_gli_iperborei_di_castellitto/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Jean Starobinski: l’inesauribile richiamo del segreto",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/30/jean_starobinski_linesauribile_richiamo_del_segreto/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I migliori film del 2021 | Visioni",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/12/30/i_migliori_film_del_2021_visioni/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Gli occhi dei morti parlano”. Dialogo con Marco Galetto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/30/gli_occhi_dei_morti_parlano_dialogo_con_marco_galetto/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Ci salvavano soltanto i miracoli”. Le memorie di Nadežda Mandel’štam",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/30/ci_salvavano_soltanto_i_miracoli_le_memorie_di_nadeda_mandeltam/",
+      "date"     : "2021-12-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vita di paese – Episodio 4",
+      "category" : "doctor-tale-and-mister-shot",
+      "tags"     : "doctor-tale-and-mister-shot",
+      "url"      : "/2021/12/29/vita_di_paese_episodio_4/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Torregrossa senza cliché e con un ispettore vero",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/29/torregrossa_senza_clich_e_con_un_ispettore_vero/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "TBE Remix 2021: il meglio dell’anno!",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2021/12/29/tbe_remix_2021_il_meglio_dellanno/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Segnalazioni letterarie #9",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2021/12/29/segnalazioni_letterarie_9/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Prima di noi. Dialogo con Giorgio Fontana",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/29/prima_di_noi_dialogo_con_giorgio_fontana/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nur Asilah | Q Asi Hai Q – Quasi Haiku￼",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/12/29/nur_asilah_q_asi_hai_q_quasi_haiku/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Matteo Piergigli | L’errore di chi resta",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/12/29/matteo_piergigli_lerrore_di_chi_resta/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Manovra di Heimlich",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2021/12/29/manovra_di_heimlich/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mani e piedi per spiccare il salto",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2021/12/29/mani_e_piedi_per_spiccare_il_salto/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libri in uscita a gennaio 2022: novità e consigli letterari da non perdere",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/12/29/libri_in_uscita_a_gennaio_2022_novit_e_consigli_letterari_da_non_perdere/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #8: ARBRE COPROFAGIQUE – A CHRI$$MAS SPECIAL (MOTTA)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/12/29/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_8_arbre_coprofagique_a_chrimas_special_motta/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’arte non è inutile",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2021/12/29/larte_non_inutile/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Ricerca infinita",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2021/12/29/la_ricerca_infinita/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La natura ama nascondersi”. Nick Cave cavalca la pantera delle nevi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/29/la_natura_ama_nascondersi_nick_cave_cavalca_la_pantera_delle_nevi/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Bianca Senatore. A bordo della Ocean Viking per “un melting pot di umanità che scappa dagli orrori del mondo.”",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2021/12/29/intervista_a_bianca_senatore_a_bordo_della_ocean_viking_per_un_melting_pot_di_umanit_che_scappa_dagli_orrori_del_mondo/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il fascino oscuro di Disneyland per i capi di stato comunisti",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2021/12/29/il_fascino_oscuro_di_disneyland_per_i_capi_di_stato_comunisti/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I film più contemporanei del 2021",
+      "category" : "duemilauno",
+      "tags"     : "duemilauno",
+      "url"      : "/2021/12/29/i_film_pi_contemporanei_del_2021/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fael Marescotti | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2021/12/29/fael_marescotti_poesie/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ecco come Labbate diventa il medium degli ectoplasmi di King",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/29/ecco_come_labbate_diventa_il_medium_degli_ectoplasmi_di_king/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Donne Difettose – la rivista – Manuale per",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2021/12/29/donne_difettose_la_rivista_manuale_per/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Benché impazziscano saranno sani di mente”. Dylan Thomas &amp; Giacometti",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2021/12/29/bench_impazziscano_saranno_sani_di_mente_dylan_thomas_giacometti/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ancora un anno di Limina. I dieci titoli più letti del 2021",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2021/12/29/ancora_un_anno_di_limina_i_dieci_titoli_pi_letti_del_2021/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "A casa. Riflessioni su filosofia, vita e gemellanza a partire da un libro di Emanuele Coccia.*",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2021/12/29/a_casa_riflessioni_su_filosofia_vita_e_gemellanza_a_partire_da_un_libro_di_emanuele_coccia/",
+      "date"     : "2021-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vite mai avvenute. Su “Opus metamorphicum” di Sonia Caporossi",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2021/12/28/vite_mai_avvenute_su_opus_metamorphicum_di_sonia_caporossi/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vibrisse",
       "category" : "micorrize",
       "tags"     : "micorrize",
@@ -17,10 +737,42 @@
     } ,
   
     {
+      "title"    : "Quel Saramago è una capolavoro di ironia, poesia e filosofia",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/28/quel_saramago_una_capolavoro_di_ironia_poesia_e_filosofia/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Qualche giorno fuori dal mondo | Intervista a Céline Sciamma | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2021/12/28/qualche_giorno_fuori_dal_mondo_intervista_a_cline_sciamma_in_translation/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Momò cerca mamma, o dell’arte di riavvolgere il nastro",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2021/12/28/mom_cerca_mamma_o_dellarte_di_riavvolgere_il_nastro/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "L’occhio di Joyce",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2021/12/28/locchio_di_joyce/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #7: L’ARTE DI TRAPASSARE (SABELLI)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2021/12/28/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_7_larte_di_trapassare_sabelli/",
       "date"     : "2021-12-28 00:00:00 +0100"
     } ,
   
@@ -33,6 +785,14 @@
     } ,
   
     {
+      "title"    : "La morte che non trapassa più, il Saramago più… noioso",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2021/12/28/la_morte_che_non_trapassa_pi_il_saramago_pi_noioso/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Kazoo tric trac di Francesco Mattioni ⥀ Passaggi",
       "category" : "argo",
       "tags"     : "argo",
@@ -41,10 +801,34 @@
     } ,
   
     {
+      "title"    : "Il racconto del mercoledì: Cachemire di Francesca Berti",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2021/12/28/il_racconto_del_mercoled_cachemire_di_francesca_berti/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Genius loci: Anna Maria Ortese e il Monaciello di Napoli",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2021/12/28/genius_loci_anna_maria_ortese_e_il_monaciello_di_napoli/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Frana",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2021/12/28/frana/",
+      "date"     : "2021-12-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Consigli ne abbiamo?",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2021/12/28/consigli_ne_abbiamo/",
       "date"     : "2021-12-28 00:00:00 +0100"
     } ,
   
