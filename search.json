@@ -1,10 +1,258 @@
 [
   
     {
+      "title"    : "Voglio una stella che sia tutta mia",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/01/04/voglio_una_stella_che_sia_tutta_mia/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "UN’ALTRA LEGGE È POSSIBILE – SU “LA LEGGE DELLA FIDUCIA” DI TOMMASO GRECO",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/04/unaltra_legge_possibile_su_la_legge_della_fiducia_di_tommaso_greco/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Su Pericoli di un viaggio nel tempo",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/01/04/su_pericoli_di_un_viaggio_nel_tempo/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Storia della scuola a scuola: su “Voi siete il fuoco” di Vanessa Roghi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/04/storia_della_scuola_a_scuola_su_voi_siete_il_fuoco_di_vanessa_roghi/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sabrina Giarratana – La parola muta",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/01/04/sabrina_giarratana_la_parola_muta/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "QUANDO IL PENSIERO SI FA MUSICA: DIALOGO IMMAGINARIO TRA UN SAX E TONI MORRISON",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2022/01/04/quando_il_pensiero_si_fa_musica_dialogo_immaginario_tra_un_sax_e_toni_morrison/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Prima di morire",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/04/prima_di_morire/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pier Paolo Pasolini, la Calabria e il ponte di Ariola",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/04/pier_paolo_pasolini_la_calabria_e_il_ponte_di_ariola/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Più che di morire dobbiamo temere di essere morti”. Un sermone sulla morte. Richard Millet",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/04/pi_che_di_morire_dobbiamo_temere_di_essere_morti_un_sermone_sulla_morte_richard_millet/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pane amore e fantasy: il ritorno del genere fantastico",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/01/04/pane_amore_e_fantasy_il_ritorno_del_genere_fantastico/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Padre G. ",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/01/04/padre_g/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maizo. Intervista a Elena Giorgiana Mirabelli",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/04/maizo_intervista_a_elena_giorgiana_mirabelli/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La grossezza eterogenea dei racconti. Paola Masino dopo ottant’anni",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/04/la_grossezza_eterogenea_dei_racconti_paola_masino_dopo_ottantanni/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La casa di carta, Squid Game e gli altri: la serialità senza confini di Netflix",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/01/04/la_casa_di_carta_squid_game_e_gli_altri_la_serialit_senza_confini_di_netflix/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il paesaggio e la natura in Fifty-Fifty. Warum e le avventure Conerotiche di Ezio Sinigaglia",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2022/01/04/il_paesaggio_e_la_natura_in_fifty-fifty_warum_e_le_avventure_conerotiche_di_ezio_sinigaglia/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Golgota",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2022/01/04/golgota/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gianni Celati [1937-2022] “Mondonuovo”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/04/gianni_celati_1937-2022_mondonuovo/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "George Sand e l’autobiografia come strumento di costruzione identitaria",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/04/george_sand_e_lautobiografia_come_strumento_di_costruzione_identitaria/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Eminenza Illustrissima…”. Rodari, il comunista che volle farsi prete",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/04/eminenza_illustrissima_rodari_il_comunista_che_volle_farsi_prete/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Emanuele Franz. Io nego. Pensieri di un filosofo davanti al Covid",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/04/emanuele_franz_io_nego_pensieri_di_un_filosofo_davanti_al_covid/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Arena, mosche dalle ali spezzate tra Lucania e Cile",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/04/arena_mosche_dalle_ali_spezzate_tra_lucania_e_cile/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Antonia Vetrone | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/04/antonia_vetrone_poesie/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Adesso prendi il viola | Giovanna Cinieri",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/01/04/adesso_prendi_il_viola_giovanna_cinieri/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un nuovo progetto per il 2022: ZEST Edizioni Sostenibili",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2022/01/03/un_nuovo_progetto_per_il_2022_zest_edizioni_sostenibili/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tra il nulla e l’addio. Cry Macho – Ritorno a casa",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/03/tra_il_nulla_e_laddio_cry_macho_ritorno_a_casa/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Teoria della Prosa – Viaggio a Confini della Nouvelle",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/01/03/teoria_della_prosa_viaggio_a_confini_della_nouvelle/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Ringrazio i miei amici, e pure i miei avversari». La fionda di Ernst Jünger",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/03/ringrazio_i_miei_amici_e_pure_i_miei_avversari_la_fionda_di_ernst_jnger/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Ri-nascere",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/01/03/ri-nascere/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per Gianni Celati",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/03/per_gianni_celati/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per Antonio Morione, per Maurizio Cerrato, schieriamoci",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/03/per_antonio_morione_per_maurizio_cerrato_schieriamoci/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Paolo Maggis inedito. Il ritorno",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/03/paolo_maggis_inedito_il_ritorno/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lorenzo Mele | Settembre è una preghiera",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/03/lorenzo_mele_settembre_una_preghiera/",
       "date"     : "2022-01-03 00:00:00 +0100"
     } ,
   
@@ -17,6 +265,62 @@
     } ,
   
     {
+      "title"    : "La nostra biblioteca virtuale",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/01/03/la_nostra_biblioteca_virtuale/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La biblioteca di Lovecraft: buone notizie per i cultisti lovecraftiani",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/03/la_biblioteca_di_lovecraft_buone_notizie_per_i_cultisti_lovecraftiani/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il ricordo del nostro caro amico Pino Daniele",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/03/il_ricordo_del_nostro_caro_amico_pino_daniele/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il cattivo selvaggio.  Dialogo su Rogozov di Mauro Maraschi",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/03/il_cattivo_selvaggio_dialogo_su_rogozov_di_mauro_maraschi/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fine turno nella fabbrica di pelle sintetica di Andrea Capodimonte ⥀ Passaggi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/01/03/fine_turno_nella_fabbrica_di_pelle_sintetica_di_andrea_capodimonte_passaggi/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elio Pecora. Tre Monologhi. Penna, Morante, Wilcock",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/03/elio_pecora_tre_monologhi_penna_morante_wilcock/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "EDITORIALE SENZA TITOLO PER UN ANNO SENZA TITOLO",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/01/03/editoriale_senza_titolo_per_un_anno_senza_titolo/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“E poi, chiudete gli occhi…”. L come Luce",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +329,26 @@
     } ,
   
     {
+      "title"    : "Ciao The Big Bang Theory!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/03/ciao_the_big_bang_theory/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Carabba e quel funambolo della vita tra finito e infinito",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/01/03/carabba_e_quel_funambolo_della_vita_tra_finito_e_infinito/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Campo di battaglia di Carolina Capria. Quel corpo femminile che non ha mai pace. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/03/campo_di_battaglia_di_carolina_capria_quel_corpo_femminile_che_non_ha_mai_pace_recensione/",
       "date"     : "2022-01-03 00:00:00 +0100"
     } ,
   
@@ -1633,6 +1953,14 @@
     } ,
   
     {
+      "title"    : "Un instant dans la vie de Léonard De Vinci",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/22/un_instant_dans_la_vie_de_lonard_de_vinci/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Teppa alla genovese: “Sulla cattiva strada” di Sara Benedetti",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -2073,6 +2401,14 @@
     } ,
   
     {
+      "title"    : "Il racconto di una vita che ha ceduto la strada agli alberi",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/21/il_racconto_di_una_vita_che_ha_ceduto_la_strada_agli_alberi/",
+      "date"     : "2021-12-21 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il piccolo principe e l’incendiario presentano: Festa dell’albero – il racconto del vincitore",
       "category" : "l-incendiario",
       "tags"     : "l-incendiario",
@@ -2357,6 +2693,14 @@
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2021/12/20/la_nuova_collana_fantascientifica_di_zona_42/",
+      "date"     : "2021-12-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Là dove crescono i cedri",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/20/l_dove_crescono_i_cedri/",
       "date"     : "2021-12-20 00:00:00 +0100"
     } ,
   
@@ -2817,6 +3161,14 @@
     } ,
   
     {
+      "title"    : "Intervista ad Antonio Bux",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/17/intervista_ad_antonio_bux/",
+      "date"     : "2021-12-17 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il sesso appartiene alle epifanie del pensiero.",
       "category" : "droga",
       "tags"     : "droga",
@@ -3021,6 +3373,14 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2021/12/16/francesco_forlani_anteprima_lestate_corsa/",
+      "date"     : "2021-12-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "DARIO FO, I primi sette anni (e qualcuno in più) di Dario Fo",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/16/dario_fo_i_primi_sette_anni_e_qualcuno_in_pi_di_dario_fo/",
       "date"     : "2021-12-16 00:00:00 +0100"
     } ,
   
@@ -3393,6 +3753,14 @@
     } ,
   
     {
+      "title"    : "39. Per una lira",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/15/39_per_una_lira/",
+      "date"     : "2021-12-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "15 dicembre 2021",
       "category" : "squadernauti",
       "tags"     : "squadernauti",
@@ -3605,6 +3973,14 @@
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2021/12/14/in_merito_a_un_rinnovato_stimolo_degli_studi_relativi_al_caso_dei_quattro_il_soggetto_numero_cinque/",
+      "date"     : "2021-12-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il tempo sospeso delle donne",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/14/il_tempo_sospeso_delle_donne/",
       "date"     : "2021-12-14 00:00:00 +0100"
     } ,
   
@@ -3861,6 +4237,14 @@
       "category" : "limina",
       "tags"     : "limina",
       "url"      : "/2021/12/13/il_rapporto_contraddittorio_tra_immagine_e_film_the_french_dispatch_di_wes_anderson/",
+      "date"     : "2021-12-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il maialino di Natale",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/13/il_maialino_di_natale/",
       "date"     : "2021-12-13 00:00:00 +0100"
     } ,
   
@@ -4421,6 +4805,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/12/10/dont_be_a_drag_just_be_a_queen_regine_che_hanno_fatto_la_storia/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Daytona Beach, Florida",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2021/12/10/daytona_beach_florida/",
       "date"     : "2021-12-10 00:00:00 +0100"
     } ,
   
@@ -5937,7 +6329,7 @@
     } ,
   
     {
-      "title"    : "Camera di smontaggio",
+      "title"    : "camera di smontaggio",
       "category" : "ilda-i-libri-degli-altri",
       "tags"     : "ilda-i-libri-degli-altri",
       "url"      : "/2021/12/03/camera_di_smontaggio/",
@@ -11445,6 +11837,14 @@
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/11/08/leopardi_fu_anche_scienziato/",
+      "date"     : "2021-11-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ebano affonda comunque (Ed file no. 1)",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2021/11/08/lebano_affonda_comunque_ed_file_no_1/",
       "date"     : "2021-11-08 00:00:00 +0100"
     } ,
   
