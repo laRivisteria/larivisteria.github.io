@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "Umberto Eco e la semiotica del “complotto”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/05/umberto_eco_e_la_semiotica_del_complotto/",
+      "date"     : "2022-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rischio e rizq | Mohamed Amine Bour",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/01/05/rischio_e_rizq_mohamed_amine_bour/",
+      "date"     : "2022-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mangia, consuma, lavora | Vetrina",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/01/05/mangia_consuma_lavora_vetrina/",
+      "date"     : "2022-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lo conosco io il Belluca",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2022/01/05/lo_conosco_io_il_belluca/",
+      "date"     : "2022-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elogio della perdita: Scompartimento n°6 (Hytti Nro 6) di Juho Kuosmanen",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/05/elogio_della_perdita_scompartimento_n6_hytti_nro_6_di_juho_kuosmanen/",
+      "date"     : "2022-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buoni propositi di lettura – 2022",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2022/01/05/buoni_propositi_di_lettura_2022/",
+      "date"     : "2022-01-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Voglio una stella che sia tutta mia",
       "category" : "narrandom",
       "tags"     : "narrandom",
@@ -97,6 +145,14 @@
     } ,
   
     {
+      "title"    : "L’uomo ideale",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2022/01/04/luomo_ideale/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La grossezza eterogenea dei racconti. Paola Masino dopo ottant’anni",
       "category" : "limina",
       "tags"     : "limina",
@@ -113,10 +169,26 @@
     } ,
   
     {
+      "title"    : "Il racconto del mercoledì: Sacra famiglia di Mario Greco",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/04/il_racconto_del_mercoled_sacra_famiglia_di_mario_greco/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il paesaggio e la natura in Fifty-Fifty. Warum e le avventure Conerotiche di Ezio Sinigaglia",
       "category" : "zest-letteratura-sostenibile",
       "tags"     : "zest-letteratura-sostenibile",
       "url"      : "/2022/01/04/il_paesaggio_e_la_natura_in_fifty-fifty_warum_e_le_avventure_conerotiche_di_ezio_sinigaglia/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I “miracoli” della corte più insolita di tutti i tempi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/04/i_miracoli_della_corte_pi_insolita_di_tutti_i_tempi/",
       "date"     : "2022-01-04 00:00:00 +0100"
     } ,
   
@@ -157,6 +229,22 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/01/04/emanuele_franz_io_nego_pensieri_di_un_filosofo_davanti_al_covid/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Da senzatetto… a Imperatore degli Stati Uniti d’America",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/04/da_senzatetto_a_imperatore_degli_stati_uniti_damerica/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Atypical, recensione finale dell’inclusiva serie Netflix",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/04/atypical_recensione_finale_dellinclusiva_serie_netflix/",
       "date"     : "2022-01-04 00:00:00 +0100"
     } ,
   
