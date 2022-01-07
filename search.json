@@ -1,6 +1,70 @@
 [
   
     {
+      "title"    : "Strani soli | Un tuffo dove l’apocalisse è più flou",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/01/07/strani_soli_un_tuffo_dove_lapocalisse_pi_flou/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non siete stati ancora sconfitti: gli scritti dal carcere di Alaa Abdel Fattah",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/07/non_siete_stati_ancora_sconfitti_gli_scritti_dal_carcere_di_alaa_abdel_fattah/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Matteo Meschiari: Dispacci dall’Antropocene #4",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/07/matteo_meschiari_dispacci_dallantropocene_4/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il sublime quotidiano: intervista a Georgi Gospodinov",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/01/07/il_sublime_quotidiano_intervista_a_georgi_gospodinov/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I teoremi di Gödel e l’intelligenza artificiale",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/01/07/i_teoremi_di_gdel_e_lintelligenza_artificiale/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Houellebecq: un’erezione lunga 750 pagine",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/07/houellebecq_unerezione_lunga_750_pagine/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Frammenti delle nostre esistenze: una riflessione su &quot;Mi chiamo Yuri&quot;",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/07/frammenti_delle_nostre_esistenze_una_riflessione_su_mi_chiamo_yuri/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Aldo Busi riscrive ancora. Su “Seminario sulla gioventù”, lo spirito del mondo in formato tascabile",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/07/aldo_busi_riscrive_ancora_su_seminario_sulla_giovent_lo_spirito_del_mondo_in_formato_tascabile/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Una voce che grida nella pampa”. Il carteggio tra Benjamin Fondane e Victoria Ocampo",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -33,10 +97,42 @@
     } ,
   
     {
+      "title"    : "Pandemia? Sì, ma virtuale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/06/pandemia_s_ma_virtuale/",
+      "date"     : "2022-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“L’Amica Geniale”, dall’8 febbraio la terza stagione",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/06/lamica_geniale_dall8_febbraio_la_terza_stagione/",
+      "date"     : "2022-01-06 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La scrittura negata delle donne | Lettere",
       "category" : "l-eco-del-nulla",
       "tags"     : "l-eco-del-nulla",
       "url"      : "/2022/01/06/la_scrittura_negata_delle_donne_lettere/",
+      "date"     : "2022-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La cena di Božidar Stanišić | commento di Alice Parmeggiani",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2022/01/06/la_cena_di_boidar_stanii_commento_di_alice_parmeggiani/",
+      "date"     : "2022-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La canzone di Achille di Madeline Miller: un epico canto di amore e morte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/06/la_canzone_di_achille_di_madeline_miller_un_epico_canto_di_amore_e_morte/",
       "date"     : "2022-01-06 00:00:00 +0100"
     } ,
   
@@ -57,6 +153,14 @@
     } ,
   
     {
+      "title"    : "Eschaton. Quel bisogno della filosofia occidentale di sognare la propria fine",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/06/eschaton_quel_bisogno_della_filosofia_occidentale_di_sognare_la_propria_fine/",
+      "date"     : "2022-01-06 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Elena Giorgiana Mirabelli. Configurazione Tundra",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -69,6 +173,14 @@
       "category" : "letture-metropolitane",
       "tags"     : "letture-metropolitane",
       "url"      : "/2022/01/06/e_non_rimase_nessuno_visioni_metropolitane/",
+      "date"     : "2022-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Che bordello la prostituzione nell’antica Roma",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/06/che_bordello_la_prostituzione_nellantica_roma/",
       "date"     : "2022-01-06 00:00:00 +0100"
     } ,
   
