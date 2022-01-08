@@ -1,10 +1,122 @@
 [
   
     {
+      "title"    : "Whirl",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/01/08/whirl/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Coiffeur” di Gianfranco Taranto",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/08/recensioni_coiffeur_di_gianfranco_taranto/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Populismo promozionale: la nuova ipocrisia. Il “caso” Chiara Gamberale",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/08/populismo_promozionale_la_nuova_ipocrisia_il_caso_chiara_gamberale/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Più triste di come ce l’avevano venduta",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/01/08/pi_triste_di_come_ce_lavevano_venduta/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Martine Broda, Lacan e il desiderio. Una poesia",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/08/martine_broda_lacan_e_il_desiderio_una_poesia/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La fine deve essere spaventosa”. Elogio di Leonardo Sciascia, scrittore &amp; deputato",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/08/la_fine_deve_essere_spaventosa_elogio_di_leonardo_sciascia_scrittore_deputato/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gauguin è razzista, Quiroga osceno. La società che vuole uccidere i “mostri” è mostruosa",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/08/gauguin_razzista_quiroga_osceno_la_societ_che_vuole_uccidere_i_mostri_mostruosa/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Voglio dirti una cosa, ma non so come: The dictionary of obscure sorrows",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/07/voglio_dirti_una_cosa_ma_non_so_come_the_dictionary_of_obscure_sorrows/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Toti O’Brien traduce Richard Garcia (II) ⥀ Le vele – Poesia della traduzione 11",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/01/07/toti_obrien_traduce_richard_garcia_ii_le_vele_poesia_della_traduzione_11/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sul piede di guerra",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/01/07/sul_piede_di_guerra/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Strani soli | Un tuffo dove l’apocalisse è più flou",
       "category" : "neutopia",
       "tags"     : "neutopia",
       "url"      : "/2022/01/07/strani_soli_un_tuffo_dove_lapocalisse_pi_flou/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rogozov: il mondo surreale di un perfetto complottista. Recensione del libro di Mauro Maraschi",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/07/rogozov_il_mondo_surreale_di_un_perfetto_complottista_recensione_del_libro_di_mauro_maraschi/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pong",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/01/07/pong/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Poesia e rifrazioni, il mistico confine del Delta del Po",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2022/01/07/poesia_e_rifrazioni_il_mistico_confine_del_delta_del_po/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per una colpa",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/01/07/per_una_colpa/",
       "date"     : "2022-01-07 00:00:00 +0100"
     } ,
   
@@ -17,10 +129,34 @@
     } ,
   
     {
+      "title"    : "Nessuno è eterno tranne la Carrà",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/01/07/nessuno_eterno_tranne_la_carr/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Matteo Meschiari: Dispacci dall’Antropocene #4",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/01/07/matteo_meschiari_dispacci_dallantropocene_4/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ma siamo sicuri che ci piaccia il mare?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/07/ma_siamo_sicuri_che_ci_piaccia_il_mare/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Medusa di Martine Desjardins tra orrore e rivalsa",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/01/07/la_medusa_di_martine_desjardins_tra_orrore_e_rivalsa/",
       "date"     : "2022-01-07 00:00:00 +0100"
     } ,
   
@@ -57,10 +193,50 @@
     } ,
   
     {
+      "title"    : "Come riciclare la polvere",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2022/01/07/come_riciclare_la_polvere/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Calpestando bandiere",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/01/07/calpestando_bandiere/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Antonietta Bocci | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/07/antonietta_bocci_poesie/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Anatomia ed Arte, due emisferi in reciproco bisogno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/07/anatomia_ed_arte_due_emisferi_in_reciproco_bisogno/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Aldo Busi riscrive ancora. Su “Seminario sulla gioventù”, lo spirito del mondo in formato tascabile",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/07/aldo_busi_riscrive_ancora_su_seminario_sulla_giovent_lo_spirito_del_mondo_in_formato_tascabile/",
+      "date"     : "2022-01-07 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ai confini della filosofia 2 – di Valentina Di Cataldo",
+      "category" : "il-loggione-letterario",
+      "tags"     : "il-loggione-letterario",
+      "url"      : "/2022/01/07/ai_confini_della_filosofia_2_di_valentina_di_cataldo/",
       "date"     : "2022-01-07 00:00:00 +0100"
     } ,
   
@@ -149,6 +325,14 @@
       "category" : "tre-sequenze",
       "tags"     : "tre-sequenze",
       "url"      : "/2022/01/06/i_libri_da_portare_con_noi_nel_2022/",
+      "date"     : "2022-01-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Funghi fantastici",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/06/funghi_fantastici/",
       "date"     : "2022-01-06 00:00:00 +0100"
     } ,
   
@@ -325,6 +509,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/01/05/incontri_paranormali_la_creatura_di_mortegliano/",
+      "date"     : "2022-01-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il «nuovo» Cile dei militari",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/01/05/il_nuovo_cile_dei_militari/",
       "date"     : "2022-01-05 00:00:00 +0100"
     } ,
   
