@@ -1,10 +1,146 @@
 [
   
     {
+      "title"    : "Vincenzo Pardini. L’accecatore",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/10/vincenzo_pardini_laccecatore/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tra macchina e uomo",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2022/01/10/tra_macchina_e_uomo/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maria: mangime per i cuori, crocefissa senza pietà",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/10/maria_mangime_per_i_cuori_crocefissa_senza_piet/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le chiavi di Los Terceros",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2022/01/10/le_chiavi_di_los_terceros/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La zanzara che ci ama da sempre",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/10/la_zanzara_che_ci_ama_da_sempre/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La letteratura ci cambia. Da Sergio Quinzio a Pessoa: “L’abisso è il muro che ho”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/10/la_letteratura_ci_cambia_da_sergio_quinzio_a_pessoa_labisso_il_muro_che_ho/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Corpi aperti",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/10/corpi_aperti/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cees Nooteboom: l’enigma de “La Tempesta”",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/10/cees_nooteboom_lenigma_de_la_tempesta/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un’altra dimensione",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/09/unaltra_dimensione/",
+      "date"     : "2022-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una questione aperta: per il centesimo anniversario della nascita di Beppe Fenoglio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/09/una_questione_aperta_per_il_centesimo_anniversario_della_nascita_di_beppe_fenoglio/",
+      "date"     : "2022-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Radici Bionde di Bernardine Evaristo: razzismo e schiavitù visti in una prospettiva inedita. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/09/radici_bionde_di_bernardine_evaristo_razzismo_e_schiavit_visti_in_una_prospettiva_inedita_recensione/",
+      "date"     : "2022-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lo sguardo abbacinante dell’ipnosi: la Cina secondo Carlo Laurenti (e Lu Xun)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/09/lo_sguardo_abbacinante_dellipnosi_la_cina_secondo_carlo_laurenti_e_lu_xun/",
+      "date"     : "2022-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Hollywood nera. Quando Satana si aggira nella fabbrica dei sogni",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/09/hollywood_nera_quando_satana_si_aggira_nella_fabbrica_dei_sogni/",
+      "date"     : "2022-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Far saltare gli equilibri statici del linguaggio: una riflessione su Stagioni scalene",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/09/far_saltare_gli_equilibri_statici_del_linguaggio_una_riflessione_su_stagioni_scalene/",
+      "date"     : "2022-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Sanremo, Checco Zalone superospite al Festival",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/01/09/attenzionesanremo_checco_zalone_superospite_al_festival/",
+      "date"     : "2022-01-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Whirl",
       "category" : "the-bookish-explorer",
       "tags"     : "the-bookish-explorer",
       "url"      : "/2022/01/08/whirl/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un continuo sali scendi – Alessandro Di Porzio",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/01/08/un_continuo_sali_scendi_alessandro_di_porzio/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sindrome di Lazzaro… “cuore, alzati e cammina”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/08/sindrome_di_lazzaro_cuore_alzati_e_cammina/",
       "date"     : "2022-01-08 00:00:00 +0100"
     } ,
   
@@ -21,6 +157,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/08/populismo_promozionale_la_nuova_ipocrisia_il_caso_chiara_gamberale/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pillole di storia dell’arte, a caccia di bellezza con Susi Mastracchio",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/08/pillole_di_storia_dellarte_a_caccia_di_bellezza_con_susi_mastracchio/",
       "date"     : "2022-01-08 00:00:00 +0100"
     } ,
   
@@ -49,10 +193,50 @@
     } ,
   
     {
+      "title"    : "Il racconto della domenica: Perché non si sa mai di Manuela Nigro",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/08/il_racconto_della_domenica_perch_non_si_sa_mai_di_manuela_nigro/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Gauguin è razzista, Quiroga osceno. La società che vuole uccidere i “mostri” è mostruosa",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/08/gauguin_razzista_quiroga_osceno_la_societ_che_vuole_uccidere_i_mostri_mostruosa/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #122",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2022/01/08/fantastico_122/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come funziona il laboratorio dell’arte?",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/01/08/come_funziona_il_laboratorio_dellarte/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Breve storia del canone letterario scolastico e di come (non) è cambiato nel tempo",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/01/08/breve_storia_del_canone_letterario_scolastico_e_di_come_non_cambiato_nel_tempo/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Allarme anime, ecco quelli da non perdere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/08/allarme_anime_ecco_quelli_da_non_perdere/",
       "date"     : "2022-01-08 00:00:00 +0100"
     } ,
   
@@ -513,6 +697,14 @@
     } ,
   
     {
+      "title"    : "Il tempo, le regole, il resto – Miriam Camerini, rabbina",
+      "category" : "ctrl-magazine",
+      "tags"     : "ctrl-magazine",
+      "url"      : "/2022/01/05/il_tempo_le_regole_il_resto_miriam_camerini_rabbina/",
+      "date"     : "2022-01-05 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il «nuovo» Cile dei militari",
       "category" : "opera-viva",
       "tags"     : "opera-viva",
@@ -749,6 +941,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/01/04/da_senzatetto_a_imperatore_degli_stati_uniti_damerica/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Calpestando bandiere",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/01/04/calpestando_bandiere/",
       "date"     : "2022-01-04 00:00:00 +0100"
     } ,
   
