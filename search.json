@@ -1,6 +1,38 @@
 [
   
     {
+      "title"    : "Scurati vs Evangelisti (la finale dei campionati mondiali di letteratura storica)",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/11/scurati_vs_evangelisti_la_finale_dei_campionati_mondiali_di_letteratura_storica/",
+      "date"     : "2022-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pubertà e nuvole: Pancia d’asino di Andrea Abreu",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/01/11/pubert_e_nuvole_pancia_dasino_di_andrea_abreu/",
+      "date"     : "2022-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elogio di Amelia Van Buren, la donna che diventò un enigma",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/11/elogio_di_amelia_van_buren_la_donna_che_divent_un_enigma/",
+      "date"     : "2022-01-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Arkadij e Boris Strugackij. L’isola abitata",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/11/arkadij_e_boris_strugackij_lisola_abitata/",
+      "date"     : "2022-01-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vincenzo Pardini. L’accecatore",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -17,6 +49,78 @@
     } ,
   
     {
+      "title"    : "Su un’isola di nome Lanzarote",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2022/01/10/su_unisola_di_nome_lanzarote/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sinceramente vostro, Surik",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/01/10/sinceramente_vostro_surik/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sara Mesa – Un amore",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/01/10/sara_mesa_un_amore/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sì alle donne! Ma andiamoci piano",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/10/s_alle_donne_ma_andiamoci_piano/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Gianrico Carofiglio, chi è? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/10/ritratti_di_scrittori_gianrico_carofiglio_chi_scoprilo_in_5_parole/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "PMS: ma hai il ciclo?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/10/pms_ma_hai_il_ciclo/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Planimetria sentimentale del disastro. Intervista a Graziano Graziani",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/10/planimetria_sentimentale_del_disastro_intervista_a_graziano_graziani/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per un’esistenza verticalizzata: l’habitus secondo Peter Sloterdijk",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/01/10/per_unesistenza_verticalizzata_lhabitus_secondo_peter_sloterdijk/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Michela Scanu vince il Contest: la sua poesia “trecentesca” ha fatto colpo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/10/michela_scanu_vince_il_contest_la_sua_poesia_trecentesca_ha_fatto_colpo/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Maria: mangime per i cuori, crocefissa senza pietà",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +129,50 @@
     } ,
   
     {
+      "title"    : "“Lo scrittore deve scrivere ogni sera la storia della sua giornata”: le “Lettere” di Italo Svevo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/10/lo_scrittore_deve_scrivere_ogni_sera_la_storia_della_sua_giornata_le_lettere_di_italo_svevo/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’enigma de “La Tempesta” di Giorgione in Cees Nooteboom",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/10/lenigma_de_la_tempesta_di_giorgione_in_cees_nooteboom/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #11: TEBALDO DEVE MORIRE (D’ANGELO)",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2022/01/10/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_11_tebaldo_deve_morire_dangelo/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Le chiavi di Los Terceros",
       "category" : "il-mondo-o-niente",
       "tags"     : "il-mondo-o-niente",
       "url"      : "/2022/01/10/le_chiavi_di_los_terceros/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’arte svelata di Domenico Sepe",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/10/larte_svelata_di_domenico_sepe/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La zanzara che ci ama da sempre - recitativo accompagnato",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/10/la_zanzara_che_ci_ama_da_sempre_-_recitativo_accompagnato/",
       "date"     : "2022-01-10 00:00:00 +0100"
     } ,
   
@@ -49,6 +193,70 @@
     } ,
   
     {
+      "title"    : "Houellebecq, “Annientare”: que reste-t-il de nos amours?",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/01/10/houellebecq_annientare_que_reste-t-il_de_nos_amours/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Hate speech ai tempi del Covid. Quando l’epiteto ha un potenziale denigratorio",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/10/hate_speech_ai_tempi_del_covid_quando_lepiteto_ha_un_potenziale_denigratorio/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gloria al cinema del Nord",
+      "category" : "duemilauno",
+      "tags"     : "duemilauno",
+      "url"      : "/2022/01/10/gloria_al_cinema_del_nord/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "È giusto fare figli?",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/01/10/giusto_fare_figli/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Festival letterari del 2022, il calendario degli eventi in tutta Italia",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/10/festival_letterari_del_2022_il_calendario_degli_eventi_in_tutta_italia/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Estratti da Rovi di Davide Nota ⥀ Preorder Argolibri",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/01/10/estratti_da_rovi_di_davide_nota_preorder_argolibri/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Don’t look up | La settimana di un cretino",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/01/10/dont_look_up_la_settimana_di_un_cretino/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Daniel Frost. La balena misteriosa",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/10/daniel_frost_la_balena_misteriosa/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Corpi aperti",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -61,6 +269,22 @@
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2022/01/10/cees_nooteboom_lenigma_de_la_tempesta/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "And the Oscar goes to… Samuel L. Jackson, motherfucker!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/10/and_the_oscar_goes_to_samuel_l_jackson_motherfucker/",
+      "date"     : "2022-01-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "5 tipi di sistema scolastico nel mondo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/10/5_tipi_di_sistema_scolastico_nel_mondo/",
       "date"     : "2022-01-10 00:00:00 +0100"
     } ,
   
@@ -93,6 +317,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/09/lo_sguardo_abbacinante_dellipnosi_la_cina_secondo_carlo_laurenti_e_lu_xun/",
+      "date"     : "2022-01-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’Italia ha avuto un proprio Klimt nazionale, lo conosci?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/09/litalia_ha_avuto_un_proprio_klimt_nazionale_lo_conosci/",
       "date"     : "2022-01-09 00:00:00 +0100"
     } ,
   
