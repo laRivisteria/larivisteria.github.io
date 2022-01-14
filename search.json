@@ -1,6 +1,94 @@
 [
   
     {
+      "title"    : "Un paese governato da uomini integri",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/01/14/un_paese_governato_da_uomini_integri/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un compleanno speciale",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2022/01/14/un_compleanno_speciale/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Matteo Meschiari: Dispacci dall’Antropocene #5",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/14/matteo_meschiari_dispacci_dallantropocene_5/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lucio Leone.La ferita",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/14/lucio_leonela_ferita/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’arte segreta di diventare umani",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/14/larte_segreta_di_diventare_umani/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La zuppa di Cacao",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/14/la_zuppa_di_cacao/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La rivoluzionaria pedagogia di Asja Lācis",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/01/14/la_rivoluzionaria_pedagogia_di_asja_lcis/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In Bengala: l’ultima impresa di André Malraux",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/14/in_bengala_lultima_impresa_di_andr_malraux/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dio è stanco del cielo e si fa uomo all’Hotel Padreterno. Dialogo con Roberto Pazzi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/14/dio_stanco_del_cielo_e_si_fa_uomo_allhotel_padreterno_dialogo_con_roberto_pazzi/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Claudine Galea. Titù",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/14/claudine_galea_tit/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "WORKS@PASTO NUDO – UNA LETTURA PERPETUA",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2022/01/13/workspasto_nudo_una_lettura_perpetua/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vite negate: gli amori omosessuali del passato",
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
@@ -9,10 +97,82 @@
     } ,
   
     {
+      "title"    : "Una farsa mediocre e per questo eccezionale",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2022/01/13/una_farsa_mediocre_e_per_questo_eccezionale/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una di due di Daniel Sada: un libro sulle contraddizioni interiori. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/13/una_di_due_di_daniel_sada_un_libro_sulle_contraddizioni_interiori_recensione/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un buon uso della vita. Intervista a Gabriella Musetti",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/13/un_buon_uso_della_vita_intervista_a_gabriella_musetti/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Rivolta poetica di una poetica rivolta",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/13/rivolta_poetica_di_una_poetica_rivolta/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Riparatemi dal gelo del mondo”. Jude Stéfan contro i critici “medagliati di merda”",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/13/riparatemi_dal_gelo_del_mondo_jude_stfan_contro_i_critici_medagliati_di_merda/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Premio Letterario Fondazione Uspidalet – Alessandria Cultura",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/13/premio_letterario_fondazione_uspidalet_alessandria_cultura/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Opabinia e Calamaro",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/01/13/opabinia_e_calamaro/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nelle terre estreme di Tiergarten",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2022/01/13/nelle_terre_estreme_di_tiergarten/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Margherita Fabbri | Anime fradicie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/13/margherita_fabbri_anime_fradicie/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La verità è ricurva – e astratta",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/01/13/la_verit_ricurva_e_astratta/",
       "date"     : "2022-01-13 00:00:00 +0100"
     } ,
   
@@ -33,6 +193,22 @@
     } ,
   
     {
+      "title"    : "Jake Brown. Dust n’ Bones",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/13/jake_brown_dust_n_bones/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il misfatto – Prima e dopo l’editing",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2022/01/13/il_misfatto_prima_e_dopo_lediting/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "I legami più piccoli",
       "category" : "singola",
       "tags"     : "singola",
@@ -49,6 +225,30 @@
     } ,
   
     {
+      "title"    : "Forme del conflitto ⥀ “Noi” di Alessandro Broggi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/01/13/forme_del_conflitto_noi_di_alessandro_broggi/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Flavia Cantile | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/13/flavia_cantile_poesie/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Discalculia, cos’è e perché è così sottovalutata?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/13/discalculia_cos_e_perch_cos_sottovalutata/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Dentro la funzione esplicativa. I due punti in Daniel Sada",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
@@ -57,10 +257,42 @@
     } ,
   
     {
+      "title"    : "Braccio di ferro, sei proprio tu?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/13/braccio_di_ferro_sei_proprio_tu/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bolidi fiammanti.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/01/13/bolidi_fiammanti/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Annie Ernaux – La donna gelata",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/01/13/annie_ernaux_la_donna_gelata/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“A pelle”. Per Vitaliano Trevisan",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/13/a_pelle_per_vitaliano_trevisan/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "A casa di Antonello Venditti c’è sempre il sole",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/13/a_casa_di_antonello_venditti_c_sempre_il_sole/",
       "date"     : "2022-01-13 00:00:00 +0100"
     } ,
   
