@@ -1,10 +1,402 @@
 [
   
     {
+      "title"    : "UN’EPIFANIA ALLA CORNETTA: NIVES DI SACHA NASPINI",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2022/01/17/unepifania_alla_cornetta_nives_di_sacha_naspini/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Silvia Diamanti. Dancing Paradiso",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/17/silvia_diamanti_dancing_paradiso/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scrivere ancora del dove",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2022/01/17/scrivere_ancora_del_dove/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per essere Tutto, diventare Nulla",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/17/per_essere_tutto_diventare_nulla/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nella città più fredda. Intervista a Elisa Davoglio",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/17/nella_citt_pi_fredda_intervista_a_elisa_davoglio/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La frontiera che svanisce – Il Vorrh, l’Abisso, il Green Pass",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/01/17/la_frontiera_che_svanisce_il_vorrh_labisso_il_green_pass/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista alla cantautrice Scarlet: “Musicalmente viaggio su sonorità ispirate agli anni Ottanta”",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2022/01/17/intervista_alla_cantautrice_scarlet_musicalmente_viaggio_su_sonorit_ispirate_agli_anni_ottanta/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“E l’ultimo denudamento è tremendo”. Su Varlam Šalamov",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/17/e_lultimo_denudamento_tremendo_su_varlam_alamov/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dentro la funzione esplicativa. I due punti in Daniel Sada. Ipertesto",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2022/01/17/dentro_la_funzione_esplicativa_i_due_punti_in_daniel_sada_ipertesto/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Arte e morte: quando Pound scelse di tradurre Leopardi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/17/arte_e_morte_quando_pound_scelse_di_tradurre_leopardi/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alessio Paiano: s’inceppa tutto il discorrere",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/17/alessio_paiano_sinceppa_tutto_il_discorrere/",
+      "date"     : "2022-01-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Voltaire contro ogni fanatismo e furore religioso",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/16/voltaire_contro_ogni_fanatismo_e_furore_religioso/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "VIVA #17",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2022/01/16/viva_17/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The sinner 3, la serie che non ti delude",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/16/the_sinner_3_la_serie_che_non_ti_delude/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Procida ispira” di Elisabetta Montaldo e Donatella Pandolfi",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/16/recensioni_procida_ispira_di_elisabetta_montaldo_e_donatella_pandolfi/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Racconto: L’uomo con la pistola – Mattia Corrente",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/01/16/racconto_luomo_con_la_pistola_mattia_corrente/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Psicorama” – Intervista a Pasquale Sbrizzi",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/01/16/psicorama_intervista_a_pasquale_sbrizzi/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mezzanotte a Marrakech – Prima parte",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2022/01/16/mezzanotte_a_marrakech_prima_parte/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Matteo Ripa – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/16/matteo_ripa_personaggio_della_settimana/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Intervista a Giorgio Ghiotti",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/16/intervista_a_giorgio_ghiotti/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I leccapiedi della Ferrante. Piccolo discorso sull’ipocrisia degli scrittori odierni",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/16/i_leccapiedi_della_ferrante_piccolo_discorso_sullipocrisia_degli_scrittori_odierni/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Firenze ovvero l&#39;Eden di Attendu",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/16/firenze_ovvero_leden_di_attendu/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Davide Cortese | Zebù bambino",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/16/davide_cortese_zeb_bambino/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cosa sarebbe la Scala dei Turchi senza Articolo 9?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/16/cosa_sarebbe_la_scala_dei_turchi_senza_articolo_9/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Caro Davide, quanto teppismo santo! ⥀ Una lettera di Giacomo Lilliù per Rovi di Davide Nota",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/01/16/caro_davide_quanto_teppismo_santo_una_lettera_di_giacomo_lilli_per_rovi_di_davide_nota/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alianti",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2022/01/16/alianti/",
+      "date"     : "2022-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Viburno rosso",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/01/15/viburno_rosso/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una promessa senza speranze",
+      "category" : "senzadieci",
+      "tags"     : "senzadieci",
+      "url"      : "/2022/01/15/una_promessa_senza_speranze/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sfurim e le conseguenze dell’amore (per interesse)",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/15/sfurim_e_le_conseguenze_dellamore_per_interesse/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Playlist indie per veri cuori spezzati (perché non deve fare male, ma malissimo)",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/15/playlist_indie_per_veri_cuori_spezzati_perch_non_deve_fare_male_ma_malissimo/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Per Rai poesia",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/15/per_rai_poesia/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Mittica | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/15/marco_mittica_poesie/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’uomo col sigaro",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/15/luomo_col_sigaro/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I’m still here – Joaquin Phoenix e l’altro lato di Hollywood",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/15/im_still_here_joaquin_phoenix_e_laltro_lato_di_hollywood/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Sono entrata nello specchio di Giusi D’Urso",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/15/il_racconto_della_domenica_sono_entrata_nello_specchio_di_giusi_durso/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il mistero della carrozza di Bosco Romagno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/15/il_mistero_della_carrozza_di_bosco_romagno/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il corpo morto di Virginia Woolf (e la visita fatale di Eliot)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/15/il_corpo_morto_di_virginia_woolf_e_la_visita_fatale_di_eliot/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il cardiochirurgo del secolo: René Gerónimo Favaloro",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2022/01/15/il_cardiochirurgo_del_secolo_ren_gernimo_favaloro/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Hazel eyes",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/01/15/hazel_eyes/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Felix",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/15/felix/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Di quale “cancel culture” si parla in Italia?",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/15/di_quale_cancel_culture_si_parla_in_italia/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "CON L’ACQUA",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/01/15/con_lacqua/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cipriano Gentilino – Parabole",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/01/15/cipriano_gentilino_parabole/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Chi ignaro ascolta la voce delle Sirene…”. L’acustica del desiderio in Omero e Kafka",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/15/chi_ignaro_ascolta_la_voce_delle_sirene_lacustica_del_desiderio_in_omero_e_kafka/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Arriva “Vite subacquee”, la newsletter del Rifugio dell’Ircocervo",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/01/15/arriva_vite_subacquee_la_newsletter_del_rifugio_dellircocervo/",
+      "date"     : "2022-01-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "YOU ARE NOW ENTERING THE END OF THE WORLD",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/01/14/you_are_now_entering_the_end_of_the_world/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "William in William / Archetipi shakespeariani in ‘As I Lay Dying’ di Faulkner (parte I)",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2022/01/14/william_in_william_archetipi_shakespeariani_in_as_i_lay_dying_di_faulkner_parte_i/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un viaggio ai limiti del possibile",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2022/01/14/un_viaggio_ai_limiti_del_possibile/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Un paese governato da uomini integri",
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2022/01/14/un_paese_governato_da_uomini_integri/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un lutto e tutte le paludi familiari, magistrale Oates",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/14/un_lutto_e_tutte_le_paludi_familiari_magistrale_oates/",
       "date"     : "2022-01-14 00:00:00 +0100"
     } ,
   
@@ -17,10 +409,58 @@
     } ,
   
     {
+      "title"    : "Scopriamo il Portogallo a passo di Fado",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/14/scopriamo_il_portogallo_a_passo_di_fado/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Santa Rosa, California",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/01/14/santa_rosa_california/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Premio Narrativa Bergamo: i finalisti dell’edizione 2022",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/01/14/premio_narrativa_bergamo_i_finalisti_delledizione_2022/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Poesie di Achille Pignatelli",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/01/14/poesie_di_achille_pignatelli/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Midnight Mass | Non mi perdoni, Padre",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/01/14/midnight_mass_non_mi_perdoni_padre/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Matteo Meschiari: Dispacci dall’Antropocene #5",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/01/14/matteo_meschiari_dispacci_dallantropocene_5/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marabecca ci tenga lontani dai pozzi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/14/marabecca_ci_tenga_lontani_dai_pozzi/",
       "date"     : "2022-01-14 00:00:00 +0100"
     } ,
   
@@ -33,10 +473,26 @@
     } ,
   
     {
+      "title"    : "Lo compro o no? 4 brand makeup che fanno bene al cuore, meno al portafoglio",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/14/lo_compro_o_no_4_brand_makeup_che_fanno_bene_al_cuore_meno_al_portafoglio/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "L’arte segreta di diventare umani",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/01/14/larte_segreta_di_diventare_umani/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’America disfunzionale di Jonathan Franzen – Crossroads",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2022/01/14/lamerica_disfunzionale_di_jonathan_franzen_crossroads/",
       "date"     : "2022-01-14 00:00:00 +0100"
     } ,
   
@@ -57,10 +513,34 @@
     } ,
   
     {
+      "title"    : "La mia più grande opera d’arte, un racconto di M. Crescenzo || Street Stories",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/01/14/la_mia_pi_grande_opera_darte_un_racconto_di_m_crescenzo_street_stories/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "In Bengala: l’ultima impresa di André Malraux",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/14/in_bengala_lultima_impresa_di_andr_malraux/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Epistola che rinasce dalle ceneri: Marilyn Monroe",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/01/14/epistola_che_rinasce_dalle_ceneri_marilyn_monroe/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Editoria turismo e arte: crollo verticale nel 2021",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/14/editoria_turismo_e_arte_crollo_verticale_nel_2021/",
       "date"     : "2022-01-14 00:00:00 +0100"
     } ,
   
@@ -73,10 +553,26 @@
     } ,
   
     {
+      "title"    : "Di cosa parliamo quando parliamo di cinecomic",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/01/14/di_cosa_parliamo_quando_parliamo_di_cinecomic/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Claudine Galea. Titù",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/01/14/claudine_galea_tit/",
+      "date"     : "2022-01-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chiamami col mio nome: Rachel Bluwstein",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/14/chiamami_col_mio_nome_rachel_bluwstein/",
       "date"     : "2022-01-14 00:00:00 +0100"
     } ,
   
@@ -297,6 +793,14 @@
     } ,
   
     {
+      "title"    : "14 classici odiati da scrittori famosi | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/01/13/14_classici_odiati_da_scrittori_famosi_in_translation/",
+      "date"     : "2022-01-13 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Uno spazio di integrità e purezza”: Pasternak e i profeti del ’900",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -349,6 +853,14 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/01/12/pievani_quando_la_serendipit_irrompe_nella_scienza/",
+      "date"     : "2022-01-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mirto",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/01/12/mirto/",
       "date"     : "2022-01-12 00:00:00 +0100"
     } ,
   
@@ -2053,6 +2565,14 @@
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2022/01/03/teoria_della_prosa_viaggio_a_confini_della_nouvelle/",
+      "date"     : "2022-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritratti di Linda Randazzo: la storia di Jerusa Barros",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/03/ritratti_di_linda_randazzo_la_storia_di_jerusa_barros/",
       "date"     : "2022-01-03 00:00:00 +0100"
     } ,
   
