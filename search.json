@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Tecnoluddismo",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2022/01/19/tecnoluddismo/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Su “Solenoide” di Mircea Cărtărescu",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -17,6 +25,14 @@
     } ,
   
     {
+      "title"    : "Postcards from Italy | Daniel Pérez Segura",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/01/19/postcards_from_italy_daniel_prez_segura/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Piero Negri Scaglione – Che hai fatto in tutti questi anni. Sergio Leone e l’avventura di C’era una volta in America",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
@@ -25,10 +41,74 @@
     } ,
   
     {
+      "title"    : "Ode a Cosey Fanni Tutti.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/01/19/ode_a_cosey_fanni_tutti/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 19 Gennaio 2022",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/01/19/le_news_letterarie_19_gennaio_2022/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La verità su tutto",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/01/19/la_verit_su_tutto/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La “Libertà grande” di Julien Gracq",
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
       "url"      : "/2022/01/19/la_libert_grande_di_julien_gracq/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Janet Lewis",
+      "category" : "racconti-edizioni",
+      "tags"     : "racconti-edizioni",
+      "url"      : "/2022/01/19/janet_lewis/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il tempo altrove",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2022/01/19/il_tempo_altrove/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I paradossi di una conoscenza salvifica",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2022/01/19/i_paradossi_di_una_conoscenza_salvifica/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Halldór Laxness anteprima. Il paradiso ritrovato",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/19/halldr_laxness_anteprima_il_paradiso_ritrovato/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Figli del secolo breve. Intervista a Daniele Timpano ed Elvira Frosini su Ottantanove",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/19/figli_del_secolo_breve_intervista_a_daniele_timpano_ed_elvira_frosini_su_ottantanove/",
       "date"     : "2022-01-19 00:00:00 +0100"
     } ,
   
@@ -49,10 +129,34 @@
     } ,
   
     {
+      "title"    : "Due ragazzi e un incubo, Peano esplora l’indicibile",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/19/due_ragazzi_e_un_incubo_peano_esplora_lindicibile/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dirce",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/01/19/dirce/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Confini",
       "category" : "spazinclusi",
       "tags"     : "spazinclusi",
       "url"      : "/2022/01/19/confini/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Catullo. Versi di rabbia e di passione",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/19/catullo_versi_di_rabbia_e_di_passione/",
       "date"     : "2022-01-19 00:00:00 +0100"
     } ,
   
@@ -69,6 +173,22 @@
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2022/01/19/anche_oggi_la_fine_del_mondo_rimandata/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Al banchetto del realismo grottesco: l’ultimo romanzo di Mathias Enard",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/01/19/al_banchetto_del_realismo_grottesco_lultimo_romanzo_di_mathias_enard/",
+      "date"     : "2022-01-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Add editore riscrive la sua identità con nuovi logo e font",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/19/add_editore_riscrive_la_sua_identit_con_nuovi_logo_e_font/",
       "date"     : "2022-01-19 00:00:00 +0100"
     } ,
   
@@ -229,6 +349,14 @@
       "category" : "senzadieci",
       "tags"     : "senzadieci",
       "url"      : "/2022/01/18/la_verit_su_tutto_da_simone_weil_a_trump/",
+      "date"     : "2022-01-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La scala",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2022/01/18/la_scala/",
       "date"     : "2022-01-18 00:00:00 +0100"
     } ,
   
@@ -3025,6 +3153,14 @@
     } ,
   
     {
+      "title"    : "Hannah Arendt a teatro. Intervista alla drammaturga Valeria Simone",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2022/01/04/hannah_arendt_a_teatro_intervista_alla_drammaturga_valeria_simone/",
+      "date"     : "2022-01-04 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Golgota",
       "category" : "micorrize",
       "tags"     : "micorrize",
@@ -5073,6 +5209,14 @@
     } ,
   
     {
+      "title"    : "La triste realtà della finzione: il cinema di Radu Jude",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2021/12/22/la_triste_realt_della_finzione_il_cinema_di_radu_jude/",
+      "date"     : "2021-12-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Impareggiabile, ridicolo eroismo",
       "category" : "singola",
       "tags"     : "singola",
@@ -5573,6 +5717,14 @@
       "category" : "glicine",
       "tags"     : "glicine",
       "url"      : "/2021/12/20/prt_parterre_il_san_carlo_di_napoli_omaggia_i_suoi_spettatori/",
+      "date"     : "2021-12-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Promuovere il cambiamento",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2021/12/20/promuovere_il_cambiamento/",
       "date"     : "2021-12-20 00:00:00 +0100"
     } ,
   
@@ -6309,6 +6461,14 @@
       "category" : "mosse-di-seppia",
       "tags"     : "mosse-di-seppia",
       "url"      : "/2021/12/16/lo_schiavo_angelo_lachesi/",
+      "date"     : "2021-12-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’efficienza stupida. Una suggestione critica, bevendo caffè forte",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2021/12/16/lefficienza_stupida_una_suggestione_critica_bevendo_caff_forte/",
       "date"     : "2021-12-16 00:00:00 +0100"
     } ,
   
@@ -7781,6 +7941,14 @@
       "category" : "exlibris20",
       "tags"     : "exlibris20",
       "url"      : "/2021/12/10/daytona_beach_florida/",
+      "date"     : "2021-12-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coscienza della modernità, persistenza di Hegel",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2021/12/10/coscienza_della_modernit_persistenza_di_hegel/",
       "date"     : "2021-12-10 00:00:00 +0100"
     } ,
   
@@ -9497,6 +9665,14 @@
     } ,
   
     {
+      "title"    : "Europa e sovranità digitale",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2021/12/02/europa_e_sovranit_digitale/",
+      "date"     : "2021-12-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Eleonora Terranova | Luoghi di attenzione",
       "category" : "inverso",
       "tags"     : "inverso",
@@ -10389,6 +10565,14 @@
       "category" : "l-eco-del-nulla",
       "tags"     : "l-eco-del-nulla",
       "url"      : "/2021/11/29/i_corpi_di_ducournau_visioni/",
+      "date"     : "2021-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Harrison: the quiet Beatle. Intervista ad Alberto Rezzi",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2021/11/29/harrison_the_quiet_beatle_intervista_ad_alberto_rezzi/",
       "date"     : "2021-11-29 00:00:00 +0100"
     } ,
   
@@ -11461,6 +11645,14 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/11/23/il_racconto_del_mercoled_a-morphing_ovvero_il_mal_damore_nellepoca_della_computer_grafica_di_lida_poliero/",
+      "date"     : "2021-11-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il corpo del mondo",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2021/11/23/il_corpo_del_mondo/",
       "date"     : "2021-11-23 00:00:00 +0100"
     } ,
   
@@ -12565,6 +12757,14 @@
       "category" : "spaghetti-writers",
       "tags"     : "spaghetti-writers",
       "url"      : "/2021/11/17/spaghetti_allassassina/",
+      "date"     : "2021-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Sotto il cielo di Parigi» con Nadja, Breton e Benjamin.",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2021/11/17/sotto_il_cielo_di_parigi_con_nadja_breton_e_benjamin/",
       "date"     : "2021-11-17 00:00:00 +0100"
     } ,
   
