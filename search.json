@@ -1,10 +1,202 @@
 [
   
     {
+      "title"    : "Quel centimetro enorme: su La quasi notte di Francesca Serragnoli",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2022/01/24/quel_centimetro_enorme_su_la_quasi_notte_di_francesca_serragnoli/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Proclamati geni",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/24/proclamati_geni/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La rivoluzione digitale non sono gli ebook, ma internet",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/01/24/la_rivoluzione_digitale_non_sono_gli_ebook_ma_internet/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La consapevolezza come antidoto al nichilismo. Dalla poesia della Candiani alla filosofia di Nishitani",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/24/la_consapevolezza_come_antidoto_al_nichilismo_dalla_poesia_della_candiani_alla_filosofia_di_nishitani/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ilaria Palomba. Brama",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/24/ilaria_palomba_brama/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giovanni Cocco inedito. Nei Sanatori Alpini sulle tracce di Thomas Mann e Jean Vigo",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/24/giovanni_cocco_inedito_nei_sanatori_alpini_sulle_tracce_di_thomas_mann_e_jean_vigo/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fotoromanzo urbano",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/24/fotoromanzo_urbano/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Che fine ha fatto l’Occidente? È un dis-Oriente",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/24/che_fine_ha_fatto_loccidente_un_dis-oriente/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ricordo o sogno, nella lingua della terra. La poesia di Umberto Piersanti",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/23/ricordo_o_sogno_nella_lingua_della_terra_la_poesia_di_umberto_piersanti/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quella violenza non la dimenticheremo mai – Peter Genito",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/23/quella_violenza_non_la_dimenticheremo_mai_peter_genito/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Passaggi Festival, la rassegna di saggistica ospiterà il Premio Fortini",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/23/passaggi_festival_la_rassegna_di_saggistica_ospiter_il_premio_fortini/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Paesaggio classico e paesaggio barocco in “Tre ore nel Museo del Prado” di Eugenio D’Ors",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/23/paesaggio_classico_e_paesaggio_barocco_in_tre_ore_nel_museo_del_prado_di_eugenio_dors/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non hai vissuto finché non sei morto nel MUD ⥀ Estratto da Per una storia della letteratura elettronica italiana di Roberta Iadevaia",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/01/23/non_hai_vissuto_finch_non_sei_morto_nel_mud_estratto_da_per_una_storia_della_letteratura_elettronica_italiana_di_roberta_iadevaia/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mezzanotte a Marrakech – Seconda parte",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2022/01/23/mezzanotte_a_marrakech_seconda_parte/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Les femmes de ma vie, antropologia letteraria di Antonella Rizzo",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/23/les_femmes_de_ma_vie_antropologia_letterariadiantonellarizzo/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La persona più nobile è quella che non ha nulla da fare”. Il maestro del niente",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/23/la_persona_pi_nobile_quella_che_non_ha_nulla_da_fare_il_maestro_del_niente/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ho sempre desiderato questa vita",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/01/23/ho_sempre_desiderato_questa_vita/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giuseppe Garibaldi, Giuseppina Raimondi e un matrimonio durato solo un’ora",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/23/giuseppe_garibaldi_giuseppina_raimondi_e_un_matrimonio_durato_solo_unora/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Food-pic: Ramen non tentarmi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/23/food-pic_ramen_non_tentarmi/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cosa cerchiamo in un disegno? Intervista a Noemi Vola",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/23/cosa_cerchiamo_in_un_disegno_intervista_a_noemi_vola/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "È tutto provvisorio",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/01/22/tutto_provvisorio/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "SÀDEQ HEDÀYAT: una civetta cieca",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/01/22/sdeq_hedyat_una_civetta_cieca/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sandro Ferri racconta la sua e/o ne “L’editore presuntuoso”",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/01/22/sandro_ferri_racconta_la_sua_eo_ne_leditore_presuntuoso/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Moby Dick e il tesoro dell’isola",
+      "category" : "waste",
+      "tags"     : "waste",
+      "url"      : "/2022/01/22/moby_dick_e_il_tesoro_dellisola/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Macarena è il tormentone che non ti aspettavi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/22/macarena_il_tormentone_che_non_ti_aspettavi/",
       "date"     : "2022-01-22 00:00:00 +0100"
     } ,
   
@@ -25,6 +217,14 @@
     } ,
   
     {
+      "title"    : "Il racconto della domenica: La perdita di Fabiana Castellino",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/22/il_racconto_della_domenica_la_perdita_di_fabiana_castellino/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il giorno in cui ho smesso di scrivere racconti",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -33,10 +233,66 @@
     } ,
   
     {
+      "title"    : "Guthrie, l’epopea western di un’innocenza infranta",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/22/guthrie_lepopea_western_di_uninnocenza_infranta/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #123",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2022/01/22/fantastico_123/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dove c’eravate voi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/22/dove_ceravate_voi/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Area 22. Caviglia e l’autoironia, farmaco del depresso",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/01/22/area_22_caviglia_e_lautoironia_farmaco_del_depresso/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Abracadabra, conosciamo il mondo magico",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/22/abracadabra_conosciamo_il_mondo_magico/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Aboliamo ogni forma di alternanza scuola-lavoro",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/22/aboliamo_ogni_forma_di_alternanza_scuola-lavoro/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Abbattere i pregiudizi",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/01/22/abbattere_i_pregiudizi/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "5 fake news sul Medioevo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/22/5_fake_news_sul_medioevo/",
       "date"     : "2022-01-22 00:00:00 +0100"
     } ,
   
@@ -93,6 +349,14 @@
       "category" : "exlibris20",
       "tags"     : "exlibris20",
       "url"      : "/2022/01/21/scrivere_di_libro_o_il_pollo_di_balzac/",
+      "date"     : "2022-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Scrivere di libri o il pollo di Balzac",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/01/21/scrivere_di_libri_o_il_pollo_di_balzac/",
       "date"     : "2022-01-21 00:00:00 +0100"
     } ,
   
