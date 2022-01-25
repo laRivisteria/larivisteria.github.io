@@ -1,6 +1,86 @@
 [
   
     {
+      "title"    : "Virginia Woolf: “Un disegno dietro l’ovatta”",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/01/25/virginia_woolf_un_disegno_dietro_lovatta/",
+      "date"     : "2022-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Prisoner | Taumaturgia narrativa",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/01/25/the_prisoner_taumaturgia_narrativa/",
+      "date"     : "2022-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Joe Perry. Rocks. La mia vita dentro e fuori gli Aerosmith",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/25/joe_perry_rocks_la_mia_vita_dentro_e_fuori_gli_aerosmith/",
+      "date"     : "2022-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Ho ballato senza sosta”. Le lettere della Némirovsky",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/25/ho_ballato_senza_sosta_le_lettere_della_nmirovsky/",
+      "date"     : "2022-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Francesco Leto anteprima. Storia delle mie ossa",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/25/francesco_leto_anteprima_storia_delle_mie_ossa/",
+      "date"     : "2022-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Da “solchi”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/25/da_solchi/",
+      "date"     : "2022-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Con un cristallo di fiato: discesa negli inferi di Paul Celan",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/01/25/con_un_cristallo_di_fiato_discesa_negli_inferi_di_paul_celan/",
+      "date"     : "2022-01-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "William in William / Archetipi shakespeariani in ‘As I Lay Dying’ di Faulkner (parte II)",
+      "category" : "quaderni-contemporanei",
+      "tags"     : "quaderni-contemporanei",
+      "url"      : "/2022/01/24/william_in_william_archetipi_shakespeariani_in_as_i_lay_dying_di_faulkner_parte_ii/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Spaghetti aglio, olio e peperoncino",
+      "category" : "spaghetti-writers",
+      "tags"     : "spaghetti-writers",
+      "url"      : "/2022/01/24/spaghetti_aglio_olio_e_peperoncino/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Riscritture austeniane: Longbourn House",
+      "category" : "chiacchiere-letterarie",
+      "tags"     : "chiacchiere-letterarie",
+      "url"      : "/2022/01/24/riscritture_austeniane_longbourn_house/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Quel centimetro enorme: su La quasi notte di Francesca Serragnoli",
       "category" : "formicaleone",
       "tags"     : "formicaleone",
@@ -17,10 +97,58 @@
     } ,
   
     {
+      "title"    : "Poltiglia",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2022/01/24/poltiglia/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nostalgie della terra: una distopia che sa di salsedine",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/01/24/nostalgie_della_terra_una_distopia_che_sa_di_salsedine/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non essere stupida",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/01/24/non_essere_stupida/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#mappe – Atene: un esercizio di pazienza",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/01/24/mappe_atene_un_esercizio_di_pazienza/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’emancipazione femminile attraverso l’autobiografia: L’evento della scrittura di Sara Durantini",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/01/24/lemancipazione_femminile_attraverso_lautobiografia_levento_della_scrittura_di_sara_durantini/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La rivoluzione digitale non sono gli ebook, ma internet",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2022/01/24/la_rivoluzione_digitale_non_sono_gli_ebook_ma_internet/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La mortalità della virtù. Sir Gawain e il Cavaliere Verde di David Lowery",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/24/la_mortalit_della_virt_sir_gawain_e_il_cavaliere_verde_di_david_lowery/",
       "date"     : "2022-01-24 00:00:00 +0100"
     } ,
   
@@ -41,6 +169,14 @@
     } ,
   
     {
+      "title"    : "Girl Power: la rivoluzione comincia su Netflix",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/24/girl_power_la_rivoluzione_comincia_su_netflix/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Giovanni Cocco inedito. Nei Sanatori Alpini sulle tracce di Thomas Mann e Jean Vigo",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -57,10 +193,82 @@
     } ,
   
     {
+      "title"    : "Eutanasia – Le Ragioni della Filosofia – Parte II",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/01/24/eutanasia_le_ragioni_della_filosofia_parte_ii/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Eleni Marinaki | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/24/eleni_marinaki_poesie/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dulce Maria Cardoso, la storia può ricominciare",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/24/dulce_maria_cardoso_la_storia_pu_ricominciare/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Due cuori e una… condanna!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/24/due_cuori_e_una_condanna/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dissonanze creative",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/01/24/dissonanze_creative/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chiave: SANDBOX",
+      "category" : "specularia",
+      "tags"     : "specularia",
+      "url"      : "/2022/01/24/chiave_sandbox/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Che fine ha fatto l’Occidente? È un dis-Oriente",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/24/che_fine_ha_fatto_loccidente_un_dis-oriente/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "C4 – Centro di Contaminazione Creativa e Culturale a Firenze",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/01/24/c4_centro_di_contaminazione_creativa_e_culturale_a_firenze/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "+++ATTENZIONE+++Maria Elena Boschi e Giulio Berruti, altro che crisi: lui è il suo dolce maestro di sci, ma lei è una frana!",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/01/24/attenzionemaria_elena_boschi_e_giulio_berruti_altro_che_crisi_lui_il_suo_dolce_maestro_di_sci_ma_lei_una_frana/",
+      "date"     : "2022-01-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "After life, pronti a farvi spezzare il cuore?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/24/after_life_pronti_a_farvi_spezzare_il_cuore/",
       "date"     : "2022-01-24 00:00:00 +0100"
     } ,
   
@@ -141,6 +349,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/01/23/giuseppe_garibaldi_giuseppina_raimondi_e_un_matrimonio_durato_solo_unora/",
+      "date"     : "2022-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Garuda – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/23/garuda_personaggio_della_settimana/",
       "date"     : "2022-01-23 00:00:00 +0100"
     } ,
   
