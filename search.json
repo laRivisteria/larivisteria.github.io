@@ -1,10 +1,146 @@
 [
   
     {
+      "title"    : "Stella Nosella e Andrea Oberosler. In corso d’opera Antonio Canova",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/01/stella_nosella_e_andrea_oberosler_in_corso_dopera_antonio_canova/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Solennità quotidiana: Fanfare for the common man di Aaron Copland",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/02/01/solennit_quotidiana_fanfare_for_the_common_man_di_aaron_copland/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quella paura di una vita come tante",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/02/01/quella_paura_di_una_vita_come_tante/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Padrone di un linguaggio diverso",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2022/02/01/padrone_di_un_linguaggio_diverso/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Mi rifiuto di obbedire”. Un testo di Jean Giono",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/01/mi_rifiuto_di_obbedire_un_testo_di_jean_giono/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Masticazioni | Cristina Costantini",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/02/01/masticazioni_cristina_costantini/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Joy”: persone normali fuori, straordinarie dentro",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/02/01/joy_persone_normali_fuori_straordinarie_dentro/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I libri si muovono e le parole sono fiumi carsici. Piccolo discorso sulle cose irrimediabili",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/01/i_libri_si_muovono_e_le_parole_sono_fiumi_carsici_piccolo_discorso_sulle_cose_irrimediabili/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli immateriali",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/02/01/gli_immateriali/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giuseppe Di Matteo. Meridionale. Frammenti di un mondo alla rovescia",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/01/giuseppe_di_matteo_meridionale_frammenti_di_un_mondo_alla_rovescia/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Federico Jeanmaire. Più leggero dell’aria",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/01/federico_jeanmaire_pi_leggero_dellaria/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dall’altra parte del mondo, gli stessi sentimenti: la storia tragica di due bambini normali in Afghanistan",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/02/01/dallaltra_parte_del_mondo_gli_stessi_sentimenti_la_storia_tragica_di_due_bambini_normali_in_afghanistan/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cose che succedono la notte: le Tokyo stories di Yaro Abe",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/02/01/cose_che_succedono_la_notte_le_tokyo_stories_di_yaro_abe/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Consigli di lettura",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/02/01/consigli_di_lettura/",
+      "date"     : "2022-02-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "WHAT DO YOU WANT TO BELIEVE? di Giovanni Ciappelli",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/what_do_you_want_to_believe_di_giovanni_ciappelli/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Vuole forse uccidersi?”. Balzo dentro il peccato",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/01/31/vuole_forse_uccidersi_balzo_dentro_il_peccato/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Voir, vedere la critica cinematografica",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/31/voir_vedere_la_critica_cinematografica/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Vite assurde fatte solo di miseria”: su “Génie la matta” di Inès Cagnati",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/31/vite_assurde_fatte_solo_di_miseria_su_gnie_la_matta_di_ins_cagnati/",
       "date"     : "2022-01-31 00:00:00 +0100"
     } ,
   
@@ -17,10 +153,42 @@
     } ,
   
     {
+      "title"    : "Un racconto e una vignetta #11: Lo scacciapensieri",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/01/31/un_racconto_e_una_vignetta_11_lo_scacciapensieri/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Un piano di morte a soqquadro, leggero e drammatico Mannelli",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/01/31/un_piano_di_morte_a_soqquadro_leggero_e_drammatico_mannelli/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The House | Computo metrico estimativo",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/01/31/the_house_computo_metrico_estimativo/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "TESTA DI LUCERTOLA di Verdiana Raw",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/testa_di_lucertola_di_verdiana_raw/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Storia di solitudine",
+      "category" : "il-mondo-o-niente",
+      "tags"     : "il-mondo-o-niente",
+      "url"      : "/2022/01/31/storia_di_solitudine/",
       "date"     : "2022-01-31 00:00:00 +0100"
     } ,
   
@@ -33,10 +201,154 @@
     } ,
   
     {
+      "title"    : "Senno e follia",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/01/31/senno_e_follia/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "RITROVAMENTI di Andrea Mitri",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/ritrovamenti_di_andrea_mitri/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "#Ripescaggi: otto libri italiani da recuperare nel 2022",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/01/31/ripescaggi_otto_libri_italiani_da_recuperare_nel_2022/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "RACCONTO D’ACQUE di Gila Manetti",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/racconto_dacque_di_gila_manetti/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Raccontare l’adolescenza e il suo nascondersi",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/01/31/raccontare_ladolescenza_e_il_suo_nascondersi/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "QUATTRO ATMOSFERE NERE di Roberta Sandrini",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/quattro_atmosfere_nere_di_roberta_sandrini/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Ovunque è pericoloso». Orientamento di Daniel Orozco",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/01/31/ovunque_pericoloso_orientamento_di_daniel_orozco/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ORA DI RELIGIONE di Gabriele Giustri",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/ora_di_religione_di_gabriele_giustri/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "NAPOLI CLUB CILEA di Monica Capomonte",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/napoli_club_cilea_di_monica_capomonte/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "MI SONO NASCOSTA DIETRO UNA  BANALE MENZOGNA di Chiara Macinai",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/mi_sono_nascosta_dietro_una_banale_menzogna_di_chiara_macinai/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’uomo che fugge (Ed file no. 2)",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2022/01/31/luomo_che_fugge_ed_file_no_2/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lirica della montagna. L’ora più fredda di Paolo Paci",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/31/lirica_della_montagna_lora_pi_fredda_di_paolo_paci/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’io è una costruzione narrativa",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/01/31/lio_una_costruzione_narrativa/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le scatole",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2022/01/31/le_scatole/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’Architetto venuto dal Futuro. Intervista a Franco Fonatti in arte Fonax",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/01/31/larchitetto_venuto_dal_futuro_intervista_a_franco_fonatti_in_arte_fonax/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lady Cinema: guida pratica alla visione di un film",
+      "category" : "chiacchiere-letterarie",
+      "tags"     : "chiacchiere-letterarie",
+      "url"      : "/2022/01/31/lady_cinema_guida_pratica_alla_visione_di_un_film/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LA FONTANA DEI MILLE SENTIERI DI LUNA di Narciso Fenice Ramparti",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/la_fontana_dei_mille_sentieri_di_luna_di_narciso_fenice_ramparti/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Jorge Ibargüengoitia – La presa del Pedernal",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/01/31/jorge_ibargengoitia_la_presa_del_pedernal/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Io amo",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/01/31/io_amo/",
       "date"     : "2022-01-31 00:00:00 +0100"
     } ,
   
@@ -49,6 +361,94 @@
     } ,
   
     {
+      "title"    : "IL GIARDINO DELLA CACCA di Sabrina Carollo",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/il_giardino_della_cacca_di_sabrina_carollo/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Guia Soncini. L’era della suscettibilità",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/31/guia_soncini_lera_della_suscettibilit/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giovanni Nucci e Andrea Calisi.  Pico, Circe, i mostri di Bomarzo.",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/31/giovanni_nucci_e_andrea_calisi_pico_circe_i_mostri_di_bomarzo/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Floriana Lamonarca con “Mancanza a Natale” trionfa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/31/floriana_lamonarca_con_mancanza_a_natale_trionfa/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "FAREWELL FOR A VALLEY (I –II) di Cecilie Cafca Burns",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/farewell_for_a_valley_i_ii_di_cecilie_cafca_burns/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Erskine Caldwell e i suoi bastardi",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/01/31/erskine_caldwell_e_i_suoi_bastardi/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Droga reportage – Sabato: La giornata che ha cambiato il mondo.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/01/31/droga_reportage_sabato_la_giornata_che_ha_cambiato_il_mondo/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dinamica della famiglia",
+      "category" : "verde",
+      "tags"     : "verde",
+      "url"      : "/2022/01/31/dinamica_della_famiglia/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Digressioni. Intervista alla Redazione",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/01/31/digressioni_intervista_alla_redazione/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Cos’è lo stato di eccezione”, un estratto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/01/31/cos_lo_stato_di_eccezione_un_estratto/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come Mondrian ha scomposto l’Olanda",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/31/come_mondrian_ha_scomposto_lolanda/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Chi è passato e ha lasciato un pezzo di sè",
       "category" : "racconti-dal-crocevia",
       "tags"     : "racconti-dal-crocevia",
@@ -57,10 +457,58 @@
     } ,
   
     {
+      "title"    : "BANDIERE, GIARDINI E ATMOSFERE di Virginia Puccianti",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/bandiere_giardini_e_atmosfere_di_virginia_puccianti/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "BANDIERE, GIARDINI E ATMOSFERE di Lorenzo Bellandi",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/bandiere_giardini_e_atmosfere_di_lorenzo_bellandi/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "(At)tesa come corda d’arco. Narrazione in quattro tempi da La cornacchia nel tempo piovoso di Sylvia Plath. Ipertesto",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
       "url"      : "/2022/01/31/attesa_come_corda_darco_narrazione_in_quattro_tempi_da_la_cornacchia_nel_tempo_piovoso_di_sylvia_plath_ipertesto/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ASTRAGALO E NARCISO di Francesco Barilli",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/astragalo_e_narciso_di_francesco_barilli/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ASSENZE INGIUSTIFICATE di Gino Ciaglia",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/assenze_ingiustificate_di_gino_ciaglia/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alessandro Ardigò | Prosimetro moderno",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/01/31/alessandro_ardig_prosimetro_moderno/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "A lunga conservazione. L’insostenibile vaghezza della Provvidenza",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/01/31/a_lunga_conservazione_linsostenibile_vaghezza_della_provvidenza/",
       "date"     : "2022-01-31 00:00:00 +0100"
     } ,
   
@@ -85,6 +533,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/01/30/thomas_de_mahy_personaggio_della_settimana/",
+      "date"     : "2022-01-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sanremo 2022, quando la musica è per tutti, ma proprio tutti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/01/30/sanremo_2022_quando_la_musica_per_tutti_ma_proprio_tutti/",
       "date"     : "2022-01-30 00:00:00 +0100"
     } ,
   
