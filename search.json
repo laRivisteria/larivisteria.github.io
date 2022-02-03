@@ -1,6 +1,86 @@
 [
   
     {
+      "title"    : "Scivolare",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/02/03/scivolare/",
+      "date"     : "2022-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Questa mia Vita travagliata io scrivo…”. Benvenuto Cellini: artista, guerriero e occultista",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/03/questa_mia_vita_travagliata_io_scrivo_benvenuto_cellini_artista_guerriero_e_occultista/",
+      "date"     : "2022-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Poetica Trifunovic, storia di un amore non impeccabile",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/02/03/poetica_trifunovic_storia_di_un_amore_non_impeccabile/",
+      "date"     : "2022-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La notte padana",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/02/03/la_notte_padana/",
+      "date"     : "2022-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Jennifer Berne. Le parole hanno le ali. Vita straordinaria di Emily Dickinson",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/03/jennifer_berne_le_parole_hanno_le_ali_vita_straordinaria_di_emily_dickinson/",
+      "date"     : "2022-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Faccio sempre l’amore per la prima volta”. Su Alejandra Pizarnik",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/03/faccio_sempre_lamore_per_la_prima_volta_su_alejandra_pizarnik/",
+      "date"     : "2022-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elisabetta Villaggio. Fantozzi dietro le quinte. Oltre la maschera. La vita (vera) di Paolo Villaggio",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/03/elisabetta_villaggio_fantozzi_dietro_le_quinte_oltre_la_maschera_la_vita_vera_di_paolo_villaggio/",
+      "date"     : "2022-02-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vite – Manuel Maria Perrone",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/02/02/vite_manuel_maria_perrone/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tre fratelli e il Sudafrica, le “metamorfosi” di Galgut",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/02/02/tre_fratelli_e_il_sudafrica_le_metamorfosi_di_galgut/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Teoria della prosa, un immersione nel laboratorio centrale",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/02/02/teoria_della_prosa_un_immersione_nel_laboratorio_centrale/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tarjei Vesaas anteprima. Il Castello di Ghiaccio",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -17,10 +97,106 @@
     } ,
   
     {
+      "title"    : "Recensioni: “Foss’anche un romanzo” di Letizia Cuzzola",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/02/02/recensioni_fossanche_un_romanzo_di_letizia_cuzzola/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ragazza con tailleur | Marco Carretta",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/02/02/ragazza_con_tailleur_marco_carretta/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Questioni di un certo genere. Il secondo volume di COSE Spiegate bene",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/02/02/questioni_di_un_certo_genere_il_secondo_volume_di_cose_spiegate_bene/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "OBLAKA – I racconti del realismo magico – Capitolo III",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/02/02/oblaka_i_racconti_del_realismo_magico_capitolo_iii/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non sapevo che fare, così ho inventato il Dothraki",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/02/non_sapevo_che_fare_cos_ho_inventato_il_dothraki/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Mezza nuda”: la divina estate del desiderio",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/02/02/mezza_nuda_la_divina_estate_del_desiderio/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Melodia di un’immagine in movimento dagli Ottanta a oggi. Una conversazione con Garbo",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/02/02/melodia_di_unimmagine_in_movimento_dagli_ottanta_a_oggi_una_conversazione_con_garbo/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Lucarelli, tornano l’Iguana e le nostre paure più intime…",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/02/02/lucarelli_tornano_liguana_e_le_nostre_paure_pi_intime/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le rivelazioni improvvise nelle Epifanie di James Joyce",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/02/02/le_rivelazioni_improvvise_nelle_epifanie_di_james_joyce/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 2 Febbraio 2022",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/02/02/le_news_letterarie_2_febbraio_2022/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’amore che devi di Sara Maria Serafini: lotta tra un amore ideale e idealizzato. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/02/02/lamore_che_devi_di_sara_maria_serafini_lotta_tra_un_amore_ideale_e_idealizzato_recensione/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La tecnica della felicità",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2022/02/02/la_tecnica_della_felicita/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Spirale di Gianluca D’Andrea: un turbine multicentrico",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/02/02/la_spirale_di_gianluca_dandrea_un_turbine_multicentrico/",
       "date"     : "2022-02-02 00:00:00 +0100"
     } ,
   
@@ -33,10 +209,42 @@
     } ,
   
     {
+      "title"    : "La fiera delle illusioni - Nightmare Alley di Guillermo del Toro | In Sala",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/02/02/la_fiera_delle_illusioni_-_nightmare_alley_di_guillermo_del_toro_in_sala/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Io vedo",
       "category" : "exlibris20",
       "tags"     : "exlibris20",
       "url"      : "/2022/02/02/io_vedo/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I quadernetti di Rosario Todaro",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2022/02/02/i_quadernetti_di_rosario_todaro/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Harry Potter: i collegamenti letterari che (forse) non ti aspetti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/02/harry_potter_i_collegamenti_letterari_che_forse_non_ti_aspetti/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Febbraio, vecchia Minerva, nuovo giornale",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2022/02/02/febbraio_vecchia_minerva_nuovo_giornale/",
       "date"     : "2022-02-02 00:00:00 +0100"
     } ,
   
@@ -49,10 +257,82 @@
     } ,
   
     {
+      "title"    : "Emma Bonino sì o no?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/02/emma_bonino_s_o_no/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Damn Death. Long Live Life! Il primo secolo dell’Ulisse di Joyce",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/02/02/damn_death_long_live_life_il_primo_secolo_dellulisse_di_joyce/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Da musa esistenzialista a mattatrice della commedia: l’addio a Monica Vitti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/02/da_musa_esistenzialista_a_mattatrice_della_commedia_laddio_a_monica_vitti/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Col buio le ombre non esistono",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2022/02/02/col_buio_le_ombre_non_esistono/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cinque occasioni in cui il rock ha anticipato la battaglia al gender",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/02/cinque_occasioni_in_cui_il_rock_ha_anticipato_la_battaglia_al_gender/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chi ha prodotto Il danno scolastico? Riflessioni sulla crisi della nostra scuola",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/02/02/chi_ha_prodotto_il_danno_scolastico_riflessioni_sulla_crisi_della_nostra_scuola/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cane da Petrolio di Rick Bass. Intervista a Silvia Lumaca",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/02/cane_da_petrolio_di_rick_bass_intervista_a_silvia_lumaca/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "C4 Explosion: un’esposizione esplosiva a Firenze",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/02/02/c4_explosion_unesposizione_esplosiva_a_firenze/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Bianca Bellová. Romanzo senti/mentale",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/02/02/bianca_bellov_romanzo_sentimentale/",
+      "date"     : "2022-02-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Annette Roeder e Olaf Hajek. Veggie Power, la magia naturale delle verdure",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/02/annette_roeder_e_olaf_hajek_veggie_power_la_magia_naturale_delle_verdure/",
       "date"     : "2022-02-02 00:00:00 +0100"
     } ,
   
