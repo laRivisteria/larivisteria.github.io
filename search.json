@@ -1,6 +1,278 @@
 [
   
     {
+      "title"    : "Strehler e Goldoni, innamorati della complessità umana",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/02/11/strehler_e_goldoni_innamorati_della_complessit_umana/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Società del benessere o mondo al collasso? “2022: i sopravvissuti”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/11/societ_del_benessere_o_mondo_al_collasso_2022_i_sopravvissuti/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Reazione termonucleare",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/02/11/reazione_termonucleare/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quando impari le luci",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/02/11/quando_impari_le_luci/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Perché dovremmo empatizzare con gli animali",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/02/11/perch_dovremmo_empatizzare_con_gli_animali/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mordi e fuggi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/02/11/mordi_e_fuggi/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Matteo Meschiari. Dispacci dall’antropocene # 9",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/11/matteo_meschiari_dispacci_dallantropocene_9/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’esplosione del futuro: intervista ad Alessandro Busi",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/02/11/lesplosione_del_futuro_intervista_ad_alessandro_busi/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gianluca Barbera. L’ultima notte di Raul Gardini",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/11/gianluca_barbera_lultima_notte_di_raul_gardini/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«Caro diario, sono felice solo in mare»: Nostalgie della terra di Mauro Tetti",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/02/11/caro_diario_sono_felice_solo_in_mare_nostalgie_della_terra_di_mauro_tetti/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Carmelo Bene adorava la mia torta al cioccolato”. Dialogo con Jean-Paul Manganaro",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/11/carmelo_bene_adorava_la_mia_torta_al_cioccolato_dialogo_con_jean-paul_manganaro/",
+      "date"     : "2022-02-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "UNA MONTAGNA A METÀ",
+      "category" : "formicaleone",
+      "tags"     : "formicaleone",
+      "url"      : "/2022/02/10/una_montagna_a_met/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tutta l’arte è erotica. Tutto l’erotismo è arte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/10/tutta_larte_erotica_tutto_lerotismo_arte/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "TSO Tortura Sanitaria Obbligatoria ⥀ Racconto di Sarah Di Piero",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/02/10/tso_tortura_sanitaria_obbligatoria_racconto_di_sarah_di_piero/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Trame nascoste, Teorie della cospirazione e miti sul lato in ombra della società",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2022/02/10/trame_nascoste_teorie_della_cospirazione_e_miti_sul_lato_in_ombra_della_societ/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Resistere alla barbarie",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/02/10/resistere_alla_barbarie/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "OBLAKA – I racconti del realismo magico – Capitolo IV",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/02/10/oblaka_i_racconti_del_realismo_magico_capitolo_iv/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nuntereggə più! Lasciamo aperto il dibattito sullo schwa",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/02/10/nunteregg_pi_lasciamo_aperto_il_dibattito_sullo_schwa/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Nulla ha senso se non la scienza del nulla”. Toussaint, lo sciamano amico dei poeti",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/10/nulla_ha_senso_se_non_la_scienza_del_nulla_toussaint_lo_sciamano_amico_dei_poeti/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’uomo che cadde dall’aereo – Prima e dopo l’editing",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2022/02/10/luomo_che_cadde_dallaereo_prima_e_dopo_lediting/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ideale e il tempo: “Pensa il risveglio” di Alessandro Cinquegrani",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/02/10/lideale_e_il_tempo_pensa_il_risveglio_di_alessandro_cinquegrani/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Quest(e). Tutta la verità su La verità su tutto di Vanni Santoni",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/02/10/la_queste_tutta_la_verit_su_la_verit_su_tutto_di_vanni_santoni/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La pazienza del corpo.",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2022/02/10/la_pazienza_del_corpo/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I “pezzi” di Famà, dalla quotidianità a una realtà altra",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/02/10/i_pezzi_di_fam_dalla_quotidianit_a_una_realt_altra/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I fiori blu, un viaggio allegorico nella fantasia di Raymond Queneau",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/10/i_fiori_blu_un_viaggio_allegorico_nella_fantasia_di_raymond_queneau/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giallo come il mare",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/02/10/giallo_come_il_mare/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Foodpic – Ci facciamo una pizza?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/10/foodpic_ci_facciamo_una_pizza/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elias Portolu",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/02/10/elias_portolu/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Ci si chiede chi sia il dominatore di quelle mani”: Rilke sull’opera di Rodin",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/10/ci_si_chiede_chi_sia_il_dominatore_di_quelle_mani_rilke_sullopera_di_rodin/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cho Nam-Joo – Kim Ji-Young, nata nel 1982",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/02/10/cho_nam-joo_kim_ji-young_nata_nel_1982/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alice Rivaz. Il cavo dell’onda",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/10/alice_rivaz_il_cavo_dellonda/",
+      "date"     : "2022-02-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Un timido sfrontato impostore, la “metamorfosi” di Piperno",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/02/09/un_timido_sfrontato_impostore_la_metamorfosi_di_piperno/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Un amore” di Dino Buzzati. Milano, sesso e languida pornografia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/09/un_amore_di_dino_buzzati_milano_sesso_e_languida_pornografia/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tina Modotti: “obiettivo” rivoluzione",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/09/tina_modotti_obiettivo_rivoluzione/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tampone positivo, un articolo di A. Maglione || THREEvial Pursuit",
       "category" : "three-faces",
       "tags"     : "three-faces",
@@ -13,6 +285,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/02/09/stefano_simoncelli_scrive_lultimo_libro_ma_io_non_gli_credo_sotto_falso_nome_una_lettura/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stefano Jossa",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2022/02/09/stefano_jossa/",
       "date"     : "2022-02-09 00:00:00 +0100"
     } ,
   
@@ -33,10 +313,66 @@
     } ,
   
     {
+      "title"    : "Se una notte d’inverno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/09/se_una_notte_dinverno/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Rimbaud – Il battello ebbro",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2022/02/09/rimbaud_il_battello_ebbro/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Quando le liste della spesa raccontano la storia della nostra vita",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/02/09/quando_le_liste_della_spesa_raccontano_la_storia_della_nostra_vita/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“London Voodoo”, un estratto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/02/09/london_voodoo_un_estratto/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Letture Femministe Metropolitane #2 stagione 2",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2022/02/09/letture_femministe_metropolitane_2_stagione_2/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’entusiasmo per gli NFT e le blockchain: conversazione con il digital artist Luca Trucca",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/02/09/lentusiasmo_per_gli_nft_e_le_blockchain_conversazione_con_il_digital_artist_luca_trucca/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Le scrittrici della notte”: un’antologia tra fantastico e liminalità",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/02/09/le_scrittrici_della_notte_unantologia_tra_fantastico_e_liminalit/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 9 Febbraio 2022",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/02/09/le_news_letterarie_9_febbraio_2022/",
       "date"     : "2022-02-09 00:00:00 +0100"
     } ,
   
@@ -65,6 +401,14 @@
     } ,
   
     {
+      "title"    : "«Il senso di inquietudine spinge l’uomo alla ricerca del complotto», intervista a Massimo Iiritano",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/02/09/il_senso_di_inquietudine_spinge_luomo_alla_ricerca_del_complotto_intervista_a_massimo_iiritano/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il metodo degli anticonformisti. Come nacque il mito di James Dean",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -81,10 +425,66 @@
     } ,
   
     {
+      "title"    : "Il béton brut e la tragedia a misura d’uomo",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2022/02/09/il_bton_brut_e_la_tragedia_a_misura_duomo/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I vestiti che non metti più, come storie appese mosse da un soffio di lentezza",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/02/09/i_vestiti_che_non_metti_pi_come_storie_appese_mosse_da_un_soffio_di_lentezza/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Festival di Sanremo, la trasgressione potrebbe essere donna",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/02/09/festival_di_sanremo_la_trasgressione_potrebbe_essere_donna/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ehi, è divertente – Giulio Iovine",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/02/09/ehi_divertente_giulio_iovine/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Della morte, dell’amore",
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2022/02/09/della_morte_dellamore/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Del modo di esistenza di Simondon",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/02/09/del_modo_di_esistenza_di_simondon/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Davide Calì &amp; Tommaso Carozzi. Undicesimo comandamento.",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/09/davide_cal_tommaso_carozzi_undicesimo_comandamento/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cospirazioni in cerca di una teoria",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2022/02/09/cospirazioni_in_cerca_di_una_teoria/",
       "date"     : "2022-02-09 00:00:00 +0100"
     } ,
   
@@ -97,10 +497,42 @@
     } ,
   
     {
+      "title"    : "Consolazione",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2022/02/09/consolazione/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chiacchierando di editoria e cultura con Giulio Milani",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2022/02/09/chiacchierando_di_editoria_e_cultura_con_giulio_milani/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Chi se non noi",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2022/02/09/chi_se_non_noi/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Amore e amicizia, un racconto di Jane Austen",
+      "category" : "tre-racconti",
+      "tags"     : "tre-racconti",
+      "url"      : "/2022/02/09/amore_e_amicizia_un_racconto_di_jane_austen/",
+      "date"     : "2022-02-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "5 atleti paralimpici contro il muro della diversità",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/09/5_atleti_paralimpici_contro_il_muro_della_diversit/",
       "date"     : "2022-02-09 00:00:00 +0100"
     } ,
   
@@ -2125,6 +2557,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/01/31/floriana_lamonarca_con_il_suo_dolce_stile_di_poesia/",
+      "date"     : "2022-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "FAREWELL FOR A VALLEY (I –II) di Cecille Cafca Burns",
+      "category" : "sguardindiretti",
+      "tags"     : "sguardindiretti",
+      "url"      : "/2022/01/31/farewell_for_a_valley_i_ii_di_cecille_cafca_burns/",
       "date"     : "2022-01-31 00:00:00 +0100"
     } ,
   
