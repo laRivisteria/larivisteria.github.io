@@ -1,10 +1,218 @@
 [
   
     {
+      "title"    : "Racconto: Fermata Anagnina – Luigi Cecchi",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/02/20/racconto_fermata_anagnina_luigi_cecchi/",
+      "date"     : "2022-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Preparare se stessi ⥀ Racconto di Claudio Kulesko",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/02/20/preparare_se_stessi_racconto_di_claudio_kulesko/",
+      "date"     : "2022-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Paolo Nori e i matti russi da gustare come cioccolatini",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/02/20/paolo_nori_e_i_matti_russi_da_gustare_come_cioccolatini/",
+      "date"     : "2022-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Morsi – Intervista a Marco Peano",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2022/02/20/morsi_intervista_a_marco_peano/",
+      "date"     : "2022-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La scuola è soffocata dalla burocrazia e l’uomo è sempre più solo”. Dialogo con Andrea Franzoso",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/20/la_scuola_soffocata_dalla_burocrazia_e_luomo_sempre_pi_solo_dialogo_con_andrea_franzoso/",
+      "date"     : "2022-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Il mondo è il caos. Il nulla è il nascituro dio del mondo”. Georg Büchner, il sovversivo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/20/il_mondo_il_caos_il_nulla_il_nascituro_dio_del_mondo_georg_bchner_il_sovversivo/",
+      "date"     : "2022-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il digiunatore – Intervista ad Enzo Fileno Carabba",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2022/02/20/il_digiunatore_intervista_ad_enzo_fileno_carabba/",
+      "date"     : "2022-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Comme une étoile tombe dans la nuit. La poesia di Mathilde Vischer in italiano",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/02/20/comme_une_toile_tombe_dans_la_nuit_la_poesia_di_mathilde_vischer_in_italiano/",
+      "date"     : "2022-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Tutto è sacro, trabocca d’amore”. In preghiera nella giungla: i canti di Tukaram",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/19/tutto_sacro_trabocca_damore_in_preghiera_nella_giungla_i_canti_di_tukaram/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The day I became a ghost",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/02/19/the_day_i_became_a_ghost/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tattoo in Giappone? Chiamate la polizia!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/19/tattoo_in_giappone_chiamate_la_polizia/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Salvatori",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/02/19/salvatori/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Poesie di Johanna Finocchiaro",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/02/19/poesie_di_johanna_finocchiaro/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "PIER PAOLO PASOLINI 1. Il tempo dell’innocenza. Il Friuli e Roma",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/02/19/pier_paolo_pasolini_1_il_tempo_dellinnocenza_il_friuli_e_roma/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Palpebre",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/02/19/palpebre/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Medusa: una donna tra mito e contemporaneità",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/19/medusa_una_donna_tra_mito_e_contemporaneit/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La leggenda degli spiriti di Bellavista ",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/02/19/la_leggenda_degli_spiriti_di_bellavista/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Il gene egoista di Sofia Castagna",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/02/19/il_racconto_della_domenica_il_gene_egoista_di_sofia_castagna/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il feroce identikit di un femminicida, la “profilassi” di Orofino",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/02/19/il_feroce_identikit_di_un_femminicida_la_profilassi_di_orofino/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il cadavere era bellissimo",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/02/19/il_cadavere_era_bellissimo/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Fantastico! #125",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2022/02/19/fantastico_125/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Contaminarsi col sacro leggendo l’epistolario assoluto tra Ceronetti e Quinzio",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/02/19/contaminarsi_col_sacro_leggendo_lepistolario_assoluto_tra_ceronetti_e_quinzio/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Biblioteca degli scrittori calabresi, una casa per la cultura letteraria del territorio",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/02/19/biblioteca_degli_scrittori_calabresi_una_casa_per_la_cultura_letteraria_del_territorio/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "5 raccolte che sono poesia nella poesia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/19/5_raccolte_che_sono_poesia_nella_poesia/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tangentopoli, il processo Enimont e la misteriosa morte di Raul Gardini",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/02/18/tangentopoli_il_processo_enimont_e_la_misteriosa_morte_di_raul_gardini/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sottobosco: il 9° numero del Rifugio dell’Ircocervo",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/02/18/sottobosco_il_9_numero_del_rifugio_dellircocervo/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Simone Costenaro. Mr. Soldino e l’Ordine della Cassaforte",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/18/simone_costenaro_mr_soldino_e_lordine_della_cassaforte/",
       "date"     : "2022-02-18 00:00:00 +0100"
     } ,
   
@@ -25,6 +233,86 @@
     } ,
   
     {
+      "title"    : "Leggere il novecento. Leggere gli uomini di Sandra Petrignani",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/02/18/leggere_il_novecento_leggere_gli_uomini_di_sandra_petrignani/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lasciatemi soffrire tranquillo. Chi vi chiede niente a voi?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/18/lasciatemi_soffrire_tranquillo_chi_vi_chiede_niente_a_voi/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La colpa",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2022/02/18/la_colpa/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Invisibile",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/18/invisibile/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il quadro che mi cambiò la vita",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/02/18/il_quadro_che_mi_cambi_la_vita/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il grido sospeso dell’assenza in Atti di un mancato addio",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/02/18/il_grido_sospeso_dellassenza_in_atti_di_un_mancato_addio/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I “sette libri per l’inverno” di… Jacopo De Michelis",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/02/18/i_sette_libri_per_linverno_di_jacopo_de_michelis/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I film da riscoprire: L’illusionista",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/02/18/i_film_da_riscoprire_lillusionista/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giappone e sport, le 5 discipline maggiormente seguite",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/18/giappone_e_sport_le_5_discipline_maggiormente_seguite/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Filetti di baccalà",
+      "category" : "senzadieci",
+      "tags"     : "senzadieci",
+      "url"      : "/2022/02/18/filetti_di_baccal/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Fammi iconoclasta. L’Anticristo ideale, il Paradosso”. Vita estrema di Nancy Cunard",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -33,10 +321,42 @@
     } ,
   
     {
+      "title"    : "Essere Lady D.",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2022/02/18/essere_lady_d/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Epistola che rinasce dalle ceneri: David Bowie",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/02/18/epistola_che_rinasce_dalle_ceneri_david_bowie/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Elena Stancanelli anteprima. Il Tuffatore",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/02/18/elena_stancanelli_anteprima_il_tuffatore/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Django &amp; Django, Sergio Corbucci Unchained",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/02/18/django_django_sergio_corbucci_unchained/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "DIVERGENZE DI DIEGO BALDASSARRE. LE IMMAGINI DI UN INSEGNANTE-POETA",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2022/02/18/divergenze_di_diego_baldassarre_le_immagini_di_un_insegnante-poeta/",
       "date"     : "2022-02-18 00:00:00 +0100"
     } ,
   
@@ -53,6 +373,54 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/02/18/diamanti_nel_cielo_del_denaro/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cronaca di una morte annunciata",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/02/18/cronaca_di_una_morte_annunciata/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cortesia",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/02/18/cortesia/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Concilio di Trento e come una religione è stata decisa a tavolino",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/02/18/concilio_di_trento_e_come_una_religione_stata_decisa_a_tavolino/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Castello Carlo V di Crotone: pubblicato bando per il recupero del Bastione di San Giacomo",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/02/18/castello_carlo_v_di_crotone_pubblicato_bando_per_il_recupero_del_bastione_di_san_giacomo/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Berlinale 2022: il ritorno in sala",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/02/18/berlinale_2022_il_ritorno_in_sala/",
+      "date"     : "2022-02-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "ADIODAS",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/02/18/adiodas/",
       "date"     : "2022-02-18 00:00:00 +0100"
     } ,
   
