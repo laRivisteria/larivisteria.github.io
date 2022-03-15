@@ -1,10 +1,98 @@
 [
   
     {
+      "title"    : "Tiffany Tavernier anteprima. L’amico",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/03/15/tiffany_tavernier_anteprima_lamico/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Non m’importa l’arte per l’arte, conosco solo la vita per la vita”. Victoria Ocampo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/03/15/non_mimporta_larte_per_larte_conosco_solo_la_vita_per_la_vita_victoria_ocampo/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Mauro Corona antepima. Quattro stagioni per vivere",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/03/15/mauro_corona_antepima_quattro_stagioni_per_vivere/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’ASSISTENTE DI VOLO",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/03/15/lassistente_di_volo/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La lingua scəma. Contro lo schwa (e altri animali)” di Massimo Arcangeli. Un commento",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/03/15/la_lingua_scma_contro_lo_schwa_e_altri_animali_di_massimo_arcangeli_un_commento/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Francis Scott Fitzgerald inedito. Non preoccuparti di crescere",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/03/15/francis_scott_fitzgerald_inedito_non_preoccuparti_di_crescere/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Francesca Zanette. Dove qualcosa manca",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/03/15/francesca_zanette_dove_qualcosa_manca/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Francesca Michielin anteprima. Il cuore è un organo",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/03/15/francesca_michielin_anteprima_il_cuore_un_organo/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Felidae",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2022/03/15/felidae/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Calvino e il saggismo della mediazione",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/03/15/calvino_e_il_saggismo_della_mediazione/",
+      "date"     : "2022-03-15 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vorrei vivere su un’isola… Isolario da incubo: tra i cannibali del Bounty e l’eroico Shackleton",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/03/14/vorrei_vivere_su_unisola_isolario_da_incubo_tra_i_cannibali_del_bounty_e_leroico_shackleton/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Volgare d’un marxista. Karl Marx pensatore punk",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/03/14/volgare_dun_marxista_karl_marx_pensatore_punk/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -25,10 +113,106 @@
     } ,
   
     {
+      "title"    : "Un cuore al buio. Kafka",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/03/14/un_cuore_al_buio_kafka/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tentativo di sopravvivenza numero uno",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/03/14/tentativo_di_sopravvivenza_numero_uno/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sogni e realtà",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2022/03/14/sogni_e_realt/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sette opere di non misericordia: Questo mondo non ci appartiene di Natalia García Freire",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/03/14/sette_opere_di_non_misericordia_questo_mondo_non_ci_appartiene_di_natalia_garca_freire/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ritratti di scrittori: Walt Whitman, chi era? Scoprilo in 5 parole",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/03/14/ritratti_di_scrittori_walt_whitman_chi_era_scoprilo_in_5_parole/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Power Cut",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2022/03/14/power_cut/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Piet Mondrian, dalla Scuola dell’Aja al neoplasticismo jazz",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/03/14/piet_mondrian_dalla_scuola_dellaja_al_neoplasticismo_jazz/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Paesaggi in rovina. Note su “Trema la notte” di Nadia Terranova",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/03/14/paesaggi_in_rovina_note_su_trema_la_notte_di_nadia_terranova/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Max Gross spiega la modernità con una favola yiddish 2.0",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/03/14/max_gross_spiega_la_modernit_con_una_favola_yiddish_20/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Li Galli: la dimora delle sirene pennute.",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/03/14/li_galli_la_dimora_delle_sirene_pennute/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’aspirapolvere (frammento)",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/03/14/laspirapolvere_frammento/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La sottile linea nera – Da Sant’Anna di Stazzema al G8 di Genova @ C4 – Talk e presentazione con Lorenzo Guadagnucci",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/03/14/la_sottile_linea_nera_da_santanna_di_stazzema_al_g8_di_genova_c4_talk_e_presentazione_con_lorenzo_guadagnucci/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“La Russia di Putin” nelle parole di Anna Politkovskaja",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/03/14/la_russia_di_putin_nelle_parole_di_anna_politkovskaja/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -41,10 +225,58 @@
     } ,
   
     {
+      "title"    : "“Kiev” o “Kyiv”? Questioni di identità",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/03/14/kiev_o_kyiv_questioni_di_identit/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il segno dei tempi! L’etichetta del vino tra estetica e storia",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/03/14/il_segno_dei_tempi_letichetta_del_vino_tra_estetica_e_storia/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Dritto e il Rovescio: possibili considerazioni su sei romanzi libertini – Parte II",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/03/14/il_dritto_e_il_rovescio_possibili_considerazioni_su_sei_romanzi_libertini_parte_ii/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Gustaf Skördeman anteprima. Parola d’ordine Geiger",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/03/14/gustaf_skrdeman_anteprima_parola_dordine_geiger/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Guida astrologica per cuori infranti: la seconda stagione è su Netflix",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/03/14/guida_astrologica_per_cuori_infranti_la_seconda_stagione_su_netflix/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "GLI IDIOTI",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/03/14/gli_idioti/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gabriele Galloni | In che luce cadranno",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/03/14/gabriele_galloni_in_che_luce_cadranno/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -61,6 +293,30 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/03/14/francesca_scotti_anteprima_il_tempo_delle_tartarughe/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Elena Mearini, va’ dove ti porta il cuore irregolare",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/03/14/elena_mearini_va_dove_ti_porta_il_cuore_irregolare/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Disturbi alimentari: cosa si nasconde dentro i nostri corpi – intervista alla psicologa Vania Costa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/03/14/disturbi_alimentari_cosa_si_nasconde_dentro_i_nostri_corpi_intervista_alla_psicologa_vania_costa/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Diario di un editore di fumetti #19",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/03/14/diario_di_un_editore_di_fumetti_19/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -185,10 +441,10 @@
     } ,
   
     {
-      "title"    : "Indira Gandhi",
+      "title"    : "Indira Gandhi – Personaggio della settimana",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
-      "url"      : "/2022/03/13/indira_gandhi/",
+      "url"      : "/2022/03/13/indira_gandhi_personaggio_della_settimana/",
       "date"     : "2022-03-13 00:00:00 +0100"
     } ,
   
@@ -789,6 +1045,14 @@
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2022/03/10/gnie_la_matta_di_ins_cagnati_e_tutto_ci_che_in_questo_romanzo_urla/",
+      "date"     : "2022-03-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Giocare a luce spenta | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/03/10/giocare_a_luce_spenta_lettere/",
       "date"     : "2022-03-10 00:00:00 +0100"
     } ,
   
@@ -39593,14 +39857,6 @@
     } ,
   
     {
-      "title"    : "Trapassato erotico: Cruel Sister di Julia Wolfe",
-      "category" : "il-timoniere",
-      "tags"     : "il-timoniere",
-      "url"      : "/2021/09/01/trapassato_erotico_cruel_sister_di_julia_wolfe/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Segnalazioni letterarie #4",
       "category" : "biblon",
       "tags"     : "biblon",
@@ -39609,42 +39865,10 @@
     } ,
   
     {
-      "title"    : "Philip Roth: brutto, cattivo &amp; arrivista. Una biografia",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/09/01/philip_roth_brutto_cattivo_arrivista_una_biografia/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Per raccontare le mille facce della diversità, serve cibarsi di buona letteratura",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2021/09/01/per_raccontare_le_mille_facce_della_diversit_serve_cibarsi_di_buona_letteratura/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Pensare di provare a pensare: su Situ, di Steven Seidenberg",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/09/01/pensare_di_provare_a_pensare_su_situ_di_steven_seidenberg/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Patria, amore e libri. Un Risorgimento al… Pepe",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2021/09/01/patria_amore_e_libri_un_risorgimento_al_pepe/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Parole mute, corpi vivi: l’amore in Bryan Washington",
-      "category" : "il-timoniere",
-      "tags"     : "il-timoniere",
-      "url"      : "/2021/09/01/parole_mute_corpi_vivi_lamore_in_bryan_washington/",
       "date"     : "2021-09-01 00:00:00 +0200"
     } ,
   
@@ -39689,42 +39913,10 @@
     } ,
   
     {
-      "title"    : "L’amore agli sgoccioli in Hey ya! degli Outkast",
-      "category" : "il-timoniere",
-      "tags"     : "il-timoniere",
-      "url"      : "/2021/09/01/lamore_agli_sgoccioli_in_hey_ya_degli_outkast/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "La Venere dei Miraggi",
       "category" : "split",
       "tags"     : "split",
       "url"      : "/2021/09/01/la_venere_dei_miraggi/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La parte",
-      "category" : "malgrado-le-mosche",
-      "tags"     : "malgrado-le-mosche",
-      "url"      : "/2021/09/01/la_parte/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La canzone dei vecchi amanti",
-      "category" : "il-timoniere",
-      "tags"     : "il-timoniere",
-      "url"      : "/2021/09/01/la_canzone_dei_vecchi_amanti/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "INSORGIAMO Assemblee con il Collettivo di Fabbrica GKN – COMUNICATO",
-      "category" : "verde",
-      "tags"     : "verde",
-      "url"      : "/2021/09/01/insorgiamo_assemblee_con_il_collettivo_di_fabbrica_gkn_comunicato/",
       "date"     : "2021-09-01 00:00:00 +0200"
     } ,
   
@@ -39749,14 +39941,6 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/09/01/i_borghi_fantasma_della_campania_viaggio_tra_le_geografie_dellabbandono/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Gone Girl: ci eravamo tanto amati, poi odiati",
-      "category" : "il-timoniere",
-      "tags"     : "il-timoniere",
-      "url"      : "/2021/09/01/gone_girl_ci_eravamo_tanto_amati_poi_odiati/",
       "date"     : "2021-09-01 00:00:00 +0200"
     } ,
   
@@ -39790,190 +39974,6 @@
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/09/01/ceci_nest_pas_une_blasphme_il_festival_si_presenta_ufficialmente/",
       "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Borges, Leopardi e l’infinito",
-      "category" : "la-letteratura-e-noi",
-      "tags"     : "la-letteratura-e-noi",
-      "url"      : "/2021/09/01/borges_leopardi_e_linfinito/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Berenice",
-      "category" : "spazinclusi",
-      "tags"     : "spazinclusi",
-      "url"      : "/2021/09/01/berenice/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Atonement: un amore perduto per l’immaginazione",
-      "category" : "il-timoniere",
-      "tags"     : "il-timoniere",
-      "url"      : "/2021/09/01/atonement_un_amore_perduto_per_limmaginazione/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Aranceto",
-      "category" : "doctor-tale-and-mister-shot",
-      "tags"     : "doctor-tale-and-mister-shot",
-      "url"      : "/2021/09/01/aranceto/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Adoro andarmene”. Ritratto di Blaise Cendrars",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/09/01/adoro_andarmene_ritratto_di_blaise_cendrars/",
-      "date"     : "2021-09-01 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Tito Pioli – Per dire Sole dico Oggipolenta",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2021/08/31/tito_pioli_per_dire_sole_dico_oggipolenta/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Se non è incubo è paralisi del sonno: svegliate Nicolas Bruno!",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/08/31/se_non_incubo_paralisi_del_sonno_svegliate_nicolas_bruno/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Raw – Una cruda verità | Per sempre",
-      "category" : "in-fuga-dalla-bocciofila",
-      "tags"     : "in-fuga-dalla-bocciofila",
-      "url"      : "/2021/08/31/raw_una_cruda_verit_per_sempre/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Poesiæuropa (Isola Polvese, 2 – 5 settembre 2021) | Programma",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2021/08/31/poesiuropa_isola_polvese_2_5_settembre_2021_programma/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Poesie di Giuseppe Riccardo",
-      "category" : "mosse-di-seppia",
-      "tags"     : "mosse-di-seppia",
-      "url"      : "/2021/08/31/poesie_di_giuseppe_riccardo/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Mi domando pure se sono stato amato…”. Pierre Drieu La Rochelle: un inedito",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/08/31/mi_domando_pure_se_sono_stato_amato_pierre_drieu_la_rochelle_un_inedito/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Libri in uscita a settembre 2021: le novità da non perdere",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2021/08/31/libri_in_uscita_a_settembre_2021_le_novit_da_non_perdere/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La Russia dell’Età d’Oro vista attraverso gli occhi dei suoi più grandi artisti",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2021/08/31/la_russia_dellet_doro_vista_attraverso_gli_occhi_dei_suoi_pi_grandi_artisti/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il Tenentino",
-      "category" : "quaerere",
-      "tags"     : "quaerere",
-      "url"      : "/2021/08/31/il_tenentino/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Ieri &amp; Avantieri",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/08/31/ieri_avantieri/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "I ragazzi degli 80 –  Film fra avventure e sentimenti",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/08/31/i_ragazzi_degli_80_film_fra_avventure_e_sentimenti/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Gino e l’ombelico",
-      "category" : "salmace",
-      "tags"     : "salmace",
-      "url"      : "/2021/08/31/gino_e_lombelico/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Gandhi",
-      "category" : "micorrize",
-      "tags"     : "micorrize",
-      "url"      : "/2021/08/31/gandhi/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Francesca La Mantia attraversa l’Italia per “narrare” la mafia ai bambini",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/08/31/francesca_la_mantia_attraversa_litalia_per_narrare_la_mafia_ai_bambini/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Festival Inequilibrio 2021: la Gloria o dell’essere ragazzi nella grande sera dell’Europa",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/08/31/festival_inequilibrio_2021_la_gloria_o_dellessere_ragazzi_nella_grande_sera_delleuropa/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Eroi e libri si assomigliano, ma Winslow stupisce ancora",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2021/08/31/eroi_e_libri_si_assomigliano_ma_winslow_stupisce_ancora/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Ermeneutica del porno. Su “Annette” di Marco Malvestio",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2021/08/31/ermeneutica_del_porno_su_annette_di_marco_malvestio/",
-      "date"     : "2021-08-31 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Amore e scienza della fine dell’amore",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/08/31/amore_e_scienza_della_fine_dellamore/",
-      "date"     : "2021-08-31 00:00:00 +0200"
     } ,
   
     {
