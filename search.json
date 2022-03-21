@@ -17,6 +17,30 @@
     } ,
   
     {
+      "title"    : "Tradurre “Infinite Jest” – Giulia Bocchio intervista Edoardo Nesi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/03/21/tradurre_infinite_jest_giulia_bocchio_intervista_edoardo_nesi/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Symposium on Femicide",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/21/symposium_on_femicide/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Storia di una piccola apocalisse annunciata",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/03/21/storia_di_una_piccola_apocalisse_annunciata/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Ridotti a uno Zero. Nel disastro del Mistero",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -25,10 +49,26 @@
     } ,
   
     {
+      "title"    : "Poesie di Guglielmo Aprile",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/03/21/poesie_di_guglielmo_aprile/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Pavimenti appiccicosi e soffitti di cristallo: il difficile percorso delle donne negli ambienti di lavoro",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2022/03/21/pavimenti_appiccicosi_e_soffitti_di_cristallo_il_difficile_percorso_delle_donne_negli_ambienti_di_lavoro/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nuova vita. Riccardo Papacci intervista Ariel Pink.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/03/21/nuova_vita_riccardo_papacci_intervista_ariel_pink/",
       "date"     : "2022-03-21 00:00:00 +0100"
     } ,
   
@@ -49,10 +89,34 @@
     } ,
   
     {
+      "title"    : "Manganelli sconclusionato #1. Intervista a Romana Petri",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/03/21/manganelli_sconclusionato_1_intervista_a_romana_petri/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libreria itinerante di Pietro Tramonte: la strada dei libri nel cuore di Palermo",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/03/21/libreria_itinerante_di_pietro_tramonte_la_strada_dei_libri_nel_cuore_di_palermo/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La scrittura “non originale” di Fabrizio Venerandi",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/03/21/la_scrittura_non_originale_di_fabrizio_venerandi/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La Pittata @ C4 – Live painting con Brucio e Federico Bria",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/03/21/la_pittata_c4_live_painting_con_brucio_e_federico_bria/",
       "date"     : "2022-03-21 00:00:00 +0100"
     } ,
   
@@ -65,6 +129,22 @@
     } ,
   
     {
+      "title"    : "Il Dritto e il Rovescio: possibili considerazioni su sei romanzi libertini – Parte III",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/03/21/il_dritto_e_il_rovescio_possibili_considerazioni_su_sei_romanzi_libertini_parte_iii/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il cammino della cura e della riconciliazione. Su Le stelle si spengono all’alba di Richard Wagamese",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/03/21/il_cammino_della_cura_e_della_riconciliazione_su_le_stelle_si_spengono_allalba_di_richard_wagamese/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "I “sette libri per la primavera” di… Raul Schenardi",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -73,10 +153,58 @@
     } ,
   
     {
+      "title"    : "#Gli ironici | Nostra Signora dei Sullivan",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/03/21/gli_ironici_nostra_signora_dei_sullivan/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Eudora Welty inedita. Non si sa dove potrei candidarmi, se mi rifiutate",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/03/21/eudora_welty_inedita_non_si_sa_dove_potrei_candidarmi_se_mi_rifiutate/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Educare alla complessità: “Apriti, mare!” di Laura Pariani",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/03/21/educare_alla_complessit_apriti_mare_di_laura_pariani/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Commedie del vespero e della notte",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/03/21/commedie_del_vespero_e_della_notte/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Appunti di lettura su “Il Libro dei Liquidi” Irene Santori",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/03/21/appunti_di_lettura_su_il_libro_dei_liquidi_irene_santori/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Appunti di guerra",
+      "category" : "yanez",
+      "tags"     : "yanez",
+      "url"      : "/2022/03/21/appunti_di_guerra/",
+      "date"     : "2022-03-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Addomesticare volpi: un esperimento lungo 70 anni",
+      "category" : "axolotl",
+      "tags"     : "axolotl",
+      "url"      : "/2022/03/21/addomesticare_volpi_un_esperimento_lungo_70_anni/",
       "date"     : "2022-03-21 00:00:00 +0100"
     } ,
   
@@ -453,6 +581,14 @@
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
       "url"      : "/2022/03/18/sullo_spazio_liminare_tra_area_x_e_bell_hooks/",
+      "date"     : "2022-03-18 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "SR Staff Book Picks",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/18/sr_staff_book_picks/",
       "date"     : "2022-03-18 00:00:00 +0100"
     } ,
   
@@ -1073,6 +1209,14 @@
     } ,
   
     {
+      "title"    : "L.A. Times Book Prizes 2022",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/16/la_times_book_prizes_2022/",
+      "date"     : "2022-03-16 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Kant e la fisica",
       "category" : "scenari",
       "tags"     : "scenari",
@@ -1549,6 +1693,14 @@
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2022/03/14/paesaggi_in_rovina_note_su_trema_la_notte_di_nadia_terranova/",
+      "date"     : "2022-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maybe It’s Me: On Being the Wrong Kind of Woman",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/14/maybe_its_me_on_being_the_wrong_kind_of_woman/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -2257,6 +2409,14 @@
     } ,
   
     {
+      "title"    : "Adam Tavel’s Two New Poetry Collections",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/11/adam_tavels_two_new_poetry_collections/",
+      "date"     : "2022-03-11 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Vorrei una dose, una dose di Internet",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -2693,6 +2853,14 @@
       "category" : "squadernauti",
       "tags"     : "squadernauti",
       "url"      : "/2022/03/09/fata_morgana/",
+      "date"     : "2022-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Claim Tickets for Stolen People by Quintin Collins",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/09/claim_tickets_for_stolen_people_by_quintin_collins/",
       "date"     : "2022-03-09 00:00:00 +0100"
     } ,
   
@@ -3145,6 +3313,14 @@
     } ,
   
     {
+      "title"    : "Jesse Lee Kercheval Interview and Essay",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/07/jesse_lee_kercheval_interview_and_essay/",
+      "date"     : "2022-03-07 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Italian Lockdown @ C4: The Forbidden Photographs – Un progetto di Marco Castelli",
       "category" : "three-faces",
       "tags"     : "three-faces",
@@ -3589,6 +3765,14 @@
       "category" : "squadernauti",
       "tags"     : "squadernauti",
       "url"      : "/2022/03/04/tutti_i_racconti/",
+      "date"     : "2022-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Lasting Environmental Impact of How Strange a Season",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/04/the_lasting_environmental_impact_of_how_strange_a_season/",
       "date"     : "2022-03-04 00:00:00 +0100"
     } ,
   
@@ -4337,6 +4521,14 @@
     } ,
   
     {
+      "title"    : "Allegra Hyde: Now on Tour!",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/02/allegra_hyde_now_on_tour/",
+      "date"     : "2022-03-02 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Abbassa il fucile, rifiuta di sparare”. La non violenza secondo Tolstoj",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -4389,6 +4581,14 @@
       "category" : "exlibris20",
       "tags"     : "exlibris20",
       "url"      : "/2022/03/01/tattile_dissenso/",
+      "date"     : "2022-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "@SupersitionRev Twitter Contest",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/03/01/supersitionrev_twitter_contest/",
       "date"     : "2022-03-01 00:00:00 +0100"
     } ,
   
@@ -39729,34 +39929,10 @@
     } ,
   
     {
-      "title"    : "Una bella storia di integrazione nel nuovo romanzo per ragazzi di Silvia Golfera",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2021/09/10/una_bella_storia_di_integrazione_nel_nuovo_romanzo_per_ragazzi_di_silvia_golfera/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Un padre",
-      "category" : "quaerere",
-      "tags"     : "quaerere",
-      "url"      : "/2021/09/10/un_padre/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Spatriati di Mario Desiati: fare i conti con il proprio altrove interiore. Recensione ",
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2021/09/10/spatriati_di_mario_desiati_fare_i_conti_con_il_proprio_altrove_interiore_recensione/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Siamo tutti figli del Linguaggio. Streghe di Brenda Lozano",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2021/09/10/siamo_tutti_figli_del_linguaggio_streghe_di_brenda_lozano/",
       "date"     : "2021-09-10 00:00:00 +0200"
     } ,
   
@@ -39769,130 +39945,10 @@
     } ,
   
     {
-      "title"    : "Quattro romanzi: Sorrentino, Teobaldi, Lobo Antunes, Camenisch",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/09/10/quattro_romanzi_sorrentino_teobaldi_lobo_antunes_camenisch/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Quanto veloce batte il cuore di un beija-flor?",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/09/10/quanto_veloce_batte_il_cuore_di_un_beija-flor/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Quando le piazze non erano virtuali, la Napoli di Marotta",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2021/09/10/quando_le_piazze_non_erano_virtuali_la_napoli_di_marotta/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "L’ultima casa",
-      "category" : "opera-viva",
-      "tags"     : "opera-viva",
-      "url"      : "/2021/09/10/lultima_casa/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Lo strapotere delle parole: su “Lingua madre” di Maddalena Fingerle",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2021/09/10/lo_strapotere_delle_parole_su_lingua_madre_di_maddalena_fingerle/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "L’invenzione della solitudine: padri, figli, memoria secondo Paul Auster",
-      "category" : "la-letteratura-e-noi",
-      "tags"     : "la-letteratura-e-noi",
-      "url"      : "/2021/09/10/linvenzione_della_solitudine_padri_figli_memoria_secondo_paul_auster/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“La bella Victoria ha rapito Roger. Eccoli tutti e due partiti per l’Argentina…”",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/09/10/la_bella_victoria_ha_rapito_roger_eccoli_tutti_e_due_partiti_per_largentina/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "ItaliansBookitBetter a Firenze RiVista",
-      "category" : "italiansbookitbetter",
-      "tags"     : "italiansbookitbetter",
-      "url"      : "/2021/09/10/italiansbookitbetter_a_firenze_rivista/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Imperdibili — Settembre 2021",
-      "category" : "altri-animali",
-      "tags"     : "altri-animali",
-      "url"      : "/2021/09/10/imperdibili_settembre_2021/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il risveglio di Dante, un racconto di M. Vichi || Street Stories",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2021/09/10/il_risveglio_di_dante_un_racconto_di_m_vichi_street_stories/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il mistero della coscienza e la mente universale",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2021/09/10/il_mistero_della_coscienza_e_la_mente_universale/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il design al tempo di Instagram.",
-      "category" : "droga",
-      "tags"     : "droga",
-      "url"      : "/2021/09/10/il_design_al_tempo_di_instagram/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il corpo del problema, in divenire",
-      "category" : "marvin",
-      "tags"     : "marvin",
-      "url"      : "/2021/09/10/il_corpo_del_problema_in_divenire/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "I volti rubati in stazione* – Poesie di Mariapia L. Crisafulli",
-      "category" : "formicaleone",
-      "tags"     : "formicaleone",
-      "url"      : "/2021/09/10/i_volti_rubati_in_stazione_poesie_di_mariapia_l_crisafulli/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Fuck me di Marina Otero",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/09/10/fuck_me_di_marina_otero/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Follia, allucinazione e divinazione",
-      "category" : "singola",
-      "tags"     : "singola",
-      "url"      : "/2021/09/10/follia_allucinazione_e_divinazione/",
       "date"     : "2021-09-10 00:00:00 +0200"
     } ,
   
@@ -39913,30 +39969,6 @@
     } ,
   
     {
-      "title"    : "Con i piedi per terra",
-      "category" : "narrandom",
-      "tags"     : "narrandom",
-      "url"      : "/2021/09/10/con_i_piedi_per_terra/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Codice bianco",
-      "category" : "malgrado-le-mosche",
-      "tags"     : "malgrado-le-mosche",
-      "url"      : "/2021/09/10/codice_bianco/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“C’è un solo rifugio, una sola medicina: l’arte”. Dostoevskij, una lettera",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/09/10/c_un_solo_rifugio_una_sola_medicina_larte_dostoevskij_una_lettera/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Benvenuti fra i miei pensieri, scusate il maltempo",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39950,38 +39982,6 @@
       "tags"     : "inverso",
       "url"      : "/2021/09/10/alessandra_corbetta_tratte/",
       "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "11/9, vent’anni dopo",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/09/10/119_ventanni_dopo/",
-      "date"     : "2021-09-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Quando la mozzarella fila",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/09/09/quando_la_mozzarella_fila/",
-      "date"     : "2021-09-09 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Poesie di Salvatore d’Amora",
-      "category" : "mosse-di-seppia",
-      "tags"     : "mosse-di-seppia",
-      "url"      : "/2021/09/09/poesie_di_salvatore_damora/",
-      "date"     : "2021-09-09 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Dove si trova il paradiso terrestre? Ai Giardini La Mortella!",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/09/09/dove_si_trova_il_paradiso_terrestre_ai_giardini_la_mortella/",
-      "date"     : "2021-09-09 00:00:00 +0200"
     } ,
   
     {
