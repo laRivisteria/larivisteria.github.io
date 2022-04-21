@@ -1,10 +1,370 @@
 [
   
     {
+      "title"    : "Svalbard, senza alzare la voce",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/04/20/svalbard_senza_alzare_la_voce/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sia lode a quel bastardo di Kingsley Amis. In Italia nessuno ha il coraggio di pubblicarlo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/04/20/sia_lode_a_quel_bastardo_di_kingsley_amis_in_italia_nessuno_ha_il_coraggio_di_pubblicarlo/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Richard Powell anteprima. Don Chisciotte, U.S.A.",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/04/20/richard_powell_anteprima_don_chisciotte_usa/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quando i luoghi persi ritornano (a cura di Paola Deplano)",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2022/04/20/quando_i_luoghi_persi_ritornano_a_cura_di_paola_deplano/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Oltre la madeleine:  dieci episodi della Recherche per chi non ha tempo",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/04/20/oltre_la_madeleine_dieci_episodi_della_recherche_per_chi_non_ha_tempo/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Nello squallido panorama della nostra letteratura, è un personaggio”. Bellocchio su Pasolini",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/04/20/nello_squallido_panorama_della_nostra_letteratura_un_personaggio_bellocchio_su_pasolini/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Melina Scalise. Favole della notte",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/04/20/melina_scalise_favole_della_notte/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Meditazione sulla libertà",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/04/20/meditazione_sulla_libert/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In circolo",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/04/20/in_circolo/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Donne distopiche",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/04/20/donne_distopiche/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alle radici della fede, il Giuseppe di Dobraczynski",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/04/20/alle_radici_della_fede_il_giuseppe_di_dobraczynski/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«Abbiamo avuto la nostra festa»: i giovani adulti di Andrew O’Hagan",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/04/20/abbiamo_avuto_la_nostra_festa_i_giovani_adulti_di_andrew_ohagan/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tarocchi for dummies: II – La Papessa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/04/19/tarocchi_for_dummies_ii_la_papessa/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tarjei Vesaas. Il Castello di Ghiaccio",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/04/19/tarjei_vesaas_il_castello_di_ghiaccio/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sulla prima occorrenza di una leggenda",
+      "category" : "salmace",
+      "tags"     : "salmace",
+      "url"      : "/2022/04/19/sulla_prima_occorrenza_di_una_leggenda/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Studio d’artista: Napoli",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/04/19/studio_dartista_napoli/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Santi dubbi: i non così santi, Agostino e Pio IX",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/04/19/santi_dubbi_i_non_cos_santi_agostino_e_pio_ix/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Procida metafisica in “Alma che visse in fondo al mare”",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/04/19/procida_metafisica_in_alma_che_visse_in_fondo_al_mare/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#PremioBg22 – Due parole con Andrea Inglese",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/04/19/premiobg22_due_parole_con_andrea_inglese/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Premio Lattes Grinzane 2022: la cinquina finalista",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/04/19/premio_lattes_grinzane_2022_la_cinquina_finalista/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesie di Juan Carlos Galeano | Poems by Juan Carlos Galeano (ES/EN/IT)",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2022/04/19/poesie_di_juan_carlos_galeano_poems_by_juan_carlos_galeano_esenit/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Piatti freddi",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/04/19/piatti_freddi/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Persona | Inganno e violenza",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/04/19/persona_inganno_e_violenza/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché il forte uccide l’inerme? Simone Weil sulla guerra",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/04/19/perch_il_forte_uccide_linerme_simone_weil_sulla_guerra/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nicola Bultrini | Vetro",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/04/19/nicola_bultrini_vetro/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Moonfall di Roland Emmerich",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/04/19/moonfall_di_roland_emmerich/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ma quelli, è certo, sono bambini morti”. Virginia Woolf dialoga con Marguerite Duras",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/04/19/ma_quelli_certo_sono_bambini_morti_virginia_woolf_dialoga_con_marguerite_duras/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ma gli anni muoiono prima dei secondi. Aurelio Picca contro Pinocchio",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/04/19/ma_gli_anni_muoiono_prima_dei_secondi_aurelio_picca_contro_pinocchio/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Libro di martiri, artisti e lavoratori: Vite di animali illustri",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/04/19/libro_di_martiri_artisti_e_lavoratori_vite_di_animali_illustri/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’esordio dei Simpson in tv",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/04/19/lesordio_dei_simpson_in_tv/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La versione di Zelda. La vita dietro la signora Fitzgerald",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/04/19/la_versione_di_zelda_la_vita_dietro_la_signora_fitzgerald/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“La mente è un luogo appartato” di Davide Mazzocco",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/04/19/la_mente_un_luogo_appartato_di_davide_mazzocco/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "J.G. Ballard: il futuro è una battaglia darwiniana tra psicopatologie",
+      "category" : "specularia",
+      "tags"     : "specularia",
+      "url"      : "/2022/04/19/jg_ballard_il_futuro_una_battaglia_darwiniana_tra_psicopatologie/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto del mercoledì: Nessuno ti capirà mai di Iris Greotti",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/04/19/il_racconto_del_mercoled_nessuno_ti_capir_mai_di_iris_greotti/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guido Ceronetti anteprima. D.D. Deliri disarmati",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/04/19/guido_ceronetti_anteprima_dd_deliri_disarmati/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Esplosioni | Anna Trave",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2022/04/19/esplosioni_anna_trave/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "DOMESTICA. Assistere alla violenza",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/04/19/domestica_assistere_alla_violenza/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Calathopoulos: “La mia scommessa fra ironia e riflessione”",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/04/19/calathopoulos_la_mia_scommessa_fra_ironia_e_riflessione/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Biografia dei campi di Edoardo Occhionero ⥀ Passaggi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/04/19/biografia_dei_campi_di_edoardo_occhionero_passaggi/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Belfast: l’amarcord di Kenneth Branagh",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/04/19/belfast_lamarcord_di_kenneth_branagh/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Allah99",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/04/19/allah99/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Addio, Magister! – In ricordo di Valerio Evangelisti",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2022/04/19/addio_magister_in_ricordo_di_valerio_evangelisti/",
+      "date"     : "2022-04-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Tagore ci è apparso come una figura mitica…”. Elogio di un poeta mistico: un testo di Saint-John Perse",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/04/18/tagore_ci_apparso_come_una_figura_mitica_elogio_di_un_poeta_mistico_un_testo_di_saint-john_perse/",
+      "date"     : "2022-04-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sant’Anna dei Lombardi insieme a Unicocampania per promuovere l’arte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/04/18/santanna_dei_lombardi_insieme_a_unicocampania_per_promuovere_larte/",
+      "date"     : "2022-04-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pretty hurts",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/04/18/pretty_hurts/",
+      "date"     : "2022-04-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Podcast legali su diritto e giustizia: i nostri consigli di ascolto",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/04/18/podcast_legali_su_diritto_e_giustizia_i_nostri_consigli_di_ascolto/",
       "date"     : "2022-04-18 00:00:00 +0200"
     } ,
   
@@ -41,10 +401,42 @@
     } ,
   
     {
+      "title"    : "La forza zero dell’evoluzione. ll principio di divergenza dei caratteri pt. II",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/04/18/la_forza_zero_dellevoluzione_ll_principio_di_divergenza_dei_caratteri_pt_ii/",
+      "date"     : "2022-04-18 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "‘Gli scomparsi’: la poetessa Anna Lamberti-Bocconi",
       "category" : "poetarum-silva",
       "tags"     : "poetarum-silva",
       "url"      : "/2022/04/18/gli_scomparsi_la_poetessa_anna_lamberti-bocconi/",
+      "date"     : "2022-04-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli occhi di Tammy Faye: la storia di una donna avanguardistica",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/04/18/gli_occhi_di_tammy_faye_la_storia_di_una_donna_avanguardistica/",
+      "date"     : "2022-04-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Congedo di paternità in Italia, allarme gender gap",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/04/18/congedo_di_paternit_in_italia_allarme_gender_gap/",
+      "date"     : "2022-04-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "An Interview with Soojin Kim",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/04/18/an_interview_with_soojin_kim/",
       "date"     : "2022-04-18 00:00:00 +0200"
     } ,
   
@@ -101,6 +493,14 @@
       "category" : "inverso",
       "tags"     : "inverso",
       "url"      : "/2022/04/17/giovanna_frene_canzoni_allitalia/",
+      "date"     : "2022-04-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Esumare desideri dalle macerie | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/04/17/esumare_desideri_dalle_macerie_lettere/",
       "date"     : "2022-04-17 00:00:00 +0200"
     } ,
   
@@ -301,6 +701,14 @@
       "category" : "inverso",
       "tags"     : "inverso",
       "url"      : "/2022/04/15/odisseas_elitis_elegie/",
+      "date"     : "2022-04-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mill Town di Kerri Arsenault | su ZEST un estratto",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2022/04/15/mill_town_di_kerri_arsenault_su_zest_un_estratto/",
       "date"     : "2022-04-15 00:00:00 +0200"
     } ,
   
@@ -1313,10 +1721,10 @@
     } ,
   
     {
-      "title"    : "La forza zero dell’evoluzione. l principio di divergenza dei caratteri.",
+      "title"    : "La forza zero dell’evoluzione. ll principio di divergenza dei caratteri.",
       "category" : "quaerere",
       "tags"     : "quaerere",
-      "url"      : "/2022/04/11/la_forza_zero_dellevoluzione_l_principio_di_divergenza_dei_caratteri/",
+      "url"      : "/2022/04/11/la_forza_zero_dellevoluzione_ll_principio_di_divergenza_dei_caratteri/",
       "date"     : "2022-04-11 00:00:00 +0200"
     } ,
   
@@ -2317,14 +2725,6 @@
       "category" : "layout",
       "tags"     : "layout",
       "url"      : "/2022/04/05/sbagliato_vs_distratto_su_due_ibridi_dei_pop_x/",
-      "date"     : "2022-04-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Poi un giorno in un libro o in un bar si farà tutto chiaro",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2022/04/05/poi_un_giorno_in_un_libro_o_in_un_bar_si_far_tutto_chiaro/",
       "date"     : "2022-04-05 00:00:00 +0200"
     } ,
   
@@ -37145,14 +37545,6 @@
     } ,
   
     {
-      "title"    : "Mill Town di Kerri Arsenault | in anteprima su ZEST un estratto",
-      "category" : "zest-letteratura-sostenibile",
-      "tags"     : "zest-letteratura-sostenibile",
-      "url"      : "/2021/10/28/mill_town_di_kerri_arsenault_in_anteprima_su_zest_un_estratto/",
-      "date"     : "2021-10-28 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "L’equilibrio è un’antica vertigine",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -39497,14 +39889,6 @@
     } ,
   
     {
-      "title"    : "L’ultimo viaggio di Rimbaud, l’avventuriero",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/10/16/lultimo_viaggio_di_rimbaud_lavventuriero/",
-      "date"     : "2021-10-16 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "L’origine del “Paparazzo”",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39525,14 +39909,6 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/10/16/lascia_stare_funziona_cos_non_pu_cambiare_rassegnati/",
-      "date"     : "2021-10-16 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La condanna",
-      "category" : "la-seppia",
-      "tags"     : "la-seppia",
-      "url"      : "/2021/10/16/la_condanna/",
       "date"     : "2021-10-16 00:00:00 +0200"
     } ,
   
@@ -39593,387 +39969,11 @@
     } ,
   
     {
-      "title"    : "Vitamine: la rivista letteraria per tracciare una biologia dell’immateriale. Intervista",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2021/10/15/vitamine_la_rivista_letteraria_per_tracciare_una_biologia_dellimmateriale_intervista/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Vi ricordate il Codice da Vinci? Bonina ve lo farà dimenticare…",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2021/10/15/vi_ricordate_il_codice_da_vinci_bonina_ve_lo_far_dimenticare/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Summertime | Uccello a Venezia",
-      "category" : "in-fuga-dalla-bocciofila",
-      "tags"     : "in-fuga-dalla-bocciofila",
-      "url"      : "/2021/10/15/summertime_uccello_a_venezia/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Sesso più, sesso meno”: gli amanti insicuri di Fillioley",
-      "category" : "il-rifugio-dell-ircocervo",
-      "tags"     : "il-rifugio-dell-ircocervo",
-      "url"      : "/2021/10/15/sesso_pi_sesso_meno_gli_amanti_insicuri_di_fillioley/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Senza impegno/4: quattro domande intorno al pamphlet di Walter Siti",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2021/10/15/senza_impegno4_quattro_domande_intorno_al_pamphlet_di_walter_siti/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Puškin: il poeta che ha duellato con la letteratura",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/10/15/pukin_il_poeta_che_ha_duellato_con_la_letteratura/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Piccoli eventi – Ariol di Emmanuel Guibert e Marc Boutavant",
-      "category" : "altri-animali",
-      "tags"     : "altri-animali",
-      "url"      : "/2021/10/15/piccoli_eventi_ariol_di_emmanuel_guibert_e_marc_boutavant/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Nietzsche in California. Un testo di Jean-Baptiste Botul",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/10/15/nietzsche_in_california_un_testo_di_jean-baptiste_botul/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Mitocondri, un racconto di P. Zardi || Street Stories",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2021/10/15/mitocondri_un_racconto_di_p_zardi_street_stories/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Mimesis, il realismo della letteratura occidentale",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2021/10/15/mimesis_il_realismo_della_letteratura_occidentale/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Michel Houellebecq, intervista senza filtri (nemmeno quelli di sigarette)",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2021/10/15/michel_houellebecq_intervista_senza_filtri_nemmeno_quelli_di_sigarette/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Little Steven: il rock and roll, la grandezza e la lunga strada verso casa",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/10/15/little_steven_il_rock_and_roll_la_grandezza_e_la_lunga_strada_verso_casa/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Le città invisibili",
-      "category" : "offline",
-      "tags"     : "offline",
-      "url"      : "/2021/10/15/le_citt_invisibili/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La voce di chi scrive",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/10/15/la_voce_di_chi_scrive/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il premonitore bugiardo",
-      "category" : "quaerere",
-      "tags"     : "quaerere",
-      "url"      : "/2021/10/15/il_premonitore_bugiardo/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il Maestro e Margherita | Radiografia di un amore vero",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2021/10/15/il_maestro_e_margherita_radiografia_di_un_amore_vero/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "I film da riscoprire: The Forty-Year-Old Version",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2021/10/15/i_film_da_riscoprire_the_forty-year-old_version/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Hellseer, # 2",
-      "category" : "spazinclusi",
-      "tags"     : "spazinclusi",
-      "url"      : "/2021/10/15/hellseer_2/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Geografie del collasso",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2021/10/15/geografie_del_collasso/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Classifica di qualità – ottobre 2021",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2021/10/15/classifica_di_qualit_ottobre_2021/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "CARO LUIS",
-      "category" : "il-timoniere",
-      "tags"     : "il-timoniere",
-      "url"      : "/2021/10/15/caro_luis/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Caducità del corpo bionico.",
-      "category" : "droga",
-      "tags"     : "droga",
-      "url"      : "/2021/10/15/caducit_del_corpo_bionico/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Best Regards di Marco D’Agostin: Mandami una lettera",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/10/15/best_regards_di_marco_dagostin_mandami_una_lettera/",
-      "date"     : "2021-10-15 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Numero Due",
       "category" : "",
       "tags"     : "pro-vocazione",
       "url"      : "/2021/10/14/numero_due/",
       "date"     : "2021-10-14 06:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Zebio Còtal. Il libro destinato a “tempi meno distratti” (parola di Pasolini)",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/10/14/zebio_ctal_il_libro_destinato_a_tempi_meno_distratti_parola_di_pasolini/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Un verme con le ali d’aquila. La dialettica tra vergogna e ambizione nella scrittura fatta dalle donne.",
-      "category" : "in-allarmata-radura",
-      "tags"     : "in-allarmata-radura",
-      "url"      : "/2021/10/14/un_verme_con_le_ali_daquila_la_dialettica_tra_vergogna_e_ambizione_nella_scrittura_fatta_dalle_donne/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Titane: lode alla nuova carne del cinema",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2021/10/14/titane_lode_alla_nuova_carne_del_cinema/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Scrivere di giovani senza farne un romanzo di formazione",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/10/14/scrivere_di_giovani_senza_farne_un_romanzo_di_formazione/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Prisoners of the Ghostland”, l’ultima fatica di Sion Sono",
-      "category" : "droga",
-      "tags"     : "droga",
-      "url"      : "/2021/10/14/prisoners_of_the_ghostland_lultima_fatica_di_sion_sono/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Perché non voglio fare l’editor",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2021/10/14/perch_non_voglio_fare_leditor/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Morire è una tradizione di famiglia”. Amélie Nothomb davanti al plotone d’esecuzione",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/10/14/morire_una_tradizione_di_famiglia_amlie_nothomb_davanti_al_plotone_desecuzione/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Marietta Salvo – Vascello fantasma",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2021/10/14/marietta_salvo_vascello_fantasma/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Ma in poesia si possono usare le parole frigorifero, alluce e resilienza?",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2021/10/14/ma_in_poesia_si_possono_usare_le_parole_frigorifero_alluce_e_resilienza/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Livello 49, di Alessandro Pedretta",
-      "category" : "la-nuova-carne",
-      "tags"     : "la-nuova-carne",
-      "url"      : "/2021/10/14/livello_49_di_alessandro_pedretta/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Letterature comparate, ah queste sconosciute!",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/10/14/letterature_comparate_ah_queste_sconosciute/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "L’Anno del Fuoco Segreto: Verso Montsalvat",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/10/14/lanno_del_fuoco_segreto_verso_montsalvat/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La madre del rock’n’roll: Sister Rosetta Tharpe",
-      "category" : "donne-difettose",
-      "tags"     : "donne-difettose",
-      "url"      : "/2021/10/14/la_madre_del_rocknroll_sister_rosetta_tharpe/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Io non ho detto niente! Citazioni famose mai pronunciate",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/10/14/io_non_ho_detto_niente_citazioni_famose_mai_pronunciate/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "I’m fine! Sei momenti divertenti di Ross Geller",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/10/14/im_fine_sei_momenti_divertenti_di_ross_geller/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il desiderio di una vita",
-      "category" : "narrandom",
-      "tags"     : "narrandom",
-      "url"      : "/2021/10/14/il_desiderio_di_una_vita/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Foodpic – Il cannolo sotto i riflettori",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/10/14/foodpic_il_cannolo_sotto_i_riflettori/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Dice Angelica",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2021/10/14/dice_angelica/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Consolatio | Un mistero che sonnecchia sotto le coperte del quotidiano",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2021/10/14/consolatio_un_mistero_che_sonnecchia_sotto_le_coperte_del_quotidiano/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Classifica di qualità – ottobre 2021",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2021/10/14/classifica_di_qualit_ottobre_2021/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "BACKROADS, IL RITORNO COUNTRY-FOLK DI J. SINTONI",
-      "category" : "voce-blu",
-      "tags"     : "voce-blu",
-      "url"      : "/2021/10/14/backroads_il_ritorno_country-folk_di_j_sintoni/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Annalisa Bruni risponde a Fante",
-      "category" : "formicaleone",
-      "tags"     : "formicaleone",
-      "url"      : "/2021/10/14/annalisa_bruni_risponde_a_fante/",
-      "date"     : "2021-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Libro del sangue di Matteo Trevisani: genealogia e destino in un intreccio dalle tinte noir. Recensione",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2021/10/13/libro_del_sangue_di_matteo_trevisani_genealogia_e_destino_in_un_intreccio_dalle_tinte_noir_recensione/",
-      "date"     : "2021-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Essere ricercati dall’arte",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/10/13/essere_ricercati_dallarte/",
-      "date"     : "2021-10-13 00:00:00 +0200"
     } ,
   
     {
