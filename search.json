@@ -1,10 +1,122 @@
 [
   
     {
+      "title"    : "Virgilio Sieni: Danza Cieca",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/05/03/virgilio_sieni_danza_cieca/",
+      "date"     : "2022-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tacito &amp; Proust. Un saggio di Sir Ronald Syme",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/05/03/tacito_proust_un_saggio_di_sir_ronald_syme/",
+      "date"     : "2022-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La vita violenta di Charles Bukowski, tra battute sconce e perle di saggezza",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/05/03/la_vita_violenta_di_charles_bukowski_tra_battute_sconce_e_perle_di_saggezza/",
+      "date"     : "2022-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La vita è come un bambino, o una giovane sposa: l’inno all’esistenza di Selma Lagerlöf in “Bandito”",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/05/03/la_vita_come_un_bambino_o_una_giovane_sposa_linno_allesistenza_di_selma_lagerlf_in_bandito/",
+      "date"     : "2022-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La verità su tutto. Intervista a Vanni Santoni",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/03/la_verit_su_tutto_intervista_a_vanni_santoni/",
+      "date"     : "2022-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il poeta della Resistenza. Discorso su René Char",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/05/03/il_poeta_della_resistenza_discorso_su_ren_char/",
+      "date"     : "2022-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Elsa attraverso lo specchio della narrazione",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/05/03/elsa_attraverso_lo_specchio_della_narrazione/",
+      "date"     : "2022-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Crocifisso Dentello. Tuamore",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/03/crocifisso_dentello_tuamore/",
+      "date"     : "2022-05-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Willy Vlautin anteprima. Verso Nord",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/02/willy_vlautin_anteprima_verso_nord/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Viaggio oltre la catastrofe. Un’Odissea dei nostri tempi",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/05/02/viaggio_oltre_la_catastrofe_unodissea_dei_nostri_tempi/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Northman | Agricoltura biodinamica",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/05/02/the_northman_agricoltura_biodinamica/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tetra-, la nuova casa editrice di racconti con piccoli libri a 4 euro",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/05/02/tetra-_la_nuova_casa_editrice_di_racconti_con_piccoli_libri_a_4_euro/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spaghetti alla puttanesca pt.2",
+      "category" : "spaghetti-writers",
+      "tags"     : "spaghetti-writers",
+      "url"      : "/2022/05/02/spaghetti_alla_puttanesca_pt2/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Presentazione di Miti e Molotov || 12.05.22 || Interviste su anarchia e narrativa di Margaret Killjoy",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/05/02/presentazione_di_miti_e_molotov_120522_interviste_su_anarchia_e_narrativa_di_margaret_killjoy/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "PoeMap, il nuovo tour della Sanità, tra incanto e poesia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/02/poemap_il_nuovo_tour_della_sanit_tra_incanto_e_poesia/",
       "date"     : "2022-05-02 00:00:00 +0200"
     } ,
   
@@ -17,10 +129,58 @@
     } ,
   
     {
+      "title"    : "Numero 2 – Underground, la vista dalla città",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2022/05/02/numero_2_underground_la_vista_dalla_citt/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "NOF4: liberare l’anormalità segregata",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/05/02/nof4_liberare_lanormalit_segregata/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Nella profondità più profonda”: Hermann Broch e i fondamenti irrazionali della matematica",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/05/02/nella_profondit_pi_profonda_hermann_broch_e_i_fondamenti_irrazionali_della_matematica/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#Mappe – Quando a Feltre c’era il mare",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/05/02/mappe_quando_a_feltre_cera_il_mare/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "MAPPA DI UN CUORE CHE BRUCIA",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/05/02/mappa_di_un_cuore_che_brucia/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mancavamo solo noi! Il calcio femminile diventa professione",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/02/mancavamo_solo_noi_il_calcio_femminile_diventa_professione/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo stretto rapporto fra pittura giapponese e natura, florilegio e una narrazione stratificata. Gli uccelli nelle stampe giapponesi",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/05/02/lo_stretto_rapporto_fra_pittura_giapponese_e_natura_florilegio_e_una_narrazione_stratificata_gli_uccelli_nelle_stampe_giapponesi/",
       "date"     : "2022-05-02 00:00:00 +0200"
     } ,
   
@@ -33,10 +193,66 @@
     } ,
   
     {
+      "title"    : "Le fate ignoranti, ma molto ricche, di Ferzan Özpetek su Disney+",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/02/le_fate_ignoranti_ma_molto_ricche_di_ferzan_zpetek_su_disney/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le due sorelle. Su “Rime buie”, libro di filastrocche (per adulti) di Tognolini sorte dalle immagini di Abbatiello",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/05/02/le_due_sorelle_su_rime_buie_libro_di_filastrocche_per_adulti_di_tognolini_sorte_dalle_immagini_di_abbatiello/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’amore ai tempi dell’incertezza | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/05/02/lamore_ai_tempi_dellincertezza_lettere/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La città venduta: la Milano di Anna Maria Ortese",
+      "category" : "tre-sequenze",
+      "tags"     : "tre-sequenze",
+      "url"      : "/2022/05/02/la_citt_venduta_la_milano_di_anna_maria_ortese/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista ad Armando Di Lillo, autore de “Il livore”",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/05/02/intervista_ad_armando_di_lillo_autore_de_il_livore/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "In qualche (altro) modo",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/05/02/in_qualche_altro_modo/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il filo e il fiume di Paolo Simonazzi, dalle rive del Mississippi al delta del Po",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/05/02/il_filo_e_il_fiume_di_paolo_simonazzi_dalle_rive_del_mississippi_al_delta_del_po/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il femminismo è per tutti di bell hooks: un pamphlet per avvicinare le persone alla lotta femminista. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/05/02/il_femminismo_per_tutti_di_bell_hooks_un_pamphlet_per_avvicinare_le_persone_alla_lotta_femminista_recensione/",
       "date"     : "2022-05-02 00:00:00 +0200"
     } ,
   
@@ -49,10 +265,34 @@
     } ,
   
     {
+      "title"    : "Hotel Smeraldo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/02/hotel_smeraldo/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "HONEY KILLER DI BRUNO POMPILI",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2022/05/02/honey_killer_di_bruno_pompili/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "‘Gli scomparsi’: Nadia Fusini",
       "category" : "poetarum-silva",
       "tags"     : "poetarum-silva",
       "url"      : "/2022/05/02/gli_scomparsi_nadia_fusini/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gian Andrea Cerone anteprima. Le notti senza sonno",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/02/gian_andrea_cerone_anteprima_le_notti_senza_sonno/",
       "date"     : "2022-05-02 00:00:00 +0200"
     } ,
   
@@ -81,10 +321,66 @@
     } ,
   
     {
-      "title"    : "Toshirō Mifune",
+      "title"    : "Dario Voltolini. Il giardino degli aranci",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/02/dario_voltolini_il_giardino_degli_aranci/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dante, queer e arcobaleni testuali",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
-      "url"      : "/2022/05/01/toshir_mifune/",
+      "url"      : "/2022/05/02/dante_queer_e_arcobaleni_testuali/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chandra Livia Candiani | Bevendo il tè con i morti",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/05/02/chandra_livia_candiani_bevendo_il_t_con_i_morti/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bravo Valerio! – The Dark Side of the Moon.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/05/02/bravo_valerio_the_dark_side_of_the_moon/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Anatomia di un ri(s)catto. Il sacrificio gay sul grande schermo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/05/02/anatomia_di_un_riscatto_il_sacrificio_gay_sul_grande_schermo/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alle porte di POLIS Festival Teatro",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/05/02/alle_porte_di_polis_festival_teatro/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Addio a Roberto Masotti, il fotografo delle star della musica",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/05/02/addio_a_roberto_masotti_il_fotografo_delle_star_della_musica/",
+      "date"     : "2022-05-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Toshirō Mifune – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/01/toshir_mifune_personaggio_della_settimana/",
       "date"     : "2022-05-01 00:00:00 +0200"
     } ,
   
