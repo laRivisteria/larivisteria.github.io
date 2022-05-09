@@ -1,6 +1,254 @@
 [
   
     {
+      "title"    : "Zadie Smith. La donna di Willesden",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/09/zadie_smith_la_donna_di_willesden/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra le vie di un&#39;imprevedibile e annichilente Tokyo per risolvere un caso a dir poco intricato: &quot;Le due morti del signor Mihara&quot;, il secondo romanzo di Tommaso Scotti",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/05/09/tra_le_vie_di_unimprevedibile_e_annichilente_tokyo_per_risolvere_un_caso_a_dir_poco_intricato_le_due_morti_del_signor_mihara_il_secondo_romanzo_di_tommaso_scotti/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "T. S. Eliot | La terra desolata",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/05/09/t_s_eliot_la_terra_desolata/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Stanotte sono un’altra",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/05/09/stanotte_sono_unaltra/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "‘Red Venus’, in dialogo con Franz Cerami e la sua nuova mostra al MANN fino al 24 maggio",
+      "category" : "milena",
+      "tags"     : "milena",
+      "url"      : "/2022/05/09/red_venus_in_dialogo_con_franz_cerami_e_la_sua_nuova_mostra_al_mann_fino_al_24_maggio/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Quei Saggi della foresta hanno pensato tutto”. La filosofia indiana secondo W.B. Yeats",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/05/09/quei_saggi_della_foresta_hanno_pensato_tutto_la_filosofia_indiana_secondo_wb_yeats/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paolo Zardi anteprima. L’ultimo raccolto",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/09/paolo_zardi_anteprima_lultimo_raccolto/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "OBLAKA – I racconti del realismo magico – Capitolo VI",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/05/09/oblaka_i_racconti_del_realismo_magico_capitolo_vi/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "My body is a cage. “Quando le belve arriveranno” di Alfredo Palomba",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/05/09/my_body_is_a_cage_quando_le_belve_arriveranno_di_alfredo_palomba/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Maggio, anatomia di un viaggio: piccola frazione di vita",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2022/05/09/maggio_anatomia_di_un_viaggio_piccola_frazione_di_vita/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’urgenza di superare Dio. “La valle dei mulini”: quando la letteratura per bambini smuove le coscienze",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/05/09/lurgenza_di_superare_dio_la_valle_dei_mulini_quando_la_letteratura_per_bambini_smuove_le_coscienze/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Linda Rando condannata? In realtà sono stata assolta",
+      "category" : "ultima-pagina",
+      "tags"     : "ultima-pagina",
+      "url"      : "/2022/05/09/linda_rando_condannata_in_realt_sono_stata_assolta/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Le amiche” di Michelangelo Antonioni",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/05/09/le_amiche_di_michelangelo_antonioni/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“La festa del ritorno” di Carmine Abate diventerà presto un film",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/05/09/la_festa_del_ritorno_di_carmine_abate_diventer_presto_un_film/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La città delle bici",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/05/09/la_citt_delle_bici/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Keren David, l’orgoglio ebraico di due gemelle… diverse",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/05/09/keren_david_lorgoglio_ebraico_di_due_gemelle_diverse/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "John Cheever inedito. Non è un gatto che perdona",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/09/john_cheever_inedito_non_un_gatto_che_perdona/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il testamento del senatore",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/05/09/il_testamento_del_senatore/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il pessimismo comico di Alberto Ravasio",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/05/09/il_pessimismo_comico_di_alberto_ravasio/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I limiti della previsione: cos’è la futurologia",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/05/09/i_limiti_della_previsione_cos_la_futurologia/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "‘Gli scomparsi’: Mamma, di Massimiliano Parente",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2022/05/09/gli_scomparsi_mamma_di_massimiliano_parente/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ferite che non guariscono, dolore che non si attenua: Anna Francesca Vallone, &quot;L&#39;altra metà della colpa&quot;",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/05/09/ferite_che_non_guariscono_dolore_che_non_si_attenua_anna_francesca_vallone_laltra_met_della_colpa/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "E poi saremo salvi di Alessandra Carati: il romanzo dei sopravvissuti. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/05/09/e_poi_saremo_salvi_di_alessandra_carati_il_romanzo_dei_sopravvissuti_recensione/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da “Dopo il libro”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/05/09/da_dopo_il_libro/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chiudere gli occhi fino a perdere l’equilibrio. La verità su tutto di Vanni Santoni",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/05/09/chiudere_gli_occhi_fino_a_perdere_lequilibrio_la_verit_su_tutto_di_vanni_santoni/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Che cosa resterà di me?”: un anno senza Franco Battiato",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/05/09/che_cosa_rester_di_me_un_anno_senza_franco_battiato/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Caro Voltolini",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/05/09/caro_voltolini/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Archeologia Reggio Calabria, prosegue il restauro del busto marmoreo di epoca romana",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/05/09/archeologia_reggio_calabria_prosegue_il_restauro_del_busto_marmoreo_di_epoca_romana/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Anteprima: IL GRANDE CALDO.",
+      "category" : "droga",
+      "tags"     : "droga",
+      "url"      : "/2022/05/09/anteprima_il_grande_caldo/",
+      "date"     : "2022-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vorrei un chilo d’oro da mangiare, per favore!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/08/vorrei_un_chilo_doro_da_mangiare_per_favore/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "VIVA #25",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2022/05/08/viva_25/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un dark fantasy targato Neo: «La grande crociata» di Theo Szczepanksi",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -17,6 +265,30 @@
     } ,
   
     {
+      "title"    : "Racconto: Porte Chiuse – Anita Pulvirenti",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/05/08/racconto_porte_chiuse_anita_pulvirenti/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Premio Strega 2022: Intervista ad Alessandra Carati, Autrice di “E poi saremo salvi” (Mondadori, 2021).",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/05/08/premio_strega_2022_intervista_ad_alessandra_carati_autrice_di_e_poi_saremo_salvi_mondadori_2021/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesia – Francesco Torlontano",
+      "category" : "la-seppia",
+      "tags"     : "la-seppia",
+      "url"      : "/2022/05/08/poesia_francesco_torlontano/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Notte sulla città",
       "category" : "la-nuova-carne",
       "tags"     : "la-nuova-carne",
@@ -25,10 +297,34 @@
     } ,
   
     {
+      "title"    : "Moon Knight: il supereroe Marvel dalla personalità multipla che ha il favore degli egizi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/08/moon_knight_il_supereroe_marvel_dalla_personalit_multipla_che_ha_il_favore_degli_egizi/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mariele Ventre – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/08/mariele_ventre_personaggio_della_settimana/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“La grande razzia”, il capolavoro dell’antica epica irlandese",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/05/08/la_grande_razzia_il_capolavoro_dellantica_epica_irlandese/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Immaginare il corpo, sovvertire il rito | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/05/08/immaginare_il_corpo_sovvertire_il_rito_lettere/",
       "date"     : "2022-05-08 00:00:00 +0200"
     } ,
   
@@ -53,6 +349,30 @@
       "category" : "suite-italiana",
       "tags"     : "suite-italiana",
       "url"      : "/2022/05/08/il_bardo/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giustizia proibita? La guerra, la pace e le contraddizioni del pacifismo",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/05/08/giustizia_proibita_la_guerra_la_pace_e_le_contraddizioni_del_pacifismo/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Barattolo della calma” Montessoriano",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/08/barattolo_della_calma_montessoriano/",
+      "date"     : "2022-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Al Museo delle ceramiche di Seminara risplende un’antica tradizione",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/05/08/al_museo_delle_ceramiche_di_seminara_risplende_unantica_tradizione/",
       "date"     : "2022-05-08 00:00:00 +0200"
     } ,
   
