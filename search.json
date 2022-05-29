@@ -1,10 +1,82 @@
 [
   
     {
+      "title"    : "Un amore per Colapesce",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/05/29/un_amore_per_colapesce/",
+      "date"     : "2022-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesia in forma di prosa",
+      "category" : "suite-italiana",
+      "tags"     : "suite-italiana",
+      "url"      : "/2022/05/29/poesia_in_forma_di_prosa/",
+      "date"     : "2022-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La lezione animale. I bestiari di Gianna Manzini e Piero Polito",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/05/29/la_lezione_animale_i_bestiari_di_gianna_manzini_e_piero_polito/",
+      "date"     : "2022-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La guerra e la Champions League",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/05/29/la_guerra_e_la_champions_league/",
+      "date"     : "2022-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In fuga verso il futuro: &quot;Portami con te quando te ne vai&quot;, il romanzo epistolare young adult di Niven e Levithan",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/05/29/in_fuga_verso_il_futuro_portami_con_te_quando_te_ne_vai_il_romanzo_epistolare_young_adult_di_niven_e_levithan/",
+      "date"     : "2022-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amy, Beth, Jo, Meg, Laurie",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2022/05/29/amy_beth_jo_meg_laurie/",
+      "date"     : "2022-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tutto è dissidio in Pasolini, l’omaggio di Recalcati",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/05/28/tutto_dissidio_in_pasolini_lomaggio_di_recalcati/",
+      "date"     : "2022-05-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tutti i nostri corpi: Georgi Gospodinov (a cura di Giulia Bocchio)",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2022/05/28/tutti_i_nostri_corpi_georgi_gospodinov_a_cura_di_giulia_bocchio/",
+      "date"     : "2022-05-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Su questa terra eterna tra sogno e avventura”. Roger Frison-Roche, l’esploratore dei deserti",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/05/28/su_questa_terra_eterna_tra_sogno_e_avventura_roger_frison-roche_lesploratore_dei_deserti/",
+      "date"     : "2022-05-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesie",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/05/28/poesie/",
       "date"     : "2022-05-28 00:00:00 +0200"
     } ,
   
@@ -25,6 +97,22 @@
     } ,
   
     {
+      "title"    : "Il racconto della domenica: Tentativi di Eleonora Capparella",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/05/28/il_racconto_della_domenica_tentativi_di_eleonora_capparella/",
+      "date"     : "2022-05-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il mago delle comete",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/28/il_mago_delle_comete/",
+      "date"     : "2022-05-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il cielo sotto Parigi",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -37,6 +125,30 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/05/28/giuseppe_ciarallo_manlio_truscia_anteprima_zappa_il_fumetto/",
+      "date"     : "2022-05-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Focus on: Elliott Erwitt, ironia in foto.",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/28/focus_on_elliott_erwitt_ironia_in_foto/",
+      "date"     : "2022-05-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dalla parte di Johnny Depp: la logica dello spettatore cannibale",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/05/28/dalla_parte_di_johnny_depp_la_logica_dello_spettatore_cannibale/",
+      "date"     : "2022-05-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bang Bang baby: un pastiche in pieno stile anni ‘80",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/05/28/bang_bang_baby_un_pastiche_in_pieno_stile_anni_80/",
       "date"     : "2022-05-28 00:00:00 +0200"
     } ,
   
@@ -421,14 +533,6 @@
       "category" : "poetarum-silva",
       "tags"     : "poetarum-silva",
       "url"      : "/2022/05/26/purch_sanguini_riflessioni_sulla_poesia_di_federico_garca_lorca_a_cura_di_giulia_bocchio/",
-      "date"     : "2022-05-26 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Politica: giù le mani dalla cultura! Una polemica",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/05/26/politica_gi_le_mani_dalla_cultura_una_polemica/",
       "date"     : "2022-05-26 00:00:00 +0200"
     } ,
   
@@ -39825,54 +39929,6 @@
     } ,
   
     {
-      "title"    : "Un estratto da “Mastini, romanzo di una vita in fuga”",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/11/27/un_estratto_da_mastini_romanzo_di_una_vita_in_fuga/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "The land of little rain, un racconto di Mary Hunter Austin",
-      "category" : "zest-letteratura-sostenibile",
-      "tags"     : "zest-letteratura-sostenibile",
-      "url"      : "/2021/11/27/the_land_of_little_rain_un_racconto_di_mary_hunter_austin/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Recensioni: “La storia prende il treno” di Sophie Dubois-Collet",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2021/11/27/recensioni_la_storia_prende_il_treno_di_sophie_dubois-collet/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Pietrasanta, installata la prima cassetta postale poetica",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2021/11/27/pietrasanta_installata_la_prima_cassetta_postale_poetica/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Mrs Dalloway, l’arte di creare momenti felici",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/11/27/mrs_dalloway_larte_di_creare_momenti_felici/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La poesia di Edgar Allan Poe nella traduzione di Raffaela Fazio “Nevermore. Poesie di un Altrove” (Marco Saya Edizioni, 2021)",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/11/27/la_poesia_di_edgar_allan_poe_nella_traduzione_di_raffaela_fazio_nevermore_poesie_di_un_altrove_marco_saya_edizioni_2021/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "La Corea è invasa dai Gumiho",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39881,66 +39937,10 @@
     } ,
   
     {
-      "title"    : "Il grande genocidio dimenticato. L’holodomor si ricorda oggi.",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/11/27/il_grande_genocidio_dimenticato_lholodomor_si_ricorda_oggi/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "I vestiti raccontano (di) chi siamo",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2021/11/27/i_vestiti_raccontano_di_chi_siamo/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Fantastico! #119",
-      "category" : "fantastico!",
-      "tags"     : "fantastico!",
-      "url"      : "/2021/11/27/fantastico_119/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Elio Grasso in “Novecento ai confini” è poeta inviolato, abita vegetazioni brade",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/11/27/elio_grasso_in_novecento_ai_confini_poeta_inviolato_abita_vegetazioni_brade/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Do You Still Want to Play?",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2021/11/27/do_you_still_want_to_play/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cosa ci siamo persi? ⥀ Alcune Osservazioni sulla poesia di Marco Giovenale",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2021/11/27/cosa_ci_siamo_persi_alcune_osservazioni_sulla_poesia_di_marco_giovenale/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Caro Harry, si rimane con te fino alla fine",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/11/27/caro_harry_si_rimane_con_te_fino_alla_fine/",
-      "date"     : "2021-11-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Annus Mirabilis 1922 ⥀ Un incontro online dedicato a C.Vallejo e T.S.Eliot",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2021/11/27/annus_mirabilis_1922_un_incontro_online_dedicato_a_cvallejo_e_tseliot/",
       "date"     : "2021-11-27 00:00:00 +0100"
     } ,
   
