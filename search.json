@@ -673,6 +673,14 @@
     } ,
   
     {
+      "title"    : "Kim Stanley Robinson, The Ministry for the Future",
+      "category" : "il-problema-di-grendel",
+      "tags"     : "il-problema-di-grendel",
+      "url"      : "/2022/06/02/kim_stanley_robinson_the_ministry_for_the_future/",
+      "date"     : "2022-06-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Foodpic – Un tacos tira l’altro",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -893,6 +901,14 @@
       "category" : "argo",
       "tags"     : "argo",
       "url"      : "/2022/06/01/la_risata_del_condannato_a_morte_su_confessioni_di_una_coppia_scambista_al_figlio_morente_di_alessandro_gori/",
+      "date"     : "2022-06-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "inedito – Andrea Raos",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/06/01/inedito_andrea_raos/",
       "date"     : "2022-06-01 00:00:00 +0200"
     } ,
   
@@ -2405,6 +2421,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/05/25/si_tratta_di_rimanere_nellamore_riflessioni_sul_mio_trasloco/",
+      "date"     : "2022-05-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scatto n° 7 – Ilaria Grasso",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/05/25/scatto_n_7_ilaria_grasso/",
       "date"     : "2022-05-25 00:00:00 +0200"
     } ,
   
@@ -4049,6 +4073,14 @@
     } ,
   
     {
+      "title"    : "È bellissimo andare a dormire – Alfonso Lentini",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/05/18/bellissimo_andare_a_dormire_alfonso_lentini/",
+      "date"     : "2022-05-18 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Voci alla ricerca del giardino segreto: &quot;Le vie dell&#39;Eden&quot; di Eshkol Nevo, lo scrittore dell&#39;inconfessabile",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -5325,6 +5357,14 @@
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2022/05/11/purezza_di_garth_greenwell_fra_speranza_e_terrore/",
+      "date"     : "2022-05-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paragrafo – Luca Zanini",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/05/11/paragrafo_luca_zanini/",
       "date"     : "2022-05-11 00:00:00 +0200"
     } ,
   
@@ -7005,6 +7045,14 @@
       "category" : "glicine",
       "tags"     : "glicine",
       "url"      : "/2022/05/04/mam_la_storia_di_unaltra_calabria/",
+      "date"     : "2022-05-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lungarno – Stefano Olmastroni",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/05/04/lungarno_stefano_olmastroni/",
       "date"     : "2022-05-04 00:00:00 +0200"
     } ,
   
@@ -8961,6 +9009,14 @@
     } ,
   
     {
+      "title"    : "Come foglie – Giorgio Papitto",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/04/27/come_foglie_giorgio_papitto/",
+      "date"     : "2022-04-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Coll’augurio di poterlo al più presto riudire.” Gramsci critico musicale",
       "category" : "scenari",
       "tags"     : "scenari",
@@ -10425,6 +10481,14 @@
     } ,
   
     {
+      "title"    : "Da “Zebù bambino” – Davide Cortese",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/04/20/da_zeb_bambino_davide_cortese/",
+      "date"     : "2022-04-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "+Crucifiction+ | Michele Carniel",
       "category" : "neutopia",
       "tags"     : "neutopia",
@@ -11677,6 +11741,14 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/04/13/patrizia_carrano_la_bambina_che_mangiava_i_comunisti/",
+      "date"     : "2022-04-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Numero 68. Scheletro – Francesco Fioretti",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/04/13/numero_68_scheletro_francesco_fioretti/",
       "date"     : "2022-04-13 00:00:00 +0200"
     } ,
   
@@ -13157,6 +13229,14 @@
       "category" : "altri-animali",
       "tags"     : "altri-animali",
       "url"      : "/2022/04/06/delle_cose_ultime_stig_dagerman/",
+      "date"     : "2022-04-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da “Lo stigma” – Carlo Ragliani",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/04/06/da_lo_stigma_carlo_ragliani/",
       "date"     : "2022-04-06 00:00:00 +0200"
     } ,
   
@@ -14877,6 +14957,14 @@
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/03/30/il_ring_del_poeteur_il_poeta_boxeur_primo_round/",
+      "date"     : "2022-03-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "IG – Matteo Persico",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/03/30/ig_matteo_persico/",
       "date"     : "2022-03-30 00:00:00 +0200"
     } ,
   
@@ -39809,22 +39897,6 @@
     } ,
   
     {
-      "title"    : "Perché si scrive? Solo Sylvia Plath può rispondere",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/12/05/perch_si_scrive_solo_sylvia_plath_pu_rispondere/",
-      "date"     : "2021-12-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Mots-clés__Coniglietti",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/12/05/mots-clsconiglietti/",
-      "date"     : "2021-12-05 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Mark Rothko – Personaggio della settimana",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39837,22 +39909,6 @@
       "category" : "smezziamo",
       "tags"     : "smezziamo",
       "url"      : "/2021/12/05/la_prova_generale/",
-      "date"     : "2021-12-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La Francia di Diwo? Una faccenda (rutilante) di legno e donne",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2021/12/05/la_francia_di_diwo_una_faccenda_rutilante_di_legno_e_donne/",
-      "date"     : "2021-12-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il racconto della domenica: Copioni e ricopioni di Fernando Camilleri",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2021/12/05/il_racconto_della_domenica_copioni_e_ricopioni_di_fernando_camilleri/",
       "date"     : "2021-12-05 00:00:00 +0100"
     } ,
   
@@ -39894,62 +39950,6 @@
       "tags"     : "glicine",
       "url"      : "/2021/12/05/bambini_grandi_lettori_ma_dopo_i_10_anni_comincia_la_flessione/",
       "date"     : "2021-12-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Retinolo: cos’è e come usarlo",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/04/retinolo_cos_e_come_usarlo/",
-      "date"     : "2021-12-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Più libri più liberi 2021: non basta darsi dell’“indie” per sostenere la piccola e media editoria",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2021/12/04/pi_libri_pi_liberi_2021_non_basta_darsi_dellindie_per_sostenere_la_piccola_e_media_editoria/",
-      "date"     : "2021-12-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Nessuno mi salverà”, dal nuovo romanzo di Orofino",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2021/12/04/nessuno_mi_salver_dal_nuovo_romanzo_di_orofino/",
-      "date"     : "2021-12-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Lucio Leone@PLPL 5 dicembre 2021",
-      "category" : "verde",
-      "tags"     : "verde",
-      "url"      : "/2021/12/04/lucio_leoneplpl_5_dicembre_2021/",
-      "date"     : "2021-12-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Impressioni di Kemet: uno scorcio di antico Egitto a Napoli",
-      "category" : "mosse-di-seppia",
-      "tags"     : "mosse-di-seppia",
-      "url"      : "/2021/12/04/impressioni_di_kemet_uno_scorcio_di_antico_egitto_a_napoli/",
-      "date"     : "2021-12-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Damiano David, il frontman che fa dell’aspetto fisico un’arma sociale",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/04/damiano_david_il_frontman_che_fa_dellaspetto_fisico_unarma_sociale/",
-      "date"     : "2021-12-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cancel culture, questo articolo verrà rimoss-",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/04/cancel_culture_questo_articolo_verr_rimoss/",
-      "date"     : "2021-12-04 00:00:00 +0100"
     } ,
   
     {
