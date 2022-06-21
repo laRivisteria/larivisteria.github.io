@@ -1,10 +1,202 @@
 [
   
     {
+      "title"    : "Vigdis Hjorth. Eredità",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/06/21/vigdis_hjorth_eredit/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una luce intorno al tunnel￼",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/06/21/una_luce_intorno_al_tunnel/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sergej Gandlevskij. Il russo che accettò di incontrare l’ucraino ⥀ La Punta della Lingua 2022",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/06/21/sergej_gandlevskij_il_russo_che_accett_di_incontrare_lucraino_la_punta_della_lingua_2022/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Respirare",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2022/06/21/respirare/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ovejero, la figlia ribelle contro il capitalismo disumano",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/06/21/ovejero_la_figlia_ribelle_contro_il_capitalismo_disumano/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non solo per amore. In memoria di Francesca Morvillo",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/06/21/non_solo_per_amore_in_memoria_di_francesca_morvillo/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Non esiste niente che non abbia importanza”. Per Marina Cvetaeva, che perse tutto",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/06/21/non_esiste_niente_che_non_abbia_importanza_per_marina_cvetaeva_che_perse_tutto/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo stravagante universo visionario di un&#39;artista surrealista: &quot;Il latte dei sogni&quot; di Leonora Carrington",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/06/21/lo_stravagante_universo_visionario_di_unartista_surrealista_il_latte_dei_sogni_di_leonora_carrington/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’intimità degli spazi violati",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2022/06/21/lintimit_degli_spazi_violati/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lettera aperta, lettera morta",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2022/06/21/lettera_aperta_lettera_morta/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La rivoluzione in tempi non rivoluzionari",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/06/21/la_rivoluzione_in_tempi_non_rivoluzionari/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La notte della scuola",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/21/la_notte_della_scuola/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Irène Némirowsky, Tempesta in giugno",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/21/irne_nmirowsky_tempesta_in_giugno/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il porco macellaio",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/06/21/il_porco_macellaio/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il demone dell’analogia #51: Blu",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2022/06/21/il_demone_dellanalogia_51_blu/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gestacci rinascimentali",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/21/gestacci_rinascimentali/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Falcone e Borsellino. Storia di amicizia e coraggio",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/06/21/falcone_e_borsellino_storia_di_amicizia_e_coraggio/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dirigenti scolastici che disprezzano insegnanti: se la scuola dà fastidio a chi comanda",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/06/21/dirigenti_scolastici_che_disprezzano_insegnanti_se_la_scuola_d_fastidio_a_chi_comanda/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da Costabile a Pane, riprende il dialogo col passato con Puesii allu fhriscu i nà Saitta",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/06/21/da_costabile_a_pane_riprende_il_dialogo_col_passato_con_puesii_allu_fhriscu_i_n_saitta/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cultura di destra e società di massa Europa 1870-1939: un estratto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/06/21/cultura_di_destra_e_societ_di_massa_europa_1870-1939_un_estratto/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "C’mon C’mon | INT_01_001.WAV",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/06/21/cmon_cmon_int01001wav/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Che ve lo dico a fare: questo è un Paese che assassina i suoi grandi. Intorno a Mario Praz e Sergio Solmi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/06/21/che_ve_lo_dico_a_fare_questo_un_paese_che_assassina_i_suoi_grandi_intorno_a_mario_praz_e_sergio_solmi/",
+      "date"     : "2022-06-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "VIVA #27",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2022/06/20/viva_27/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vincenzo Consolo. Mare, dove mi porti?",
       "category" : "doppiozero",
       "tags"     : "doppiozero",
       "url"      : "/2022/06/20/vincenzo_consolo_mare_dove_mi_porti/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un’estate weird tutta da gustare!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/20/unestate_weird_tutta_da_gustare/",
       "date"     : "2022-06-20 00:00:00 +0200"
     } ,
   
@@ -25,10 +217,34 @@
     } ,
   
     {
+      "title"    : "Tempesta in giugno. La versione inedita di Suite française di Irène Némirovsky",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/06/20/tempesta_in_giugno_la_versione_inedita_di_suite_franaise_di_irne_nmirovsky/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Sympathie",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
       "url"      : "/2022/06/20/sympathie/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Se mi svegliassi con le ali chissà se avrei paura di essere libera",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/20/se_mi_svegliassi_con_le_ali_chiss_se_avrei_paura_di_essere_libera/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rodari: il palazzo di gelato",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/20/rodari_il_palazzo_di_gelato/",
       "date"     : "2022-06-20 00:00:00 +0200"
     } ,
   
@@ -41,6 +257,22 @@
     } ,
   
     {
+      "title"    : "Pratiche fluide e spazi non lineari",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/06/20/pratiche_fluide_e_spazi_non_lineari/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Podcast sulla letteratura: i nostri consigli di ascolto",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/06/20/podcast_sulla_letteratura_i_nostri_consigli_di_ascolto/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Pier Paolo Pasolini, perdona loro…",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -49,10 +281,26 @@
     } ,
   
     {
+      "title"    : "Pieno di grazia: Nick a Cave a Taranto per il Medimex",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/06/20/pieno_di_grazia_nick_a_cave_a_taranto_per_il_medimex/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Oggetti e iperoggetti firmati Jennifer Egan",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2022/06/20/oggetti_e_iperoggetti_firmati_jennifer_egan/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nick Cave porta in concerto la maledizione che affligge il rapporto tra padri e figli",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/20/nick_cave_porta_in_concerto_la_maledizione_che_affligge_il_rapporto_tra_padri_e_figli/",
       "date"     : "2022-06-20 00:00:00 +0200"
     } ,
   
@@ -81,6 +329,14 @@
     } ,
   
     {
+      "title"    : "Marco Vichi anteprima. Non tutto è perduto. Un’avventura del commissario Bordelli",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/06/20/marco_vichi_anteprima_non_tutto_perduto_unavventura_del_commissario_bordelli/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’indagine sulla coscienza tra neuroscienze, mitologia e frigoriferi",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
@@ -89,10 +345,18 @@
     } ,
   
     {
-      "title"    : "Le prove di lettura di Umberto Fiori",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/20/le_prove_di_lettura_di_umberto_fiori/",
+      "title"    : "Liberato II: continua la rivoluzione napoletana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/20/liberato_ii_continua_la_rivoluzione_napoletana/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "‘La memoria degli ultimi è la prima’: Termini per una resa, di Massimo Del Prete",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2022/06/20/la_memoria_degli_ultimi_la_prima_termini_per_una_resa_di_massimo_del_prete/",
       "date"     : "2022-06-20 00:00:00 +0200"
     } ,
   
@@ -113,6 +377,14 @@
     } ,
   
     {
+      "title"    : "Incroci | Lettere",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/06/20/incroci_lettere/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il morbo della letteratura",
       "category" : "singola",
       "tags"     : "singola",
@@ -121,10 +393,34 @@
     } ,
   
     {
+      "title"    : "Identità di gener(azion)e",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/06/20/identit_di_generazione/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“I poeti sono persone terrificanti”. Vita estrema di George Barker",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/06/20/i_poeti_sono_persone_terrificanti_vita_estrema_di_george_barker/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giugno, i miei sogni esclusivi",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2022/06/20/giugno_i_miei_sogni_esclusivi/",
+      "date"     : "2022-06-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«Fui eo, madre, in civitate» | Il primo verso della tradizione letteraria italiana",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/06/20/fui_eo_madre_in_civitate_il_primo_verso_della_tradizione_letteraria_italiana/",
       "date"     : "2022-06-20 00:00:00 +0200"
     } ,
   
@@ -145,18 +441,18 @@
     } ,
   
     {
-      "title"    : "Bellocchio e il fallimento della parola",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/06/20/bellocchio_e_il_fallimento_della_parola/",
+      "title"    : "Crescere negli anni Trenta, tra le mura di un collegio: perché recuperare &quot;Nessuno torna indietro&quot;, il bestseller di Alba de Céspedes",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/06/20/crescere_negli_anni_trenta_tra_le_mura_di_un_collegio_perch_recuperare_nessuno_torna_indietro_il_bestseller_di_alba_de_cspedes/",
       "date"     : "2022-06-20 00:00:00 +0200"
     } ,
   
     {
-      "title"    : "Asterischi e schwa",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/20/asterischi_e_schwa/",
+      "title"    : "Bellocchio e il fallimento della parola",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/06/20/bellocchio_e_il_fallimento_della_parola/",
       "date"     : "2022-06-20 00:00:00 +0200"
     } ,
   
@@ -181,14 +477,6 @@
       "category" : "grado-zero",
       "tags"     : "grado-zero",
       "url"      : "/2022/06/19/racconto_la_roba_matteo_candeliere/",
-      "date"     : "2022-06-19 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Pavese e De Martino. Lettere sulla Collana viola",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/19/pavese_e_de_martino_lettere_sulla_collana_viola/",
       "date"     : "2022-06-19 00:00:00 +0200"
     } ,
   
@@ -39433,22 +39721,6 @@
     } ,
   
     {
-      "title"    : "Una Francia altrove da Parigi",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/12/22/una_francia_altrove_da_parigi/",
-      "date"     : "2021-12-22 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Un instant dans la vie de Léonard De Vinci",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2021/12/22/un_instant_dans_la_vie_de_lonard_de_vinci/",
-      "date"     : "2021-12-22 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Teppa alla genovese: “Sulla cattiva strada” di Sara Benedetti",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -39477,22 +39749,6 @@
       "category" : "l-eco-del-nulla",
       "tags"     : "l-eco-del-nulla",
       "url"      : "/2021/12/22/stata_la_mano_di_dio_di_paolo_sorrentino_in_sala/",
-      "date"     : "2021-12-22 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Sposa i mostri | Amanda Spinelli",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2021/12/22/sposa_i_mostri_amanda_spinelli/",
-      "date"     : "2021-12-22 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Quaerere consiglia – Christmas edition",
-      "category" : "quaerere",
-      "tags"     : "quaerere",
-      "url"      : "/2021/12/22/quaerere_consiglia_christmas_edition/",
       "date"     : "2021-12-22 00:00:00 +0100"
     } ,
   
@@ -39601,14 +39857,6 @@
     } ,
   
     {
-      "title"    : "Impareggiabile, ridicolo eroismo",
-      "category" : "singola",
-      "tags"     : "singola",
-      "url"      : "/2021/12/22/impareggiabile_ridicolo_eroismo/",
-      "date"     : "2021-12-22 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Il racconto del mercoledì: L’algoritmo di Carlo Maria Vadim",
       "category" : "blam",
       "tags"     : "blam",
@@ -39621,14 +39869,6 @@
       "category" : "glicine",
       "tags"     : "glicine",
       "url"      : "/2021/12/22/il_principe_e_la_rosa_in_libreria_le_lettere_tra_de_saint-exupry_e_sua_moglie/",
-      "date"     : "2021-12-22 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Il bambino disarmato in un sussulto”. Baby Rimbaud",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/12/22/il_bambino_disarmato_in_un_sussulto_baby_rimbaud/",
       "date"     : "2021-12-22 00:00:00 +0100"
     } ,
   
@@ -39661,14 +39901,6 @@
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2021/12/22/cosa_leggere_durante_le_feste_secondo_noi/",
-      "date"     : "2021-12-22 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "CLOSE ENCOUNTERS HERETICA Francesco Cane Barca. Strani soli",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2021/12/22/close_encounters_heretica_francesco_cane_barca_strani_soli/",
       "date"     : "2021-12-22 00:00:00 +0100"
     } ,
   
@@ -39726,238 +39958,6 @@
       "tags"     : "biró",
       "url"      : "/2021/12/22/15_ore_e_11_minuti_stiamo_abbastanza_bene_una_storivista_a_francesco_spiedo/",
       "date"     : "2021-12-22 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Un morto, mille voci e la Guadalupa. Maryse Condé fuoriclasse",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2021/12/21/un_morto_mille_voci_e_la_guadalupa_maryse_cond_fuoriclasse/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Tra il ricordo e il tempo a venire: “Voyager” di Nona Fernández",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/12/21/tra_il_ricordo_e_il_tempo_a_venire_voyager_di_nona_fernndez/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Sommersi | Intervista Neutopia",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2021/12/21/sommersi_intervista_neutopia/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Ricordando “I ragazzi della Fiumarella” a 60 anni dalla strage ferroviaria",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2021/12/21/ricordando_i_ragazzi_della_fiumarella_a_60_anni_dalla_strage_ferroviaria/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Rassegnatevi / 2",
-      "category" : "not",
-      "tags"     : "not",
-      "url"      : "/2021/12/21/rassegnatevi_2/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Racconti di Natale VII – Ritorna l’antologia horror natalizia di Teomedia",
-      "category" : "biblon",
-      "tags"     : "biblon",
-      "url"      : "/2021/12/21/racconti_di_natale_vii_ritorna_lantologia_horror_natalizia_di_teomedia/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "QAnon e dintorni: La Q di qomplotto",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2021/12/21/qanon_e_dintorni_la_q_di_qomplotto/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Pitture infamanti di Giuseppe Nava (Capitolo II) ⥀ Passaggi",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2021/12/21/pitture_infamanti_di_giuseppe_nava_capitolo_ii_passaggi/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Mulholland Drive e il cinema Odeon",
-      "category" : "in-fuga-dalla-bocciofila",
-      "tags"     : "in-fuga-dalla-bocciofila",
-      "url"      : "/2021/12/21/mulholland_drive_e_il_cinema_odeon/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Matteo Meschiari",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2021/12/21/matteo_meschiari/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La signora Lindi piangeva",
-      "category" : "salmace",
-      "tags"     : "salmace",
-      "url"      : "/2021/12/21/la_signora_lindi_piangeva/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La sfida di Michael Mann",
-      "category" : "duemilauno",
-      "tags"     : "duemilauno",
-      "url"      : "/2021/12/21/la_sfida_di_michael_mann/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La sesta nota",
-      "category" : "squadernauti",
-      "tags"     : "squadernauti",
-      "url"      : "/2021/12/21/la_sesta_nota/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“La scoperta dell’assoluto e altre storie del mistero” di May Sinclair",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2021/12/21/la_scoperta_dellassoluto_e_altre_storie_del_mistero_di_may_sinclair/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La Roma degli anni Settanta: dal Filmstudio al Folkstudio",
-      "category" : "tre-sequenze",
-      "tags"     : "tre-sequenze",
-      "url"      : "/2021/12/21/la_roma_degli_anni_settanta_dal_filmstudio_al_folkstudio/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La ragazza del primo banco",
-      "category" : "pastrengo",
-      "tags"     : "pastrengo",
-      "url"      : "/2021/12/21/la_ragazza_del_primo_banco/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La poesia del natale: cinque consigli",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2021/12/21/la_poesia_del_natale_cinque_consigli/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Indagine su un incendiario al di sopra di ogni sospetto",
-      "category" : "marvin",
-      "tags"     : "marvin",
-      "url"      : "/2021/12/21/indagine_su_un_incendiario_al_di_sopra_di_ogni_sospetto/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il racconto di una vita che ha ceduto la strada agli alberi",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2021/12/21/il_racconto_di_una_vita_che_ha_ceduto_la_strada_agli_alberi/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il piccolo principe e l’incendiario presentano: Festa dell’albero – il racconto del vincitore",
-      "category" : "l-incendiario",
-      "tags"     : "l-incendiario",
-      "url"      : "/2021/12/21/il_piccolo_principe_e_lincendiario_presentano_festa_dellalbero_il_racconto_del_vincitore/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il piccolo principe e L’Incendiario presentano: Festa dell’albero – I racconti dei secondi classificati",
-      "category" : "l-incendiario",
-      "tags"     : "l-incendiario",
-      "url"      : "/2021/12/21/il_piccolo_principe_e_lincendiario_presentano_festa_dellalbero_i_racconti_dei_secondi_classificati/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il Natale con “La casa di carta”",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/21/il_natale_con_la_casa_di_carta/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Ho un sogno che si chiama Russia",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/21/ho_un_sogno_che_si_chiama_russia/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Friendship",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2021/12/21/friendship/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Forse la bellezza",
-      "category" : "micorrize",
-      "tags"     : "micorrize",
-      "url"      : "/2021/12/21/forse_la_bellezza/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Foglie altrove. Intervista a Michele Paoletti",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2021/12/21/foglie_altrove_intervista_a_michele_paoletti/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dolcezze natalizie e stravaganze che non puoi non sapere",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/21/dolcezze_natalizie_e_stravaganze_che_non_puoi_non_sapere/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dieci libri per Natale",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2021/12/21/dieci_libri_per_natale/",
-      "date"     : "2021-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Colombo, l’America e noi",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2021/12/21/colombo_lamerica_e_noi/",
-      "date"     : "2021-12-21 00:00:00 +0100"
     } ,
   
     {
