@@ -1,10 +1,106 @@
 [
   
     {
+      "title"    : "Vasyl’ Stus e Marina Cvetaeva",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/06/25/vasyl_stus_e_marina_cvetaeva/",
+      "date"     : "2022-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“È tempo di cambiare le parole, di spegnere la lanterna”. Marina Cvetaeva contro il regime sovietico",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/06/25/tempo_di_cambiare_le_parole_di_spegnere_la_lanterna_marina_cvetaeva_contro_il_regime_sovietico/",
+      "date"     : "2022-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ribut: dialoghi, visioni e paradossi poetici",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2022/06/25/ribut_dialoghi_visioni_e_paradossi_poetici/",
+      "date"     : "2022-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Nessuno si salva dalla verginità”. Gadda vs. Foscolo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/06/25/nessuno_si_salva_dalla_verginit_gadda_vs_foscolo/",
+      "date"     : "2022-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Kundera: un altro testamento tradito",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/25/kundera_un_altro_testamento_tradito/",
+      "date"     : "2022-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Donatello. Il Rinascimento a Firenze",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/25/donatello_il_rinascimento_a_firenze/",
+      "date"     : "2022-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diario Russo. Uno come Putin",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/25/diario_russo_uno_come_putin/",
+      "date"     : "2022-06-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una parola per dirla",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/06/24/una_parola_per_dirla/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un istante di Napoli illuminato da una dolorosa immediatezza",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/06/24/un_istante_di_napoli_illuminato_da_una_dolorosa_immediatezza/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un giro sotto i Faraglioni di Capri e le sue leggende",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/24/un_giro_sotto_i_faraglioni_di_capri_e_le_sue_leggende/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "StreetBook Magazine #24 || 30.06.22 || Launch Party",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/06/24/streetbook_magazine_24_300622_launch_party/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sperimentare con le inquadrature | In Translation",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/06/24/sperimentare_con_le_inquadrature_in_translation/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Se l’ansia ha tanti nomi, dentro c’è anche il tuo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/24/se_lansia_ha_tanti_nomi_dentro_c_anche_il_tuo/",
       "date"     : "2022-06-24 00:00:00 +0200"
     } ,
   
@@ -25,10 +121,34 @@
     } ,
   
     {
-      "title"    : "Parole e immagini (10) / Qui Odessa. La parola fine",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/24/parole_e_immagini_10_qui_odessa_la_parola_fine/",
+      "title"    : "Pleasure: tutto quello che (non) sapevate sul porno￼",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/06/24/pleasure_tutto_quello_che_non_sapevate_sul_porno/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paulo Leminski | Distratti vinceremo",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/06/24/paulo_leminski_distratti_vinceremo/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ombre alla finestra: Hitchcock, Calasso e Giovanni dalle Bande Nere",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/06/24/ombre_alla_finestra_hitchcock_calasso_e_giovanni_dalle_bande_nere/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Natura, uomini e allucinazioni: “Chiromantica medica” di Alessio Mosca",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/06/24/natura_uomini_e_allucinazioni_chiromantica_medica_di_alessio_mosca/",
       "date"     : "2022-06-24 00:00:00 +0200"
     } ,
   
@@ -41,10 +161,34 @@
     } ,
   
     {
-      "title"    : "La malattia della civiltà (6) / Guerre contro il futuro: Franco Fornari",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/24/la_malattia_della_civilt_6_guerre_contro_il_futuro_franco_fornari/",
+      "title"    : "Lucida tela di Valerio Cuccaroni. Postfazione di Lello Voce ⥀ La Punta della Lingua 2022",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/06/24/lucida_tela_di_valerio_cuccaroni_postfazione_di_lello_voce_la_punta_della_lingua_2022/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La storia del Premio Strega attraverso le sue vittorie più memorabili",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/06/24/la_storia_del_premio_strega_attraverso_le_sue_vittorie_pi_memorabili/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«La raggia»: la novella oscura di Mattia Grigolo",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/06/24/la_raggia_la_novella_oscura_di_mattia_grigolo/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La maleducazione: Diego Maradona ed Eva",
+      "category" : "layout",
+      "tags"     : "layout",
+      "url"      : "/2022/06/24/la_maleducazione_diego_maradona_ed_eva/",
       "date"     : "2022-06-24 00:00:00 +0200"
     } ,
   
@@ -73,6 +217,46 @@
     } ,
   
     {
+      "title"    : "Il nostro sig. Wrenn tra mediocrità e ironia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/06/24/il_nostro_sig_wrenn_tra_mediocrit_e_ironia/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il lato oscuro dell’origami",
+      "category" : "piegàmi",
+      "tags"     : "piegàmi",
+      "url"      : "/2022/06/24/il_lato_oscuro_dellorigami/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il giardino di marmo” di Alex Taylor, un viaggio nelle pieghe più oscure d’America",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/06/24/il_giardino_di_marmo_di_alex_taylor_un_viaggio_nelle_pieghe_pi_oscure_damerica/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il digital detox è una trappola",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2022/06/24/il_digital_detox_una_trappola/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il contrario di abitare",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/06/24/il_contrario_di_abitare/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Ho spezzato il mio corpo come se fosse pane e l’ho distribuito agli uomini”. Intorno a Etty Hillesum",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -81,10 +265,34 @@
     } ,
   
     {
+      "title"    : "Gli antichi romani andavano in vacanza?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/24/gli_antichi_romani_andavano_in_vacanza/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gianmarco Parodi nel bosco delle storie: “Io in cima agli alberi”",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/06/24/gianmarco_parodi_nel_bosco_delle_storie_io_in_cima_agli_alberi/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Bob Wilson-Lucinda Childs. Relative calm, spettacolo d’archivio",
       "category" : "doppiozero",
       "tags"     : "doppiozero",
       "url"      : "/2022/06/24/bob_wilson-lucinda_childs_relative_calm_spettacolo_darchivio/",
+      "date"     : "2022-06-24 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "5 scene divertenti nelle serie TV sull’estate",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/24/5_scene_divertenti_nelle_serie_tv_sullestate/",
       "date"     : "2022-06-24 00:00:00 +0200"
     } ,
   
@@ -101,14 +309,6 @@
       "category" : "marvin",
       "tags"     : "marvin",
       "url"      : "/2022/06/23/se_smettessimo_di_competere/",
-      "date"     : "2022-06-23 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Raccontare i briganti",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/23/raccontare_i_briganti/",
       "date"     : "2022-06-23 00:00:00 +0200"
     } ,
   
@@ -39758,206 +39958,6 @@
       "tags"     : "la-testata-magazine",
       "url"      : "/2021/12/26/bella_ciao_linno_della_libert/",
       "date"     : "2021-12-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Sindrome da sacco vuoto",
-      "category" : "smezziamo",
-      "tags"     : "smezziamo",
-      "url"      : "/2021/12/25/sindrome_da_sacco_vuoto/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Non credo proprio per nulla ai nostri Natali”: David Maria Turoldo",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/12/25/non_credo_proprio_per_nulla_ai_nostri_natali_david_maria_turoldo/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Mattine d’artista: cosa fai quando suona la sveglia?",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/25/mattine_dartista_cosa_fai_quando_suona_la_sveglia/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #4: LA GOGNA DI NATALE (FRAU)",
-      "category" : "verde",
-      "tags"     : "verde",
-      "url"      : "/2021/12/25/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_4_la_gogna_di_natale_frau/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il triangolo",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2021/12/25/il_triangolo/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il racconto della domenica: Altra categoria di Gianni Somigli",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2021/12/25/il_racconto_della_domenica_altra_categoria_di_gianni_somigli/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "I viaggi di Ulisse – 1",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/12/25/i_viaggi_di_ulisse_1/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Fantastico! #121",
-      "category" : "fantastico!",
-      "tags"     : "fantastico!",
-      "url"      : "/2021/12/25/fantastico_121/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "David LaChapelle: Il fotografo pop in una mostra site-specific al Maschio Angioino a Napoli",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/25/david_lachapelle_il_fotografo_pop_in_una_mostra_site-specific_al_maschio_angioino_a_napoli/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cose che puoi fare per sentirti giovane (pt. 2)",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2021/12/25/cose_che_puoi_fare_per_sentirti_giovane_pt_2/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Assaggiare con i piedi non è mai stato così naturale",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/25/assaggiare_con_i_piedi_non_mai_stato_cos_naturale/",
-      "date"     : "2021-12-25 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Origini di un mito: dalla “fiera crudele e diversa” alla geografia locale di Cassola",
-      "category" : "eccetera",
-      "tags"     : "eccetera",
-      "url"      : "/2021/12/24/origini_di_un_mito_dalla_fiera_crudele_e_diversa_alla_geografia_locale_di_cassola/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Natale, un racconto di G. Del Giudice || Street Stories",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2021/12/24/natale_un_racconto_di_g_del_giudice_street_stories/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Merry Burp! Le festività sono sinonimo di relax",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/24/merry_burp_le_festivit_sono_sinonimo_di_relax/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Lo straniero",
-      "category" : "narrandom",
-      "tags"     : "narrandom",
-      "url"      : "/2021/12/24/lo_straniero/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "LE “CLASSIFICHE DI QUALITÀ DI VERDE” AKA IL LISTONE DI NATALE 2021 #3: I CANI (PAOLO GAMERRO)",
-      "category" : "verde",
-      "tags"     : "verde",
-      "url"      : "/2021/12/24/le_classifiche_di_qualit_di_verde_aka_il_listone_di_natale_2021_3_i_cani_paolo_gamerro/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La spiritualità cosmopolita di Marc Chagall tra sogno e colore",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/24/la_spiritualit_cosmopolita_di_marc_chagall_tra_sogno_e_colore/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Giulia Niccolai",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/12/24/giulia_niccolai/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Frammenti di un paesaggio sotterraneo, nella valle fra le tre province",
-      "category" : "eccetera",
-      "tags"     : "eccetera",
-      "url"      : "/2021/12/24/frammenti_di_un_paesaggio_sotterraneo_nella_valle_fra_le_tre_province/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Fauda: benvenuti nel caos del Medio Oriente",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2021/12/24/fauda_benvenuti_nel_caos_del_medio_oriente/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Editoriale di Natale",
-      "category" : "biró",
-      "tags"     : "biró",
-      "url"      : "/2021/12/24/editoriale_di_natale/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Come è cambiato il Natale nel tempo?",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/24/come_cambiato_il_natale_nel_tempo/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Carlomagno a Natale riceve l’incoronazione, tu cosa vorresti?",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/24/carlomagno_a_natale_riceve_lincoronazione_tu_cosa_vorresti/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "A4 speciale Natale 2021: “La breve guerra del caporale di Santo”, di Enrico Piscitelli",
-      "category" : "a4",
-      "tags"     : "a4",
-      "url"      : "/2021/12/24/a4_speciale_natale_2021_la_breve_guerra_del_caporale_di_santo_di_enrico_piscitelli/",
-      "date"     : "2021-12-24 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "36 scrittori per il Natale di Rivista Blam",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2021/12/24/36_scrittori_per_il_natale_di_rivista_blam/",
-      "date"     : "2021-12-24 00:00:00 +0100"
     } ,
   
     {
