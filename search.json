@@ -1,6 +1,126 @@
 [
   
     {
+      "title"    : "Willy e luglio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/06/27/willy_e_luglio/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Supereroi come te",
+      "category" : "dude-mag",
+      "tags"     : "dude-mag",
+      "url"      : "/2022/06/27/supereroi_come_te/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Retro sua lumina (una scena lacustre)",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/06/27/retro_sua_lumina_una_scena_lacustre/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pollak secondo von Trotha, cultura baluardo contro il male",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/06/27/pollak_secondo_von_trotha_cultura_baluardo_contro_il_male/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Medichesse: La vocazione femminile alla cura",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/06/27/medichesse_la_vocazione_femminile_alla_cura/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marco Bellocchio, Esterno notte",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/27/marco_bellocchio_esterno_notte/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La vita degli scrittori russi è magnifica!",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/06/27/la_vita_degli_scrittori_russi_magnifica/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lì dentro. Gli italiani nei social",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/27/l_dentro_gli_italiani_nei_social/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ho la testa piena di assurdità, mia moglie cerca molluschi”. Le lettere di Dylan Thomas",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/06/27/ho_la_testa_piena_di_assurdit_mia_moglie_cerca_molluschi_le_lettere_di_dylan_thomas/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guerra di infanzia e di Spagna e la riscoperta dell&#39;universo infantile e immaginifico di Fabrizia Ramondino",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/06/27/guerra_di_infanzia_e_di_spagna_e_la_riscoperta_delluniverso_infantile_e_immaginifico_di_fabrizia_ramondino/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cloe Bianco: la tragedia dei diritti negati",
+      "category" : "doppiozero",
+      "tags"     : "doppiozero",
+      "url"      : "/2022/06/27/cloe_bianco_la_tragedia_dei_diritti_negati/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "AA.VV. Ignoto militi. Le donne raccontano il Figlio D’Italia",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/06/27/aavv_ignoto_militi_le_donne_raccontano_il_figlio_ditalia/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A Roma. Da Pasolini a Rosselli",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/06/27/a_roma_da_pasolini_a_rosselli/",
+      "date"     : "2022-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ziggy Stardust compie cinquant’anni!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/26/ziggy_stardust_compie_cinquantanni/",
+      "date"     : "2022-06-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Zainab conquista New York di Ayesha Harruna Attah: vita di una ragazza ghanese sbarcata a NYC. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/06/26/zainab_conquista_new_york_di_ayesha_harruna_attah_vita_di_una_ragazza_ghanese_sbarcata_a_nyc_recensione/",
+      "date"     : "2022-06-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Una blogger a cena con i librai: tante anticipazioni nella serata a porte chiuse organizzata da Il Mulino",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -49,18 +169,18 @@
     } ,
   
     {
-      "title"    : "Giamaica e malinconie",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/06/26/giamaica_e_malinconie/",
+      "title"    : "Il primo Kieślowski. Una metafisica della Polonia Popolare",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/06/26/il_primo_kielowski_una_metafisica_della_polonia_popolare/",
       "date"     : "2022-06-26 00:00:00 +0200"
     } ,
   
     {
-      "title"    : "Di ciliegi e ciliege il privilegio",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/26/di_ciliegi_e_ciliege_il_privilegio/",
+      "title"    : "Giamaica e malinconie",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/06/26/giamaica_e_malinconie/",
       "date"     : "2022-06-26 00:00:00 +0200"
     } ,
   
@@ -73,10 +193,10 @@
     } ,
   
     {
-      "title"    : "Barche sul fiume, chiacchiere e sudore",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/26/barche_sul_fiume_chiacchiere_e_sudore/",
+      "title"    : "Angelo Badalamenti – Personaggio della settimana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/06/26/angelo_badalamenti_personaggio_della_settimana/",
       "date"     : "2022-06-26 00:00:00 +0200"
     } ,
   
@@ -181,14 +301,6 @@
       "category" : "downtobaker",
       "tags"     : "downtobaker",
       "url"      : "/2022/06/25/dio_lo_vuole_e_altre_eresie_per_sostenere_il_patriarcato/",
-      "date"     : "2022-06-25 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Diario Russo. Uno come Putin",
-      "category" : "doppiozero",
-      "tags"     : "doppiozero",
-      "url"      : "/2022/06/25/diario_russo_uno_come_putin/",
       "date"     : "2022-06-25 00:00:00 +0200"
     } ,
   
@@ -39769,14 +39881,6 @@
     } ,
   
     {
-      "title"    : "«Signore, liberami dall’uomo che ha eccellenti intenzioni e cuore impuro»: il Covid spiegato da René Girard",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/12/28/signore_liberami_dalluomo_che_ha_eccellenti_intenzioni_e_cuore_impuro_il_covid_spiegato_da_ren_girard/",
-      "date"     : "2021-12-28 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Quel Saramago è una capolavoro di ironia, poesia e filosofia",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -39797,14 +39901,6 @@
       "category" : "tre-sequenze",
       "tags"     : "tre-sequenze",
       "url"      : "/2021/12/28/mom_cerca_mamma_o_dellarte_di_riavvolgere_il_nastro/",
-      "date"     : "2021-12-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’occhio di Joyce",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/12/28/locchio_di_joyce/",
       "date"     : "2021-12-28 00:00:00 +0100"
     } ,
   
@@ -39849,14 +39945,6 @@
     } ,
   
     {
-      "title"    : "Genius loci: Anna Maria Ortese e il Monaciello di Napoli",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2021/12/28/genius_loci_anna_maria_ortese_e_il_monaciello_di_napoli/",
-      "date"     : "2021-12-28 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Frana",
       "category" : "narrandom",
       "tags"     : "narrandom",
@@ -39870,94 +39958,6 @@
       "tags"     : "salmace",
       "url"      : "/2021/12/28/consigli_ne_abbiamo/",
       "date"     : "2021-12-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“È cannibalismo”. Charles Olson, Moby Dick &amp; Ezra Pound",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2021/12/28/cannibalismo_charles_olson_moby_dick_ezra_pound/",
-      "date"     : "2021-12-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Recensioni: “Dietro una porta ho atteso il tuo respiro” di Giuseppe Gervasi",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2021/12/27/recensioni_dietro_una_porta_ho_atteso_il_tuo_respiro_di_giuseppe_gervasi/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Re Granchio | Senzanome",
-      "category" : "in-fuga-dalla-bocciofila",
-      "tags"     : "in-fuga-dalla-bocciofila",
-      "url"      : "/2021/12/27/re_granchio_senzanome/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Non ditelo ai boomer! 6 culture antiche che abbracciavano la gender fluidity",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/27/non_ditelo_ai_boomer_6_culture_antiche_che_abbracciavano_la_gender_fluidity/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Nel giorno di Natale",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2021/12/27/nel_giorno_di_natale/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Miracolo",
-      "category" : "squadernauti",
-      "tags"     : "squadernauti",
-      "url"      : "/2021/12/27/miracolo/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Mastini – Intervista a Renilde Mattioni",
-      "category" : "letture-metropolitane",
-      "tags"     : "letture-metropolitane",
-      "url"      : "/2021/12/27/mastini_intervista_a_renilde_mattioni/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’industria della polvere – una mostra di Carlo Vigni",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2021/12/27/lindustria_della_polvere_una_mostra_di_carlo_vigni/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Giochiamo? Ma senza orologio!",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/27/giochiamo_ma_senza_orologio/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Evelina è l’Art Sharerdi cui non sapevi di aver bisogno!",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/27/evelina_lart_sharerdi_cui_non_sapevi_di_aver_bisogno/",
-      "date"     : "2021-12-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Come è bello far l’amore nelle piazze da Trieste in giù",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2021/12/27/come_bello_far_lamore_nelle_piazze_da_trieste_in_gi/",
-      "date"     : "2021-12-27 00:00:00 +0100"
     } ,
   
     {
