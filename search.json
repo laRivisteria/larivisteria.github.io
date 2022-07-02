@@ -1,6 +1,86 @@
 [
   
     {
+      "title"    : "Scrivere un racconto",
+      "category" : "",
+      "tags"     : "editoriale and la-rivisteria",
+      "url"      : "/2022/07/02/scrivere-un-racconto/",
+      "date"     : "2022-07-02 10:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un battito di ciglia prima  guardare Firenze con Joyce",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/07/02/un_battito_di_ciglia_prima_guardare_firenze_con_joyce/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Note sul suicidio” di Simon Critchley",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/07/02/recensioni_note_sul_suicidio_di_simon_critchley/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nuovi autismi #23 – I miei buchi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/07/02/nuovi_autismi_23_i_miei_buchi/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "McEwan, una via di fuga dai nostri egoismi quotidiani",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/07/02/mcewan_una_via_di_fuga_dai_nostri_egoismi_quotidiani/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Manuale per sportellisti Asl",
+      "category" : "donne-difettose",
+      "tags"     : "donne-difettose",
+      "url"      : "/2022/07/02/manuale_per_sportellisti_asl/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Io sono un millepiedi ⥀ Schizoprosa di Luke Ballordo",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/07/02/io_sono_un_millepiedi_schizoprosa_di_luke_ballordo/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Educazione, arte e vita tra i viali del giardino: l&#39;Atlante di botanica elementare di Jean-Jacques Rousseau",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/07/02/educazione_arte_e_vita_tra_i_viali_del_giardino_latlante_di_botanica_elementare_di_jean-jacques_rousseau/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dio opera nell’esagerazione. Discorso intorno all’opera di Luca Doninelli",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/07/02/dio_opera_nellesagerazione_discorso_intorno_allopera_di_luca_doninelli/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Bello senz’anima. Daniel Defoe e la storia di Peter the Wild Boy",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/07/02/bello_senzanima_daniel_defoe_e_la_storia_di_peter_the_wild_boy/",
+      "date"     : "2022-07-02 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Una ballata di &quot;vecchi&quot; marinai: &quot;Mare mosso&quot; di Francesco Musolino",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -17,10 +97,34 @@
     } ,
   
     {
+      "title"    : "Ti presento Serge e Yasmina Reza!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/07/01/ti_presento_serge_e_yasmina_reza/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Sì, un coltello è essenziale”. Un saggio di Marianne Moore",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/07/01/s_un_coltello_essenziale_un_saggio_di_marianne_moore/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritorna “Coral…mente”, dove la musica va oltre la malattia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/07/01/ritorna_coralmente_dove_la_musica_va_oltre_la_malattia/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Perché veste di nero",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/07/01/perch_veste_di_nero/",
       "date"     : "2022-07-01 00:00:00 +0200"
     } ,
   
@@ -37,6 +141,22 @@
       "category" : "exlibris20",
       "tags"     : "exlibris20",
       "url"      : "/2022/07/01/lorenzo_viani_tra_scrittura_e_pittura/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lilo e Stitch: 20 anni di OHANA",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/07/01/lilo_e_stitch_20_anni_di_ohana/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#LibrisottoLOmbrellone - I consigli di lettura di luglio 2022",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/07/01/librisottolombrellone_-_i_consigli_di_lettura_di_luglio_2022/",
       "date"     : "2022-07-01 00:00:00 +0200"
     } ,
   
@@ -65,10 +185,74 @@
     } ,
   
     {
+      "title"    : "I pinguini sono “animali orribili” e altre verità sul loro conto",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/07/01/i_pinguini_sono_animali_orribili_e_altre_verit_sul_loro_conto/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Heaven” di Mieko Kawakami. Tra bullismo e resistenza silenziosa",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/07/01/heaven_di_mieko_kawakami_tra_bullismo_e_resistenza_silenziosa/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Guerre di lingua",
       "category" : "singola",
       "tags"     : "singola",
       "url"      : "/2022/07/01/guerre_di_lingua/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giuliano da Empoli. Il mago del Cremlino",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/07/01/giuliano_da_empoli_il_mago_del_cremlino/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#Geografie librarie | Libooks. Parole, cose, incontri",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/07/01/geografie_librarie_libooks_parole_cose_incontri/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Francesca Innocenzi | Canto del vuoto cavo",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/07/01/francesca_innocenzi_canto_del_vuoto_cavo/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dmitri Nabokov: un personaggio in carne e ossa",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2022/07/01/dmitri_nabokov_un_personaggio_in_carne_e_ossa/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diventare grandi è un gran uarlobao",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/07/01/diventare_grandi_un_gran_uarlobao/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Consigli di lettura per l’estate",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/07/01/consigli_di_lettura_per_lestate/",
       "date"     : "2022-07-01 00:00:00 +0200"
     } ,
   
@@ -81,10 +265,26 @@
     } ,
   
     {
+      "title"    : "Ciò che vogliamo ascoltare",
+      "category" : "ilda-i-libri-degli-altri",
+      "tags"     : "ilda-i-libri-degli-altri",
+      "url"      : "/2022/07/01/ci_che_vogliamo_ascoltare/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Buena Vista Social Club: Lagioia dei classici",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/07/01/buena_vista_social_club_lagioia_dei_classici/",
+      "date"     : "2022-07-01 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Balla coi morti. Una storia vera di Nicola Feninno",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/07/01/balla_coi_morti_una_storia_vera_di_nicola_feninno/",
       "date"     : "2022-07-01 00:00:00 +0200"
     } ,
   
@@ -39697,38 +39897,6 @@
     } ,
   
     {
-      "title"    : "Voglio una stella che sia tutta mia",
-      "category" : "narrandom",
-      "tags"     : "narrandom",
-      "url"      : "/2022/01/04/voglio_una_stella_che_sia_tutta_mia/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Un’altra legge è possibile. Su “La legge della fiducia” di Tommaso Greco",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/01/04/unaltra_legge_possibile_su_la_legge_della_fiducia_di_tommaso_greco/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Su Pericoli di un viaggio nel tempo",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2022/01/04/su_pericoli_di_un_viaggio_nel_tempo/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Storia della scuola a scuola: su “Voi siete il fuoco” di Vanessa Roghi",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/01/04/storia_della_scuola_a_scuola_su_voi_siete_il_fuoco_di_vanessa_roghi/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Sabrina Giarratana – La parola muta",
       "category" : "the-bookish-explorer",
       "tags"     : "the-bookish-explorer",
@@ -39745,54 +39913,6 @@
     } ,
   
     {
-      "title"    : "Prima di morire",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/01/04/prima_di_morire/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Pier Paolo Pasolini, la Calabria e il ponte di Ariola",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/01/04/pier_paolo_pasolini_la_calabria_e_il_ponte_di_ariola/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Più che di morire dobbiamo temere di essere morti”. Un sermone sulla morte. Richard Millet",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/01/04/pi_che_di_morire_dobbiamo_temere_di_essere_morti_un_sermone_sulla_morte_richard_millet/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Pane amore e fantasy: il ritorno del genere fantastico",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/01/04/pane_amore_e_fantasy_il_ritorno_del_genere_fantastico/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Padre G. ",
-      "category" : "quaerere",
-      "tags"     : "quaerere",
-      "url"      : "/2022/01/04/padre_g/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Maizo. Intervista a Elena Giorgiana Mirabelli",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/01/04/maizo_intervista_a_elena_giorgiana_mirabelli/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "L’uomo ideale",
       "category" : "salmace",
       "tags"     : "salmace",
@@ -39805,14 +39925,6 @@
       "category" : "limina",
       "tags"     : "limina",
       "url"      : "/2022/01/04/la_grossezza_eterogenea_dei_racconti_paola_masino_dopo_ottantanni/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La casa di carta, Squid Game e gli altri: la serialità senza confini di Netflix",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2022/01/04/la_casa_di_carta_squid_game_e_gli_altri_la_serialit_senza_confini_di_netflix/",
       "date"     : "2022-01-04 00:00:00 +0100"
     } ,
   
@@ -39841,66 +39953,10 @@
     } ,
   
     {
-      "title"    : "Hannah Arendt a teatro. Intervista alla drammaturga Valeria Simone",
-      "category" : "scenari",
-      "tags"     : "scenari",
-      "url"      : "/2022/01/04/hannah_arendt_a_teatro_intervista_alla_drammaturga_valeria_simone/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Golgota",
-      "category" : "micorrize",
-      "tags"     : "micorrize",
-      "url"      : "/2022/01/04/golgota/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Gianni Celati [1937-2022] “Mondonuovo”",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/01/04/gianni_celati_1937-2022_mondonuovo/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "George Sand e l’autobiografia come strumento di costruzione identitaria",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/01/04/george_sand_e_lautobiografia_come_strumento_di_costruzione_identitaria/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Eminenza Illustrissima…”. Rodari, il comunista che volle farsi prete",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/01/04/eminenza_illustrissima_rodari_il_comunista_che_volle_farsi_prete/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Emanuele Franz. Io nego. Pensieri di un filosofo davanti al Covid",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/01/04/emanuele_franz_io_nego_pensieri_di_un_filosofo_davanti_al_covid/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Da senzatetto… a Imperatore degli Stati Uniti d’America",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/01/04/da_senzatetto_a_imperatore_degli_stati_uniti_damerica/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Calpestando bandiere",
-      "category" : "opera-viva",
-      "tags"     : "opera-viva",
-      "url"      : "/2022/01/04/calpestando_bandiere/",
       "date"     : "2022-01-04 00:00:00 +0100"
     } ,
   
@@ -39918,46 +39974,6 @@
       "tags"     : "lucialibri",
       "url"      : "/2022/01/04/arena_mosche_dalle_ali_spezzate_tra_lucania_e_cile/",
       "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Antonia Vetrone | Poesie",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2022/01/04/antonia_vetrone_poesie/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Adesso prendi il viola | Giovanna Cinieri",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2022/01/04/adesso_prendi_il_viola_giovanna_cinieri/",
-      "date"     : "2022-01-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Tra il nulla e l’addio. Cry Macho – Ritorno a casa",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/01/03/tra_il_nulla_e_laddio_cry_macho_ritorno_a_casa/",
-      "date"     : "2022-01-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il ricordo del nostro caro amico Pino Daniele",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/01/03/il_ricordo_del_nostro_caro_amico_pino_daniele/",
-      "date"     : "2022-01-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Fine turno nella fabbrica di pelle sintetica di Andrea Capodimonte ⥀ Passaggi",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2022/01/03/fine_turno_nella_fabbrica_di_pelle_sintetica_di_andrea_capodimonte_passaggi/",
-      "date"     : "2022-01-03 00:00:00 +0100"
     } ,
   
     {
