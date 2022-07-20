@@ -1,10 +1,90 @@
 [
   
     {
+      "title"    : "Noi, i ragazzi del Postoristoro",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/07/20/noi_i_ragazzi_del_postoristoro/",
+      "date"     : "2022-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Kafka a Milano: ascensori, mostri, ossobuco e bordello con prostitute annoiate",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/07/20/kafka_a_milano_ascensori_mostri_ossobuco_e_bordello_con_prostitute_annoiate/",
+      "date"     : "2022-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Istruzioni per fumare Dunhill alla stazione di servizio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/07/20/istruzioni_per_fumare_dunhill_alla_stazione_di_servizio/",
+      "date"     : "2022-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "&quot;Il figlio recidivo&quot;: l&#39;ultimo volume della &quot;Quadrilogia della famiglia&quot; di Fabio Bartolomei",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/07/20/il_figlio_recidivo_lultimo_volume_della_quadrilogia_della_famiglia_di_fabio_bartolomei/",
+      "date"     : "2022-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ci piacciono gli irrispettosi. Sia merito ai vinti”. Dialogo con Elisabetta Fadini",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/07/20/ci_piacciono_gli_irrispettosi_sia_merito_ai_vinti_dialogo_con_elisabetta_fadini/",
+      "date"     : "2022-07-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tarocchi for dummies: XIII – La Morte",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/07/19/tarocchi_for_dummies_xiii_la_morte/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Russell Edson | Il tunnel",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/07/19/russell_edson_il_tunnel/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesie di Francesca Bianco",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/07/19/poesie_di_francesca_bianco/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Millennials e precariato. Sono fame di Natalia Guerrieri",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/07/19/millennials_e_precariato_sono_fame_di_natalia_guerrieri/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Mi faccio carico di tutto ciò che è osceno”. Nel sangue di Nitsch",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/07/19/mi_faccio_carico_di_tutto_ci_che_osceno_nel_sangue_di_nitsch/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Maria Teresa Carbone e l’indagine sullo scrivere e sul fotografare",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/07/19/maria_teresa_carbone_e_lindagine_sullo_scrivere_e_sul_fotografare/",
       "date"     : "2022-07-19 00:00:00 +0200"
     } ,
   
@@ -17,10 +97,58 @@
     } ,
   
     {
+      "title"    : "Luglio, gli albori di Guernica",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2022/07/19/luglio_gli_albori_di_guernica/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lorenzo Fava | Vile ed enorme",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/07/19/lorenzo_fava_vile_ed_enorme/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Limina moralia: Boris Vian",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/07/19/limina_moralia_boris_vian/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le contesse igieniche che si concedevano all’imperatore per assicurargli la dinastia",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/07/19/le_contesse_igieniche_che_si_concedevano_allimperatore_per_assicurargli_la_dinastia/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ambiente di sviluppo",
+      "category" : "specularia",
+      "tags"     : "specularia",
+      "url"      : "/2022/07/19/lambiente_di_sviluppo/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La giustizia selvaggia della Vendetta",
+      "category" : "spaghetti-writers",
+      "tags"     : "spaghetti-writers",
+      "url"      : "/2022/07/19/la_giustizia_selvaggia_della_vendetta/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il silenzio. Intervista a Giovanni Tizian",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/07/19/il_silenzio_intervista_a_giovanni_tizian/",
       "date"     : "2022-07-19 00:00:00 +0200"
     } ,
   
@@ -41,10 +169,74 @@
     } ,
   
     {
+      "title"    : "Greta Thunberg si allontana dai riflettori",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/07/19/greta_thunberg_si_allontana_dai_riflettori/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Estate 2022, 5 mete per sfuggire al caldo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/07/19/estate_2022_5_mete_per_sfuggire_al_caldo/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Emilio Zucchini è tornato! Una nuova avventura per l&#39;oste più famoso di Bologna, in «È l&#39;umido che ammazza», l&#39;ultimo romanzo di Filippo Venturi",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
       "url"      : "/2022/07/19/emilio_zucchini_tornato_una_nuova_avventura_per_loste_pi_famoso_di_bologna_in_lumido_che_ammazza_lultimo_romanzo_di_filippo_venturi/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Comprendere meglio le donne, raccontandole: &quot;Il rosmarino non conosce l&#39;inverno&quot; di Matteo Bussola parla l&#39;abc dell&#39;empatia",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/07/19/comprendere_meglio_le_donne_raccontandole_il_rosmarino_non_conosce_linverno_di_matteo_bussola_parla_labc_dellempatia/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come la luna",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2022/07/19/come_la_luna/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi ha paura delle parole nuove? Pierre Rivière, il Discorso dominante e noi",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/07/19/chi_ha_paura_delle_parole_nuove_pierre_rivire_il_discorso_dominante_e_noi/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Battito d’ali",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2022/07/19/battito_dali/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Annie Ernaux – Guarda le luci, amore mio",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/07/19/annie_ernaux_guarda_le_luci_amore_mio/",
+      "date"     : "2022-07-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "9841 – Il racconto vincitore di Alessia Principe a “Storie di Sport”",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2022/07/19/9841_il_racconto_vincitore_di_alessia_principe_a_storie_di_sport/",
       "date"     : "2022-07-19 00:00:00 +0200"
     } ,
   
@@ -129,7 +321,7 @@
     } ,
   
     {
-      "title"    : "Le foreste imbalsamate – Letteratura e ambiente in Sicilia",
+      "title"    : "Le foreste imbalsamate. Letteratura e ambiente in Sicilia",
       "category" : "limina",
       "tags"     : "limina",
       "url"      : "/2022/07/18/le_foreste_imbalsamate_letteratura_e_ambiente_in_sicilia/",
@@ -2541,14 +2733,6 @@
       "category" : "opera-viva",
       "tags"     : "opera-viva",
       "url"      : "/2022/07/04/questo_che_chiamate_vincere/",
-      "date"     : "2022-07-04 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Quando la madre torna ad essere la protagonista della maternità",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2022/07/04/quando_la_madre_torna_ad_essere_la_protagonista_della_maternit/",
       "date"     : "2022-07-04 00:00:00 +0200"
     } ,
   
@@ -39745,42 +39929,10 @@
     } ,
   
     {
-      "title"    : "Su “Solenoide” di Mircea Cărtărescu",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/01/19/su_solenoide_di_mircea_crtrescu/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Se il dolore diventa piacere: una vita per le versamine",
       "category" : "il-timoniere",
       "tags"     : "il-timoniere",
       "url"      : "/2022/01/19/se_il_dolore_diventa_piacere_una_vita_per_le_versamine/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Prima o poi mi metteranno a tacere”. Thomas Merton a Ernesto Cardenal",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/01/19/prima_o_poi_mi_metteranno_a_tacere_thomas_merton_a_ernesto_cardenal/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Postcards from Italy | Daniel Pérez Segura",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2022/01/19/postcards_from_italy_daniel_prez_segura/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Piero Negri Scaglione – Che hai fatto in tutti questi anni. Sergio Leone e l’avventura di C’era una volta in America",
-      "category" : "altri-animali",
-      "tags"     : "altri-animali",
-      "url"      : "/2022/01/19/piero_negri_scaglione_che_hai_fatto_in_tutti_questi_anni_sergio_leone_e_lavventura_di_cera_una_volta_in_america/",
       "date"     : "2022-01-19 00:00:00 +0100"
     } ,
   
@@ -39793,34 +39945,10 @@
     } ,
   
     {
-      "title"    : "Ode a Cosey Fanni Tutti.",
-      "category" : "droga",
-      "tags"     : "droga",
-      "url"      : "/2022/01/19/ode_a_cosey_fanni_tutti/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Le news letterarie – 19 Gennaio 2022",
       "category" : "the-bookish-explorer",
       "tags"     : "the-bookish-explorer",
       "url"      : "/2022/01/19/le_news_letterarie_19_gennaio_2022/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La verità su tutto",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/01/19/la_verit_su_tutto/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La “Libertà grande” di Julien Gracq",
-      "category" : "il-rifugio-dell-ircocervo",
-      "tags"     : "il-rifugio-dell-ircocervo",
-      "url"      : "/2022/01/19/la_libert_grande_di_julien_gracq/",
       "date"     : "2022-01-19 00:00:00 +0100"
     } ,
   
@@ -39833,74 +39961,10 @@
     } ,
   
     {
-      "title"    : "Il tempo altrove",
-      "category" : "marvin",
-      "tags"     : "marvin",
-      "url"      : "/2022/01/19/il_tempo_altrove/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "I paradossi di una conoscenza salvifica",
-      "category" : "scenari",
-      "tags"     : "scenari",
-      "url"      : "/2022/01/19/i_paradossi_di_una_conoscenza_salvifica/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Halldór Laxness anteprima. Il paradiso ritrovato",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/01/19/halldr_laxness_anteprima_il_paradiso_ritrovato/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Figli del secolo breve. Intervista a Daniele Timpano ed Elvira Frosini su Ottantanove",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/01/19/figli_del_secolo_breve_intervista_a_daniele_timpano_ed_elvira_frosini_su_ottantanove/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Enrico IV di Pirandello compie cent’anni! E ancora non sappiamo il suo vero nome…",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/01/19/enrico_iv_di_pirandello_compie_centanni_e_ancora_non_sappiamo_il_suo_vero_nome/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Due ragazzi e un incubo, Peano esplora l’indicibile",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/01/19/due_ragazzi_e_un_incubo_peano_esplora_lindicibile/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Dirce",
       "category" : "narrandom",
       "tags"     : "narrandom",
       "url"      : "/2022/01/19/dirce/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Confini",
-      "category" : "spazinclusi",
-      "tags"     : "spazinclusi",
-      "url"      : "/2022/01/19/confini/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Catullo. Versi di rabbia e di passione",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/01/19/catullo_versi_di_rabbia_e_di_passione/",
       "date"     : "2022-01-19 00:00:00 +0100"
     } ,
   
@@ -39910,70 +39974,6 @@
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/01/19/case_libri_auto_viaggi_e_via_del_pratello_a_bologna/",
       "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Carica anche il tuo buio sui miei occhi”. Nella notte di Paul Celan",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/01/19/carica_anche_il_tuo_buio_sui_miei_occhi_nella_notte_di_paul_celan/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Anche oggi, la fine del mondo è rimandata",
-      "category" : "singola",
-      "tags"     : "singola",
-      "url"      : "/2022/01/19/anche_oggi_la_fine_del_mondo_rimandata/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Al banchetto del realismo grottesco: l’ultimo romanzo di Mathias Enard",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2022/01/19/al_banchetto_del_realismo_grottesco_lultimo_romanzo_di_mathias_enard/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Add editore riscrive la sua identità con nuovi logo e font",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/01/19/add_editore_riscrive_la_sua_identit_con_nuovi_logo_e_font/",
-      "date"     : "2022-01-19 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Una capanna",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/01/18/una_capanna/",
-      "date"     : "2022-01-18 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il racconto del mercoledì: Al Muro degli Uomini. Breve parabola kafkiana di Lorenzo Calvisi",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/01/18/il_racconto_del_mercoled_al_muro_degli_uomini_breve_parabola_kafkiana_di_lorenzo_calvisi/",
-      "date"     : "2022-01-18 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dove ogni cosa terrena perdeva senso",
-      "category" : "salmace",
-      "tags"     : "salmace",
-      "url"      : "/2022/01/18/dove_ogni_cosa_terrena_perdeva_senso/",
-      "date"     : "2022-01-18 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Come si è evoluto il calcio",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/01/18/come_si_evoluto_il_calcio/",
-      "date"     : "2022-01-18 00:00:00 +0100"
     } ,
   
     {
