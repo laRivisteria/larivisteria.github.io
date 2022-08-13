@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "Spassoso, nichilista e romantico: è Batman-Parente",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/08/13/spassoso_nichilista_e_romantico_batman-parente/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il riscatto del proprio vero nome: &quot;Sarà solo la fine del mondo&quot; di Liv Ferracchiati",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/08/13/il_riscatto_del_proprio_vero_nome_sar_solo_la_fine_del_mondo_di_liv_ferracchiati/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Il profeta Dostoevskij, un sognatore, un martire, tormentato dal dolore”",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/08/13/il_profeta_dostoevskij_un_sognatore_un_martire_tormentato_dal_dolore/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Elogio del calciatore violento: Boban, Cantona, Zidane",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/08/13/elogio_del_calciatore_violento_boban_cantona_zidane/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dentro di noi abita un selvaggio… Sul libro di Marie-Louise von Franz",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/08/13/dentro_di_noi_abita_un_selvaggio_sul_libro_di_marie-louise_von_franz/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Abbandona le illusioni",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/08/13/abbandona_le_illusioni/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Un parto",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
@@ -45,6 +93,14 @@
       "category" : "yanez",
       "tags"     : "yanez",
       "url"      : "/2022/08/12/love/",
+      "date"     : "2022-08-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Left is right",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/12/left_is_right/",
       "date"     : "2022-08-12 00:00:00 +0200"
     } ,
   
@@ -101,6 +157,22 @@
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
       "url"      : "/2022/08/12/alle_guendaline_di_sempre_met_vento_met_nido_roberta_sale_un_filo_nel_vento_e_venti_storie_di_donne/",
+      "date"     : "2022-08-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alessitimia – L’incapacità di dar voce ai propri sentimenti",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/12/alessitimia_lincapacit_di_dar_voce_ai_propri_sentimenti/",
+      "date"     : "2022-08-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A sinistra e a manca",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/12/a_sinistra_e_a_manca/",
       "date"     : "2022-08-12 00:00:00 +0200"
     } ,
   
@@ -39849,14 +39921,6 @@
     } ,
   
     {
-      "title"    : "Tre fratelli e il Sudafrica, le “metamorfosi” di Galgut",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/02/02/tre_fratelli_e_il_sudafrica_le_metamorfosi_di_galgut/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Questioni di un certo genere. Il secondo volume di COSE Spiegate bene",
       "category" : "limina",
       "tags"     : "limina",
@@ -39881,34 +39945,10 @@
     } ,
   
     {
-      "title"    : "Lettura Creativa",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/02/02/lettura_creativa/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Le news letterarie – 2 Febbraio 2022",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2022/02/02/le_news_letterarie_2_febbraio_2022/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "L’amore che devi di Sara Maria Serafini: lotta tra un amore ideale e idealizzato. Recensione",
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2022/02/02/lamore_che_devi_di_sara_maria_serafini_lotta_tra_un_amore_ideale_e_idealizzato_recensione/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "I quadernetti di Rosario Todaro",
-      "category" : "spazinclusi",
-      "tags"     : "spazinclusi",
-      "url"      : "/2022/02/02/i_quadernetti_di_rosario_todaro/",
       "date"     : "2022-02-02 00:00:00 +0100"
     } ,
   
@@ -39921,50 +39961,10 @@
     } ,
   
     {
-      "title"    : "Febbraio, vecchia Minerva, nuovo giornale",
-      "category" : "biró",
-      "tags"     : "biró",
-      "url"      : "/2022/02/02/febbraio_vecchia_minerva_nuovo_giornale/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Emma Bonino sì o no?",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/02/02/emma_bonino_s_o_no/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Da musa esistenzialista a mattatrice della commedia: l’addio a Monica Vitti",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/02/da_musa_esistenzialista_a_mattatrice_della_commedia_laddio_a_monica_vitti/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cinque occasioni in cui il rock ha anticipato la battaglia al gender",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/02/cinque_occasioni_in_cui_il_rock_ha_anticipato_la_battaglia_al_gender/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cane da Petrolio di Rick Bass. Intervista a Silvia Lumaca",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/02/02/cane_da_petrolio_di_rick_bass_intervista_a_silvia_lumaca/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "C4 Explosion: un’esposizione esplosiva a Firenze",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2022/02/02/c4_explosion_unesposizione_esplosiva_a_firenze/",
       "date"     : "2022-02-02 00:00:00 +0100"
     } ,
   
