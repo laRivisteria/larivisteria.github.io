@@ -1,10 +1,354 @@
 [
   
     {
+      "title"    : "Veglia",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2022/08/16/veglia/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un&#39;economia della cura è possibile?",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2022/08/16/uneconomia_della_cura_possibile/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Qualcosa sulla fatwa a Rushdie e i rapporti tra Iran e Usa",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/08/16/qualcosa_sulla_fatwa_a_rushdie_e_i_rapporti_tra_iran_e_usa/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nell’entroterra kenyota",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/08/16/nellentroterra_kenyota/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’impronta",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/08/16/limpronta/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Leida",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/08/16/leida/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ambizione folle di diventare ciò che a una donna veniva ripetuto di non poter essere. La straordinaria storia delle prime donne chirurgo in “Come vento cucito alla terra” di Ilaria Tuti.",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/08/16/lambizione_folle_di_diventare_ci_che_a_una_donna_veniva_ripetuto_di_non_poter_essere_la_straordinaria_storia_delle_prime_donne_chirurgo_in_come_ve/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il demone dell’analogia #55: Metropolitana",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2022/08/16/il_demone_dellanalogia_55_metropolitana/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ho conversato con la morte e pulito i cristalli del cielo con i più tristi veleni”. Su Mario Sironi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/08/16/ho_conversato_con_la_morte_e_pulito_i_cristalli_del_cielo_con_i_pi_tristi_veleni_su_mario_sironi/",
+      "date"     : "2022-08-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tutti in acqua, per uno sport di fantasie e libertà",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/15/tutti_in_acqua_per_uno_sport_di_fantasie_e_libert/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Talassofobia, quando il mare diventa il tuo peggior nemico",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/15/talassofobia_quando_il_mare_diventa_il_tuo_peggior_nemico/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Speciale elezioni! I nostri futuri governanti imparino a scrivere una poesia. Sapremo valutarli come si deve",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/08/15/speciale_elezioni_i_nostri_futuri_governanti_imparino_a_scrivere_una_poesia_sapremo_valutarli_come_si_deve/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Shylock 2018 – Un reportage veneziano",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/08/15/shylock_2018_un_reportage_veneziano/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Il pappagallo silenzioso” di Bruno Gemelli",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/08/15/recensioni_il_pappagallo_silenzioso_di_bruno_gemelli/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Re o ciambellano? L’inno alla vita di Branciaroli",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/08/15/re_o_ciambellano_linno_alla_vita_di_branciaroli/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "QUESTA PIANURA FIN DOVE SI PERDE",
+      "category" : "il-timoniere",
+      "tags"     : "il-timoniere",
+      "url"      : "/2022/08/15/questa_pianura_fin_dove_si_perde/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Podcast di politica: i nostri consigli di ascolto",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/08/15/podcast_di_politica_i_nostri_consigli_di_ascolto/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le ultime ore di vita di &quot;Un uomo solo&quot;. La tragedia di Luigi Tenco nel racconto di Antonio Iovane",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/08/15/le_ultime_ore_di_vita_di_un_uomo_solo_la_tragedia_di_luigi_tenco_nel_racconto_di_antonio_iovane/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le parole degli altri: Mario Benedetti",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/08/15/le_parole_degli_altri_mario_benedetti/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Estate senza darla vinta al fondotinta",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/15/estate_senza_darla_vinta_al_fondotinta/",
+      "date"     : "2022-08-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tyler, il fervente",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/tyler_il_fervente/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Troppe carte a terra",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/08/14/troppe_carte_a_terra/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Nuda” di Doris Bellomusto",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/08/14/recensioni_nuda_di_doris_bellomusto/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rayneri, andare oltre la nuda fragilità della disperazione",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/08/14/rayneri_andare_oltre_la_nuda_fragilit_della_disperazione/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Posseduti da uno spirito giocoso",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/posseduti_da_uno_spirito_giocoso/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#PilloledAutore - Il romanzo cavalleresco inglese e la modernità dei personaggi: &quot;Sir Gawain e il Cavaliere Verde&quot;",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/08/14/pilloledautore_-_il_romanzo_cavalleresco_inglese_e_la_modernit_dei_personaggi_sir_gawain_e_il_cavaliere_verde/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nuotare",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2022/08/14/nuotare/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ladies and gents: anche io ho della melanina",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/14/ladies_and_gents_anche_io_ho_della_melanina/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il fervore del bipolare",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/il_fervore_del_bipolare/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Fervore",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/il_fervore/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il fervente condensarsi del Furore",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/il_fervente_condensarsi_del_furore/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gamma-ray burst",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/gamma-ray_burst/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fragore di lampi",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/fragore_di_lampi/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Finché tutto bruci il fuoco del giudizio”. Sulla poesia di Gerard Manley Hopkins",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/08/14/finch_tutto_bruci_il_fuoco_del_giudizio_sulla_poesia_di_gerard_manley_hopkins/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fatto abbrusciar publicamente",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/fatto_abbrusciar_publicamente/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Del solvere e del dissolvere: cartolina da Montelago",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/08/14/del_solvere_e_del_dissolvere_cartolina_da_montelago/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dalla folgorazione alla contemplazione",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/dalla_folgorazione_alla_contemplazione/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come nasce Ferragosto?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/14/come_nasce_ferragosto/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Agitazione interna",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2022/08/14/agitazione_interna/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "15 agosto tra tradizione e leggenda",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/14/15_agosto_tra_tradizione_e_leggenda/",
+      "date"     : "2022-08-14 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Spassoso, nichilista e romantico: è Batman-Parente",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/08/13/spassoso_nichilista_e_romantico_batman-parente/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Penisola Sorrentina, cuore verde e luoghi magici",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/13/penisola_sorrentina_cuore_verde_e_luoghi_magici/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’ultimo saluto (postumo) di Piero Angela",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/08/13/lultimo_saluto_postumo_di_piero_angela/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La finestra sul mare",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/13/la_finestra_sul_mare/",
       "date"     : "2022-08-13 00:00:00 +0200"
     } ,
   
@@ -41,10 +385,26 @@
     } ,
   
     {
+      "title"    : "Addio a Piero Angela, pioniere della divulgazione scientifica italiana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/13/addio_a_piero_angela_pioniere_della_divulgazione_scientifica_italiana/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Abbandona le illusioni",
       "category" : "opera-viva",
       "tags"     : "opera-viva",
       "url"      : "/2022/08/13/abbandona_le_illusioni/",
+      "date"     : "2022-08-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "10 città europee da visitare in estate",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/13/10_citt_europee_da_visitare_in_estate/",
       "date"     : "2022-08-13 00:00:00 +0200"
     } ,
   
@@ -39529,22 +39889,6 @@
     } ,
   
     {
-      "title"    : "Tra il bosco e l’impossibile. L’epopea di Ruthie Fear",
-      "category" : "altri-animali",
-      "tags"     : "altri-animali",
-      "url"      : "/2022/02/04/tra_il_bosco_e_limpossibile_lepopea_di_ruthie_fear/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Sì, è vero, nell’ottobre del 1988 ho portato Francis Bacon in Unione Sovietica…”",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/02/04/s_vero_nellottobre_del_1988_ho_portato_francis_bacon_in_unione_sovietica/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Profumo di bucato",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39565,46 +39909,6 @@
       "category" : "scenari",
       "tags"     : "scenari",
       "url"      : "/2022/02/04/nietzsche_ellittico_tra_filosofia_politica_e_sociologia_della_conoscenza/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Nicolò Carozzi. Coraggioso come un topo",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/02/04/nicol_carozzi_coraggioso_come_un_topo/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Matteo Meschiari. Dispacci dall’Antropocene #8",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/02/04/matteo_meschiari_dispacci_dallantropocene_8/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Mani sudate",
-      "category" : "senzadieci",
-      "tags"     : "senzadieci",
-      "url"      : "/2022/02/04/mani_sudate/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’oro di Gustavo Rol",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/02/04/loro_di_gustavo_rol/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Le mie bambine",
-      "category" : "quaerere",
-      "tags"     : "quaerere",
-      "url"      : "/2022/02/04/le_mie_bambine/",
       "date"     : "2022-02-04 00:00:00 +0100"
     } ,
   
@@ -39633,22 +39937,6 @@
     } ,
   
     {
-      "title"    : "JBP",
-      "category" : "suite-italiana",
-      "tags"     : "suite-italiana",
-      "url"      : "/2022/02/04/jbp/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il romanzo industriale oggi: intervista a Francesco Dezio",
-      "category" : "il-rifugio-dell-ircocervo",
-      "tags"     : "il-rifugio-dell-ircocervo",
-      "url"      : "/2022/02/04/il_romanzo_industriale_oggi_intervista_a_francesco_dezio/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Giornata contro lo spreco alimentare – cosa fare per non buttare cibo",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39657,74 +39945,10 @@
     } ,
   
     {
-      "title"    : "Giancarlo Pontiggia e Stefano Raimondi: risorse contro tempo",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/02/04/giancarlo_pontiggia_e_stefano_raimondi_risorse_contro_tempo/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Firmato: la resp. dott.ssa Tissen",
-      "category" : "donne-difettose",
-      "tags"     : "donne-difettose",
-      "url"      : "/2022/02/04/firmato_la_resp_dottssa_tissen/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Faccia a faccia con Macbeth | Visioni",
-      "category" : "l-eco-del-nulla",
-      "tags"     : "l-eco-del-nulla",
-      "url"      : "/2022/02/04/faccia_a_faccia_con_macbeth_visioni/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dell’amore e altri dolori. Su “Stradario aggiornato di tutti i miei baci”",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2022/02/04/dellamore_e_altri_dolori_su_stradario_aggiornato_di_tutti_i_miei_baci/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Con il corpo crivellato di stelle",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2022/02/04/con_il_corpo_crivellato_di_stelle/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Chiamami col mio nome: Alessandra Carnaroli",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/02/04/chiamami_col_mio_nome_alessandra_carnaroli/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Attratto dalla vertigine. “Nella notte il cane” di Fabrizio Coscia",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/02/04/attratto_dalla_vertigine_nella_notte_il_cane_di_fabrizio_coscia/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Atletismo e animalità in “Kurtz” di Jean Marc Aubert",
       "category" : "grado-zero",
       "tags"     : "grado-zero",
       "url"      : "/2022/02/04/atletismo_e_animalit_in_kurtz_di_jean_marc_aubert/",
-      "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Armando Saveriano, Perfuncta vita",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2022/02/04/armando_saveriano_perfuncta_vita/",
       "date"     : "2022-02-04 00:00:00 +0100"
     } ,
   
@@ -39742,230 +39966,6 @@
       "tags"     : "inverso",
       "url"      : "/2022/02/04/alejandra_pizarnik_poesie_i/",
       "date"     : "2022-02-04 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Vitti, la madre di Monica",
-      "category" : "downtobaker",
-      "tags"     : "downtobaker",
-      "url"      : "/2022/02/03/vitti_la_madre_di_monica/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Tra(ns)vestirsi per aprire la pillola",
-      "category" : "not",
-      "tags"     : "not",
-      "url"      : "/2022/02/03/transvestirsi_per_aprire_la_pillola/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Sugar daddy, bagel e parenti asfissianti. Shiva Baby di Emma Seligman",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/02/03/sugar_daddy_bagel_e_parenti_asfissianti_shiva_baby_di_emma_seligman/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Scivolare",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/02/03/scivolare/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Questa mia Vita travagliata io scrivo…”. Benvenuto Cellini: artista, guerriero e occultista",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/02/03/questa_mia_vita_travagliata_io_scrivo_benvenuto_cellini_artista_guerriero_e_occultista/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Poetica Trifunovic, storia di un amore non impeccabile",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/02/03/poetica_trifunovic_storia_di_un_amore_non_impeccabile/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Paradiso IV – La serratura della mente",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/02/03/paradiso_iv_la_serratura_della_mente/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Onde celesti",
-      "category" : "singola",
-      "tags"     : "singola",
-      "url"      : "/2022/02/03/onde_celesti/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Omissis di Carlo Bellinvia ⥀ Un rebus di cose ordinarie",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2022/02/03/omissis_di_carlo_bellinvia_un_rebus_di_cose_ordinarie/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "O barra O edizioni ci porta in Cambogia e Laos",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/02/03/o_barra_o_edizioni_ci_porta_in_cambogia_e_laos/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "No way home e quel che resta dei super – Essere o non essere… Super?",
-      "category" : "l-incendiario",
-      "tags"     : "l-incendiario",
-      "url"      : "/2022/02/03/no_way_home_e_quel_che_resta_dei_super_essere_o_non_essere_super/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Madame andata e ritorno”, il romanzo di libertà di Lisa Morpurgo",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/02/03/madame_andata_e_ritorno_il_romanzo_di_libert_di_lisa_morpurgo/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Luigi Palazzo – Bar Samarcanda",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2022/02/03/luigi_palazzo_bar_samarcanda/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L&#39;AMMALATA CONFIDENTE DI BRUNO POMPILI",
-      "category" : "voce-blu",
-      "tags"     : "voce-blu",
-      "url"      : "/2022/02/03/lammalata_confidente_di_bruno_pompili/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La notte padana",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/02/03/la_notte_padana/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La felicità del lupo di Paolo Cognetti, scrittore della montagna e delle relazioni umane. Recensione libro",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/02/03/la_felicit_del_lupo_di_paolo_cognetti_scrittore_della_montagna_e_delle_relazioni_umane_recensione_libro/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Jennifer Berne. Le parole hanno le ali. Vita straordinaria di Emily Dickinson",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/02/03/jennifer_berne_le_parole_hanno_le_ali_vita_straordinaria_di_emily_dickinson/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il Bhutan Clan e Wu Ming 1 | C’è movimento in Cirenaica",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2022/02/03/il_bhutan_clan_e_wu_ming_1_c_movimento_in_cirenaica/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Faccio sempre l’amore per la prima volta”. Su Alejandra Pizarnik",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/02/03/faccio_sempre_lamore_per_la_prima_volta_su_alejandra_pizarnik/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Elisabetta Villaggio. Fantozzi dietro le quinte. Oltre la maschera. La vita (vera) di Paolo Villaggio",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/02/03/elisabetta_villaggio_fantozzi_dietro_le_quinte_oltre_la_maschera_la_vita_vera_di_paolo_villaggio/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Antonella De Biasi incontra Giulia Caminito",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2022/02/03/antonella_de_biasi_incontra_giulia_caminito/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Altro che Checco Zalone, scoprite Camila Sosa Villada",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/02/03/altro_che_checco_zalone_scoprite_camila_sosa_villada/",
-      "date"     : "2022-02-03 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Questioni di un certo genere. Il secondo volume di COSE Spiegate bene",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/02/02/questioni_di_un_certo_genere_il_secondo_volume_di_cose_spiegate_bene/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Non sapevo che fare, così ho inventato il Dothraki",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/02/non_sapevo_che_fare_cos_ho_inventato_il_dothraki/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Melodia di un’immagine in movimento dagli Ottanta a oggi. Una conversazione con Garbo",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/02/02/melodia_di_unimmagine_in_movimento_dagli_ottanta_a_oggi_una_conversazione_con_garbo/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’amore che devi di Sara Maria Serafini: lotta tra un amore ideale e idealizzato. Recensione",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/02/02/lamore_che_devi_di_sara_maria_serafini_lotta_tra_un_amore_ideale_e_idealizzato_recensione/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Harry Potter: i collegamenti letterari che (forse) non ti aspetti",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/02/harry_potter_i_collegamenti_letterari_che_forse_non_ti_aspetti/",
-      "date"     : "2022-02-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Emma Bonino sì o no?",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/02/emma_bonino_s_o_no/",
-      "date"     : "2022-02-02 00:00:00 +0100"
     } ,
   
     {
