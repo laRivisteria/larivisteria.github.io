@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "“Un’autobiografia malinconica”. Dialogo con Filippo Tuena su Eliot &amp; Co.",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/08/20/unautobiografia_malinconica_dialogo_con_filippo_tuena_su_eliot_co/",
+      "date"     : "2022-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una ragazza interessata",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/08/20/una_ragazza_interessata/",
+      "date"     : "2022-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra romanzo e poesia: il mondo di Alessia Bronico",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/08/20/tra_romanzo_e_poesia_il_mondo_di_alessia_bronico/",
+      "date"     : "2022-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Poesia è la mia vita segreta”. Hilda Hilst: il genio e l’osceno",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/08/20/poesia_la_mia_vita_segreta_hilda_hilst_il_genio_e_losceno/",
+      "date"     : "2022-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "&quot;Inventarsi una vita&quot;. Il dialogo di Magris e Di Paolo alla ricerca della lucentezza delle cose.",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/08/20/inventarsi_una_vita_il_dialogo_di_magris_e_di_paolo_alla_ricerca_della_lucentezza_delle_cose/",
+      "date"     : "2022-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I “sette libri per l’estate” di… Valerio Valentini",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/08/20/i_sette_libri_per_lestate_di_valerio_valentini/",
+      "date"     : "2022-08-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Yewande Omotoso, una figlia da ritrovare nel buio",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -17,6 +65,14 @@
     } ,
   
     {
+      "title"    : "Un ultimo tuffo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/19/un_ultimo_tuffo/",
+      "date"     : "2022-08-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "The Scream",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
@@ -29,6 +85,14 @@
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
       "url"      : "/2022/08/19/perle_ai_porci_di_kurt_vonnegut_ovvero_del_costo_dellamore_assoluto_nella_societ_contemporanea/",
+      "date"     : "2022-08-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le Signore – Arianna Orlando",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/08/19/le_signore_arianna_orlando/",
       "date"     : "2022-08-19 00:00:00 +0200"
     } ,
   
@@ -57,10 +121,26 @@
     } ,
   
     {
+      "title"    : "Cinque animali (più uno) che non soffrono il caldo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/19/cinque_animali_pi_uno_che_non_soffrono_il_caldo/",
+      "date"     : "2022-08-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Al vaglio”, dal 21 al 28 agosto libri, poesia e arte nel centro storico di Sambiase",
       "category" : "glicine",
       "tags"     : "glicine",
       "url"      : "/2022/08/19/al_vaglio_dal_21_al_28_agosto_libri_poesia_e_arte_nel_centro_storico_di_sambiase/",
+      "date"     : "2022-08-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Addio assorbenti, non vi uso più! Guida alle mestruazioni “green”",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/08/19/addio_assorbenti_non_vi_uso_pi_guida_alle_mestruazioni_green/",
       "date"     : "2022-08-19 00:00:00 +0200"
     } ,
   
@@ -39721,14 +39801,6 @@
     } ,
   
     {
-      "title"    : "Ruthie Fear",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/02/07/ruthie_fear/",
-      "date"     : "2022-02-07 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "“Quarantena è avere la percezione esatta che nessuno può avere cura di te. Nemmeno Dio”",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -39801,14 +39873,6 @@
     } ,
   
     {
-      "title"    : "Laboratorio trasformazione",
-      "category" : "singola",
-      "tags"     : "singola",
-      "url"      : "/2022/02/07/laboratorio_trasformazione/",
-      "date"     : "2022-02-07 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "La gelosia",
       "category" : "squadernauti",
       "tags"     : "squadernauti",
@@ -39833,14 +39897,6 @@
     } ,
   
     {
-      "title"    : "Dove qualcosa finisce",
-      "category" : "il-mondo-o-niente",
-      "tags"     : "il-mondo-o-niente",
-      "url"      : "/2022/02/07/dove_qualcosa_finisce/",
-      "date"     : "2022-02-07 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Cosa leggere in inverno? I nostri 10 libri consigliati",
       "category" : "blam",
       "tags"     : "blam",
@@ -39861,14 +39917,6 @@
       "category" : "layout",
       "tags"     : "layout",
       "url"      : "/2022/02/07/christine_chandler_la_persona_pi_bullizzata_della_storia/",
-      "date"     : "2022-02-07 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Chi osa dire una verità è dileggiato”. Dialogo con Salvatore Massimo Fazio",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/02/07/chi_osa_dire_una_verit_dileggiato_dialogo_con_salvatore_massimo_fazio/",
       "date"     : "2022-02-07 00:00:00 +0100"
     } ,
   
@@ -39918,54 +39966,6 @@
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/02/07/a_singolar_tenzone_celebri_rivalit_ed_accademiche_frecciatine/",
       "date"     : "2022-02-07 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "William Morris – Personaggio della settimana",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/06/william_morris_personaggio_della_settimana/",
-      "date"     : "2022-02-06 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Ogni scarrafone è bell’ ‘a mamma soja… o quasi",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/06/ogni_scarrafone_bell_a_mamma_soja_o_quasi/",
-      "date"     : "2022-02-06 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Le menzogne di Houellebecq",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/02/06/le_menzogne_di_houellebecq/",
-      "date"     : "2022-02-06 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La fiera delle illusioni – Nightmare Alley: fino a dove è onesto che si spingano le bugie?",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/06/la_fiera_delle_illusioni_nightmare_alley_fino_a_dove_onesto_che_si_spingano_le_bugie/",
-      "date"     : "2022-02-06 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "+++ATTENZIONE+++Alla cerimonia per Mattarella anche Briciola, la mascotte dei Corazzieri",
-      "category" : "droga",
-      "tags"     : "droga",
-      "url"      : "/2022/02/06/attenzionealla_cerimonia_per_mattarella_anche_briciola_la_mascotte_dei_corazzieri/",
-      "date"     : "2022-02-06 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Atopia. Lezioni socratiche e prospettive queer",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/02/06/atopia_lezioni_socratiche_e_prospettive_queer/",
-      "date"     : "2022-02-06 00:00:00 +0100"
     } ,
   
     {
