@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Quattro romanzi: Tanizaki, Camilleri, Slimani, Evison",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/09/16/quattro_romanzi_tanizaki_camilleri_slimani_evison/",
+      "date"     : "2022-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un tentativo di rimuovere la rabbia",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/09/15/un_tentativo_di_rimuovere_la_rabbia/",
+      "date"     : "2022-09-15 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "«Troppo turismo fa male al turismo»",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -21,6 +37,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/09/15/non_c_abbastanza_reale_per_la_mia_sete_benjamin_fondane_lirraggiungibile/",
+      "date"     : "2022-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Monogamia di Sue Miller: un ritratto avvincente delle relazioni amorose, e non solo",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/09/15/monogamia_di_sue_miller_un_ritratto_avvincente_delle_relazioni_amorose_e_non_solo/",
       "date"     : "2022-09-15 00:00:00 +0200"
     } ,
   
@@ -61,6 +85,14 @@
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
       "url"      : "/2022/09/15/insopportabilmente_bianco_scrivere_attorno_allincompiuto/",
+      "date"     : "2022-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gabriella Sica | Poesie d’aria",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/09/15/gabriella_sica_poesie_daria/",
       "date"     : "2022-09-15 00:00:00 +0200"
     } ,
   
@@ -39889,14 +39921,6 @@
     } ,
   
     {
-      "title"    : "La luce delle cose. Su «Cosmogenesi dell’esperienza»",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2022/02/21/la_luce_delle_cose_su_cosmogenesi_dellesperienza/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "IO VOLEVO SOLO DIVENTARE",
       "category" : "l-incendiario",
       "tags"     : "l-incendiario",
@@ -39941,30 +39965,6 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/02/21/di_donato_quel_cristo_proletario_fra_i_ponteggi_dei_grattacieli/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "C’è vita dopo la cometa Dibiasky",
-      "category" : "opera-viva",
-      "tags"     : "opera-viva",
-      "url"      : "/2022/02/21/c_vita_dopo_la_cometa_dibiasky/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Amarsi meno, amare di più",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2022/02/21/amarsi_meno_amare_di_pi/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Alejandra Pizarnik | Poesie II",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2022/02/21/alejandra_pizarnik_poesie_ii/",
       "date"     : "2022-02-21 00:00:00 +0100"
     } ,
   
