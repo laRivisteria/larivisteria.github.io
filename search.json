@@ -1,10 +1,90 @@
 [
   
     {
+      "title"    : "Morire, un anno dopo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/09/19/morire_un_anno_dopo/",
+      "date"     : "2022-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Questo è un arrivederci",
+      "category" : "fantastico!",
+      "tags"     : "fantastico!",
+      "url"      : "/2022/09/18/questo_un_arrivederci/",
+      "date"     : "2022-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "les nouveaux réalistes: Francesca Perinelli",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/09/18/les_nouveaux_ralistes_francesca_perinelli/",
+      "date"     : "2022-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il rosmarino non capisce l’inverno di Matteo Bussola: la tenacia di un gruppo di protagoniste. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/09/18/il_rosmarino_non_capisce_linverno_di_matteo_bussola_la_tenacia_di_un_gruppo_di_protagoniste_recensione/",
+      "date"     : "2022-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Onda su onda",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/09/17/onda_su_onda/",
+      "date"     : "2022-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In armonia con le tenebre. Notturno Cioran",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/09/17/in_armonia_con_le_tenebre_notturno_cioran/",
+      "date"     : "2022-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il racconto della domenica: Salvator Mundi di Leonardo Passari",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/09/17/il_racconto_della_domenica_salvator_mundi_di_leonardo_passari/",
+      "date"     : "2022-09-17 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Quattro romanzi: Tanizaki, Camilleri, Slimani, Evison",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/09/16/quattro_romanzi_tanizaki_camilleri_slimani_evison/",
+      "date"     : "2022-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Le perfezioni” di Vincenzo Latronico: la morte del desiderio",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/09/16/le_perfezioni_di_vincenzo_latronico_la_morte_del_desiderio/",
+      "date"     : "2022-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Iolanda La Carrubba | Poesie",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/09/16/iolanda_la_carrubba_poesie/",
+      "date"     : "2022-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dio è non binary",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/09/16/dio_non_binary/",
       "date"     : "2022-09-16 00:00:00 +0200"
     } ,
   
@@ -93,6 +173,14 @@
       "category" : "inverso",
       "tags"     : "inverso",
       "url"      : "/2022/09/15/gabriella_sica_poesie_daria/",
+      "date"     : "2022-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fenomenologia di una cavia seriale",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2022/09/15/fenomenologia_di_una_cavia_seriale/",
       "date"     : "2022-09-15 00:00:00 +0200"
     } ,
   
@@ -39825,26 +39913,10 @@
     } ,
   
     {
-      "title"    : "Testo Firenze: dal 25 al 27 febbraio un ricco programma dedicato al mondo dell’editoria",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/02/21/testo_firenze_dal_25_al_27_febbraio_un_ricco_programma_dedicato_al_mondo_delleditoria/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "SPECIALE DJ TRAVELLA.",
       "category" : "droga",
       "tags"     : "droga",
       "url"      : "/2022/02/21/speciale_dj_travella/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Spaghetti alla Nerano",
-      "category" : "spaghetti-writers",
-      "tags"     : "spaghetti-writers",
-      "url"      : "/2022/02/21/spaghetti_alla_nerano/",
       "date"     : "2022-02-21 00:00:00 +0100"
     } ,
   
@@ -39861,38 +39933,6 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/02/21/polonia_al_polonio_e_lagghiacciante_storia_di_agnieszka/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Padova, anima",
-      "category" : "tre-sequenze",
-      "tags"     : "tre-sequenze",
-      "url"      : "/2022/02/21/padova_anima/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Non troviamo un titolo, solo addio Sara",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/21/non_troviamo_un_titolo_solo_addio_sara/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Niels Hav | Poesie",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2022/02/21/niels_hav_poesie/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Ma tutti gli altri giorni no di Giancarlo e Massimiliano Governi. Un dialogo scritto tra padre e figlio nell’anno della pandemia. Recensione",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/02/21/ma_tutti_gli_altri_giorni_no_di_giancarlo_e_massimiliano_governi_un_dialogo_scritto_tra_padre_e_figlio_nellanno_della_pandemia_recensione/",
       "date"     : "2022-02-21 00:00:00 +0100"
     } ,
   
@@ -39917,46 +39957,6 @@
       "category" : "l-inquieto",
       "tags"     : "l-inquieto",
       "url"      : "/2022/02/21/la_traversata/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "IO VOLEVO SOLO DIVENTARE",
-      "category" : "l-incendiario",
-      "tags"     : "l-incendiario",
-      "url"      : "/2022/02/21/io_volevo_solo_diventare/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il giornale di oggi – Sabrina Silvestri",
-      "category" : "mosse-di-seppia",
-      "tags"     : "mosse-di-seppia",
-      "url"      : "/2022/02/21/il_giornale_di_oggi_sabrina_silvestri/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Giornata internazionale della lingua madre? Ce la spiega l’UNESCO",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/21/giornata_internazionale_della_lingua_madre_ce_la_spiega_lunesco/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Flavia Teneriello | Poesie",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2022/02/21/flavia_teneriello_poesie/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Federico Carrera | Tentativi di vita",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2022/02/21/federico_carrera_tentativi_di_vita/",
       "date"     : "2022-02-21 00:00:00 +0100"
     } ,
   
