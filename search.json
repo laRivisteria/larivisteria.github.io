@@ -1,10 +1,66 @@
 [
   
     {
+      "title"    : "L’uomo dei lupi",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/09/20/luomo_dei_lupi/",
+      "date"     : "2022-09-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fandango | Narrandom",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/09/20/fandango_narrandom/",
+      "date"     : "2022-09-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Crimes of the future, di David Cronemberg",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/09/20/crimes_of_the_future_di_david_cronemberg/",
+      "date"     : "2022-09-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spostamenti #17 | Lidia Riviello",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/09/19/spostamenti_17_lidia_riviello/",
+      "date"     : "2022-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quasi",
+      "category" : "squadernauti",
+      "tags"     : "squadernauti",
+      "url"      : "/2022/09/19/quasi/",
+      "date"     : "2022-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Podcast sull’arte: i nostri consigli di ascolto",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/09/19/podcast_sullarte_i_nostri_consigli_di_ascolto/",
+      "date"     : "2022-09-19 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Morire, un anno dopo",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2022/09/19/morire_un_anno_dopo/",
+      "date"     : "2022-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ex figlio”: il coma di una nazione",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/09/19/ex_figlio_il_coma_di_una_nazione/",
       "date"     : "2022-09-19 00:00:00 +0200"
     } ,
   
@@ -29,6 +85,14 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2022/09/18/il_rosmarino_non_capisce_linverno_di_matteo_bussola_la_tenacia_di_un_gruppo_di_protagoniste_recensione/",
+      "date"     : "2022-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Céline che c’ha la guerra nella testa: l’inedito “Guerre”",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/09/18/cline_che_cha_la_guerra_nella_testa_linedito_guerre/",
       "date"     : "2022-09-18 00:00:00 +0200"
     } ,
   
@@ -39902,70 +39966,6 @@
       "tags"     : "blam",
       "url"      : "/2022/02/22/10_saggi_scientifici_da_leggere_i_nostri_consigli_letterari/",
       "date"     : "2022-02-22 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Tra trend e balletti, ecco a voi le 5 star di TikTok",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/21/tra_trend_e_balletti_ecco_a_voi_le_5_star_di_tiktok/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "SPECIALE DJ TRAVELLA.",
-      "category" : "droga",
-      "tags"     : "droga",
-      "url"      : "/2022/02/21/speciale_dj_travella/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Se sei single in Danimarca chiudi gli occhi!",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/21/se_sei_single_in_danimarca_chiudi_gli_occhi/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Polonia “al polonio” e l’agghiacciante storia di Agnieszka",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/21/polonia_al_polonio_e_lagghiacciante_storia_di_agnieszka/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Luce per tutti",
-      "category" : "narrandom",
-      "tags"     : "narrandom",
-      "url"      : "/2022/02/21/luce_per_tutti/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Le fabbriche",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/02/21/le_fabbriche/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La traversata",
-      "category" : "l-inquieto",
-      "tags"     : "l-inquieto",
-      "url"      : "/2022/02/21/la_traversata/",
-      "date"     : "2022-02-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Di Donato, quel Cristo proletario fra i ponteggi dei grattacieli",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/02/21/di_donato_quel_cristo_proletario_fra_i_ponteggi_dei_grattacieli/",
-      "date"     : "2022-02-21 00:00:00 +0100"
     } ,
   
     {
