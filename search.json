@@ -1,6 +1,78 @@
 [
   
     {
+      "title"    : "Vivi e taci! Fëdor Tjutčev tradotto da Tommaso Landolfi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/10/13/vivi_e_taci_fdor_tjutev_tradotto_da_tommaso_landolfi/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Simone Regazzoni. Oceano. Filosofia del pianeta",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/10/13/simone_regazzoni_oceano_filosofia_del_pianeta/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sette poesie",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/10/13/sette_poesie/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ROSANERO",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/10/13/rosanero/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quattro volte Ada: l’esordio di Sharon Dodua Otoo",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/10/13/quattro_volte_ada_lesordio_di_sharon_dodua_otoo/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quando Shakespeare può sanare un dolore: &quot;No boys play here&quot; di Sally Bayley",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/10/13/quando_shakespeare_pu_sanare_un_dolore_no_boys_play_here_di_sally_bayley/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lina Caico, l’amica antifascista dell’“epuratissimo” Pound",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/10/13/lina_caico_lamica_antifascista_dellepuratissimo_pound/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Regina immaginaria",
+      "category" : "duemilauno",
+      "tags"     : "duemilauno",
+      "url"      : "/2022/10/13/la_regina_immaginaria/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Faccia a Faccia con il Muro",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2022/10/13/faccia_a_faccia_con_il_muro/",
+      "date"     : "2022-10-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vasta e Fazel, la storia della luce e la Palermo estranea",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -9,10 +81,122 @@
     } ,
   
     {
-      "title"    : "Marcel Proust, Veronique et moi",
+      "title"    : "Una pausa",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2022/10/12/una_pausa/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Umanità e tecnologia, un rapporto in continua rigenerazione nelle raccolta di racconti &quot;Mi ricorderò di te&quot; di Mary South",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/10/12/umanit_e_tecnologia_un_rapporto_in_continua_rigenerazione_nelle_raccolta_di_racconti_mi_ricorder_di_te_di_mary_south/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tutto scompare e riappare",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/12/tutto_scompare_e_riappare/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "(telecamera 4 Via Abba) – Mauro Barbetti",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2022/10/12/telecamera_4_via_abba_mauro_barbetti/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tanner",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/10/12/tanner/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spostamenti #22 | Prisca Agustoni",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/10/12/spostamenti_22_prisca_agustoni/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ricordare ed essere ricordati: amicizia e senilità di un “faraone”",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/10/12/ricordare_ed_essere_ricordati_amicizia_e_senilit_di_un_faraone/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Il faraone d’Olanda” di Kader Abdolah",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/10/12/recensioni_il_faraone_dolanda_di_kader_abdolah/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Poesie di Luca Ariano",
+      "category" : "mosse-di-seppia",
+      "tags"     : "mosse-di-seppia",
+      "url"      : "/2022/10/12/poesie_di_luca_ariano/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Nasce oggi il Premio Strega Poesia",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/10/12/nasce_oggi_il_premio_strega_poesia/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Max Ernst a Palazzo Reale. Cosa siamo venuti a fare qui?",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/10/12/max_ernst_a_palazzo_reale_cosa_siamo_venuti_a_fare_qui/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Marcel Proust, Véronique et moi",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
-      "url"      : "/2022/10/12/marcel_proust_veronique_et_moi/",
+      "url"      : "/2022/10/12/marcel_proust_vronique_et_moi/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Luca Fassina. Cucina. Stephen King: ricetta per un disastro",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/10/12/luca_fassina_cucina_stephen_king_ricetta_per_un_disastro/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Linguaggio e privilegio, cosa diciamo davvero quando parliamo?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/12/linguaggio_e_privilegio_cosa_diciamo_davvero_quando_parliamo/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le news letterarie – 12 Ottobre 2022 ",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2022/10/12/le_news_letterarie_12_ottobre_2022/",
       "date"     : "2022-10-12 00:00:00 +0200"
     } ,
   
@@ -33,6 +217,30 @@
     } ,
   
     {
+      "title"    : "IX Premio Internazionale di letteratura Città di Como 2022: i finalisti",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/10/12/ix_premio_internazionale_di_letteratura_citt_di_como_2022_i_finalisti/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Francesca Tamani: La formula di Jane Austen",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2022/10/12/intervista_a_francesca_tamani_la_formula_di_jane_austen/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Infiltrazioni #2 – Di Corcia &amp; Angela Del Favero",
+      "category" : "layout",
+      "tags"     : "layout",
+      "url"      : "/2022/10/12/infiltrazioni_2_di_corcia_angela_del_favero/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il primo romanzo del premio Nobel portoghese, finora inedito: Saramago prima di Saramago in &quot;La vedova&quot;",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -41,10 +249,90 @@
     } ,
   
     {
+      "title"    : "Il peso di Liz Moore: uno sguardo puntato sulla solitudine dell’uomo moderno. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/10/12/il_peso_di_liz_moore_uno_sguardo_puntato_sulla_solitudine_delluomo_moderno_recensione/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il diritto alla strage. Sul nuovo “Occidente” di Camon",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/10/12/il_diritto_alla_strage_sul_nuovo_occidente_di_camon/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il baule della Massaia: un omaggio a Paola Masino",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2022/10/12/il_baule_della_massaia_un_omaggio_a_paola_masino/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fate attenzione alle scarpe",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2022/10/12/fate_attenzione_alle_scarpe/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Enzo Palladini. Casagrande: all’inferno e ritorno",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2022/10/12/enzo_palladini_casagrande_allinferno_e_ritorno/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Borgopoli ⥀ Opera collettiva solarpunk #4",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2022/10/12/borgopoli_opera_collettiva_solarpunk_4/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Artecinema, a Napoli torna l’atteso appuntamento con l’arte sul grande schermo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/12/artecinema_a_napoli_torna_latteso_appuntamento_con_larte_sul_grande_schermo/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "An Evening with Rita Dove, Pulitzer Prize-Winning Poet",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/10/12/an_evening_with_rita_dove_pulitzer_prize-winning_poet/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Alla scoperta di AnimaMundi",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/12/alla_scoperta_di_animamundi/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Addio Angela, la nostra magica Signora in giallo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/12/addio_angela_la_nostra_magica_signora_in_giallo/",
+      "date"     : "2022-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "46. Per una lira",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/10/12/46_per_una_lira/",
       "date"     : "2022-10-12 00:00:00 +0200"
     } ,
   
@@ -2365,14 +2653,6 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/09/29/jacopo_masini_e_i_santi_tutti_da_ridere_della_bassa_padana/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il Tempo delle Congiure",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2022/09/29/il_tempo_delle_congiure/",
       "date"     : "2022-09-29 00:00:00 +0200"
     } ,
   
@@ -39545,42 +39825,10 @@
     } ,
   
     {
-      "title"    : "Vorrei vivere su un’isola… Isolario da incubo: tra i cannibali del Bounty e l’eroico Shackleton",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/03/14/vorrei_vivere_su_unisola_isolario_da_incubo_tra_i_cannibali_del_bounty_e_leroico_shackleton/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Volgare d’un marxista. Karl Marx pensatore punk",
       "category" : "limina",
       "tags"     : "limina",
       "url"      : "/2022/03/14/volgare_dun_marxista_karl_marx_pensatore_punk/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "V per Vergogna. Ovvero: Gesù lo svergognato",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/03/14/v_per_vergogna_ovvero_ges_lo_svergognato/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Uno scrittore qualsiasi ",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/03/14/uno_scrittore_qualsiasi/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Un cuore al buio. Kafka",
-      "category" : "squadernauti",
-      "tags"     : "squadernauti",
-      "url"      : "/2022/03/14/un_cuore_al_buio_kafka/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -39593,34 +39841,10 @@
     } ,
   
     {
-      "title"    : "Sogni e realtà",
-      "category" : "singola",
-      "tags"     : "singola",
-      "url"      : "/2022/03/14/sogni_e_realt/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Sette opere di non misericordia: Questo mondo non ci appartiene di Natalia García Freire",
-      "category" : "altri-animali",
-      "tags"     : "altri-animali",
-      "url"      : "/2022/03/14/sette_opere_di_non_misericordia_questo_mondo_non_ci_appartiene_di_natalia_garca_freire/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Ritratti di scrittori: Walt Whitman, chi era? Scoprilo in 5 parole",
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2022/03/14/ritratti_di_scrittori_walt_whitman_chi_era_scoprilo_in_5_parole/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Power Cut",
-      "category" : "spore",
-      "tags"     : "spore",
-      "url"      : "/2022/03/14/power_cut/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -39645,14 +39869,6 @@
       "category" : "superstition-review",
       "tags"     : "superstition-review",
       "url"      : "/2022/03/14/maybe_its_me_on_being_the_wrong_kind_of_woman/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Max Gross spiega la modernità con una favola yiddish 2.0",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/03/14/max_gross_spiega_la_modernit_con_una_favola_yiddish_20/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -39689,14 +39905,6 @@
     } ,
   
     {
-      "title"    : "Kurt Vonnegut inedito. Fai crescere la tua anima",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/03/14/kurt_vonnegut_inedito_fai_crescere_la_tua_anima/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "“Kiev” o “Kyiv”? Questioni di identità",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39709,22 +39917,6 @@
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2022/03/14/il_segno_dei_tempi_letichetta_del_vino_tra_estetica_e_storia/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il Dritto e il Rovescio: possibili considerazioni su sei romanzi libertini – Parte II",
-      "category" : "quaerere",
-      "tags"     : "quaerere",
-      "url"      : "/2022/03/14/il_dritto_e_il_rovescio_possibili_considerazioni_su_sei_romanzi_libertini_parte_ii/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Gustaf Skördeman anteprima. Parola d’ordine Geiger",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/03/14/gustaf_skrdeman_anteprima_parola_dordine_geiger/",
       "date"     : "2022-03-14 00:00:00 +0100"
     } ,
   
@@ -39753,30 +39945,6 @@
     } ,
   
     {
-      "title"    : "Franz Krauspenhaar. Nella foresta",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/03/14/franz_krauspenhaar_nella_foresta/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Francesca Scotti anteprima. Il tempo delle tartarughe",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/03/14/francesca_scotti_anteprima_il_tempo_delle_tartarughe/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Filantropia | Racconti Indigeribili",
-      "category" : "crunched",
-      "tags"     : "crunched",
-      "url"      : "/2022/03/14/filantropia_racconti_indigeribili/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Elena Mearini, va’ dove ti porta il cuore irregolare",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -39798,174 +39966,6 @@
       "tags"     : "minima-et-moralia",
       "url"      : "/2022/03/14/diario_di_un_editore_di_fumetti_19/",
       "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Corpi celesti: l’Oman tra modernità e tradizione",
-      "category" : "il-rifugio-dell-ircocervo",
-      "tags"     : "il-rifugio-dell-ircocervo",
-      "url"      : "/2022/03/14/corpi_celesti_loman_tra_modernit_e_tradizione/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Boccadorso",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2022/03/14/boccadorso/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Auto-intervista inaugurale",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/03/14/auto-intervista_inaugurale/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Anno naturale",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/03/14/anno_naturale/",
-      "date"     : "2022-03-14 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "VIVA #21",
-      "category" : "fantastico!",
-      "tags"     : "fantastico!",
-      "url"      : "/2022/03/13/viva_21/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Van Straten, addolcire l’inadeguatezza inaccettabile: la propria",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/03/13/van_straten_addolcire_linadeguatezza_inaccettabile_la_propria/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Una settimana di racconti #172",
-      "category" : "italiansbookitbetter",
-      "tags"     : "italiansbookitbetter",
-      "url"      : "/2022/03/13/una_settimana_di_racconti_172/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Recensioni: “Léon” di Carlo Lucarelli",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/03/13/recensioni_lon_di_carlo_lucarelli/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Recensioni: “Come passeri sui cavi” di Stefania Pieralice e Daniele Radini Tedeschi",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/03/13/recensioni_come_passeri_sui_cavi_di_stefania_pieralice_e_daniele_radini_tedeschi/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Per Sergio Nelli",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/03/13/per_sergio_nelli/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Nero",
-      "category" : "smezziamo",
-      "tags"     : "smezziamo",
-      "url"      : "/2022/03/13/nero/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Limina moralia: Anna Maria Ortese",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/03/13/limina_moralia_anna_maria_ortese/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Leonora Carrington: “Giù in fondo”",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/03/13/leonora_carrington_gi_in_fondo/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Le aragoste sarebbero biologicamente immortali… se non fossero stanche",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/03/13/le_aragoste_sarebbero_biologicamente_immortali_se_non_fossero_stanche/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Indira Gandhi – Personaggio della settimana",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/03/13/indira_gandhi_personaggio_della_settimana/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "I rischi della noia",
-      "category" : "la-seppia",
-      "tags"     : "la-seppia",
-      "url"      : "/2022/03/13/i_rischi_della_noia/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“…e il disordine succeda all’ordine”. Franco Fortini, o l’impeto dell’attimo",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/03/13/e_il_disordine_succeda_allordine_franco_fortini_o_limpeto_dellattimo/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cosa ci fa la serie “Pam &amp; Tommy” su Disney+?",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/03/13/cosa_ci_fa_la_serie_pam_tommy_su_disney/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Al perfetto e totale oblio”. Dialogo intorno a Meister Eckhart",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/03/13/al_perfetto_e_totale_oblio_dialogo_intorno_a_meister_eckhart/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "A martellate",
-      "category" : "la-nuova-carne",
-      "tags"     : "la-nuova-carne",
-      "url"      : "/2022/03/13/a_martellate/",
-      "date"     : "2022-03-13 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il racconto della domenica: Per poco, Marisa di Valentina Cottini",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/03/12/il_racconto_della_domenica_per_poco_marisa_di_valentina_cottini/",
-      "date"     : "2022-03-12 00:00:00 +0100"
     } ,
   
     {
