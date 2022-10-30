@@ -1,10 +1,242 @@
 [
   
     {
+      "title"    : "Premolare 35",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2022/10/30/premolare_35/",
+      "date"     : "2022-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L&#39;inno alla meraviglia di David Almond in &quot;Skellig&quot;",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/10/30/linno_alla_meraviglia_di_david_almond_in_skellig/",
+      "date"     : "2022-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Guareschi e Brizzi in bici, cavalcata nella storia d’Italia",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2022/10/30/guareschi_e_brizzi_in_bici_cavalcata_nella_storia_ditalia/",
+      "date"     : "2022-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Daniel Mendelsohn, versatile come Ulisse",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/10/30/daniel_mendelsohn_versatile_come_ulisse/",
+      "date"     : "2022-10-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Un canto per i bambini morti. Il capolavoro di Rückert (e di Mahler)",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/10/29/un_canto_per_i_bambini_morti_il_capolavoro_di_rckert_e_di_mahler/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sessant&#39;anni di saggi &quot;Sull&#39;arte&quot;. La monumentale raccolta delle opere di estetica di Umberto Eco",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/10/29/sessantanni_di_saggi_sullarte_la_monumentale_raccolta_delle_opere_di_estetica_di_umberto_eco/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Odiseo y el Rio Atrato” di Francesco Antonio Fagà",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/10/29/recensioni_odiseo_y_el_rio_atrato_di_francesco_antonio_fag/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quintetto d’estate",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/10/29/quintetto_destate/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "PHILIP ROTH / LA BIOGRAFIA – Blake Bailey",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/10/29/philip_roth_la_biografia_blake_bailey/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Occhio animale. Steve McCurry: colpi d’ascia negli abissi della natura",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/10/29/occhio_animale_steve_mccurry_colpi_dascia_negli_abissi_della_natura/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "No!",
+      "category" : "opera-viva",
+      "tags"     : "opera-viva",
+      "url"      : "/2022/10/29/no/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’insignificanza del maggiolino: un racconto di Benedetta Barone",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/10/29/linsignificanza_del_maggiolino_un_racconto_di_benedetta_barone/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le ragioni del dubbio: intervista a Vera Gheno",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2022/10/29/le_ragioni_del_dubbio_intervista_a_vera_gheno/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le priorità",
+      "category" : "senzadieci",
+      "tags"     : "senzadieci",
+      "url"      : "/2022/10/29/le_priorit/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le più grandi bugie della storia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/29/le_pi_grandi_bugie_della_storia/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Karaoke: le sue origini",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/29/karaoke_le_sue_origini/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gli eSport, gli sport videoludici in continua crescita",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/29/gli_esport_gli_sport_videoludici_in_continua_crescita/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "ESCE L&#39; 11 NOVEMBRE 2022 IL LIVE DI SOPHIE ELLIS-BEXTOR&#39;S - KITCHEN DISCO",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2022/10/29/esce_l_11_novembre_2022_il_live_di_sophie_ellis-bextors_-_kitchen_disco/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "&quot;Aspirare alla perfezione è un viaggio, non una meta: il meglio è sempre passeggero!&quot;: con &quot;Better is temporary&quot; Sam Grawe racconta 50 anni di Nike",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/10/29/aspirare_alla_perfezione_un_viaggio_non_una_meta_il_meglio_sempre_passeggero_con_better_is_temporary_sam_grawe_racconta_50_anni_di_nike/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Archeologia subacquea: scoperte nei fondali di Pantelleria più di 300 anfore puniche",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/10/29/archeologia_subacquea_scoperte_nei_fondali_di_pantelleria_pi_di_300_anfore_puniche/",
+      "date"     : "2022-10-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "TomorrowTalks with Percival Everett: The Trees",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2022/10/28/tomorrowtalks_with_percival_everett_the_trees/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spostamenti #26 | Carlo Ragliani",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/10/28/spostamenti_26_carlo_ragliani/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sottoterra",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/10/28/sottoterra/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scampoli del nostro presente devastato, dove costruire aspettative, speranze e affetti è un grande rischio: &quot;Tasmania&quot;, di Paolo Giordano",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/10/28/scampoli_del_nostro_presente_devastato_dove_costruire_aspettative_speranze_e_affetti_un_grande_rischio_tasmania_di_paolo_giordano/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rimpiangere la Regina: la nostalgia coloniale e il sogno infranto di una democrazia ad Hong Kong",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2022/10/28/rimpiangere_la_regina_la_nostalgia_coloniale_e_il_sogno_infranto_di_una_democrazia_ad_hong_kong/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Ricomincio dai libri”, la festa napoletana del libro",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/28/ricomincio_dai_libri_la_festa_napoletana_del_libro/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “Ammazzate il leone” di Jorge Ibargüengoitia",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/10/28/recensioni_ammazzate_il_leone_di_jorge_ibargengoitia/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Quando eravamo ingenui &amp; corsari… L’epopea breve del “Domenicale” (io c’ero!)",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/10/28/quando_eravamo_ingenui_corsari_lepopea_breve_del_domenicale_io_cero/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Meretrices o artiste del mimo? Spesso era lo stesso",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/28/meretrices_o_artiste_del_mimo_spesso_era_lo_stesso/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#Mappe. Il profumo della pantera (un sogno di luglio)",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/10/28/mappe_il_profumo_della_pantera_un_sogno_di_luglio/",
       "date"     : "2022-10-28 00:00:00 +0200"
     } ,
   
@@ -17,6 +249,22 @@
     } ,
   
     {
+      "title"    : "Labiano detto il Ciràulo",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2022/10/28/labiano_detto_il_cirulo/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La meccanica della precisione",
+      "category" : "biró",
+      "tags"     : "biró",
+      "url"      : "/2022/10/28/la_meccanica_della_precisione/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Instabil3 di Angelo Rossi ⥀ Poesia elettronica [Corso di Letteratronica 2022]",
       "category" : "argo",
       "tags"     : "argo",
@@ -25,10 +273,58 @@
     } ,
   
     {
+      "title"    : "In tutto il mentre che possiamo (Un racconto nomade)",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/10/28/in_tutto_il_mentre_che_possiamo_un_racconto_nomade/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il viaggio oscuro nel Continente bianco",
+      "category" : "downtobaker",
+      "tags"     : "downtobaker",
+      "url"      : "/2022/10/28/il_viaggio_oscuro_nel_continente_bianco/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il second hand a portata di click",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/28/il_second_hand_a_portata_di_click/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#Geografie librarie | La libreria Emmepi di Macomer",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/10/28/geografie_librarie_la_libreria_emmepi_di_macomer/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Enigmi lievi. Su “A pelle scoperta” di Francesca Piovesan",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/10/28/enigmi_lievi_su_a_pelle_scoperta_di_francesca_piovesan/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Dove lei non c’è",
       "category" : "in-allarmata-radura",
       "tags"     : "in-allarmata-radura",
       "url"      : "/2022/10/28/dove_lei_non_c/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Di nodi e identità: Questi capelli di Djamilia Pereira de Almeida",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/10/28/di_nodi_e_identit_questi_capelli_di_djamilia_pereira_de_almeida/",
       "date"     : "2022-10-28 00:00:00 +0200"
     } ,
   
@@ -45,6 +341,22 @@
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
       "url"      : "/2022/10/28/con_pena_la_morte_e_altri_racconti_simenon_ci_porta_nel_mondo_dei_desideri_e_della_paura_di_realizzarli/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come un cane che abbaia dentro. L’avversione di Tonino per i ceci e i polacchi di Giovanni Di Marco",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/10/28/come_un_cane_che_abbaia_dentro_lavversione_di_tonino_per_i_ceci_e_i_polacchi_di_giovanni_di_marco/",
+      "date"     : "2022-10-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cammina per tenebre da mai spente",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/10/28/cammina_per_tenebre_da_mai_spente/",
       "date"     : "2022-10-28 00:00:00 +0200"
     } ,
   
@@ -121,6 +433,14 @@
     } ,
   
     {
+      "title"    : "Profumo di sandalo",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2022/10/27/profumo_di_sandalo/",
+      "date"     : "2022-10-27 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Posizionare l’utopia",
       "category" : "opera-viva",
       "tags"     : "opera-viva",
@@ -169,10 +489,10 @@
     } ,
   
     {
-      "title"    : "La Cupa, la “fabula” tetra e provocante di Mimmo Borrelli",
+      "title"    : "La Cupa, la “fabbula” tetra e provocante di Mimmo Borrelli",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
-      "url"      : "/2022/10/27/la_cupa_la_fabula_tetra_e_provocante_di_mimmo_borrelli/",
+      "url"      : "/2022/10/27/la_cupa_la_fabbula_tetra_e_provocante_di_mimmo_borrelli/",
       "date"     : "2022-10-27 00:00:00 +0200"
     } ,
   
@@ -39553,30 +39873,6 @@
     } ,
   
     {
-      "title"    : "Zombie Night – Prima Parte",
-      "category" : "la-nuova-carne",
-      "tags"     : "la-nuova-carne",
-      "url"      : "/2022/03/27/zombie_night_prima_parte/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "VIVA #22",
-      "category" : "fantastico!",
-      "tags"     : "fantastico!",
-      "url"      : "/2022/03/27/viva_22/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Una vita rovinata dalla troppa umanità”. David Maria Turoldo per Pier Paolo Pasolini",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/03/27/una_vita_rovinata_dalla_troppa_umanit_david_maria_turoldo_per_pier_paolo_pasolini/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Una famiglia felice",
       "category" : "la-seppia",
       "tags"     : "la-seppia",
@@ -39585,82 +39881,10 @@
     } ,
   
     {
-      "title"    : "Salvezza, canto e sortilegio nelle due Venezie della poesia di Brodskij e di Pasquale Di Palmo.",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/03/27/salvezza_canto_e_sortilegio_nelle_due_venezie_della_poesia_di_brodskij_e_di_pasquale_di_palmo/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Parole accurate e uomini senza futuro, Carla Bessa da scoprire",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/03/27/parole_accurate_e_uomini_senza_futuro_carla_bessa_da_scoprire/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Numero 29",
       "category" : "colla",
       "tags"     : "colla",
       "url"      : "/2022/03/27/numero_29/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Monstrorum Historia | Ulisse Aldovrandi",
-      "category" : "zest-letteratura-sostenibile",
-      "tags"     : "zest-letteratura-sostenibile",
-      "url"      : "/2022/03/27/monstrorum_historia_ulisse_aldovrandi/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Mobbing: di Fabrizio Miliucci (Tratto da ‘Saggio sulla paura’)",
-      "category" : "poetarum-silva",
-      "tags"     : "poetarum-silva",
-      "url"      : "/2022/03/27/mobbing_di_fabrizio_miliucci_tratto_da_saggio_sulla_paura/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Marguerite Burnat-Provins, la visionaria",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/03/27/marguerite_burnat-provins_la_visionaria/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’incertezza delle sorti",
-      "category" : "suite-italiana",
-      "tags"     : "suite-italiana",
-      "url"      : "/2022/03/27/lincertezza_delle_sorti/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Insorgiamo insieme ⥀ Ecologia e Lotta di classe",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2022/03/27/insorgiamo_insieme_ecologia_e_lotta_di_classe/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il rischio e la perdita",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/03/27/il_rischio_e_la_perdita/",
-      "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il Muro di Tempeste",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/03/27/il_muro_di_tempeste/",
       "date"     : "2022-03-27 00:00:00 +0100"
     } ,
   
@@ -39742,230 +39966,6 @@
       "tags"     : "colla",
       "url"      : "/2022/03/27/alessandro_messina/",
       "date"     : "2022-03-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Un tributo a Grace Paley",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2022/03/26/un_tributo_a_grace_paley/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Riapre il Museo Archeologico Nazionale di Capo Colonna",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/03/26/riapre_il_museo_archeologico_nazionale_di_capo_colonna/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "pulpette",
-      "tags"     : "pulpette",
-      "url"      : "/2022/03/26/postd41d8cd98f00b204e9800998ecf8427e/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Piante da interno, coltivare la tua urban jungle non è mai stato così semplice",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/03/26/piante_da_interno_coltivare_la_tua_urban_jungle_non_mai_stato_cos_semplice/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Perché guardiamo sempre gli stessi film e le stesse serie tv? Cosa ci hanno fatto gli altri?",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/03/26/perch_guardiamo_sempre_gli_stessi_film_e_le_stesse_serie_tv_cosa_ci_hanno_fatto_gli_altri/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Passaggi Festival: ospite Tom Kuka, Premio europeo per la letteratura",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/03/26/passaggi_festival_ospite_tom_kuka_premio_europeo_per_la_letteratura/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Nomi di paesi: l’opera dell’attesa",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/nomi_di_paesi_lopera_dellattesa/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Niram Ferretti, l’arte, l’ebraismo e la luce dietro le fratture",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/03/26/niram_ferretti_larte_lebraismo_e_la_luce_dietro_le_fratture/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Nel segno del numero 4, nasce la casa editrice Tetra",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/03/26/nel_segno_del_numero_4_nasce_la_casa_editrice_tetra/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’attore che attende",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/lattore_che_attende/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’attesa di Dioniso e lo specchio di Arianna",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/lattesa_di_dioniso_e_lo_specchio_di_arianna/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’Attesa",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/lattesa/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Kairos e chronos",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/kairos_e_chronos/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "#INSORGIAMO || Intervista al Collettivo di Fabbrica – Lavoratori (Ex) Gkn Firenze (Part 2) || THREEvial Pursuit",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2022/03/26/insorgiamo_intervista_al_collettivo_di_fabbrica_lavoratori_ex_gkn_firenze_part_2_threevial_pursuit/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Incarnare il cielo",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/incarnare_il_cielo/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il talento di Paolo Sorrentino",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/03/26/il_talento_di_paolo_sorrentino/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il senso generativo dell’attesa",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/il_senso_generativo_dellattesa/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il racconto della domenica: Stelle cadenti di Giuseppe Tursi",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/03/26/il_racconto_della_domenica_stelle_cadenti_di_giuseppe_tursi/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il poema della vecchiaia",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/il_poema_della_vecchiaia/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Giù le mani dagli Oscar",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2022/03/26/gi_le_mani_dagli_oscar/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "#Geografie librarie | La libreria Comunardi di Torino",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/03/26/geografie_librarie_la_libreria_comunardi_di_torino/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Essere madre e figlia insieme. Su “Petite maman” di Céline Sciamma",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/03/26/essere_madre_e_figlia_insieme_su_petite_maman_di_cline_sciamma/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dislocazione dell’estetica ⥀ Dalle frontiere al litorale",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2022/03/26/dislocazione_dellestetica_dalle_frontiere_al_litorale/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dalla materia al Cielo",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/dalla_materia_al_cielo/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Capitano Ulisse di Alberto Savinio",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/03/26/capitano_ulisse_di_alberto_savinio/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Armonie: Intervista a Diamarte, Fuoricasa e Bird",
-      "category" : "mosse-di-seppia",
-      "tags"     : "mosse-di-seppia",
-      "url"      : "/2022/03/26/armonie_intervista_a_diamarte_fuoricasa_e_bird/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Armonia e follia",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2022/03/26/armonia_e_follia/",
-      "date"     : "2022-03-26 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Amicizia tra cuore e cervello solo se sei un gamberetto",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/03/26/amicizia_tra_cuore_e_cervello_solo_se_sei_un_gamberetto/",
-      "date"     : "2022-03-26 00:00:00 +0100"
     } ,
   
     {
