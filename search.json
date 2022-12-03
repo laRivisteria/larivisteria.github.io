@@ -1,6 +1,254 @@
 [
   
     {
+      "title"    : "armi, armi, armi",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/12/03/armi_armi_armi/",
+      "date"     : "2022-12-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Triangle of Sadness” è l’unico film di Östlund con una trama. Ed è il meno bello",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/12/02/triangle_of_sadness_lunico_film_di_stlund_con_una_trama_ed_il_meno_bello/",
+      "date"     : "2022-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Spostamenti #32 | Oksana Stomina",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/12/02/spostamenti_32_oksana_stomina/",
+      "date"     : "2022-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Piramide:triangolo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/12/02/piramidetriangolo/",
+      "date"     : "2022-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’innocenza dei mostri: intervista a Stefano Bonazzi su “Titanio”",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/12/02/linnocenza_dei_mostri_intervista_a_stefano_bonazzi_su_titanio/",
+      "date"     : "2022-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La terza volta la voce gridò",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2022/12/02/la_terza_volta_la_voce_grid/",
+      "date"     : "2022-12-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Una volpe in una foresta di simboli",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/12/01/una_volpe_in_una_foresta_di_simboli/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Triangle of Sadness, passata la sbornia",
+      "category" : "marvin",
+      "tags"     : "marvin",
+      "url"      : "/2022/12/01/triangle_of_sadness_passata_la_sbornia/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Raccontare quello che conosco | Intervista a Bonifacio Angius | Visioni",
+      "category" : "l-eco-del-nulla",
+      "tags"     : "l-eco-del-nulla",
+      "url"      : "/2022/12/01/raccontare_quello_che_conosco_intervista_a_bonifacio_angius_visioni/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Polvere di immagini, polvere di schermi",
+      "category" : "singola",
+      "tags"     : "singola",
+      "url"      : "/2022/12/01/polvere_di_immagini_polvere_di_schermi/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Niccolò Nisivoccia | Quasi una cosmologia",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/12/01/niccol_nisivoccia_quasi_una_cosmologia/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Les nouveaux réalistes: Giovanni Palilla",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/12/01/les_nouveaux_ralistes_giovanni_palilla/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La tempesta di Marino Neri: la linea d’ombra e il voyerismo in un graphic novel straniante",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/12/01/la_tempesta_di_marino_neri_la_linea_dombra_e_il_voyerismo_in_un_graphic_novel_straniante/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il viaggio e la vita nello Scompartimento n.6",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2022/12/01/il_viaggio_e_la_vita_nello_scompartimento_n6/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Hopper Mode”. In dialogo con Antonio Sinisi",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/12/01/hopper_mode_in_dialogo_con_antonio_sinisi/",
+      "date"     : "2022-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Triangle of sadness | Porto sempre del cotone nelle orecchie",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2022/11/30/triangle_of_sadness_porto_sempre_del_cotone_nelle_orecchie/",
+      "date"     : "2022-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Spostamenti #31 | Iya Kiva",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/11/30/spostamenti_31_iya_kiva/",
+      "date"     : "2022-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Ridiscenderà la visione”: Andrea Bricchi, Poesie in prosa",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2022/11/30/ridiscender_la_visione_andrea_bricchi_poesie_in_prosa/",
+      "date"     : "2022-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Negli interstizi vasti del tempo. Su “Tremalume” di Fabio Pusterla",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/11/30/negli_interstizi_vasti_del_tempo_su_tremalume_di_fabio_pusterla/",
+      "date"     : "2022-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Muscolo involontario",
+      "category" : "inutile",
+      "tags"     : "inutile",
+      "url"      : "/2022/11/30/muscolo_involontario/",
+      "date"     : "2022-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Muffa",
+      "category" : "spazinclusi",
+      "tags"     : "spazinclusi",
+      "url"      : "/2022/11/30/muffa/",
+      "date"     : "2022-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Mi ricorderò di te”: l’umanità tecnologica nell’esordio di Mary South",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2022/11/30/mi_ricorder_di_te_lumanit_tecnologica_nellesordio_di_mary_south/",
+      "date"     : "2022-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lettera aperta del Collettivo di Fabbrica – Lavoratori Gkn Firenze || THREEvial Pursuit",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/11/30/lettera_aperta_del_collettivo_di_fabbrica_lavoratori_gkn_firenze_threevial_pursuit/",
+      "date"     : "2022-11-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tessiture di sogno: un’intervista a Ada Vigliani",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/11/29/tessiture_di_sogno_unintervista_a_ada_vigliani/",
+      "date"     : "2022-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Portraits",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/11/29/portraits/",
+      "date"     : "2022-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Pesce friddo",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2022/11/29/pesce_friddo/",
+      "date"     : "2022-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Marco Corsi | Suono, senso, rigenerazione",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/11/29/marco_corsi_suono_senso_rigenerazione/",
+      "date"     : "2022-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Le ceneri dell’esultanza || Art expo di Marco Pace || 15.12.22",
+      "category" : "three-faces",
+      "tags"     : "three-faces",
+      "url"      : "/2022/11/29/le_ceneri_dellesultanza_art_expo_di_marco_pace_151222/",
+      "date"     : "2022-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Debiti",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2022/11/29/debiti/",
+      "date"     : "2022-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Cuori di nebbia di Licia Giaquinto. Una polifonia contemporanea degna di Dostoevskij",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2022/11/29/cuori_di_nebbia_di_licia_giaquinto_una_polifonia_contemporanea_degna_di_dostoevskij/",
+      "date"     : "2022-11-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Audiolibri in inglese: consigli di ascolto su Audible per imparare la lingua",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/11/29/audiolibri_in_inglese_consigli_di_ascolto_su_audible_per_imparare_la_lingua/",
+      "date"     : "2022-11-29 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Tre donne",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
@@ -33,10 +281,34 @@
     } ,
   
     {
+      "title"    : "#Mappe. Bergamo sotto incantesimo",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2022/11/28/mappe_bergamo_sotto_incantesimo/",
+      "date"     : "2022-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Luigia Sorrentino | La fine era lì, dove qualcos’altro cominciava",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2022/11/28/luigia_sorrentino_la_fine_era_l_dove_qualcosaltro_cominciava/",
+      "date"     : "2022-11-28 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "L’isola dei vivi",
       "category" : "morel",
       "tags"     : "morel",
       "url"      : "/2022/11/28/lisola_dei_vivi/",
+      "date"     : "2022-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libri in uscita a dicembre 2022: novità e consigli letterari",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2022/11/28/libri_in_uscita_a_dicembre_2022_novit_e_consigli_letterari/",
       "date"     : "2022-11-28 00:00:00 +0100"
     } ,
   
@@ -77,6 +349,22 @@
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2022/11/28/cos_lanarchia_risponde_david_graeber/",
+      "date"     : "2022-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come i marroni-verdi",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2022/11/28/come_i_marroni-verdi/",
+      "date"     : "2022-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Brevi considerazioni “a favore” della pena di morte",
+      "category" : "smezziamo",
+      "tags"     : "smezziamo",
+      "url"      : "/2022/11/28/brevi_considerazioni_a_favore_della_pena_di_morte/",
       "date"     : "2022-11-28 00:00:00 +0100"
     } ,
   
@@ -39641,42 +39929,10 @@
     } ,
   
     {
-      "title"    : "Zuppetta cerebrale di voluttà infantili. Su L’età delle madri di Vittorio Punzo",
-      "category" : "altri-animali",
-      "tags"     : "altri-animali",
-      "url"      : "/2022/04/21/zuppetta_cerebrale_di_volutt_infantili_su_let_delle_madri_di_vittorio_punzo/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Vittorio Punzo. L’età delle madri",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/04/21/vittorio_punzo_let_delle_madri/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Vita in vendita",
-      "category" : "squadernauti",
-      "tags"     : "squadernauti",
-      "url"      : "/2022/04/21/vita_in_vendita/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Un racconto al giorno in “Di che storia hai bisogno? Parole su misura” di Luca Chieregato",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
       "url"      : "/2022/04/21/un_racconto_al_giorno_in_di_che_storia_hai_bisogno_parole_su_misura_di_luca_chieregato/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Sette Gocce",
-      "category" : "ilda-i-libri-degli-altri",
-      "tags"     : "ilda-i-libri-degli-altri",
-      "url"      : "/2022/04/21/sette_gocce/",
       "date"     : "2022-04-21 00:00:00 +0200"
     } ,
   
@@ -39697,90 +39953,10 @@
     } ,
   
     {
-      "title"    : "Octavia E. Butler – La sera, il giorno e la notte",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2022/04/21/octaviaebutler_la_sera_il_giorno_e_la_notte/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Medeatiche",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/04/21/medeatiche/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Matteo Marangoni. Inediti",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/04/21/matteo_marangoni_inediti/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La storia di uno sguardo | Visioni Imperiali di TresDeca",
-      "category" : "neutopia",
-      "tags"     : "neutopia",
-      "url"      : "/2022/04/21/la_storia_di_uno_sguardo_visioni_imperiali_di_tresdeca/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La famiglia e le sue ferite, implacabile Carrasco",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/04/21/la_famiglia_e_le_sue_ferite_implacabile_carrasco/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Kafka e i campi di forze ⥀ La lettura di Adorno I parte",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2022/04/21/kafka_e_i_campi_di_forze_la_lettura_di_adorno_i_parte/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Issue 29 Virtual Launch Party!",
       "category" : "superstition-review",
       "tags"     : "superstition-review",
       "url"      : "/2022/04/21/issue_29_virtual_launch_party/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Intervista a Emanuela Onorato",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2022/04/21/intervista_a_emanuela_onorato/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Insorgiamo || 28.04.22 || Presentazione con il Collettivo di Fabbrica – Lavoratori Gkn Firenze",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2022/04/21/insorgiamo_280422_presentazione_con_il_collettivo_di_fabbrica_lavoratori_gkn_firenze/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "IN UTERO, di Gianluca Morozzi",
-      "category" : "la-nuova-carne",
-      "tags"     : "la-nuova-carne",
-      "url"      : "/2022/04/21/in_utero_di_gianluca_morozzi/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il terzo capitolo della trilogia delle sorelle del Ku&#39;damm ribadisce l&#39;importanza dell&#39;arte e dei legami femminili: &quot;Il tempo della speranza&quot; di Brigitte Riebe",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2022/04/21/il_terzo_capitolo_della_trilogia_delle_sorelle_del_kudamm_ribadisce_limportanza_dellarte_e_dei_legami_femminili_il_tempo_della_speranza_di_brigi/",
       "date"     : "2022-04-21 00:00:00 +0200"
     } ,
   
@@ -39793,187 +39969,11 @@
     } ,
   
     {
-      "title"    : "“Ha mai letto Jean Genet?”. La Regina dei lettori",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/04/21/ha_mai_letto_jean_genet_la_regina_dei_lettori/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Guida a Remoria",
-      "category" : "not",
-      "tags"     : "not",
-      "url"      : "/2022/04/21/guida_a_remoria/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Federico Morando | Senza motivo apparente",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2022/04/21/federico_morando_senza_motivo_apparente/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Emmanuelle Pagano anteprima. Una volpe a mani nude",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/04/21/emmanuelle_pagano_anteprima_una_volpe_a_mani_nude/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Con il distacco dei sonnambuli”. Elogio di Henry de Montherlant",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/04/21/con_il_distacco_dei_sonnambuli_elogio_di_henry_de_montherlant/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Come diventare fantasma”: storia vera di Mauro Repetto (e un po’ di leggenda)",
-      "category" : "dude-mag",
-      "tags"     : "dude-mag",
-      "url"      : "/2022/04/21/come_diventare_fantasma_storia_vera_di_mauro_repetto_e_un_po_di_leggenda/",
-      "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "A proposito di “Atti di sottomissione” di Megan Nolan",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
       "url"      : "/2022/04/21/a_proposito_di_atti_di_sottomissione_di_megan_nolan/",
       "date"     : "2022-04-21 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Usa: tra razzismo e suprematismo bianco, un articolo di A. Polverosi || THREEvial Pursuit",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2022/04/20/usa_tra_razzismo_e_suprematismo_bianco_un_articolo_di_a_polverosi_threevial_pursuit/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Silena Santoni anteprima.",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/04/20/silena_santoni_anteprima/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "SaràBanda! || 08.05.22 || Indovina la canzone",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2022/04/20/sarbanda_080522_indovina_la_canzone/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "P come fiori",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/04/20/p_come_fiori/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Lo schermo sperimentale di Machinalive e il cinema scomodo di Gianni Serra",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/04/20/lo_schermo_sperimentale_di_machinalive_e_il_cinema_scomodo_di_gianni_serra/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Letteratura e serie tv: come fruirne con coscienza?",
-      "category" : "l-incendiario",
-      "tags"     : "l-incendiario",
-      "url"      : "/2022/04/20/letteratura_e_serie_tv_come_fruirne_con_coscienza/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La nostra sete",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/04/20/la_nostra_sete/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "CRACK Numero 13 – Uguale a tutti gli altri di Samantha Mammarella",
-      "category" : "crack",
-      "tags"     : "crack",
-      "url"      : "/2022/04/20/crack_numero_13_uguale_a_tutti_gli_altri_di_samantha_mammarella/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "CRACK Numero 13 – Tutto Fa di Marco Lazzarotto",
-      "category" : "crack",
-      "tags"     : "crack",
-      "url"      : "/2022/04/20/crack_numero_13_tutto_fa_di_marco_lazzarotto/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "CRACK Numero 13 – Oblio di Andrea Zancanaro",
-      "category" : "crack",
-      "tags"     : "crack",
-      "url"      : "/2022/04/20/crack_numero_13_oblio_di_andrea_zancanaro/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "CRACK Numero 13 – Il Grillo di Francesca Palano",
-      "category" : "crack",
-      "tags"     : "crack",
-      "url"      : "/2022/04/20/crack_numero_13_il_grillo_di_francesca_palano/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "CRACK Numero 13 – Gringo di Andrea Vilasi",
-      "category" : "crack",
-      "tags"     : "crack",
-      "url"      : "/2022/04/20/crack_numero_13_gringo_di_andrea_vilasi/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "CRACK Numero 13 – Figurarsi di Savina Tamborini e Giannino Dari",
-      "category" : "crack",
-      "tags"     : "crack",
-      "url"      : "/2022/04/20/crack_numero_13_figurarsi_di_savina_tamborini_e_giannino_dari/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Corpi minori di Jonathan Bazzi: viaggio alla ricerca del desiderio e del centro gravitazionale. Recensione",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/04/20/corpi_minori_di_jonathan_bazzi_viaggio_alla_ricerca_del_desiderio_e_del_centro_gravitazionale_recensione/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Behemoth e Leviathan exsistent. Carl Schmitt e l’arcano",
-      "category" : "scenari",
-      "tags"     : "scenari",
-      "url"      : "/2022/04/20/behemoth_e_leviathan_exsistent_carl_schmitt_e_larcano/",
-      "date"     : "2022-04-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "AB UMBRA LUMEN. GALLIANI INCONTRA BIBIENA. PIACENZA 23 APRILE - 24 SETTEMBRE 2022",
-      "category" : "voce-blu",
-      "tags"     : "voce-blu",
-      "url"      : "/2022/04/20/ab_umbra_lumen_galliani_incontra_bibiena_piacenza_23_aprile_-_24_settembre_2022/",
-      "date"     : "2022-04-20 00:00:00 +0200"
     } ,
   
     {
