@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "La vita contro il sistema. Charles Péguy, il poeta che ci mette in crisi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/12/24/la_vita_contro_il_sistema_charles_pguy_il_poeta_che_ci_mette_in_crisi/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "I cordoni della poesia n. 8: Disorientamento",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/12/24/i_cordoni_della_poesia_n_8_disorientamento/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Festival letterari del 2023, gli eventi in tutta Italia",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2022/12/24/festival_letterari_del_2023_gli_eventi_in_tutta_italia/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Così parlò Malatestra",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/12/24/cos_parl_malatestra/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Chi è dunque Sonja? L’amore che tiene in equilibrio il mondo. Variazioni dostoevskijane",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/12/24/chi_dunque_sonja_lamore_che_tiene_in_equilibrio_il_mondo_variazioni_dostoevskijane/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alla ricerca del proprio essere autentico: &quot;L&#39;immoralista&quot; di André Gide.",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/12/24/alla_ricerca_del_proprio_essere_autentico_limmoralista_di_andr_gide/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Una parodia esilarante e commovente dei tempi contemporanei in versione fantasy: Kivirähk con il suo &quot;L&#39;uomo che sapeva la lingua dei serpenti&quot;",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -33,6 +81,14 @@
     } ,
   
     {
+      "title"    : "Se non sai cosa fare a Capodanno, allora prenota un viaggio",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/12/23/se_non_sai_cosa_fare_a_capodanno_allora_prenota_un_viaggio/",
+      "date"     : "2022-12-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Rispolverato Pascal D’Angelo, cantore degli emigrati negli Usa",
       "category" : "lucialibri",
       "tags"     : "lucialibri",
@@ -45,6 +101,14 @@
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
       "url"      : "/2022/12/23/nel_nome_del_padre_abb_padre_il_graphic_novel_di_roberto_battestini/",
+      "date"     : "2022-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Natale in pillole – Insalata russa",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/12/23/natale_in_pillole_insalata_russa/",
       "date"     : "2022-12-23 00:00:00 +0100"
     } ,
   
@@ -81,10 +145,34 @@
     } ,
   
     {
+      "title"    : "Gli sport tipici del Natale che tutti (o quasi) praticano",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/12/23/gli_sport_tipici_del_natale_che_tutti_o_quasi_praticano/",
+      "date"     : "2022-12-23 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Cosa leggere durante le feste, secondo noi",
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2022/12/23/cosa_leggere_durante_le_feste_secondo_noi/",
+      "date"     : "2022-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Come se mentre noi parliamo scoppiasse una bomba. Una conversazione con Mattia Signorini",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2022/12/23/come_se_mentre_noi_parliamo_scoppiasse_una_bomba_una_conversazione_con_mattia_signorini/",
+      "date"     : "2022-12-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Buon Natale dal team La Testata!",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/12/23/buon_natale_dal_team_la_testata/",
       "date"     : "2022-12-23 00:00:00 +0100"
     } ,
   
@@ -39857,26 +39945,10 @@
     } ,
   
     {
-      "title"    : "STAR(E) SUL SET di Diabolik o di quel giorno in cui Bologna è diventata Clerville",
-      "category" : "tre-sequenze",
-      "tags"     : "tre-sequenze",
-      "url"      : "/2022/05/10/stare_sul_set_di_diabolik_o_di_quel_giorno_in_cui_bologna_diventata_clerville/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Pringles: la patatina che nasce da un computer",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/05/10/pringles_la_patatina_che_nasce_da_un_computer/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Manifesto del Pi Greco",
-      "category" : "salmace",
-      "tags"     : "salmace",
-      "url"      : "/2022/05/10/manifesto_del_pi_greco/",
       "date"     : "2022-05-10 00:00:00 +0200"
     } ,
   
@@ -39889,82 +39961,10 @@
     } ,
   
     {
-      "title"    : "Il tirocinio della democrazia. Mario Lodi, la scuola e la didattica",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/05/10/il_tirocinio_della_democrazia_mario_lodi_la_scuola_e_la_didattica/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Il racconto del mercoledì: Cattivo Freddy, cattivo di Giuseppe Midolo",
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2022/05/10/il_racconto_del_mercoled_cattivo_freddy_cattivo_di_giuseppe_midolo/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "I Am The Passenger. La metamorfosi di David Bowie negli scatti di Andrew Kent",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/05/10/i_am_the_passenger_la_metamorfosi_di_david_bowie_negli_scatti_di_andrew_kent/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Freaks commenta la Roma in finale in Conference League.",
-      "category" : "droga",
-      "tags"     : "droga",
-      "url"      : "/2022/05/10/freaks_commenta_la_roma_in_finale_in_conference_league/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Drive-in Nights – seconda edizione",
-      "category" : "donne-difettose",
-      "tags"     : "donne-difettose",
-      "url"      : "/2022/05/10/drive-in_nights_seconda_edizione/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Contro la letteratura di intrattenimento… ma perché?",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/05/10/contro_la_letteratura_di_intrattenimento_ma_perch/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Colla, spazzolone, endorfine. Un’incursione dentro Cesco e il Grande Tossico di Luca Pakarov",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/05/10/colla_spazzolone_endorfine_unincursione_dentro_cesco_e_il_grande_tossico_di_luca_pakarov/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Bandiere blu 2022: la Calabria sale a quota 17",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/05/10/bandiere_blu_2022_la_calabria_sale_a_quota_17/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "AAA cercasi lucciole ",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/05/10/aaa_cercasi_lucciole/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "A una certa temperatura",
-      "category" : "clean",
-      "tags"     : "clean",
-      "url"      : "/2022/05/10/a_una_certa_temperatura/",
       "date"     : "2022-05-10 00:00:00 +0200"
     } ,
   
