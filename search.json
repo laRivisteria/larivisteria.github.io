@@ -1,10 +1,66 @@
 [
   
     {
+      "title"    : "“Viene di notte, come un sogno”. Poesia tra le nebbie e i pupi",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2022/12/25/viene_di_notte_come_un_sogno_poesia_tra_le_nebbie_e_i_pupi/",
+      "date"     : "2022-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tungsteno",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2022/12/25/tungsteno/",
+      "date"     : "2022-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sei poesie di Natale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/12/24/sei_poesie_di_natale/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "L’unicità di Alessandro Borghi e Luca Marinelli",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2022/12/24/lunicit_di_alessandro_borghi_e_luca_marinelli/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lol Xmas Special, risate da scartare sotto l’albero",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/12/24/lol_xmas_special_risate_da_scartare_sotto_lalbero/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La vita contro il sistema. Charles Péguy, il poeta che ci mette in crisi",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/12/24/la_vita_contro_il_sistema_charles_pguy_il_poeta_che_ci_mette_in_crisi/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "LA VERA STORIA DI CALEB E GIOSAFAT, LO SCONTROSO E IL TRANQUILLONE",
+      "category" : "voce-blu",
+      "tags"     : "voce-blu",
+      "url"      : "/2022/12/24/la_vera_storia_di_caleb_e_giosafat_lo_scontroso_e_il_tranquillone/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La notte del pesce a Porta Nolana",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/12/24/la_notte_del_pesce_a_porta_nolana/",
       "date"     : "2022-12-24 00:00:00 +0100"
     } ,
   
@@ -17,10 +73,26 @@
     } ,
   
     {
+      "title"    : "I consigli di lettura #2022 della redazione Poetarum",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2022/12/24/i_consigli_di_lettura_2022_della_redazione_poetarum/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Festival letterari del 2023, gli eventi in tutta Italia",
       "category" : "glicine",
       "tags"     : "glicine",
       "url"      : "/2022/12/24/festival_letterari_del_2023_gli_eventi_in_tutta_italia/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "… e dall’Emilia, anolini in brodo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2022/12/24/e_dallemilia_anolini_in_brodo/",
       "date"     : "2022-12-24 00:00:00 +0100"
     } ,
   
@@ -37,6 +109,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2022/12/24/chi_dunque_sonja_lamore_che_tiene_in_equilibrio_il_mondo_variazioni_dostoevskijane/",
+      "date"     : "2022-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Aver paura della notte: &quot;Senzanome&quot; di Mirfet Piccolo",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2022/12/24/aver_paura_della_notte_senzanome_di_mirfet_piccolo/",
       "date"     : "2022-12-24 00:00:00 +0100"
     } ,
   
@@ -761,10 +841,10 @@
     } ,
   
     {
-      "title"    : "L’avvocato Vincenzo Malinconico in TV",
+      "title"    : "L’avvocato Vincenzo Malinconico visto alla TV",
       "category" : "grado-zero",
       "tags"     : "grado-zero",
-      "url"      : "/2022/12/20/lavvocato_vincenzo_malinconico_in_tv/",
+      "url"      : "/2022/12/20/lavvocato_vincenzo_malinconico_visto_alla_tv/",
       "date"     : "2022-12-20 00:00:00 +0100"
     } ,
   
@@ -39737,14 +39817,6 @@
     } ,
   
     {
-      "title"    : "«Quanto valeva la sua casa? Tutto, se ci abitava una famiglia felice. Altrimenti, niente»: &quot;L&#39;albero della nostra vita&quot; di Joyce Maynard, tra sovrabbondanza e riflessioni importanti",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2022/05/11/quanto_valeva_la_sua_casa_tutto_se_ci_abitava_una_famiglia_felice_altrimenti_niente_lalbero_della_nostra_vita_di_joyce_maynard_tra_sovrabbo/",
-      "date"     : "2022-05-11 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "“Purezza” di Garth Greenwell, fra speranza e terrore",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -39765,14 +39837,6 @@
       "category" : "glicine",
       "tags"     : "glicine",
       "url"      : "/2022/05/11/online_il_nuovo_numero_del_trimestrale_glicine/",
-      "date"     : "2022-05-11 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "L’Ucronia e la storia come genere narrativo",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/05/11/lucronia_e_la_storia_come_genere_narrativo/",
       "date"     : "2022-05-11 00:00:00 +0200"
     } ,
   
@@ -39833,30 +39897,6 @@
     } ,
   
     {
-      "title"    : "Le competenze umane",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/05/11/le_competenze_umane/",
-      "date"     : "2022-05-11 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La notte che arrivai al Café Gijón, il capolavoro di Francisco Umbral",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/05/11/la_notte_che_arrivai_al_caf_gijn_il_capolavoro_di_francisco_umbral/",
-      "date"     : "2022-05-11 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La guerra del dio denaro. Lettera “ai popoli assassinati” di Romain Rolland",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/05/11/la_guerra_del_dio_denaro_lettera_ai_popoli_assassinati_di_romain_rolland/",
-      "date"     : "2022-05-11 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "La fine dell’acqua | Vincenzo Corraro",
       "category" : "zest-letteratura-sostenibile",
       "tags"     : "zest-letteratura-sostenibile",
@@ -39877,14 +39917,6 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2022/05/11/jason_mott_anteprima_che_razza_di_libro/",
-      "date"     : "2022-05-11 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Intorno alla vergognosa pratica dell’autorecensione",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/05/11/intorno_alla_vergognosa_pratica_dellautorecensione/",
       "date"     : "2022-05-11 00:00:00 +0200"
     } ,
   
@@ -39934,38 +39966,6 @@
       "tags"     : "satisfiction",
       "url"      : "/2022/05/11/alessandro_mosc_le_case_dai_tetti_rossi/",
       "date"     : "2022-05-11 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Tarocchi for dummies: III – L’Imperatrice",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/05/10/tarocchi_for_dummies_iii_limperatrice/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Pringles: la patatina che nasce da un computer",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/05/10/pringles_la_patatina_che_nasce_da_un_computer/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Intimo paradiso”. Dialogo con Angelo Di Garbo e Domenico Conoscenti",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/05/10/intimo_paradiso_dialogo_con_angelo_di_garbo_e_domenico_conoscenti/",
-      "date"     : "2022-05-10 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il racconto del mercoledì: Cattivo Freddy, cattivo di Giuseppe Midolo",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/05/10/il_racconto_del_mercoled_cattivo_freddy_cattivo_di_giuseppe_midolo/",
-      "date"     : "2022-05-10 00:00:00 +0200"
     } ,
   
     {
