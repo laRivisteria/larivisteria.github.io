@@ -1,6 +1,38 @@
 [
   
     {
+      "title"    : "“Io sono Dio, io sono l’Infinito”. Artaud o il corpo della verità",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/05/14/io_sono_dio_io_sono_linfinito_artaud_o_il_corpo_della_verit/",
+      "date"     : "2023-05-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Io piango",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2023/05/14/io_piango/",
+      "date"     : "2023-05-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "E la morte non avrà alcun dominio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2023/05/14/e_la_morte_non_avr_alcun_dominio/",
+      "date"     : "2023-05-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#CritiCOMICS - Tutto il peso dei mali (o dei vasi) del mondo: la riscrittura dissacrante del mito di Fabio Pia Mancini in &quot;Unboxing Pandora&quot;",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/05/14/criticomics_-_tutto_il_peso_dei_mali_o_dei_vasi_del_mondo_la_riscrittura_dissacrante_del_mito_di_fabio_pia_mancini_in_unboxing_pandora/",
+      "date"     : "2023-05-14 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vita, morte &amp; vanità nell’opera di Marcovinicio, pittore “sciamanico”",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -9,10 +41,26 @@
     } ,
   
     {
-      "title"    : "Una scala che non è una scala",
-      "category" : "narrandom",
-      "tags"     : "narrandom",
-      "url"      : "/2023/05/13/una_scala_che_non_una_scala/",
+      "title"    : "Una questione di marketing: viaggio nell’horror italiano, pt. 2",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2023/05/13/una_questione_di_marketing_viaggio_nellhorror_italiano_pt_2/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "&quot;Un chilo alla volta&quot; di Irene Vella: la rinascita dopo la malattia dell&#39;obesità",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/05/13/un_chilo_alla_volta_di_irene_vella_la_rinascita_dopo_la_malattia_dellobesit/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Turiste della catastrofe” intervista ad Ilaria Gaspari",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2023/05/13/turiste_della_catastrofe_intervista_ad_ilaria_gaspari/",
       "date"     : "2023-05-13 00:00:00 +0200"
     } ,
   
@@ -25,6 +73,22 @@
     } ,
   
     {
+      "title"    : "Principesse – Intervista a Giusi Marchetta",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2023/05/13/principesse_intervista_a_giusi_marchetta/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Premio Caccuri 2023: annunciati i 4 finalisti",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2023/05/13/premio_caccuri_2023_annunciati_i_4_finalisti/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "“Non amo i contemporanei, ho idee più raffinate”. Frank O’Hara, il poeta dell’odio e della grazia",
       "category" : "pangea",
       "tags"     : "pangea",
@@ -33,10 +97,74 @@
     } ,
   
     {
+      "title"    : "Mille soli",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2023/05/13/mille_soli/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Luoghi di cinema – Green book",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/05/13/luoghi_di_cinema_green_book/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lungo cammino, storia delicata di un uomo in cerca del vuoto",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2023/05/13/lungo_cammino_storia_delicata_di_un_uomo_in_cerca_del_vuoto/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture Femministe Metropolitane #8 stagione 3",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2023/05/13/letture_femministe_metropolitane_8_stagione_3/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervista a Lucio Bellomo, autore di “33 isole”",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2023/05/13/intervista_a_lucio_bellomo_autore_di_33_isole/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Il tempo aiuta a prendere distanza dalle persone o a sentirne di più la mancanza? Ritorna Dola de Jong con il suo &quot;L&#39;albero e la vite&quot;",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
       "url"      : "/2023/05/13/il_tempo_aiuta_a_prendere_distanza_dalle_persone_o_a_sentirne_di_pi_la_mancanza_ritorna_dola_de_jong_con_il_suo_lalbero_e_la_vite/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cassandra a Mogadiscio – Intervista a Igiaba Scego",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2023/05/13/cassandra_a_mogadiscio_intervista_a_igiaba_scego/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Agreste di Tiziano Fratus, intervista a cura di M. D’Arcangelo",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2023/05/13/agreste_di_tiziano_fratus_intervista_a_cura_di_m_darcangelo/",
+      "date"     : "2023-05-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "A forma di Paese: un racconto di Lorenza Venerus",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2023/05/13/a_forma_di_paese_un_racconto_di_lorenza_venerus/",
       "date"     : "2023-05-13 00:00:00 +0200"
     } ,
   
@@ -1301,6 +1429,14 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2023/05/07/giornata_mondiale_croce_rossa_e_mezzaluna_rossa/",
+      "date"     : "2023-05-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Diaphora #1 — Platone poeta d’amore?",
+      "category" : "layout",
+      "tags"     : "layout",
+      "url"      : "/2023/05/07/diaphora_1_platone_poeta_damore/",
       "date"     : "2023-05-07 00:00:00 +0200"
     } ,
   
@@ -39785,54 +39921,6 @@
     } ,
   
     {
-      "title"    : "Spostamenti #21 | Tiziano Fratus",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2022/09/29/spostamenti_21_tiziano_fratus/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Sono difficili le cose belle",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/09/29/sono_difficili_le_cose_belle/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Silenzio 2.0 – Claudia Paesano",
-      "category" : "mosse-di-seppia",
-      "tags"     : "mosse-di-seppia",
-      "url"      : "/2022/09/29/silenzio_20_claudia_paesano/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Sfigurata e sola, ma la poliziotta di Norek non s’arrende",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/09/29/sfigurata_e_sola_ma_la_poliziotta_di_norek_non_sarrende/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Recensioni: “Origami” di Sabatina Napolitano",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/09/29/recensioni_origami_di_sabatina_napolitano/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Mario Bellatin. Poeta cieco",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/09/29/mario_bellatin_poeta_cieco/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Mantide religiosa, perché uccidi il tuo partner maschio?",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39845,94 +39933,6 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2022/09/29/libri_in_uscita_a_ottobre_2022_novit_e_consigli_letterari_da_non_perdere/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Latin Connection",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/09/29/latin_connection/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Jacopo Masini e i santi tutti da ridere della Bassa padana",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/09/29/jacopo_masini_e_i_santi_tutti_da_ridere_della_bassa_padana/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il problema",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/09/29/il_problema/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "I segreti non muoiono mai",
-      "category" : "il-rifugio-dell-ircocervo",
-      "tags"     : "il-rifugio-dell-ircocervo",
-      "url"      : "/2022/09/29/i_segreti_non_muoiono_mai/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "#Gli ironici | Pinguini Arrosto",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/09/29/gli_ironici_pinguini_arrosto/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Eugenia Nicolosi – Patriarcato for dummies",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2022/09/29/eugenia_nicolosi_patriarcato_for_dummies/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Distruggere per creare: dentro l’atelier di Giacometti con Isaku Yanaihara (a cura di Maria Teresa Rovitto)",
-      "category" : "poetarum-silva",
-      "tags"     : "poetarum-silva",
-      "url"      : "/2022/09/29/distruggere_per_creare_dentro_latelier_di_giacometti_con_isaku_yanaihara_a_cura_di_maria_teresa_rovitto/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Borgopoli ⥀ Opera collettiva solarpunk #2",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2022/09/29/borgopoli_opera_collettiva_solarpunk_2/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Blow-Up, lo sguardo sul mondo di Michelangelo Antonioni",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2022/09/29/blow-up_lo_sguardo_sul_mondo_di_michelangelo_antonioni/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Bestseller in Gran Bretagna, arriva il primo volume: &quot;Le lupe di Pompei&quot; di Elodie Harper per Fazi Editore",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2022/09/29/bestseller_in_gran_bretagna_arriva_il_primo_volume_le_lupe_di_pompei_di_elodie_harper_per_fazi_editore/",
-      "date"     : "2022-09-29 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "A musical bad trip || Art Expo a Firenze || 13.10.2022",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2022/09/29/a_musical_bad_trip_art_expo_a_firenze_13102022/",
       "date"     : "2022-09-29 00:00:00 +0200"
     } ,
   
