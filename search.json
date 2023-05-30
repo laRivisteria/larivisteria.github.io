@@ -1,6 +1,158 @@
 [
   
     {
+      "title"    : "Trier",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2023/05/30/trier/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The day after tomorrow | Lei che ti ama e dopo ti disprezza",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2023/05/30/the_day_after_tomorrow_lei_che_ti_ama_e_dopo_ti_disprezza/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sensibile, o la forza della vulnerabilità",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2023/05/30/sensibile_o_la_forza_della_vulnerabilit/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sansone, i filistei e l’Europa di Breivik",
+      "category" : "not",
+      "tags"     : "not",
+      "url"      : "/2023/05/30/sansone_i_filistei_e_leuropa_di_breivik/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ritos de passagem – Cinque poesie di Paula Tavares",
+      "category" : "layout",
+      "tags"     : "layout",
+      "url"      : "/2023/05/30/ritos_de_passagem_cinque_poesie_di_paula_tavares/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ricordo Roberto Roversi",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/05/30/ricordo_roberto_roversi/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Racconto: Qui di seguito, le ragioni – Sara Cordero",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2023/05/30/racconto_qui_di_seguito_le_ragioni_sara_cordero/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Perché Dio sa l’amore dei dirupi”. Sulla poesia di Giammarco di Biase.",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/05/30/perch_dio_sa_lamore_dei_dirupi_sulla_poesia_di_giammarco_di_biase/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Parla, anima, al Dio della poesia”. I versi licenziosi e spirituali di Todros Abulafia",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/05/30/parla_anima_al_dio_della_poesia_i_versi_licenziosi_e_spirituali_di_todros_abulafia/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mio zio, fascista o Alla violenza reazionaria delle istituzioni borghesi rispondiamo con la violenza rivoluzionaria",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2023/05/30/mio_zio_fascista_o_alla_violenza_reazionaria_delle_istituzioni_borghesi_rispondiamo_con_la_violenza_rivoluzionaria/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mariangela Tarì. Terra madre",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/05/30/mariangela_tar_terra_madre/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’uovo di Barbablù",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2023/05/30/luovo_di_barbabl/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La terra che affoga. Rischio idrogeologico e alluvioni",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2023/05/30/la_terra_che_affoga_rischio_idrogeologico_e_alluvioni/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Iperborea, quando l’editoria ha più stile",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2023/05/30/iperborea_quando_leditoria_ha_pi_stile/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il soggetto malinconico, barocco e contemporaneo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2023/05/30/il_soggetto_malinconico_barocco_e_contemporaneo/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il demone dell’analogia #75: Adozione",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2023/05/30/il_demone_dellanalogia_75_adozione/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cosa vuol dire essere una nyai dell’isola di Giava, durante la colonizzazione olandese. &quot;L&#39;isola della memoria&quot; di Dido Michielsen, tratto da una storia vera",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/05/30/cosa_vuol_dire_essere_una_nyai_dellisola_di_giava_durante_la_colonizzazione_olandese_lisola_della_memoria_di_dido_michielsen_tratto_da_una_stor/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cinque ottime ragioni per tacere di Igor Antonio Lipari ⥀ Passaggi",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2023/05/30/cinque_ottime_ragioni_per_tacere_di_igor_antonio_lipari_passaggi/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Borgo d’Autore, dall’1 al 4 giugno a Venosa",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2023/05/30/borgo_dautore_dall1_al_4_giugno_a_venosa/",
+      "date"     : "2023-05-30 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Vive!",
       "category" : "exlibris20",
       "tags"     : "exlibris20",
@@ -21,6 +173,14 @@
       "category" : "voce-blu",
       "tags"     : "voce-blu",
       "url"      : "/2023/05/29/un_ricordo_in_regalo/",
+      "date"     : "2023-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tra pareti fragili e la fuga di un pallone. Il margine nei versi di Gianni Montieri",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2023/05/29/tra_pareti_fragili_e_la_fuga_di_un_pallone_il_margine_nei_versi_di_gianni_montieri/",
       "date"     : "2023-05-29 00:00:00 +0200"
     } ,
   
@@ -65,6 +225,14 @@
     } ,
   
     {
+      "title"    : "Numero 5 : il conflitto",
+      "category" : "quaerere",
+      "tags"     : "quaerere",
+      "url"      : "/2023/05/29/numero_5_il_conflitto/",
+      "date"     : "2023-05-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Norman Mailer inedito. Una dura lezione di scrittura",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -97,6 +265,14 @@
     } ,
   
     {
+      "title"    : "Libri in uscita a giugno 2023: novità e consigli letterari",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2023/05/29/libri_in_uscita_a_giugno_2023_novit_e_consigli_letterari/",
+      "date"     : "2023-05-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Libri amarissimi: una classifica aleatoria",
       "category" : "altri-animali",
       "tags"     : "altri-animali",
@@ -117,6 +293,14 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2023/05/29/la_lucania_dorata_prima_del_sisma_linvidiabile_bravura_di_stolfi/",
+      "date"     : "2023-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La crociata dei bambini: il mito del profeta Stéphane",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/05/29/la_crociata_dei_bambini_il_mito_del_profeta_stphane/",
       "date"     : "2023-05-29 00:00:00 +0200"
     } ,
   
@@ -153,6 +337,14 @@
     } ,
   
     {
+      "title"    : "Huldfólk: chi vive nei boschi? ",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/05/29/huldflk_chi_vive_nei_boschi/",
+      "date"     : "2023-05-29 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Da una fine all’altra: undici parabole vere da CTRL books",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -165,6 +357,14 @@
       "category" : "l-indiscreto",
       "tags"     : "l-indiscreto",
       "url"      : "/2023/05/29/cos_uno_stato_di_coscienza/",
+      "date"     : "2023-05-29 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "An American Manzoni",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/05/29/an_american_manzoni/",
       "date"     : "2023-05-29 00:00:00 +0200"
     } ,
   
@@ -4181,14 +4381,6 @@
       "category" : "poetarum-silva",
       "tags"     : "poetarum-silva",
       "url"      : "/2023/05/05/scrittura_e_annientamento_del_s_decreazione_anne_carson_di_maria_teresa_rovitto/",
-      "date"     : "2023-05-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Ritos de passagem – Cinque poesie di Paula Tavares",
-      "category" : "layout",
-      "tags"     : "layout",
-      "url"      : "/2023/05/05/ritos_de_passagem_cinque_poesie_di_paula_tavares/",
       "date"     : "2023-05-05 00:00:00 +0200"
     } ,
   
@@ -39569,14 +39761,6 @@
     } ,
   
     {
-      "title"    : "“Vi aleggia il soffio dell’aldilà”. L’ossessione musicale di Cioran",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/10/14/vi_aleggia_il_soffio_dellaldil_lossessione_musicale_di_cioran/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Vanessa Beecroft a Cinecittà",
       "category" : "minima-et-moralia",
       "tags"     : "minima-et-moralia",
@@ -39601,14 +39785,6 @@
     } ,
   
     {
-      "title"    : "Steve Jones. Lonely Boy. La storia di un Sex Pistol",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/10/14/steve_jones_lonely_boy_la_storia_di_un_sex_pistol/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Solar Opposites: tra satira e fantascienza alla scoperta dell’umanità",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39617,26 +39793,10 @@
     } ,
   
     {
-      "title"    : "Serpentez ! Due estratti da “Ma ralentie” di Odile Cornuz",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/10/14/serpentez_due_estratti_da_ma_ralentie_di_odile_cornuz/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Ritorno a casa: un racconto fantasy di Andrea Corina",
       "category" : "chiacchiere-letterarie",
       "tags"     : "chiacchiere-letterarie",
       "url"      : "/2022/10/14/ritorno_a_casa_un_racconto_fantasy_di_andrea_corina/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Rifiuti tra le onde",
-      "category" : "singola",
-      "tags"     : "singola",
-      "url"      : "/2022/10/14/rifiuti_tra_le_onde/",
       "date"     : "2022-10-14 00:00:00 +0200"
     } ,
   
@@ -39689,14 +39849,6 @@
     } ,
   
     {
-      "title"    : "Mara Munerati. Le cose che restano",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/10/14/mara_munerati_le_cose_che_restano/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Mappa fisica del desiderio: il ‘Portolano del corpo’ di Nicola Dal Falco (a cura di Annachiara Atzei)",
       "category" : "poetarum-silva",
       "tags"     : "poetarum-silva",
@@ -39709,14 +39861,6 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2022/10/14/magliani_la_malinconia_una_posizione_dello_sguardo/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Lux",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2022/10/14/lux/",
       "date"     : "2022-10-14 00:00:00 +0200"
     } ,
   
@@ -39737,14 +39881,6 @@
     } ,
   
     {
-      "title"    : "L’avversione di Tonino per i ceci e i polacchi",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2022/10/14/lavversione_di_tonino_per_i_ceci_e_i_polacchi/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "La zona viva innescata di Antonio Moresco: su “Giochi dell’eternità”",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -39753,26 +39889,10 @@
     } ,
   
     {
-      "title"    : "La conferma del talento di un autore amato da pubblico e critica statunitense, l&#39;invenzione letteraria che si intreccia alle pagine più oscure della storia: &quot;La terra d&#39;ombra&quot;, di Ron Rash",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2022/10/14/la_conferma_del_talento_di_un_autore_amato_da_pubblico_e_critica_statunitense_linvenzione_letteraria_che_si_intreccia_alle_pagine_pi_oscure_della_s/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "In volo",
       "category" : "biró",
       "tags"     : "biró",
       "url"      : "/2022/10/14/in_volo/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il mondo plurale di Bruno Latour",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/10/14/il_mondo_plurale_di_bruno_latour/",
       "date"     : "2022-10-14 00:00:00 +0200"
     } ,
   
@@ -39809,14 +39929,6 @@
     } ,
   
     {
-      "title"    : "“Faccio a meno del Paradiso”. Elogio di Arthur Waley, l’uomo che ha inventato l’Estremo Oriente",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/10/14/faccio_a_meno_del_paradiso_elogio_di_arthur_waley_luomo_che_ha_inventato_lestremo_oriente/",
-      "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "«Che cos’è esattamente una droga?»: “Piante che cambiano la mente” di Michael Pollan",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -39830,118 +39942,6 @@
       "tags"     : "superstition-review",
       "url"      : "/2022/10/14/biggies_life_after_death_a_guest_post_by_brian_huba/",
       "date"     : "2022-10-14 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Veronica Franco, illustre poetessa del ‘500",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/10/13/veronica_franco_illustre_poetessa_del_500/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Vandalizziamo il soggetto",
-      "category" : "not",
-      "tags"     : "not",
-      "url"      : "/2022/10/13/vandalizziamo_il_soggetto/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Super Tramp Club: la gen Z che cura un progetto editoriale di storie vagabonde",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2022/10/13/super_tramp_club_la_gen_z_che_cura_un_progetto_editoriale_di_storie_vagabonde/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Stefano Bonazzi",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/10/13/stefano_bonazzi/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Sei incantevoli sovversive. Incantagioni di Mariano Tomatis",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/10/13/sei_incantevoli_sovversive_incantagioni_di_mariano_tomatis/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Scrivere un libro per conoscere il proprio padre: &quot;Il posto&quot; di Annie Ernaux",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2022/10/13/scrivere_un_libro_per_conoscere_il_proprio_padre_il_posto_di_annie_ernaux/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Quaderni segreti di un giovane omicida",
-      "category" : "marvin",
-      "tags"     : "marvin",
-      "url"      : "/2022/10/13/quaderni_segreti_di_un_giovane_omicida/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Lo sguardo di Gesù. Pagine di Misericordia”, emozionanti storie di vita di ispirazione evangelica",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2022/10/13/lo_sguardo_di_ges_pagine_di_misericordia_emozionanti_storie_di_vita_di_ispirazione_evangelica/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Isabelle Eberhardt, il cavaliere delle dune",
-      "category" : "quaerere",
-      "tags"     : "quaerere",
-      "url"      : "/2022/10/13/isabelle_eberhardt_il_cavaliere_delle_dune/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il futuro era ieri",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2022/10/13/il_futuro_era_ieri/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Gli esemplari",
-      "category" : "la-nuova-carne",
-      "tags"     : "la-nuova-carne",
-      "url"      : "/2022/10/13/gli_esemplari/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "FoodPic – Più sushi per tutti",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/10/13/foodpic_pi_sushi_per_tutti/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Bruno Latour, resettare la modernità",
-      "category" : "scenari",
-      "tags"     : "scenari",
-      "url"      : "/2022/10/13/bruno_latour_resettare_la_modernit/",
-      "date"     : "2022-10-13 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Adriana Deminicis – Da un Poemetto alla Luna. I fiori di Gelsomino",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2022/10/13/adriana_deminicis_da_un_poemetto_alla_luna_i_fiori_di_gelsomino/",
-      "date"     : "2022-10-13 00:00:00 +0200"
     } ,
   
     {
