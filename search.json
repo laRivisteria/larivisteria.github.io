@@ -1,6 +1,118 @@
 [
   
     {
+      "title"    : "Una questione di famiglia, solitudine e perdita nella narrativa di Chris Offutt",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2023/08/22/una_questione_di_famiglia_solitudine_e_perdita_nella_narrativa_di_chris_offutt/",
+      "date"     : "2023-08-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Salario minimo perché volere non è potere",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/08/22/salario_minimo_perch_volere_non_potere/",
+      "date"     : "2023-08-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Paure e feticci del futuro ( dettagli)",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2023/08/22/paure_e_feticci_del_futuro_dettagli/",
+      "date"     : "2023-08-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“L’eternità è un bel posto: me lo tengo stretto in questi tempi oscuri”. Sulla poesia di Miodrag Pavlović",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/08/22/leternit_un_bel_posto_me_lo_tengo_stretto_in_questi_tempi_oscuri_sulla_poesia_di_miodrag_pavlovi/",
+      "date"     : "2023-08-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Intervallo di terza | Il bar",
+      "category" : "in-fuga-dalla-bocciofila",
+      "tags"     : "in-fuga-dalla-bocciofila",
+      "url"      : "/2023/08/22/intervallo_di_terza_il_bar/",
+      "date"     : "2023-08-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Siamo figli del desiderio quindi ci evolviamo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/08/21/siamo_figli_del_desiderio_quindi_ci_evolviamo/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Modalità lettura decontestualizzata",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2023/08/21/modalit_lettura_decontestualizzata/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Memorie di una testa decapitata. Invasi d’arte. Fine dell’estate in attesa della fine del Tutto.",
+      "category" : "biblon",
+      "tags"     : "biblon",
+      "url"      : "/2023/08/21/memorie_di_una_testa_decapitata_invasi_darte_fine_dellestate_in_attesa_della_fine_del_tutto/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le conseguenze",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2023/08/21/le_conseguenze/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ipotesi del vero. Lettera aperta per Giorgio Ghiotti",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2023/08/21/ipotesi_del_vero_lettera_aperta_per_giorgio_ghiotti/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il progetto Montauk, la teoria del complotto  che ha ispirato i creatori di Stranger Things",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/08/21/il_progetto_montauk_la_teoria_del_complotto_che_ha_ispirato_i_creatori_di_stranger_things/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I triangoli d’amore di Drieu La Rochelle. Rileggiamo “Beloukia”, un romanzo spiazzante",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/08/21/i_triangoli_damore_di_drieu_la_rochelle_rileggiamo_beloukia_un_romanzo_spiazzante/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I 5 albi illustrati da non perdere in estate (dopo paletta e secchiello)",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/08/21/i_5_albi_illustrati_da_non_perdere_in_estate_dopo_paletta_e_secchiello/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Dio è il mio sole, la sua vicinanza acceca”. Sulle Odi di Salomone, un canzoniere alchemico",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/08/21/dio_il_mio_sole_la_sua_vicinanza_acceca_sulle_odi_di_salomone_un_canzoniere_alchemico/",
+      "date"     : "2023-08-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "«Vorrei che tutta la mia vita fosse una domenica mattina spagnola»: digressioni e divagazioni sull’arte, sulla storia e il paesaggio spagnoli dell’olandese Cees Nooteboom",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -25,10 +137,50 @@
     } ,
   
     {
+      "title"    : "Mikhail Gorbaciov: nato sovietico, morto russo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/08/20/mikhail_gorbaciov_nato_sovietico_morto_russo/",
+      "date"     : "2023-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Junk: armadi pieni, il vero backstage della moda",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/08/20/junk_armadi_pieni_il_vero_backstage_della_moda/",
+      "date"     : "2023-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Inda, Istituto Nazionale del Dramma Antico. In dialogo con Valeria Told",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2023/08/20/inda_istituto_nazionale_del_dramma_antico_in_dialogo_con_valeria_told/",
+      "date"     : "2023-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il cerchio perfetto di Claudia Petrucci: un romanzo di case e fantasmi in cui niente è come sembra. Recensione",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2023/08/20/il_cerchio_perfetto_di_claudia_petrucci_un_romanzo_di_case_e_fantasmi_in_cui_niente_come_sembra_recensione/",
+      "date"     : "2023-08-20 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Filosofia di Stranger Things – Intervista a Selena Pastorino",
       "category" : "l-appeso",
       "tags"     : "l-appeso",
       "url"      : "/2023/08/20/filosofia_di_stranger_things_intervista_a_selena_pastorino/",
+      "date"     : "2023-08-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Amore in polistirene",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/08/20/amore_in_polistirene/",
       "date"     : "2023-08-20 00:00:00 +0200"
     } ,
   
@@ -3493,14 +3645,6 @@
       "category" : "inverso",
       "tags"     : "inverso",
       "url"      : "/2023/07/20/stefano_bottero_notturno_formale/",
-      "date"     : "2023-07-20 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Siamo figli del desiderio quindi ci evolviamo",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/07/20/siamo_figli_del_desiderio_quindi_ci_evolviamo/",
       "date"     : "2023-07-20 00:00:00 +0200"
     } ,
   
@@ -39721,26 +39865,10 @@
     } ,
   
     {
-      "title"    : "Un inseguimento rocambolesco dall’Inghilterra al Nuovo Mondo. Il primo romanzo storico di Robert Harris: &quot;Oblio e perdono&quot;",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2022/12/21/un_inseguimento_rocambolesco_dallinghilterra_al_nuovo_mondo_il_primo_romanzo_storico_di_robert_harris_oblio_e_perdono/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Un giorno come un altro",
       "category" : "squadernauti",
       "tags"     : "squadernauti",
       "url"      : "/2022/12/21/un_giorno_come_un_altro/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Turrisi Colonna, tra anima cosmopolita e radici fortissime",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2022/12/21/turrisi_colonna_tra_anima_cosmopolita_e_radici_fortissime/",
       "date"     : "2022-12-21 00:00:00 +0100"
     } ,
   
@@ -39761,14 +39889,6 @@
     } ,
   
     {
-      "title"    : "Radiazione di fondo",
-      "category" : "suite-italiana",
-      "tags"     : "suite-italiana",
-      "url"      : "/2022/12/21/radiazione_di_fondo/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Paris, la ville du Noël",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39777,26 +39897,10 @@
     } ,
   
     {
-      "title"    : "“Ogni estremo dei mali un bene annuncia”. Intorno a una poesia di Umberto Saba",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/12/21/ogni_estremo_dei_mali_un_bene_annuncia_intorno_a_una_poesia_di_umberto_saba/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Natale in pillole – Polpo all’insalata",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/12/21/natale_in_pillole_polpo_allinsalata/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Magia e morte, erotismo e malinconia: breviario di cultura giapponese",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2022/12/21/magia_e_morte_erotismo_e_malinconia_breviario_di_cultura_giapponese/",
       "date"     : "2022-12-21 00:00:00 +0100"
     } ,
   
@@ -39817,14 +39921,6 @@
     } ,
   
     {
-      "title"    : "Le religioni sono incompatibili?",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2022/12/21/le_religioni_sono_incompatibili/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Le Energie rinnovabili protagoniste del nostro futuro",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39833,26 +39929,10 @@
     } ,
   
     {
-      "title"    : "La promessa del seme",
-      "category" : "inutile",
-      "tags"     : "inutile",
-      "url"      : "/2022/12/21/la_promessa_del_seme/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "La poesia del natale: otto consigli di poesia",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
       "url"      : "/2022/12/21/la_poesia_del_natale_otto_consigli_di_poesia/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La più recondita memoria degli uomini",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2022/12/21/la_pi_recondita_memoria_degli_uomini/",
       "date"     : "2022-12-21 00:00:00 +0100"
     } ,
   
@@ -39881,14 +39961,6 @@
     } ,
   
     {
-      "title"    : "Il coccodrillo",
-      "category" : "spazinclusi",
-      "tags"     : "spazinclusi",
-      "url"      : "/2022/12/21/il_coccodrillo/",
-      "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Da “silenzio, soglia d’acqua” – Loriana d’Ari",
       "category" : "la-morte-per-acqua",
       "tags"     : "la-morte-per-acqua",
@@ -39902,78 +39974,6 @@
       "tags"     : "la-testata-magazine",
       "url"      : "/2022/12/21/cop15_accordo_storico_a_montreal/",
       "date"     : "2022-12-21 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Spostamenti #35 | Elina Svetsytska",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2022/12/20/spostamenti_35_elina_svetsytska/",
-      "date"     : "2022-12-20 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Natale in pillole – Tortellini in brodo di gallina",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/12/20/natale_in_pillole_tortellini_in_brodo_di_gallina/",
-      "date"     : "2022-12-20 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Luca Masala – Dappertutto stando fermi",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2022/12/20/luca_masala_dappertutto_stando_fermi/",
-      "date"     : "2022-12-20 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il cannibale nell’armadio. Il caso Dahmer e la rappresentazione queer",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2022/12/20/il_cannibale_nellarmadio_il_caso_dahmer_e_la_rappresentazione_queer/",
-      "date"     : "2022-12-20 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Gugliate d’autrice: la scrittura è tessere trame. “Per ogni parola perduta” il  nuovo libro di Benedetta Cibrario",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2022/12/20/gugliate_dautrice_la_scrittura_tessere_trame_per_ogni_parola_perduta_il_nuovo_libro_di_benedetta_cibrario/",
-      "date"     : "2022-12-20 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dio non ha salvato la Regina | In Translation",
-      "category" : "l-eco-del-nulla",
-      "tags"     : "l-eco-del-nulla",
-      "url"      : "/2022/12/20/dio_non_ha_salvato_la_regina_in_translation/",
-      "date"     : "2022-12-20 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cosa cucini a natale? In Europa",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/12/20/cosa_cucini_a_natale_in_europa/",
-      "date"     : "2022-12-20 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Centoventidue",
-      "category" : "salmace",
-      "tags"     : "salmace",
-      "url"      : "/2022/12/20/centoventidue/",
-      "date"     : "2022-12-20 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "5 libri per un magico Natale",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2022/12/20/5_libri_per_un_magico_natale/",
-      "date"     : "2022-12-20 00:00:00 +0100"
     } ,
   
     {
