@@ -1,6 +1,462 @@
 [
   
     {
+      "title"    : "Un padre, un figlio, il mare infinito: «Grande oceano» di Brochard-Castex e Grolleau",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/10/07/un_padre_un_figlio_il_mare_infinito_grande_oceano_di_brochard-castex_e_grolleau/",
+      "date"     : "2023-10-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scrittore per strada: Intervista a Walter Lazzarin",
+      "category" : "l-incendiario",
+      "tags"     : "l-incendiario",
+      "url"      : "/2023/10/07/scrittore_per_strada_intervista_a_walter_lazzarin/",
+      "date"     : "2023-10-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pagano, quel volo dal tetto non convince la magistrata…",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2023/10/07/pagano_quel_volo_dal_tetto_non_convince_la_magistrata/",
+      "date"     : "2023-10-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "non è una cosa sola",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2023/10/07/non_una_cosa_sola/",
+      "date"     : "2023-10-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Mai mettere due galli in un pollaio. Il buon senso dei Premi, dal Nobel allo Strega",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/10/07/mai_mettere_due_galli_in_un_pollaio_il_buon_senso_dei_premi_dal_nobel_allo_strega/",
+      "date"     : "2023-10-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "#CritiCOMICS - Il patriarcato crea mostri e i mostri si vendicano: la graphic novel di Jude Ellison Sady Doyle",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/10/07/criticomics_-_il_patriarcato_crea_mostri_e_i_mostri_si_vendicano_la_graphic_novel_di_jude_ellison_sady_doyle/",
+      "date"     : "2023-10-07 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Vince Gilligan e M. Night Shyamalan maestri da seguire. Intervista a Barbara Petronio",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/10/06/vince_gilligan_e_m_night_shyamalan_maestri_da_seguire_intervista_a_barbara_petronio/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Spring Fever by Thomas Legendre",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2023/10/06/spring_fever_by_thomas_legendre/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Snuff box: poesia e presa di parola | Un sommario",
+      "category" : "layout",
+      "tags"     : "layout",
+      "url"      : "/2023/10/06/snuff_box_poesia_e_presa_di_parola_un_sommario/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sfruttazero: a colpi di salsa contro il caporalato",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/10/06/sfruttazero_a_colpi_di_salsa_contro_il_caporalato/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Quartieri scongelati",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/10/06/quartieri_scongelati/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Orti Manara, il lavoro fra perfidia, pregiudizi e competizione",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2023/10/06/orti_manara_il_lavoro_fra_perfidia_pregiudizi_e_competizione/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Non si è persuaso che lui non esiste. Giovanni Papini ci racconta &quot;Il diavolo&quot;",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/10/06/non_si_persuaso_che_lui_non_esiste_giovanni_papini_ci_racconta_il_diavolo/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Non mi interessa la scienza, ma la pazzia che proviene dalla ragione”. Dialogo con Benjamin Labatut, un elfo",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/10/06/non_mi_interessa_la_scienza_ma_la_pazzia_che_proviene_dalla_ragione_dialogo_con_benjamin_labatut_un_elfo/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Noi c’eravamo – Intervista ad Irene Facheris",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2023/10/06/noi_ceravamo_intervista_ad_irene_facheris/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Medioevo e Modernità: dialettiche essenziali oltre lo sguardo storico",
+      "category" : "scenari",
+      "tags"     : "scenari",
+      "url"      : "/2023/10/06/medioevo_e_modernit_dialettiche_essenziali_oltre_lo_sguardo_storico/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lo rivoluzione dei rapporti familiari e sentimentali in &quot;Tra oggi e domani&quot; di Carmen Korn: gli anni Sessanta tra Colonia, Amburgo e Sanremo",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/10/06/lo_rivoluzione_dei_rapporti_familiari_e_sentimentali_in_tra_oggi_e_domani_di_carmen_korn_gli_anni_sessanta_tra_colonia_amburgo_e_sanremo/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’illuminismo mio e tuo. Il carteggio tra Calvino e Sciascia",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2023/10/06/lilluminismo_mio_e_tuo_il_carteggio_tra_calvino_e_sciascia/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Letture Femministe Metropolitane #2 stagione 4",
+      "category" : "letture-metropolitane",
+      "tags"     : "letture-metropolitane",
+      "url"      : "/2023/10/06/letture_femministe_metropolitane_2_stagione_4/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lettera ai giovani influencer (facilmente influenzabili): leggete Seneca",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/10/06/lettera_ai_giovani_influencer_facilmente_influenzabili_leggete_seneca/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "L’animale, tra favole e processi",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2023/10/06/lanimale_tra_favole_e_processi/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La pioggia",
+      "category" : "l-equivoco",
+      "tags"     : "l-equivoco",
+      "url"      : "/2023/10/06/la_pioggia/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La boxe nella scrittura di Joyce Carol Oates",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2023/10/06/la_boxe_nella_scrittura_di_joyce_carol_oates/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il sapore dell’acqua",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2023/10/06/il_sapore_dellacqua/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "IL PROPOSITO DEI FIORI",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2023/10/06/il_proposito_dei_fiori/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gabriela Ponce. Sanguigna",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/10/06/gabriela_ponce_sanguigna/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Frank B. Linderman anteprima. Attorno al fuoco",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/10/06/frank_b_linderman_anteprima_attorno_al_fuoco/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fotografie iconiche – La bambina e l’avvoltoio",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/10/06/fotografie_iconiche_la_bambina_e_lavvoltoio/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Fango",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2023/10/06/fango/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cos’è il poetry slam e perché sta diventando la moda del momento (di Maria Oppo)",
+      "category" : "poetarum-silva",
+      "tags"     : "poetarum-silva",
+      "url"      : "/2023/10/06/cos_il_poetry_slam_e_perch_sta_diventando_la_moda_del_momento_di_maria_oppo/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Certi padri",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2023/10/06/certi_padri/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Americana. Le migliori antologie sono sempre pericolose.",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2023/10/06/americana_le_migliori_antologie_sono_sempre_pericolose/",
+      "date"     : "2023-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Una celebrazione del desiderio e dell&#39;amore in tutte le sue forme: trecentomila baci da Catullo a Saffo",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/10/05/una_celebrazione_del_desiderio_e_dellamore_in_tutte_le_sue_forme_trecentomila_baci_da_catullo_a_saffo/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Transizione verde",
+      "category" : "exlibris20",
+      "tags"     : "exlibris20",
+      "url"      : "/2023/10/05/transizione_verde/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ricordi scordati",
+      "category" : "offline",
+      "tags"     : "offline",
+      "url"      : "/2023/10/05/ricordi_scordati/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rick Bass anteprima. La vita delle rocce",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/10/05/rick_bass_anteprima_la_vita_delle_rocce/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Restare autori. Autorialità, agency e appagamento nell’era dell’IA generativa",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2023/10/05/restare_autori_autorialit_agency_e_appagamento_nellera_dellia_generativa/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Parresia ovvero il coraggio filosofico",
+      "category" : "la-tigre-di-carta",
+      "tags"     : "la-tigre-di-carta",
+      "url"      : "/2023/10/05/parresia_ovvero_il_coraggio_filosofico/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "«Operaprima»: l&#39;esordio di Simone Salomoni",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/10/05/operaprima_lesordio_di_simone_salomoni/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "NEL POZZO",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2023/10/05/nel_pozzo/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Né carini, né coccolosi – Lo scimpanzè",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/10/05/n_carini_n_coccolosi_lo_scimpanz/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Michele Monina. Il mondo per il verso giusto",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/10/05/michele_monina_il_mondo_per_il_verso_giusto/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Live action: creatività limitata o grande scelta di marketing?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/10/05/live_action_creativit_limitata_o_grande_scelta_di_marketing/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le parti sane",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2023/10/05/le_parti_sane/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Kimbo e Ciccio Merolla insieme per il territorio partenopeo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/10/05/kimbo_e_ciccio_merolla_insieme_per_il_territorio_partenopeo/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Jon Fosse è il Premio Nobel per la Letteratura del 2023",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2023/10/05/jon_fosse_il_premio_nobel_per_la_letteratura_del_2023/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "John Steinbeck inedito. Sull’amore",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/10/05/john_steinbeck_inedito_sullamore/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il conflitto generazionale in Gay bar",
+      "category" : "il-rifugio-dell-ircocervo",
+      "tags"     : "il-rifugio-dell-ircocervo",
+      "url"      : "/2023/10/05/il_conflitto_generazionale_in_gay_bar/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il Book Pride fa tappa a Genova e torna Portici di Carta a Torino. Gli eventi letterari di ottobre 2023 da non perdere",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2023/10/05/il_book_pride_fa_tappa_a_genova_e_torna_portici_di_carta_a_torino_gli_eventi_letterari_di_ottobre_2023_da_non_perdere/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ida Travi | Jani l’ora della cancellatura",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2023/10/05/ida_travi_jani_lora_della_cancellatura/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I “sette libri per l’autunno” di… Piero Onorato",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2023/10/05/i_sette_libri_per_lautunno_di_piero_onorato/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Francesca Gentili – Nel tuo giorno",
+      "category" : "the-bookish-explorer",
+      "tags"     : "the-bookish-explorer",
+      "url"      : "/2023/10/05/francesca_gentili_nel_tuo_giorno/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Forme del conflitto ⥀ “Lottare per le idee” di Giuseppe Muraca",
+      "category" : "argo",
+      "tags"     : "argo",
+      "url"      : "/2023/10/05/forme_del_conflitto_lottare_per_le_idee_di_giuseppe_muraca/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dante Arfelli: perdersi nel proprio oblio con stile. Storia di un libro memorabile",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/10/05/dante_arfelli_perdersi_nel_proprio_oblio_con_stile_storia_di_un_libro_memorabile/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come liberarsi nel bosco",
+      "category" : "in-allarmata-radura",
+      "tags"     : "in-allarmata-radura",
+      "url"      : "/2023/10/05/come_liberarsi_nel_bosco/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Come la πόρνη-grafia",
+      "category" : "satisfiction",
+      "tags"     : "satisfiction",
+      "url"      : "/2023/10/05/come_la_-grafia/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "“Addio a tutto, tutto è vanità”. Anne Bradstreet, la poetessa-pioniere che adorava il fuoco",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2023/10/05/addio_a_tutto_tutto_vanit_anne_bradstreet_la_poetessa-pioniere_che_adorava_il_fuoco/",
+      "date"     : "2023-10-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "«Una tempesta di ferocia terribile e inquietante»: “La notte rossa” di Rebecca Godfrey",
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
@@ -9,10 +465,58 @@
     } ,
   
     {
+      "title"    : "Ultime schegge di luce nel buio al capolinea della nostra esistenza: &quot;L&#39;età grande&quot; di Gabriella Caramore",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2023/10/04/ultime_schegge_di_luce_nel_buio_al_capolinea_della_nostra_esistenza_let_grande_di_gabriella_caramore/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Tu ami il lavoro, ma lui non ama te",
+      "category" : "l-indiscreto",
+      "tags"     : "l-indiscreto",
+      "url"      : "/2023/10/04/tu_ami_il_lavoro_ma_lui_non_ama_te/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sui vivi, e i morti. L’estate in cui mia madre ebbe gli occhi verdi di Tatiana Țîbuleac",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2023/10/04/sui_vivi_e_i_morti_lestate_in_cui_mia_madre_ebbe_gli_occhi_verdi_di_tatiana_buleac/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sex education 4: è una serie provocatoria e frivola o preziosa per gli adolescenti?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/10/04/sex_education_4_una_serie_provocatoria_e_frivola_o_preziosa_per_gli_adolescenti/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Regīna Ezera. L’uomo ha bisogno del cane",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2023/10/04/regna_ezera_luomo_ha_bisogno_del_cane/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Recensioni: “La piccinina” di Silvia Montemurro",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2023/10/04/recensioni_la_piccinina_di_silvia_montemurro/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Parole in folle | Spettacolo di slam poetry e spoken word",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2023/10/04/parole_in_folle_spettacolo_di_slam_poetry_e_spoken_word/",
       "date"     : "2023-10-04 00:00:00 +0200"
     } ,
   
@@ -33,10 +537,26 @@
     } ,
   
     {
+      "title"    : "Margaret Atwood in Italia",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2023/10/04/margaret_atwood_in_italia/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "L’architettura di un processo invisibile",
       "category" : "quaerere",
       "tags"     : "quaerere",
       "url"      : "/2023/10/04/larchitettura_di_un_processo_invisibile/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La realtà oltre l’immagine. La Polaroid tra unicità e identità",
+      "category" : "minima-et-moralia",
+      "tags"     : "minima-et-moralia",
+      "url"      : "/2023/10/04/la_realt_oltre_limmagine_la_polaroid_tra_unicit_e_identit/",
       "date"     : "2023-10-04 00:00:00 +0200"
     } ,
   
@@ -57,10 +577,42 @@
     } ,
   
     {
+      "title"    : "Jenny Wu’s Continued Success",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2023/10/04/jenny_wus_continued_success/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il bisogno e la necessità",
+      "category" : "senzadieci",
+      "tags"     : "senzadieci",
+      "url"      : "/2023/10/04/il_bisogno_e_la_necessit/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Gli Dèi inattuali. Ernst Jünger e la Biennale di Venezia: Arte, Tempo e Morte nell’epoca della Tecnica",
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2023/10/04/gli_di_inattuali_ernst_jnger_e_la_biennale_di_venezia_arte_tempo_e_morte_nellepoca_della_tecnica/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Giornate FAI d’Autunno, i luoghi visitabili in Calabria sabato 14 e domenica 15 ottobre",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2023/10/04/giornate_fai_dautunno_i_luoghi_visitabili_in_calabria_sabato_14_e_domenica_15_ottobre/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dozzini, il console, la ballerina e la piccola Resistenza",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2023/10/04/dozzini_il_console_la_ballerina_e_la_piccola_resistenza/",
       "date"     : "2023-10-04 00:00:00 +0200"
     } ,
   
@@ -73,10 +625,26 @@
     } ,
   
     {
+      "title"    : "balistica – Gabriele Doria",
+      "category" : "la-morte-per-acqua",
+      "tags"     : "la-morte-per-acqua",
+      "url"      : "/2023/10/04/balistica_gabriele_doria/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Allerta meteo",
       "category" : "inutile",
       "tags"     : "inutile",
       "url"      : "/2023/10/04/allerta_meteo/",
+      "date"     : "2023-10-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Al confine. Vite segnate dal potere dei luoghi",
+      "category" : "limina",
+      "tags"     : "limina",
+      "url"      : "/2023/10/04/al_confine_vite_segnate_dal_potere_dei_luoghi/",
       "date"     : "2023-10-04 00:00:00 +0200"
     } ,
   
@@ -3981,14 +4549,6 @@
       "category" : "lucialibri",
       "tags"     : "lucialibri",
       "url"      : "/2023/09/11/l11_settembre_in_cui_nixon_e_kissinger_spodestarono_allende/",
-      "date"     : "2023-09-11 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Distinguished Visiting Writers Series Features Norma Cantú &amp; Denice Frohman",
-      "category" : "superstition-review",
-      "tags"     : "superstition-review",
-      "url"      : "/2023/09/11/distinguished_visiting_writers_series_features_norma_cant_denice_frohman/",
       "date"     : "2023-09-11 00:00:00 +0200"
     } ,
   
@@ -39401,571 +39961,11 @@
     } ,
   
     {
-      "title"    : "Verso Macerie culturali || Expo fotografica di Geraldine Cella || 03.02.23",
-      "category" : "three-faces",
-      "tags"     : "three-faces",
-      "url"      : "/2023/01/30/verso_macerie_culturali_expo_fotografica_di_geraldine_cella_030223/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Un gioco di maschere: traduzioni dialettali da Shakespeare",
-      "category" : "il-rifugio-dell-ircocervo",
-      "tags"     : "il-rifugio-dell-ircocervo",
-      "url"      : "/2023/01/30/un_gioco_di_maschere_traduzioni_dialettali_da_shakespeare/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Un estratto da “Grande fiume senza cuore” di Giulio Pedani",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2023/01/30/un_estratto_da_grande_fiume_senza_cuore_di_giulio_pedani/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Tutto il grottesco dell&#39;esistenza nella tragi-&quot;Comica finale&quot; di Kurt Vonnegut",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/01/30/tutto_il_grottesco_dellesistenza_nella_tragi-comica_finale_di_kurt_vonnegut/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Tommaso Avati. Il silenzio del mondo",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2023/01/30/tommaso_avati_il_silenzio_del_mondo/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Su ‘Il segreto del talento’, di Valeria Parrella",
-      "category" : "poetarum-silva",
-      "tags"     : "poetarum-silva",
-      "url"      : "/2023/01/30/su_il_segreto_del_talento_di_valeria_parrella/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Spostamenti #43 | Sonia Caporossi",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2023/01/30/spostamenti_43_sonia_caporossi/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Rischiate tutto piuttosto che languire nella vostra tana”. Paule Régnier, la scrittrice che sapeva soffrire",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2023/01/30/rischiate_tutto_piuttosto_che_languire_nella_vostra_tana_paule_rgnier_la_scrittrice_che_sapeva_soffrire/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Ripetere per esserci. La modella nell’arte contemporanea. Ipertesto",
-      "category" : "in-allarmata-radura",
-      "tags"     : "in-allarmata-radura",
-      "url"      : "/2023/01/30/ripetere_per_esserci_la_modella_nellarte_contemporanea_ipertesto/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Perdersi e ritrovarsi: La donna gelata di Annie Ernaux",
-      "category" : "chiacchiere-letterarie",
-      "tags"     : "chiacchiere-letterarie",
-      "url"      : "/2023/01/30/perdersi_e_ritrovarsi_la_donna_gelata_di_annie_ernaux/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Paolo Giordano o del romanzo come bomba atomica",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2023/01/30/paolo_giordano_o_del_romanzo_come_bomba_atomica/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "OSTRAKON – Alessandro Ghignoli",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2023/01/30/ostrakon_alessandro_ghignoli/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Ontogenesi della melancolia. Note su “Melancolia” di Mircea Cărtărescu",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2023/01/30/ontogenesi_della_melancolia_note_su_melancolia_di_mircea_crtrescu/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Le bolle blu di Maeterlinck",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2023/01/30/le_bolle_blu_di_maeterlinck/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La dignità del racconto",
-      "category" : "il-loggione-letterario",
-      "tags"     : "il-loggione-letterario",
-      "url"      : "/2023/01/30/la_dignit_del_racconto/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Kelly Gray’s Tiger Paw, Tiger Paw, Knife, Knife: An Interview",
-      "category" : "superstition-review",
-      "tags"     : "superstition-review",
-      "url"      : "/2023/01/30/kelly_grays_tiger_paw_tiger_paw_knife_knife_an_interview/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Jurodivye #6: Il baratro sotto la pelle (Frau)",
-      "category" : "verde",
-      "tags"     : "verde",
-      "url"      : "/2023/01/30/jurodivye_6_il_baratro_sotto_la_pelle_frau/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il 5 febbraio torna la Domenica al museo: ingresso gratuito nei musei e parchi archeologici statali",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2023/01/30/il_5_febbraio_torna_la_domenica_al_museo_ingresso_gratuito_nei_musei_e_parchi_archeologici_statali/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "H. G. Wells anteprima. Paura e mistero",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2023/01/30/h_g_wells_anteprima_paura_e_mistero/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Gli amanti della notte di Mieko Kawakami: un romanzo sulla solitudine e la necessità delle relazioni. Recensione",
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2023/01/30/gli_amanti_della_notte_di_mieko_kawakami_un_romanzo_sulla_solitudine_e_la_necessit_delle_relazioni_recensione/",
       "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Fare i conti. Su Addio fantasmi di Nadia Terranova",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2023/01/30/fare_i_conti_su_addio_fantasmi_di_nadia_terranova/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "«E poter sopravvivere mi dava la sensazione di vivere». La schiacciante presenza dell&#39;assenza in &quot;Grande terra sommersa&quot;, di Alessandro De Roma",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/01/30/e_poter_sopravvivere_mi_dava_la_sensazione_di_vivere_la_schiacciante_presenza_dellassenza_in_grande_terra_sommersa_di_alessandro_de_roma/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Da luoghi lontani, intervista agli autori",
-      "category" : "altri-animali",
-      "tags"     : "altri-animali",
-      "url"      : "/2023/01/30/da_luoghi_lontani_intervista_agli_autori/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cosa ci insegna sulla memoria la letteratura cilena",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2023/01/30/cosa_ci_insegna_sulla_memoria_la_letteratura_cilena/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Cesare Pavese ritorna in America: la Vernon Press di New York pubblica un volume monografico sulla figura del grande scrittore",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2023/01/30/cesare_pavese_ritorna_in_america_la_vernon_press_di_new_york_pubblica_un_volume_monografico_sulla_figura_del_grande_scrittore/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Binari. Intervista a Giorgia Tribuiani",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2023/01/30/binari_intervista_a_giorgia_tribuiani/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Baise-moi maintenant",
-      "category" : "senzadieci",
-      "tags"     : "senzadieci",
-      "url"      : "/2023/01/30/baise-moi_maintenant/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "9 righe",
-      "category" : "yanez",
-      "tags"     : "yanez",
-      "url"      : "/2023/01/30/9_righe/",
-      "date"     : "2023-01-30 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Recensioni: “Appunti sulla tua scomparsa improvvisa” di Alison Espach",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2023/01/29/recensioni_appunti_sulla_tua_scomparsa_improvvisa_di_alison_espach/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Racconto: Senza parole – Michela La Grotteria",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2023/01/29/racconto_senza_parole_michela_la_grotteria/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Perdere la via di casa",
-      "category" : "la-tigre-di-carta",
-      "tags"     : "la-tigre-di-carta",
-      "url"      : "/2023/01/29/perdere_la_via_di_casa/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Luce",
-      "category" : "l-incendiario",
-      "tags"     : "l-incendiario",
-      "url"      : "/2023/01/29/luce/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Libri in uscita a febbraio 2023: novità e consigli letterari",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2023/01/29/libri_in_uscita_a_febbraio_2023_novit_e_consigli_letterari/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Le sconvolgenti rivelazioni del principe Harry in “Spare” e nel nuovo documentario Netflix",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/01/29/le_sconvolgenti_rivelazioni_del_principe_harry_in_spare_e_nel_nuovo_documentario_netflix/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La vie en bleu ( France): laboratorio di scritture",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2023/01/29/la_vie_en_bleu_france_laboratorio_di_scritture/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La soffitta",
-      "category" : "la-nuova-carne",
-      "tags"     : "la-nuova-carne",
-      "url"      : "/2023/01/29/la_soffitta/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“La poesia è un miracolo – e io mi annoio presto”. Charles Simic parla",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2023/01/29/la_poesia_un_miracolo_e_io_mi_annoio_presto_charles_simic_parla/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La Penelope (in pantofole) di Brenda Lozano? Scrive e cambia",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2023/01/29/la_penelope_in_pantofole_di_brenda_lozano_scrive_e_cambia/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il “varco” aperto da Giovanna Cristina Vivinetto",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/01/29/il_varco_aperto_da_giovanna_cristina_vivinetto/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il sapere immaginato ⥀ Sul rapporto tra immagine, immaginazione e conoscenza",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2023/01/29/il_sapere_immaginato_sul_rapporto_tra_immagine_immaginazione_e_conoscenza/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il Giappone, otto donne e un daruma finale: tutto questo è &quot;Yahho Nippon!&quot; di Èva Offredo",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/01/29/il_giappone_otto_donne_e_un_daruma_finale_tutto_questo_yahho_nippon_di_va_offredo/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "I solitari di Albinati chiamano in causa tutti noi…",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2023/01/29/i_solitari_di_albinati_chiamano_in_causa_tutti_noi/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dalla penna raffinata di Sacher-Masoch, un bellissimo classico della letteratura erotica. La donna angelo e donna mefistofelica di &quot;Venere in pelliccia&quot;",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/01/29/dalla_penna_raffinata_di_sacher-masoch_un_bellissimo_classico_della_letteratura_erotica_la_donna_angelo_e_donna_mefistofelica_di_venere_in_pellicci/",
-      "date"     : "2023-01-29 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Superstar",
-      "category" : "micorrize",
-      "tags"     : "micorrize",
-      "url"      : "/2023/01/28/superstar/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Sono un rapace, catturami se puoi”. Nahabed Kuciag: il mistero del poeta armeno",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2023/01/28/sono_un_rapace_catturami_se_puoi_nahabed_kuciag_il_mistero_del_poeta_armeno/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Sangue e viscere al liceo”, invenzione e performance nel romanzo di Kathy Acker",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2023/01/28/sangue_e_viscere_al_liceo_invenzione_e_performance_nel_romanzo_di_kathy_acker/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Parola e rivoluzione: Lonzi e Balestrini a confronto",
-      "category" : "l-incendiario",
-      "tags"     : "l-incendiario",
-      "url"      : "/2023/01/28/parola_e_rivoluzione_lonzi_e_balestrini_a_confronto/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "L’estate di Sophie: “Aftersun” di Charlotte Wells",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2023/01/28/lestate_di_sophie_aftersun_di_charlotte_wells/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La responsabilità dell&#39;uomo, quando Dio nasconde il volto: &quot;Yossl Rakover si rivolge a Dio&quot; di Zvi Kolitz",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/01/28/la_responsabilit_delluomo_quando_dio_nasconde_il_volto_yossl_rakover_si_rivolge_a_dio_di_zvi_kolitz/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La città che degrada, l’altra metà di Francesco Jovine",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2023/01/28/la_citt_che_degrada_laltra_met_di_francesco_jovine/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Infinite quest: dialogo con Valerio Magrelli (una rubrica a cura di Giulia Bocchio)",
-      "category" : "poetarum-silva",
-      "tags"     : "poetarum-silva",
-      "url"      : "/2023/01/28/infinite_quest_dialogo_con_valerio_magrelli_una_rubrica_a_cura_di_giulia_bocchio/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "in memoria – per Cristina Annino per dopo",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2023/01/28/in_memoria_per_cristina_annino_per_dopo/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il senso del vuoto quando accade: un racconto di Antonello De Luca",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2023/01/28/il_senso_del_vuoto_quando_accade_un_racconto_di_antonello_de_luca/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il delirio del desiderio. Tre film di Stanley Kubrick",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2023/01/28/il_delirio_del_desiderio_tre_film_di_stanley_kubrick/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il commissario Settembrini alle prese con un&#39;indagine che lo porta tra le incisioni rupestri della Val Camonica. &quot;Una breve estate lontano dalla polvere&quot; di Tita Prestini",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/01/28/il_commissario_settembrini_alle_prese_con_unindagine_che_lo_porta_tra_le_incisioni_rupestri_della_val_camonica_una_breve_estate_lontano_dalla_polve/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Editoria in Italia nel 2022: diminuito il numero di nuove pubblicazioni, calo anche per le vendite online",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2023/01/28/editoria_in_italia_nel_2022_diminuito_il_numero_di_nuove_pubblicazioni_calo_anche_per_le_vendite_online/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dadizioni – ripetizioni ai tempi della DaD: Dante Alighieri",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/01/28/dadizioni_ripetizioni_ai_tempi_della_dad_dante_alighieri/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Città eterna” e… strutture eterne",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/01/28/citt_eterna_e_strutture_eterne/",
-      "date"     : "2023-01-28 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Yvonne Campedel",
-      "category" : "pastrengo",
-      "tags"     : "pastrengo",
-      "url"      : "/2023/01/27/yvonne_campedel/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Valyntina Grenier’s Exhibit at ShockBoxx Project Gallery",
-      "category" : "superstition-review",
-      "tags"     : "superstition-review",
-      "url"      : "/2023/01/27/valyntina_greniers_exhibit_at_shockboxx_project_gallery/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Una sfida alla consapevolezza e un elogio alla memoria: il nuovo romanzo di Sacha Naspini, “Villa del Seminario”",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/01/27/una_sfida_alla_consapevolezza_e_un_elogio_alla_memoria_il_nuovo_romanzo_di_sacha_naspini_villa_del_seminario/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Primo Levi | Le stelle nere e altre poesie",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2023/01/27/primo_levi_le_stelle_nere_e_altre_poesie/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "+++NEWS+++ Achille Lauro fascista? Lo strano caso del saluto romano al concerto unplugged di Achille Lauro…",
-      "category" : "droga",
-      "tags"     : "droga",
-      "url"      : "/2023/01/27/news_achille_lauro_fascista_lo_strano_caso_del_saluto_romano_al_concerto_unplugged_di_achille_lauro/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Milano: il bosco verticale come alternativa alla giungla urbana",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/01/27/milano_il_bosco_verticale_come_alternativa_alla_giungla_urbana/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Matteo di Pascale",
-      "category" : "pastrengo",
-      "tags"     : "pastrengo",
-      "url"      : "/2023/01/27/matteo_di_pascale/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Lucilio, il re della satira romana",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/01/27/lucilio_il_re_della_satira_romana/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Intro: ‘Olanda, 1945. Anne Frank e i Neutral Milk Hotel’ di Massimo Palma",
-      "category" : "layout",
-      "tags"     : "layout",
-      "url"      : "/2023/01/27/intro_olanda_1945_anne_frank_e_i_neutral_milk_hotel_di_massimo_palma/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Intramarsi nelle storie: rileggere il mutismo dei sopravvissuti all’Olocausto tramite il pensiero di Wilhelm Schapp",
-      "category" : "scenari",
-      "tags"     : "scenari",
-      "url"      : "/2023/01/27/intramarsi_nelle_storie_rileggere_il_mutismo_dei_sopravvissuti_allolocausto_tramite_il_pensiero_di_wilhelm_schapp/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Il grido e la poesia: Giornata della Memoria 2023",
-      "category" : "poetarum-silva",
-      "tags"     : "poetarum-silva",
-      "url"      : "/2023/01/27/il_grido_e_la_poesia_giornata_della_memoria_2023/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "I film da riscoprire: sguardo al 2022",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2023/01/27/i_film_da_riscoprire_sguardo_al_2022/",
-      "date"     : "2023-01-27 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Elogio dell’inconcludenza. Su Mammut di Eva Baltasar",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2023/01/27/elogio_dellinconcludenza_su_mammut_di_eva_baltasar/",
-      "date"     : "2023-01-27 00:00:00 +0100"
     } ,
   
     {
