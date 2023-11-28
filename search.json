@@ -1,6 +1,70 @@
 [
   
     {
+      "title"    : "Partenza",
+      "category" : "pastrengo",
+      "tags"     : "pastrengo",
+      "url"      : "/2023/11/28/partenza/",
+      "date"     : "2023-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La grande crociata del negazionismo in agricoltura",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2023/11/27/la_grande_crociata_del_negazionismo_in_agricoltura/",
+      "date"     : "2023-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "In direzione di un centro vuoto. Su La casa del mago di Emanuele Trevi",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2023/11/27/in_direzione_di_un_centro_vuoto_su_la_casa_del_mago_di_emanuele_trevi/",
+      "date"     : "2023-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli scomparsi",
+      "category" : "spore",
+      "tags"     : "spore",
+      "url"      : "/2023/11/27/gli_scomparsi/",
+      "date"     : "2023-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "«E se stirassi per sempre?». Stella Maris di Cormac McCarthy",
+      "category" : "altri-animali",
+      "tags"     : "altri-animali",
+      "url"      : "/2023/11/27/e_se_stirassi_per_sempre_stella_maris_di_cormac_mccarthy/",
+      "date"     : "2023-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Alcuni metri",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2023/11/27/alcuni_metri/",
+      "date"     : "2023-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Tanti auguri, dolcissima Irma",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2023/11/26/tanti_auguri_dolcissima_irma/",
+      "date"     : "2023-11-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Libri in uscita a dicembre 2023: novità e consigli letterari",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2023/11/26/libri_in_uscita_a_dicembre_2023_novit_e_consigli_letterari/",
+      "date"     : "2023-11-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "La città in agosto",
       "category" : "micorrize",
       "tags"     : "micorrize",
@@ -39854,70 +39918,6 @@
       "tags"     : "inverso",
       "url"      : "/2023/03/06/ai_lettori/",
       "date"     : "2023-03-06 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Tutte le poesie” di Cosimo Ortesta alla Libreria Brac di Firenze",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2023/03/05/tutte_le_poesie_di_cosimo_ortesta_alla_libreria_brac_di_firenze/",
-      "date"     : "2023-03-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Podcast di marzo 2023: le novità da ascoltare",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2023/03/05/podcast_di_marzo_2023_le_novit_da_ascoltare/",
-      "date"     : "2023-03-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Mots-clés__Fiammiferi",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2023/03/05/mots-clsfiammiferi/",
-      "date"     : "2023-03-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "“Le droghe” di Laudomia Bonanni",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2023/03/05/le_droghe_di_laudomia_bonanni/",
-      "date"     : "2023-03-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "La strada giusta",
-      "category" : "senzadieci",
-      "tags"     : "senzadieci",
-      "url"      : "/2023/03/05/la_strada_giusta/",
-      "date"     : "2023-03-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "KIPLING RACCONTA SHAKESPEARE: COME È NATA &quot;THE TEMPEST&quot;",
-      "category" : "voce-blu",
-      "tags"     : "voce-blu",
-      "url"      : "/2023/03/05/kipling_racconta_shakespeare_come_nata_the_tempest/",
-      "date"     : "2023-03-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Io (Tu)",
-      "category" : "l-incendiario",
-      "tags"     : "l-incendiario",
-      "url"      : "/2023/03/05/io_tu/",
-      "date"     : "2023-03-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Febbraio è il mese più crudele per un cinefilo",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2023/03/05/febbraio_il_mese_pi_crudele_per_un_cinefilo/",
-      "date"     : "2023-03-05 00:00:00 +0100"
     } ,
   
     {
