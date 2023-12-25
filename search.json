@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Parlare col culo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2023/12/25/parlare_col_culo/",
+      "date"     : "2023-12-25 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Il picche nicche di Alberto Moravia",
       "category" : "",
       "tags"     : "racconto, moravia, and la-rivisteria",
@@ -25,6 +33,30 @@
     } ,
   
     {
+      "title"    : "Un Grinch per famiglia",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/12/24/un_grinch_per_famiglia/",
+      "date"     : "2023-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Top 100: le migliori canzoni del 2023 (pt. 1)",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2023/12/24/top_100_le_migliori_canzoni_del_2023_pt_1/",
+      "date"     : "2023-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stefano Terra, la morte come malinconia del passato e del futuro",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2023/12/24/stefano_terra_la_morte_come_malinconia_del_passato_e_del_futuro/",
+      "date"     : "2023-12-24 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Recensioni: “Il respiro del lombrico” di Daniela Stasi",
       "category" : "glicine",
       "tags"     : "glicine",
@@ -37,6 +69,30 @@
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2023/12/24/non_solo_una_poltrona_per_due_e_il_grinch_natale_anche_podcast_i_migliori_da_ascoltare_la_notte_della_vigilia/",
+      "date"     : "2023-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il grande rito del Natale",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2023/12/24/il_grande_rito_del_natale/",
+      "date"     : "2023-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Festival culturali del 2024, il calendario degli eventi in tutta Italia",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2023/12/24/festival_culturali_del_2024_il_calendario_degli_eventi_in_tutta_italia/",
+      "date"     : "2023-12-24 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Contaminazione",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2023/12/24/contaminazione/",
       "date"     : "2023-12-24 00:00:00 +0100"
     } ,
   
@@ -701,6 +757,14 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2023/12/19/paul_stanley_dietro_la_maschera_la_mia_vita_dentro_e_oltre_la_musica/",
+      "date"     : "2023-12-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Maledetto Natale | Racconti Indigeribili",
+      "category" : "crunched",
+      "tags"     : "crunched",
+      "url"      : "/2023/12/19/maledetto_natale_racconti_indigeribili/",
       "date"     : "2023-12-19 00:00:00 +0100"
     } ,
   
@@ -39633,22 +39697,6 @@
     } ,
   
     {
-      "title"    : "Storia di Marija Judina la pianista-strega che incantò Stalin",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2023/04/05/storia_di_marija_judina_la_pianista-strega_che_incant_stalin/",
-      "date"     : "2023-04-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Sassi",
-      "category" : "spazinclusi",
-      "tags"     : "spazinclusi",
-      "url"      : "/2023/04/05/sassi/",
-      "date"     : "2023-04-05 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Quando la tecnologia dovrebbe venirti incontro ma tu sei distratto.",
       "category" : "droga",
       "tags"     : "droga",
@@ -39777,14 +39825,6 @@
     } ,
   
     {
-      "title"    : "“La bellezza contiene una chiamata di morte”. Una carezza a Rimbaud",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2023/04/05/la_bellezza_contiene_una_chiamata_di_morte_una_carezza_a_rimbaud/",
-      "date"     : "2023-04-05 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Indagine su un malessere al di sopra di ogni sospetto. Sull’ultimo Sinigaglia",
       "category" : "la-balena-bianca",
       "tags"     : "la-balena-bianca",
@@ -39878,46 +39918,6 @@
       "tags"     : "marvin",
       "url"      : "/2023/04/05/annegare_nella_parola_mare/",
       "date"     : "2023-04-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Punacci, storia di una capra nera di Perumal Murugan: la vita rurale indiana vista da una capretta. Recensione",
-      "category" : "blam",
-      "tags"     : "blam",
-      "url"      : "/2023/04/04/punacci_storia_di_una_capra_nera_di_perumal_murugan_la_vita_rurale_indiana_vista_da_una_capretta_recensione/",
-      "date"     : "2023-04-04 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Osservatorio sulle pratiche narrative ecologiche | progetto ZEST",
-      "category" : "zest-letteratura-sostenibile",
-      "tags"     : "zest-letteratura-sostenibile",
-      "url"      : "/2023/04/04/osservatorio_sulle_pratiche_narrative_ecologiche_progetto_zest/",
-      "date"     : "2023-04-04 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Laura Pugno – Sirene",
-      "category" : "the-bookish-explorer",
-      "tags"     : "the-bookish-explorer",
-      "url"      : "/2023/04/04/laura_pugno_sirene/",
-      "date"     : "2023-04-04 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Guardami e vedi chi sei. Nella casa dei tuoi sogni di Carmen Maria Machado",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2023/04/04/guardami_e_vedi_chi_sei_nella_casa_dei_tuoi_sogni_di_carmen_maria_machado/",
-      "date"     : "2023-04-04 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Drenched by Stella Pope Duarte: An Interview",
-      "category" : "superstition-review",
-      "tags"     : "superstition-review",
-      "url"      : "/2023/04/04/drenched_by_stella_pope_duarte_an_interview/",
-      "date"     : "2023-04-04 00:00:00 +0200"
     } ,
   
     {
