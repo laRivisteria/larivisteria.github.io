@@ -1,6 +1,158 @@
 [
   
     {
+      "title"    : "Non c’è creatura che  non sia un popolo",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2024/03/10/non_c_creatura_che_non_sia_un_popolo/",
+      "date"     : "2024-03-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La nuova stagione",
+      "category" : "la-nuova-carne",
+      "tags"     : "la-nuova-carne",
+      "url"      : "/2024/03/10/la_nuova_stagione/",
+      "date"     : "2024-03-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il nostro scintillante nulla politico: «Il gregge» di Davide Grittani",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2024/03/10/il_nostro_scintillante_nulla_politico_il_gregge_di_davide_grittani/",
+      "date"     : "2024-03-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Gli Anemoni",
+      "category" : "micorrize",
+      "tags"     : "micorrize",
+      "url"      : "/2024/03/10/gli_anemoni/",
+      "date"     : "2024-03-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Aleksandr Herzen, c’è un “nuovo” classico russo in circolazione",
+      "category" : "lucialibri",
+      "tags"     : "lucialibri",
+      "url"      : "/2024/03/10/aleksandr_herzen_c_un_nuovo_classico_russo_in_circolazione/",
+      "date"     : "2024-03-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Prima sessione de La fiera di Weissensee",
+      "category" : "chiacchiere-letterarie",
+      "tags"     : "chiacchiere-letterarie",
+      "url"      : "/2024/03/09/prima_sessione_de_la_fiera_di_weissensee/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Note di lettura a «Invernale»",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2024/03/09/note_di_lettura_a_invernale/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Non ho mai capito cosa provavo, fin quando non lo fotografavo",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2024/03/09/non_ho_mai_capito_cosa_provavo_fin_quando_non_lo_fotografavo/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Lesja Ukajinka, poetessa ucraina radicata nel mondo",
+      "category" : "morel",
+      "tags"     : "morel",
+      "url"      : "/2024/03/09/lesja_ukajinka_poetessa_ucraina_radicata_nel_mondo/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "La rinascita di una donna attraverso il potere delle parole: &quot;Delia o un mattino di giugno&quot; di Margherita Loy",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2024/03/09/la_rinascita_di_una_donna_attraverso_il_potere_delle_parole_delia_o_un_mattino_di_giugno_di_margherita_loy/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Il Paz, un artista geniale la cui grande produzione erotica viene raccolta in un unico volume: Super Pazeroticus",
+      "category" : "criticaletteraria",
+      "tags"     : "criticaletteraria",
+      "url"      : "/2024/03/09/il_paz_un_artista_geniale_la_cui_grande_produzione_erotica_viene_raccolta_in_un_unico_volume_super_pazeroticus/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "E se un amore finisce…a chi va il cane?",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2024/03/09/e_se_un_amore_finiscea_chi_va_il_cane/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Contro i vili chierici del nostro tempo, pappagalli governativi, la ribellione della libertà",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2024/03/09/contro_i_vili_chierici_del_nostro_tempo_pappagalli_governativi_la_ribellione_della_libert/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ci sono imprevisti che possono cambiare una vita: «La notte vola» è il racconto di Mara Abbafati",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2024/03/09/ci_sono_imprevisti_che_possono_cambiare_una_vita_la_notte_vola_il_racconto_di_mara_abbafati/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bizzarroni #02 | Ogni giorno per il resto della tua vita di Maggie Siebert",
+      "category" : "layout",
+      "tags"     : "layout",
+      "url"      : "/2024/03/09/bizzarroni_02_ogni_giorno_per_il_resto_della_tua_vita_di_maggie_siebert/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Assaporo la vita, canto l’amore”. Ikkyū, il monaco allo stato selvaggio",
+      "category" : "pangea",
+      "tags"     : "pangea",
+      "url"      : "/2024/03/09/assaporo_la_vita_canto_lamore_ikky_il_monaco_allo_stato_selvaggio/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "A Roma riaprono le porte del Museo “Mario Praz”",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2024/03/09/a_roma_riaprono_le_porte_del_museo_mario_praz/",
+      "date"     : "2024-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Terapia forestale ",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2024/03/08/terapia_forestale/",
+      "date"     : "2024-03-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Sogni, impegno e proprietari supponenti: intervista ad Angelo Giordano, veterinario",
+      "category" : "la-testata-magazine",
+      "tags"     : "la-testata-magazine",
+      "url"      : "/2024/03/08/sogni_impegno_e_proprietari_supponenti_intervista_ad_angelo_giordano_veterinario/",
+      "date"     : "2024-03-08 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "“Ritratto dell’Artista da piccolo”: il tragico Eden dell’infanzia",
       "category" : "il-rifugio-dell-ircocervo",
       "tags"     : "il-rifugio-dell-ircocervo",
@@ -21,6 +173,14 @@
       "category" : "pangea",
       "tags"     : "pangea",
       "url"      : "/2024/03/08/mi_ossessiona_il_petto_eternamente_sulla_poesia_di_gianfranco_lauretano/",
+      "date"     : "2024-03-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Meet the Interview Contributors for Issue 33: Part 1",
+      "category" : "superstition-review",
+      "tags"     : "superstition-review",
+      "url"      : "/2024/03/08/meet_the_interview_contributors_for_issue_33_part_1/",
       "date"     : "2024-03-08 00:00:00 +0100"
     } ,
   
@@ -97,6 +257,14 @@
     } ,
   
     {
+      "title"    : "I left my soul on Californian soil – Part Seven",
+      "category" : "doctor-tale-and-mister-shot",
+      "tags"     : "doctor-tale-and-mister-shot",
+      "url"      : "/2024/03/08/i_left_my_soul_on_californian_soil_part_seven/",
+      "date"     : "2024-03-08 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Grazia Deledda: il racconto di “quasi un continente”",
       "category" : "satisfiction",
       "tags"     : "satisfiction",
@@ -109,6 +277,22 @@
       "category" : "satisfiction",
       "tags"     : "satisfiction",
       "url"      : "/2024/03/08/gabriele_rizza_billy_wilder_il_cinema_bellezza/",
+      "date"     : "2024-03-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "“Exodus”, a Ravenna le migrazioni immortalate da Sebastião Salgado",
+      "category" : "glicine",
+      "tags"     : "glicine",
+      "url"      : "/2024/03/08/exodus_a_ravenna_le_migrazioni_immortalate_da_sebastio_salgado/",
+      "date"     : "2024-03-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Emanuele Canzaniello | In principio era la paura",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2024/03/08/emanuele_canzaniello_in_principio_era_la_paura/",
       "date"     : "2024-03-08 00:00:00 +0100"
     } ,
   
@@ -493,14 +677,6 @@
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
       "url"      : "/2024/03/06/drago_e_il_rifugio_arpad/",
-      "date"     : "2024-03-06 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Dove nasce la mia passione per le isole",
-      "category" : "chiacchiere-letterarie",
-      "tags"     : "chiacchiere-letterarie",
-      "url"      : "/2024/03/06/dove_nasce_la_mia_passione_per_le_isole/",
       "date"     : "2024-03-06 00:00:00 +0100"
     } ,
   
@@ -917,6 +1093,14 @@
       "category" : "criticaletteraria",
       "tags"     : "criticaletteraria",
       "url"      : "/2024/03/04/erano_brave_persone_no_la_penna_tagliente_di_sara_mesa_a_servizio_di_una_famiglia_normale/",
+      "date"     : "2024-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Dove nasce la mia passione per le isole",
+      "category" : "chiacchiere-letterarie",
+      "tags"     : "chiacchiere-letterarie",
+      "url"      : "/2024/03/04/dove_nasce_la_mia_passione_per_le_isole/",
       "date"     : "2024-03-04 00:00:00 +0100"
     } ,
   
@@ -39761,94 +39945,6 @@
     } ,
   
     {
-      "title"    : "Wrap up del mese – MAGGIO",
-      "category" : "chiacchiere-letterarie",
-      "tags"     : "chiacchiere-letterarie",
-      "url"      : "/2023/06/05/wrap_up_del_mese_maggio/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Una Marina di Libri 2023, a Palermo il festival dell’editoria indipendente",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2023/06/05/una_marina_di_libri_2023_a_palermo_il_festival_delleditoria_indipendente/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Un Pulpette fotogenico - Omaggio fotografico di Debora De Bartolo",
-      "category" : "pulpette",
-      "tags"     : "pulpette",
-      "url"      : "/2023/06/05/un_pulpette_fotogenico_-_omaggio_fotografico_di_debora_de_bartolo/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Spazzolare il gatto: ciò che resta dei nostri corpi",
-      "category" : "il-rifugio-dell-ircocervo",
-      "tags"     : "il-rifugio-dell-ircocervo",
-      "url"      : "/2023/06/05/spazzolare_il_gatto_ci_che_resta_dei_nostri_corpi/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Socotra, l’ultima isola tra Arabia Felix e un presente da vivere",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2023/06/05/socotra_lultima_isola_tra_arabia_felix_e_un_presente_da_vivere/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Sacro niente. Intervista a Giovanni Bitetto",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2023/06/05/sacro_niente_intervista_a_giovanni_bitetto/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Rock festival estivi: edizione 2023",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/06/05/rock_festival_estivi_edizione_2023/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Reinterpretando l’estasi: La mistica selvaggia di Romano Màdera",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2023/06/05/reinterpretando_lestasi_la_mistica_selvaggia_di_romano_mdera/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Proust e Céline, La mente e l’odio",
-      "category" : "exlibris20",
-      "tags"     : "exlibris20",
-      "url"      : "/2023/06/05/proust_e_cline_la_mente_e_lodio/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Premio Sila ’49: la cinquina dell’edizione 2023",
-      "category" : "glicine",
-      "tags"     : "glicine",
-      "url"      : "/2023/06/05/premio_sila_49_la_cinquina_delledizione_2023/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Mai rinnegare le proprie origini o il passato: &quot;Il ladro di quaderni&quot;, un nuovo romanzo di formazione per Gianni Solla",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/06/05/mai_rinnegare_le_proprie_origini_o_il_passato_il_ladro_di_quaderni_un_nuovo_romanzo_di_formazione_per_gianni_solla/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Luoghi di cinema – La matassa",
       "category" : "la-testata-magazine",
       "tags"     : "la-testata-magazine",
@@ -39857,106 +39953,10 @@
     } ,
   
     {
-      "title"    : "Louis-Ferdinand Céline inedito. Viaggio al termine della “Guerra”",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2023/06/05/louis-ferdinand_cline_inedito_viaggio_al_termine_della_guerra/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La leggenda di Kenneth Anger, inventore di vasti regni immaginari",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2023/06/05/la_leggenda_di_kenneth_anger_inventore_di_vasti_regni_immaginari/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Kianny N. Antigua. Bestiole",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2023/06/05/kianny_n_antigua_bestiole/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "«Il mio posto ideale è il ricordo»: la storia privata e collettiva di Helga Schubert in “Alzarsi”",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2023/06/05/il_mio_posto_ideale_il_ricordo_la_storia_privata_e_collettiva_di_helga_schubert_in_alzarsi/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Il gemello buono e il gemello cattivo delle erbe",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2023/06/05/il_gemello_buono_e_il_gemello_cattivo_delle_erbe/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Ho cercato l’unità tra scrittura e vita”. Sulla poesia di Mario Socrate",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2023/06/05/ho_cercato_lunit_tra_scrittura_e_vita_sulla_poesia_di_mario_socrate/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Forma e storia in “Soggetti a cancellazione” di Mari",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2023/06/05/forma_e_storia_in_soggetti_a_cancellazione_di_mari/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Donna, vita, libertà ⥀ Discorso di Omid Shams",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2023/06/05/donna_vita_libert_discorso_di_omid_shams/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Dario La Rosa, Iachìno Bavetta fra leggerezza e bellezza",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2023/06/05/dario_la_rosa_iachno_bavetta_fra_leggerezza_e_bellezza/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Chiarire significa uccidere: a proposito di Antonio Pizzuto (di Chiara Scipioni)",
-      "category" : "poetarum-silva",
-      "tags"     : "poetarum-silva",
-      "url"      : "/2023/06/05/chiarire_significa_uccidere_a_proposito_di_antonio_pizzuto_di_chiara_scipioni/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Cercare forme. L’opera e l’eredità di Giuliano Mesa",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2023/06/05/cercare_forme_lopera_e_leredit_di_giuliano_mesa/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Audiolibri in uscita a giugno 2023: i consigli di ascolto da non perdere",
       "category" : "blam",
       "tags"     : "blam",
       "url"      : "/2023/06/05/audiolibri_in_uscita_a_giugno_2023_i_consigli_di_ascolto_da_non_perdere/",
-      "date"     : "2023-06-05 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Antonina Tosiek | Poesie",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2023/06/05/antonina_tosiek_poesie/",
       "date"     : "2023-06-05 00:00:00 +0200"
     } ,
   
