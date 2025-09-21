@@ -1,10 +1,242 @@
 [
   
     {
+      "title"    : "“Tango a Porto” di Antonio Danise: un viaggio tra ricordi, desiderio e scrittura",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2025/09/21/tango_a_porto_di_antonio_danise_un_viaggio_tra_ricordi_desiderio_e_scrittura/",
+      "date"     : "2025-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Estratti da “Kant-Swedenborg”",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/21/estratti_da_kant-swedenborg/",
+      "date"     : "2025-09-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "So cosa sei",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2025/09/20/so_cosa_sei/",
+      "date"     : "2025-09-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il premio «Dar» e la letteratura russa – una conversazione con Michail Šiškin",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/20/il_premio_dar_e_la_letteratura_russa_una_conversazione_con_michail_ikin/",
+      "date"     : "2025-09-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Gaza: siamo solidali",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/20/gaza_siamo_solidali/",
+      "date"     : "2025-09-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Due sconosciuti legati da due dolori e due solitudini che nessuno può vedere: «Se ora guardate» è il racconto di Danilo Tumminello",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2025/09/20/due_sconosciuti_legati_da_due_dolori_e_due_solitudini_che_nessuno_pu_vedere_se_ora_guardate_il_racconto_di_danilo_tumminello/",
+      "date"     : "2025-09-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lovely Lonely Looner",
+      "category" : "narrandom",
+      "tags"     : "narrandom",
+      "url"      : "/2025/09/19/lovely_lonely_looner/",
+      "date"     : "2025-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Le martore di Groninga – nona e ultima puntata",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2025/09/19/le_martore_di_groninga_nona_e_ultima_puntata/",
+      "date"     : "2025-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "La Global Sumud Flotilla e “l’ipotesi più bella”",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2025/09/19/la_global_sumud_flotilla_e_lipotesi_pi_bella/",
+      "date"     : "2025-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dove l’agnello seppellisce sé stesso: Georges Bataille e la culla della non umanità",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/19/dove_lagnello_seppellisce_s_stesso_georges_bataille_e_la_culla_della_non_umanit/",
+      "date"     : "2025-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "comizi dà more #1 • Dimitri Milleri",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2025/09/19/comizi_d_more_1_dimitri_milleri/",
+      "date"     : "2025-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Valeria Cartolaro | Disregolazioni",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2025/09/18/valeria_cartolaro_disregolazioni/",
+      "date"     : "2025-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Metropoli Diffusa | Istruzioni per l’attraversamento",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2025/09/18/metropoli_diffusa_istruzioni_per_lattraversamento/",
+      "date"     : "2025-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dal letame nascono i fiori: su Io di Wolfgang Hilbig",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/18/dal_letame_nascono_i_fiori_su_io_di_wolfgang_hilbig/",
+      "date"     : "2025-09-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pietro Edoardo Mallegni |  Anedonia",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2025/09/17/pietro_edoardo_mallegni_anedonia/",
+      "date"     : "2025-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Morire fuori dal tempo: Il giardiniere e la morte  di Gospodinov",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2025/09/17/morire_fuori_dal_tempo_il_giardiniere_e_la_morte_di_gospodinov/",
+      "date"     : "2025-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Il “Viaggio verso il Nord” di Roberto Sanesi",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2025/09/17/il_viaggio_verso_il_nord_di_roberto_sanesi/",
+      "date"     : "2025-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ancora due note sul «Cassetto segreto» di Costanza Quatriglio",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/17/ancora_due_note_sul_cassetto_segreto_di_costanza_quatriglio/",
+      "date"     : "2025-09-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Roberto Cavallera | Lei bianca",
+      "category" : "neutopia",
+      "tags"     : "neutopia",
+      "url"      : "/2025/09/16/roberto_cavallera_lei_bianca/",
+      "date"     : "2025-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Les nouveaux réalistes: Giorgio Cassano",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/16/les_nouveaux_ralistes_giorgio_cassano/",
+      "date"     : "2025-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "È finita l’epoca dei videoclip?",
+      "category" : "grado-zero",
+      "tags"     : "grado-zero",
+      "url"      : "/2025/09/16/finita_lepoca_dei_videoclip/",
+      "date"     : "2025-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Da Gaza alla prigione di Evin, cosa sta accadendo in Medio Oriente oggi? Esce il nuovo libro di Cecilia Sala, “I figli dell’odio”",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2025/09/16/da_gaza_alla_prigione_di_evin_cosa_sta_accadendo_in_medio_oriente_oggi_esce_il_nuovo_libro_di_cecilia_sala_i_figli_dellodio/",
+      "date"     : "2025-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "⇨ Azione Atzeni – Discanto Terzo: Giacomo Casti",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/16/azione_atzeni_discanto_terzo_giacomo_casti/",
+      "date"     : "2025-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sottobosco",
+      "category" : "l-inquieto",
+      "tags"     : "l-inquieto",
+      "url"      : "/2025/09/15/sottobosco/",
+      "date"     : "2025-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Milano, a place to bye",
+      "category" : "nazione-indiana",
+      "tags"     : "nazione-indiana",
+      "url"      : "/2025/09/15/milano_a_place_to_bye/",
+      "date"     : "2025-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Matteo Pelliti | Quasi",
+      "category" : "inverso",
+      "tags"     : "inverso",
+      "url"      : "/2025/09/15/matteo_pelliti_quasi/",
+      "date"     : "2025-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "In difesa della natura selvaggia di Marco Sioli",
+      "category" : "zest-letteratura-sostenibile",
+      "tags"     : "zest-letteratura-sostenibile",
+      "url"      : "/2025/09/15/in_difesa_della_natura_selvaggia_di_marco_sioli/",
+      "date"     : "2025-09-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "I like ad ogni costo: Vittima di Andrew Boryga",
+      "category" : "la-balena-bianca",
+      "tags"     : "la-balena-bianca",
+      "url"      : "/2025/09/15/i_like_ad_ogni_costo_vittima_di_andrew_boryga/",
+      "date"     : "2025-09-15 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Intermezzo? Leggendo d’estate Sally Rooney",
       "category" : "nazione-indiana",
       "tags"     : "nazione-indiana",
       "url"      : "/2025/09/14/intermezzo_leggendo_destate_sally_rooney/",
+      "date"     : "2025-09-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chi era Pier Vittorio Tondelli? Tutta la storia raccontata da Giulio Milani in un saggio ibrido dal titolo “Codice Tondelli”",
+      "category" : "blam",
+      "tags"     : "blam",
+      "url"      : "/2025/09/14/chi_era_pier_vittorio_tondelli_tutta_la_storia_raccontata_da_giulio_milani_in_un_saggio_ibrido_dal_titolo_codice_tondelli/",
       "date"     : "2025-09-14 00:00:00 +0200"
     } ,
   
@@ -39721,38 +39953,6 @@
     } ,
   
     {
-      "title"    : "Vi ritroverete in un luogo armonioso",
-      "category" : "clean",
-      "tags"     : "clean",
-      "url"      : "/2024/10/03/vi_ritroverete_in_un_luogo_armonioso/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Tina Modotti: Una fotografa e nient’altro",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2024/10/03/tina_modotti_una_fotografa_e_nientaltro/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "&quot;Solo un&#39;altra persona scomparsa&quot; di Gillian McAllister presentato a Milano: «Il tempo, nei miei libri, diventa un narratore».",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2024/10/03/solo_unaltra_persona_scomparsa_di_gillian_mcallister_presentato_a_milano_il_tempo_nei_miei_libri_diventa_un_narratore/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "«Siamo solo e soltanto inevitabilmente noi stessi»: &quot;Per sempre&quot;, l&#39;ultima apparizione di Frank Bascombe, alter ego letterario dello scrittore premio Pulitzer Richard Ford",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2024/10/03/siamo_solo_e_soltanto_inevitabilmente_noi_stessi_per_sempre_lultima_apparizione_di_frank_bascombe_alter_ego_letterario_dello_scrittore_premio/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Saggi di politica: 6 libri da leggere su democrazia e populismo",
       "category" : "blam",
       "tags"     : "blam",
@@ -39761,42 +39961,10 @@
     } ,
   
     {
-      "title"    : "",
-      "category" : "malgrado-le-mosche",
-      "tags"     : "malgrado-le-mosche",
-      "url"      : "/2024/10/03/postd41d8cd98f00b204e9800998ecf8427e/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Paolo Volponi nella letteratura italiana odierna ⥀ Salvatore Ritrovato",
-      "category" : "argo",
-      "tags"     : "argo",
-      "url"      : "/2024/10/03/paolo_volponi_nella_letteratura_italiana_odierna_salvatore_ritrovato/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Milan Kundera: “Lo scherzo” (Adelphi, trad. A.Barbato), di Valeria Jacobacci",
       "category" : "il-randagio",
       "tags"     : "il-randagio",
       "url"      : "/2024/10/03/milan_kundera_lo_scherzo_adelphi_trad_abarbato_di_valeria_jacobacci/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "L’infanzia scippata: Popoff di Graziano Gala",
-      "category" : "il-rifugio-dell-ircocervo",
-      "tags"     : "il-rifugio-dell-ircocervo",
-      "url"      : "/2024/10/03/linfanzia_scippata_popoff_di_graziano_gala/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "La sostanza degli arti mancanti",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2024/10/03/la_sostanza_degli_arti_mancanti/",
       "date"     : "2024-10-03 00:00:00 +0200"
     } ,
   
@@ -39817,98 +39985,10 @@
     } ,
   
     {
-      "title"    : "Il mondo di Banana Yoshimoto",
-      "category" : "offline",
-      "tags"     : "offline",
-      "url"      : "/2024/10/03/il_mondo_di_banana_yoshimoto/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "I “sette libri per l’autunno” di… Fabiano Massimi",
-      "category" : "lucialibri",
-      "tags"     : "lucialibri",
-      "url"      : "/2024/10/03/i_sette_libri_per_lautunno_di_fabiano_massimi/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "“Ho fatto dell’audacia la mia casa”. Sulla poesia di Robert Pinsky: tra samurai e “Simpsons”",
-      "category" : "pangea",
-      "tags"     : "pangea",
-      "url"      : "/2024/10/03/ho_fatto_dellaudacia_la_mia_casa_sulla_poesia_di_robert_pinsky_tra_samurai_e_simpsons/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Grafton Tanner anteprima. Nostalgoritmo. Politica della nostalgia",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2024/10/03/grafton_tanner_anteprima_nostalgoritmo_politica_della_nostalgia/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Grado zero. Intervista a Carlotta Cicci",
-      "category" : "satisfiction",
-      "tags"     : "satisfiction",
-      "url"      : "/2024/10/03/grado_zero_intervista_a_carlotta_cicci/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Giornate FAI d’Autunno: gli eventi e i luoghi aperti in Calabria il 12 e 13 ottobre",
       "category" : "glicine",
       "tags"     : "glicine",
       "url"      : "/2024/10/03/giornate_fai_dautunno_gli_eventi_e_i_luoghi_aperti_in_calabria_il_12_e_13_ottobre/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Frontiere e famiglie. I miei due papà di Erik Mukendi",
-      "category" : "la-balena-bianca",
-      "tags"     : "la-balena-bianca",
-      "url"      : "/2024/10/03/frontiere_e_famiglie_i_miei_due_pap_di_erik_mukendi/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Fragile Things. Il film de “L’ora senza ombre”",
-      "category" : "in-allarmata-radura",
-      "tags"     : "in-allarmata-radura",
-      "url"      : "/2024/10/03/fragile_things_il_film_de_lora_senza_ombre/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Follia e saggezza fra le parole di Silvio Raffo e le musiche di Vincenzo Torricella",
-      "category" : "voce-blu",
-      "tags"     : "voce-blu",
-      "url"      : "/2024/10/03/follia_e_saggezza_fra_le_parole_di_silvio_raffo_e_le_musiche_di_vincenzo_torricella/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Donne che abitano le distanze: modellare le identità nello spazio domestico",
-      "category" : "l-indiscreto",
-      "tags"     : "l-indiscreto",
-      "url"      : "/2024/10/03/donne_che_abitano_le_distanze_modellare_le_identit_nello_spazio_domestico/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "C’è chi (alle reunion) dice no",
-      "category" : "minima-et-moralia",
-      "tags"     : "minima-et-moralia",
-      "url"      : "/2024/10/03/c_chi_alle_reunion_dice_no/",
-      "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Alfredo Giuliani | Poetry, your sport is vision and follows words",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2024/10/03/alfredo_giuliani_poetry_your_sport_is_vision_and_follows_words/",
       "date"     : "2024-10-03 00:00:00 +0200"
     } ,
   
@@ -39918,86 +39998,6 @@
       "tags"     : "glicine",
       "url"      : "/2024/10/03/a_palazzo_con_lo_scrittore_la_grande_letteratura_in_luoghi_simbolo_di_eleganza_e_cultura/",
       "date"     : "2024-10-03 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Viaggiare in Regno Unito, da aprile servirà l’ETA",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2024/10/02/viaggiare_in_regno_unito_da_aprile_servir_leta/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Tribunale di Milano, 9 novembre 2022",
-      "category" : "nazione-indiana",
-      "tags"     : "nazione-indiana",
-      "url"      : "/2024/10/02/tribunale_di_milano_9_novembre_2022/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Quando il fascino fa perdere il senno: &quot;La moglie del becchino&quot; di Frédéric Dard",
-      "category" : "criticaletteraria",
-      "tags"     : "criticaletteraria",
-      "url"      : "/2024/10/02/quando_il_fascino_fa_perdere_il_senno_la_moglie_del_becchino_di_frdric_dard/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Parthenope. Anatomia di una città che non sa amare",
-      "category" : "grado-zero",
-      "tags"     : "grado-zero",
-      "url"      : "/2024/10/02/parthenope_anatomia_di_una_citt_che_non_sa_amare/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Mario Corticelli | Libro della natura e del continuo",
-      "category" : "inverso",
-      "tags"     : "inverso",
-      "url"      : "/2024/10/02/mario_corticelli_libro_della_natura_e_del_continuo/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "iODonna. In dialogo con Danda Santini",
-      "category" : "morel",
-      "tags"     : "morel",
-      "url"      : "/2024/10/02/iodonna_in_dialogo_con_danda_santini/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Didier Eribon: “Vita, vecchiaia e morte di una donna del popolo” (L’orma, Roma 2024), di Francesco Ferrari",
-      "category" : "il-randagio",
-      "tags"     : "il-randagio",
-      "url"      : "/2024/10/02/didier_eribon_vita_vecchiaia_e_morte_di_una_donna_del_popolo_lorma_roma_2024_di_francesco_ferrari/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Come un colpo di pistola. La voce del Veneto arrabbiato",
-      "category" : "limina",
-      "tags"     : "limina",
-      "url"      : "/2024/10/02/come_un_colpo_di_pistola_la_voce_del_veneto_arrabbiato/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Caso Diddy: un ritratto di potere",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2024/10/02/caso_diddy_un_ritratto_di_potere/",
-      "date"     : "2024-10-02 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "Arte, suoni e filosofia: il festival “Canta con Kant” anche nel 2024 porta a casa successi",
-      "category" : "la-testata-magazine",
-      "tags"     : "la-testata-magazine",
-      "url"      : "/2024/10/02/arte_suoni_e_filosofia_il_festival_canta_con_kant_anche_nel_2024_porta_a_casa_successi/",
-      "date"     : "2024-10-02 00:00:00 +0200"
     } ,
   
     {
